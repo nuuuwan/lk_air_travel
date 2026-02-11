@@ -2,6 +2,7 @@
 
 import json
 import os
+from datetime import datetime, timedelta, timezone
 
 import cartopy.crs as ccrs
 import cartopy.feature as cfeature
@@ -103,8 +104,29 @@ class FlightMap:
             cfeature.BORDERS, linewidth=0.3, edgecolor="#999999", alpha=0.5
         )
 
-        # Set global extent
-        ax.set_global()
+        # Calculate bounding box for all airports (including CMB)
+        all_lons = [lon for _, _, lon, _ in airports] + [self.CMB_COORDS[1]]
+        all_lats = [lat for _, lat, _, _ in airports] + [self.CMB_COORDS[0]]
+
+        min_lon, max_lon = min(all_lons), max(all_lons)
+        min_lat, max_lat = min(all_lats), max(all_lats)
+
+        # Add padding (15% on each side)
+        lon_range = max_lon - min_lon
+        lat_range = max_lat - min_lat
+        padding_lon = lon_range * 0.15
+        padding_lat = lat_range * 0.15
+
+        # Set extent to bounding box with padding
+        ax.set_extent(
+            [
+                min_lon - padding_lon,
+                max_lon + padding_lon,
+                min_lat - padding_lat,
+                max_lat + padding_lat,
+            ],
+            crs=ccrs.PlateCarree(),
+        )
 
         # Draw routes
         for airport_name, lat, lon, count in airports:
@@ -140,7 +162,7 @@ class FlightMap:
         ax.scatter(
             self.CMB_COORDS[1],
             self.CMB_COORDS[0],
-            s=size,
+            s=150,
             color="#7b1fa2",
             marker="o",
             edgecolors="#4a148c",
@@ -163,10 +185,21 @@ class FlightMap:
             va="top",
         )
 
+        # Calculate date range
+        sl_tz = timezone(timedelta(hours=5, minutes=30))
+        if self.flights:
+            min_time = min(f["ut_arrival_time"] for f in self.flights)
+            max_time = max(f["ut_arrival_time"] for f in self.flights)
+            start_date = datetime.fromtimestamp(min_time, sl_tz)
+            end_date = datetime.fromtimestamp(max_time, sl_tz)
+            date_range = f"{start_date.strftime('%b %d')} - {end_date.strftime('%b %d, %Y')}"
+        else:
+            date_range = "N/A"
+
         ax.text(
             0.5,
             0.93,
-            f"{len(self.flights)} weekly flights from {len(airports)} airports in {num_countries} countries",
+            f"{len(self.flights)} flights from {len(airports)} airports in {num_countries} countries ({date_range})",
             transform=ax.transAxes,
             fontsize=14,
             color="#424242",

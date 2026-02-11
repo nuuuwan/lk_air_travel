@@ -18,7 +18,7 @@ class ReadMe:
         lines = [
             "## Airlines",
             "",
-            "| Airline | Weekly Flights |",
+            "| Airline | Flights |",
             "|---------|---------------|",
         ]
         for airline, count in airline_counts.most_common():
@@ -64,13 +64,25 @@ class ReadMe:
         }
         return flag_map.get(country, "🏳️")
 
+    def _get_country_table(self, country_counts: Counter) -> list[str]:
+        lines = [
+            "## Countries",
+            "",
+            "| Country | Flights |",
+            "|---------|---------------|",
+        ]
+        for country, count in country_counts.most_common():
+            flag = self._get_country_flag(country)
+            lines.append(f"| {flag} {country} | {count} |")
+        return lines
+
     def _get_origin_table(
         self, origin_counts: Counter, airport_to_country: dict
     ) -> list[str]:
         lines = [
             "## Inbound Locations",
             "",
-            "| Country | Origin | Weekly Flights |",
+            "| Country | Origin | Flights |",
             "|---------|--------|---------------|",
         ]
         for origin, count in origin_counts.most_common():
@@ -83,10 +95,14 @@ class ReadMe:
         origins = sorted(
             {f["airport_name"] for f in self.flights if f["airport_name"]}
         )
-        airlines = sorted(
-            {f["airline"] for f in self.flights if f["airline"]}
+        airlines = sorted({f["airline"] for f in self.flights if f["airline"]})
+        countries = sorted(
+            {f["country_name"] for f in self.flights if f["country_name"]}
         )
         airline_counts = Counter(f["airline"] for f in self.flights)
+        country_counts = Counter(
+            f["country_name"] for f in self.flights if f["country_name"]
+        )
         origin_counts = Counter(
             f["airport_name"] for f in self.flights if f["airport_name"]
         )
@@ -103,6 +119,16 @@ class ReadMe:
         now = datetime.now(sl_tz)
         timestamp = now.strftime("%Y--%m--%d_%H:%M:%S")
 
+        # Calculate time window for all flights
+        if self.flights:
+            min_time = min(f["ut_arrival_time"] for f in self.flights)
+            max_time = max(f["ut_arrival_time"] for f in self.flights)
+            start_date = datetime.fromtimestamp(min_time, sl_tz)
+            end_date = datetime.fromtimestamp(max_time, sl_tz)
+            date_range = f"{start_date.strftime('%Y-%m-%d')} to {end_date.strftime('%Y-%m-%d')}"
+        else:
+            date_range = "N/A"
+
         # Get latest flight for example
         latest_flight = max(self.flights, key=lambda f: f["ut_arrival_time"])
         example_dt = datetime.fromtimestamp(
@@ -111,7 +137,7 @@ class ReadMe:
         example_date = example_dt.strftime("%Y-%m-%d %H:%M")
 
         lines = [
-            "# lk_air_travel",
+            "# Air Travel in 🇱🇰 Sri Lanka (lk_air_travel)",
             "",
             f"![LastUpdated](https://img.shields.io/badge/last_updated-{timestamp}-green)",
             "",
@@ -147,12 +173,17 @@ class ReadMe:
             "",
             "## Summary Statistics",
             "",
-            f"- **{len(self.flights)}** weekly flights",
+            f"**Scheduled flights for the week: {date_range}**",
+            "",
+            f"- **{len(self.flights)}** total flights",
             f"- **{len(origins)}** origins",
+            f"- **{len(countries)}** countries",
             f"- **{len(airlines)}** airlines",
             "",
         ]
         lines += self._get_airline_table(airline_counts)
+        lines.append("")
+        lines += self._get_country_table(country_counts)
         lines.append("")
         lines += self._get_origin_table(origin_counts, airport_to_country)
         lines.append("")

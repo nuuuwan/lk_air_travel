@@ -1,6 +1,10 @@
-# lk_air_travel
+# Air Travel in 🇱🇰 Sri Lanka (lk_air_travel)
 
+<<<<<<< HEAD
 ![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--11_18:40:37-green)
+=======
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--11_18:42:31-green)
+>>>>>>> f8e9a25 (fix: Update README and flight map visualization for improved clarity and accuracy)
 
 ![Flight Map](images/flight_map.png)
 
@@ -31,13 +35,15 @@ Each flight record includes:
 
 ## Summary Statistics
 
-- **644** weekly flights
+**Scheduled flights for the week: 2026-02-09 to 2026-02-15**
+
+- **644** total flights
 - **53** origins
 - **29** airlines
 
 ## Airlines
 
-| Airline | Weekly Flights |
+| Airline | Flights |
 |---------|---------------|
 | Srilankan Airlines | 258 |
 | Indigo Airlines | 54 |
@@ -71,7 +77,7 @@ Each flight record includes:
 
 ## Inbound Locations
 
-| Country | Origin | Weekly Flights |
+| Country | Origin | Flights |
 |---------|--------|---------------|
 | 🇦🇪 United Arab Emirates | Dubai | 65 |
 | 🇮🇳 India | Chennai | 49 |

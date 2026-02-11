@@ -104,7 +104,9 @@ class ReadMe:
         origins = sorted(
             {f["airport_name"] for f in self.flights if f["airport_name"]}
         )
-        airlines = sorted({f["airline"] for f in self.flights if f["airline"]})
+        airlines = sorted(
+            {f["airline"] for f in self.flights if f["airline"]}
+        )
         countries = sorted(
             {f["country_name"] for f in self.flights if f["country_name"]}
         )
@@ -144,7 +146,9 @@ class ReadMe:
             max_time = max(f["ut_arrival_time"] for f in self.flights)
             start_date = datetime.fromtimestamp(min_time, sl_tz)
             end_date = datetime.fromtimestamp(max_time, sl_tz)
-            date_range = f"{start_date.strftime('%Y-%m-%d')} to {end_date.strftime('%Y-%m-%d')}"
+            date_range = f"{
+                start_date.strftime('%Y-%m-%d')} to {
+                end_date.strftime('%Y-%m-%d')}"
         else:
             date_range = "N/A"
 

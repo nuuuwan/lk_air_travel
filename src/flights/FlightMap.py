@@ -131,8 +131,9 @@ class FlightMap:
         # Draw routes
         for airport_name, lat, lon, count in airports:
             # Draw line from airport to Colombo (great circle)
-            alpha = min(0.2 + (count / 100) * 0.6, 0.7)
-            linewidth = min(0.8 + (count / 40), 3.0)
+            # Scale line thickness and opacity based on flight volume
+            alpha = min(0.25 + (count / 70) * 0.65, 0.9)
+            linewidth = min(0.5 + (count / 15), 5.5)
 
             ax.plot(
                 [lon, self.CMB_COORDS[1]],
@@ -144,8 +145,8 @@ class FlightMap:
                 zorder=2,
             )
 
-            # Draw origin airport marker
-            size = min(30 + (count / 8), 150)
+            # Draw origin airport marker - scale size based on flight volume
+            size = min(30 + (count * 6), 500)
             ax.scatter(
                 lon,
                 lat,
@@ -157,20 +158,6 @@ class FlightMap:
                 transform=ccrs.PlateCarree(),
                 zorder=3,
             )
-
-        # Draw Colombo marker (circle with distinct color)
-        ax.scatter(
-            self.CMB_COORDS[1],
-            self.CMB_COORDS[0],
-            s=150,
-            color="#7b1fa2",
-            marker="o",
-            edgecolors="#4a148c",
-            linewidths=2.5,
-            transform=ccrs.PlateCarree(),
-            zorder=4,
-            label="Colombo (CMB)",
-        )
 
         # Add title and labels
         ax.text(
@@ -192,7 +179,9 @@ class FlightMap:
             max_time = max(f["ut_arrival_time"] for f in self.flights)
             start_date = datetime.fromtimestamp(min_time, sl_tz)
             end_date = datetime.fromtimestamp(max_time, sl_tz)
-            date_range = f"{start_date.strftime('%b %d')} - {end_date.strftime('%b %d, %Y')}"
+            date_range = f"{
+                start_date.strftime('%b %d')} - {
+                end_date.strftime('%b %d, %Y')}"
         else:
             date_range = "N/A"
 
@@ -205,15 +194,6 @@ class FlightMap:
             color="#424242",
             ha="center",
             va="top",
-        )
-
-        # Add legend
-        ax.legend(
-            loc="lower right",
-            fontsize=12,
-            facecolor="white",
-            edgecolor="#666666",
-            framealpha=0.9,
         )
 
         # Add gridlines

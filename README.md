@@ -1,6 +1,6 @@
 # Air Travel in 🇱🇰 Sri Lanka (lk_air_travel)
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--11_18:45:55-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--11_18:50:37-green)
 
 ![Flight Map](images/flight_map.png)
 
@@ -34,8 +34,8 @@ Each flight record includes:
 **Scheduled flights for the week: 2026-02-09 to 2026-02-15**
 
 - **644** total flights
-- **53** origins
-- **31** countries
+- **47** origins
+- **27** countries
 - **29** airlines
 
 ## Airlines
@@ -76,23 +76,20 @@ Each flight record includes:
 
 | Country | Flights |
 |---------|---------------|
-| 🇮🇳 India | 166 |
-| 🇦🇪 United Arab Emirates | 117 |
+| 🇮🇳 India | 167 |
+| 🇦🇪 United Arab Emirates | 125 |
+| 🇲🇻 Maldives | 57 |
 | 🇶🇦 Qatar | 42 |
 | 🇲🇾 Malaysia | 40 |
-| 🇲🇻 Maldives | 34 |
 | 🇹🇭 Thailand | 33 |
 | 🇨🇳 China | 28 |
 | 🇸🇬 Singapore | 24 |
 | 🇰🇼 Kuwait | 18 |
 | 🇧🇩 Bangladesh | 14 |
 | 🇸🇦 Saudi Arabia | 14 |
-| 🇦🇪 United Arab Emirates/Maldives | 14 |
 | 🇦🇺 Australia | 11 |
 | 🇹🇷 Turkey | 10 |
 | 🇬🇧 United Kingdom | 9 |
-| 🇧🇭 Bahrain/Maldives | 9 |
-| 🇵🇱 Poland/UAE | 8 |
 | 🇵🇰 Pakistan | 8 |
 | 🇮🇩 Indonesia | 7 |
 | 🇭🇰 Hong Kong | 7 |
@@ -106,18 +103,17 @@ Each flight record includes:
 | 🇰🇿 Kazakhstan | 2 |
 | 🇰🇷 South Korea | 2 |
 | 🇨🇭 Switzerland | 2 |
-| 🇹🇷 Turkey/India | 1 |
 
 ## Inbound Locations
 
 | Country | Origin | Flights |
 |---------|--------|---------------|
 | 🇦🇪 United Arab Emirates | Dubai | 65 |
-| 🇮🇳 India | Chennai | 49 |
+| 🇲🇻 Maldives | Male | 55 |
+| 🇮🇳 India | Chennai | 50 |
 | 🇶🇦 Qatar | Doha | 42 |
 | 🇲🇾 Malaysia | Kuala Lumpur | 40 |
 | 🇦🇪 United Arab Emirates | Abu Dhabi | 32 |
-| 🇲🇻 Maldives | Male | 32 |
 | 🇮🇳 India | Mumbai | 28 |
 | 🇮🇳 India | Delhi | 28 |
 | 🇸🇬 Singapore | Singapore | 24 |
@@ -126,19 +122,18 @@ Each flight record includes:
 | 🇦🇪 United Arab Emirates | Sharjah | 20 |
 | 🇰🇼 Kuwait | Kuwait | 18 |
 | 🇧🇩 Bangladesh | Dhaka | 14 |
-| 🇦🇪 United Arab Emirates/Maldives | Dubai/Male | 14 |
 | 🇮🇳 India | Hyderabad Intl | 12 |
 | 🇹🇷 Turkey | Istanbul Ataturk | 10 |
 | 🇹🇭 Thailand | Bangkok Don Mueang | 10 |
-| 🇬🇧 United Kingdom | London/Heathrow | 9 |
-| 🇧🇭 Bahrain/Maldives | Bahrain/Male | 9 |
+| 🇬🇧 United Kingdom | London-Heathrow | 9 |
+| 🇦🇪 United Arab Emirates | Ras Al Khaimah Intl | 8 |
 | 🇮🇳 India | Tiruchirappalli | 8 |
 | 🇸🇦 Saudi Arabia | Dammam | 7 |
 | 🇸🇦 Saudi Arabia | Riyadh | 7 |
 | 🇮🇩 Indonesia | Jakarta | 7 |
 | 🇮🇳 India | Cochin | 7 |
 | 🇨🇳 China | Shanghai | 7 |
-| 🇨🇳 China | Chengdu/Tianfu | 7 |
+| 🇨🇳 China | Chengdu-Tianfu | 7 |
 | 🇦🇺 Australia | Melbourne | 7 |
 | 🇭🇰 Hong Kong | Hong Kong | 7 |
 | 🇨🇳 China | Kunming | 7 |
@@ -156,15 +151,10 @@ Each flight record includes:
 | 🇨🇳 China | Chongqing | 3 |
 | 🇷🇺 Russia | Sheremetyevo | 3 |
 | 🇸🇨 Seychelles | Seychelles | 2 |
-| 🇵🇱 Poland/UAE | Katowice Intl/Ras Al Khaimah Intl | 2 |
-| 🇵🇱 Poland/UAE | Poznan/Ras Al Khaimah Intl | 2 |
-| 🇵🇱 Poland/UAE | Gdansk Im Lecha Walesy/Ras Al Khaimah Intl | 2 |
-| 🇵🇱 Poland/UAE | Warsaw Chopin Intl/Ras Al Khaimah Intl | 2 |
 | 🇰🇿 Kazakhstan | Almaty International Airport | 2 |
 | 🇰🇷 South Korea | Incheon | 2 |
 | 🇨🇭 Switzerland | Zurich Intl | 2 |
 | 🇲🇻 Maldives | Gan Intl | 2 |
-| 🇹🇷 Turkey/India | Istanbul Ataturk/Chennai | 1 |
 
 ---
 

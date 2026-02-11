@@ -1,6 +1,33 @@
 # lk_air_travel
 
-Inbound flight schedule to Colombo (CMB) - Bandaranaike International Airport.
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--11_18:17:17-green)
+
+## Introduction
+
+This repository provides automated tracking of inbound flight schedules to Colombo's Bandaranaike International Airport (CMB). Flight data is fetched from the official airport website and updated daily via GitHub Actions.
+
+**Data Source:** [Airport.lk Flight Information](https://www.airport.lk/)
+
+Each flight record includes:
+- Flight number and airline
+- Aircraft type
+- Arrival time (Sri Lanka timezone)
+- Origin airport with country and coordinates
+
+### Example Flight Data
+
+```json
+{
+  "flight_no": "MU713",
+  "airline": "China Eastern",
+  "aircraft_type": "A332",
+  "arrival_time": "2026-02-15 23:40",
+  "airport_name": "Kunming",
+  "country_name": "China"
+}
+```
+
+## Summary Statistics
 
 - **644** weekly flights
 - **53** origins
@@ -42,58 +69,64 @@ Inbound flight schedule to Colombo (CMB) - Bandaranaike International Airport.
 
 ## Inbound Locations
 
-| Origin | Weekly Flights |
-|--------|---------------|
-| Dubai | 65 |
-| Chennai | 49 |
-| Doha | 42 |
-| Kuala Lumpur | 40 |
-| Abu Dhabi | 32 |
-| Male | 32 |
-| Mumbai | 28 |
-| Delhi | 28 |
-| Singapore | 24 |
-| Bangalore | 24 |
-| Bangkok Suvarnabhumi | 23 |
-| Sharjah | 20 |
-| Kuwait | 18 |
-| Dhaka | 14 |
-| Dubai/Male | 14 |
-| Hyderabad Intl | 12 |
-| Istanbul Ataturk | 10 |
-| Bangkok Don Mueang | 10 |
-| London/Heathrow | 9 |
-| Bahrain/Male | 9 |
-| Tiruchirappalli | 8 |
-| Dammam | 7 |
-| Riyadh | 7 |
-| Jakarta | 7 |
-| Cochin | 7 |
-| Shanghai | 7 |
-| Chengdu/Tianfu | 7 |
-| Melbourne | 7 |
-| Hong Kong | 7 |
-| Kunming | 7 |
-| Madurai | 6 |
-| Muscat | 5 |
-| Karachi | 4 |
-| Thiruvananthapuram | 4 |
-| Kathmandu | 4 |
-| Lahore | 4 |
-| Guangzhou Baiyun | 4 |
-| Narita | 4 |
-| Sydney | 4 |
-| Paris Charles de Gaulle | 3 |
-| Frankfurt Main | 3 |
-| Chongqing | 3 |
-| Sheremetyevo | 3 |
-| Seychelles | 2 |
-| Katowice Intl/Ras Al Khaimah Intl | 2 |
-| Poznan/Ras Al Khaimah Intl | 2 |
-| Gdansk Im Lecha Walesy/Ras Al Khaimah Intl | 2 |
-| Warsaw Chopin Intl/Ras Al Khaimah Intl | 2 |
-| Almaty International Airport | 2 |
-| Incheon | 2 |
-| Zurich Intl | 2 |
-| Gan Intl | 2 |
-| Istanbul Ataturk/Chennai | 1 |
+| Country | Origin | Weekly Flights |
+|---------|--------|---------------|
+| 🇦🇪 United Arab Emirates | Dubai | 65 |
+| 🇮🇳 India | Chennai | 49 |
+| 🇶🇦 Qatar | Doha | 42 |
+| 🇲🇾 Malaysia | Kuala Lumpur | 40 |
+| 🇦🇪 United Arab Emirates | Abu Dhabi | 32 |
+| 🇲🇻 Maldives | Male | 32 |
+| 🇮🇳 India | Mumbai | 28 |
+| 🇮🇳 India | Delhi | 28 |
+| 🇸🇬 Singapore | Singapore | 24 |
+| 🇮🇳 India | Bangalore | 24 |
+| 🇹🇭 Thailand | Bangkok Suvarnabhumi | 23 |
+| 🇦🇪 United Arab Emirates | Sharjah | 20 |
+| 🇰🇼 Kuwait | Kuwait | 18 |
+| 🇧🇩 Bangladesh | Dhaka | 14 |
+| 🇦🇪 United Arab Emirates/Maldives | Dubai/Male | 14 |
+| 🇮🇳 India | Hyderabad Intl | 12 |
+| 🇹🇷 Turkey | Istanbul Ataturk | 10 |
+| 🇹🇭 Thailand | Bangkok Don Mueang | 10 |
+| 🇬🇧 United Kingdom | London/Heathrow | 9 |
+| 🇧🇭 Bahrain/Maldives | Bahrain/Male | 9 |
+| 🇮🇳 India | Tiruchirappalli | 8 |
+| 🇸🇦 Saudi Arabia | Dammam | 7 |
+| 🇸🇦 Saudi Arabia | Riyadh | 7 |
+| 🇮🇩 Indonesia | Jakarta | 7 |
+| 🇮🇳 India | Cochin | 7 |
+| 🇨🇳 China | Shanghai | 7 |
+| 🇨🇳 China | Chengdu/Tianfu | 7 |
+| 🇦🇺 Australia | Melbourne | 7 |
+| 🇭🇰 Hong Kong | Hong Kong | 7 |
+| 🇨🇳 China | Kunming | 7 |
+| 🇮🇳 India | Madurai | 6 |
+| 🇴🇲 Oman | Muscat | 5 |
+| 🇵🇰 Pakistan | Karachi | 4 |
+| 🇮🇳 India | Thiruvananthapuram | 4 |
+| 🇳🇵 Nepal | Kathmandu | 4 |
+| 🇵🇰 Pakistan | Lahore | 4 |
+| 🇨🇳 China | Guangzhou Baiyun | 4 |
+| 🇯🇵 Japan | Narita | 4 |
+| 🇦🇺 Australia | Sydney | 4 |
+| 🇫🇷 France | Paris Charles de Gaulle | 3 |
+| 🇩🇪 Germany | Frankfurt Main | 3 |
+| 🇨🇳 China | Chongqing | 3 |
+| 🇷🇺 Russia | Sheremetyevo | 3 |
+| 🇸🇨 Seychelles | Seychelles | 2 |
+| 🇵🇱 Poland/UAE | Katowice Intl/Ras Al Khaimah Intl | 2 |
+| 🇵🇱 Poland/UAE | Poznan/Ras Al Khaimah Intl | 2 |
+| 🇵🇱 Poland/UAE | Gdansk Im Lecha Walesy/Ras Al Khaimah Intl | 2 |
+| 🇵🇱 Poland/UAE | Warsaw Chopin Intl/Ras Al Khaimah Intl | 2 |
+| 🇰🇿 Kazakhstan | Almaty International Airport | 2 |
+| 🇰🇷 South Korea | Incheon | 2 |
+| 🇨🇭 Switzerland | Zurich Intl | 2 |
+| 🇲🇻 Maldives | Gan Intl | 2 |
+| 🇹🇷 Turkey/India | Istanbul Ataturk/Chennai | 1 |
+
+---
+
+![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
+![MadeWith](https://img.shields.io/badge/made_with-python-blue)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

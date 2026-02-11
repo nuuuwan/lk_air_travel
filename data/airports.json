@@ -1,0 +1,267 @@
+{
+  "Abu Dhabi": {
+    "name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "latlng": [24.433, 54.6511]
+  },
+  "Almaty International Airport": {
+    "name": "Almaty International Airport",
+    "country_name": "Kazakhstan",
+    "latlng": [43.3521, 77.0405]
+  },
+  "Bahrain/Male": {
+    "name": "Bahrain/Male",
+    "country_name": "Bahrain/Maldives",
+    "latlng": [26.2708, 50.6336]
+  },
+  "Bangalore": {
+    "name": "Bangalore",
+    "country_name": "India",
+    "latlng": [13.1986, 77.7066]
+  },
+  "Bangkok Don Mueang": {
+    "name": "Bangkok Don Mueang",
+    "country_name": "Thailand",
+    "latlng": [13.9126, 100.6074]
+  },
+  "Bangkok Suvarnabhumi": {
+    "name": "Bangkok Suvarnabhumi",
+    "country_name": "Thailand",
+    "latlng": [13.69, 100.7501]
+  },
+  "Chengdu/Tianfu": {
+    "name": "Chengdu/Tianfu",
+    "country_name": "China",
+    "latlng": [30.3089, 104.4419]
+  },
+  "Chennai": {
+    "name": "Chennai",
+    "country_name": "India",
+    "latlng": [12.9902, 80.1693]
+  },
+  "Chongqing": {
+    "name": "Chongqing",
+    "country_name": "China",
+    "latlng": [29.7193, 106.6419]
+  },
+  "Cochin": {
+    "name": "Cochin",
+    "country_name": "India",
+    "latlng": [10.152, 76.3874]
+  },
+  "Dammam": {
+    "name": "Dammam",
+    "country_name": "Saudi Arabia",
+    "latlng": [26.4715, 49.7979]
+  },
+  "Delhi": {
+    "name": "Delhi",
+    "country_name": "India",
+    "latlng": [28.5562, 77.1]
+  },
+  "Dhaka": {
+    "name": "Dhaka",
+    "country_name": "Bangladesh",
+    "latlng": [23.8434, 90.3978]
+  },
+  "Doha": {
+    "name": "Doha",
+    "country_name": "Qatar",
+    "latlng": [25.2731, 51.608]
+  },
+  "Dubai": {
+    "name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "latlng": [25.2532, 55.3657]
+  },
+  "Dubai/Male": {
+    "name": "Dubai/Male",
+    "country_name": "United Arab Emirates/Maldives",
+    "latlng": [25.2532, 55.3657]
+  },
+  "Frankfurt Main": {
+    "name": "Frankfurt Main",
+    "country_name": "Germany",
+    "latlng": [50.0379, 8.5622]
+  },
+  "Gan Intl": {
+    "name": "Gan Intl",
+    "country_name": "Maldives",
+    "latlng": [-0.6942, 73.1556]
+  },
+  "Gdansk Im Lecha Walesy/Ras Al Khaimah Intl": {
+    "name": "Gdansk Im Lecha Walesy/Ras Al Khaimah Intl",
+    "country_name": "Poland/UAE",
+    "latlng": [54.3776, 18.4662]
+  },
+  "Guangzhou Baiyun": {
+    "name": "Guangzhou Baiyun",
+    "country_name": "China",
+    "latlng": [23.3924, 113.2988]
+  },
+  "Hong Kong": {
+    "name": "Hong Kong",
+    "country_name": "Hong Kong",
+    "latlng": [22.308, 113.9185]
+  },
+  "Hyderabad Intl": {
+    "name": "Hyderabad Intl",
+    "country_name": "India",
+    "latlng": [17.2403, 78.4294]
+  },
+  "Incheon": {
+    "name": "Incheon",
+    "country_name": "South Korea",
+    "latlng": [37.4602, 126.4407]
+  },
+  "Istanbul Ataturk": {
+    "name": "Istanbul Ataturk",
+    "country_name": "Turkey",
+    "latlng": [40.9769, 28.8146]
+  },
+  "Istanbul Ataturk/Chennai": {
+    "name": "Istanbul Ataturk/Chennai",
+    "country_name": "Turkey/India",
+    "latlng": [40.9769, 28.8146]
+  },
+  "Jakarta": {
+    "name": "Jakarta",
+    "country_name": "Indonesia",
+    "latlng": [-6.1256, 106.6559]
+  },
+  "Karachi": {
+    "name": "Karachi",
+    "country_name": "Pakistan",
+    "latlng": [24.9065, 67.1608]
+  },
+  "Kathmandu": {
+    "name": "Kathmandu",
+    "country_name": "Nepal",
+    "latlng": [27.6966, 85.3591]
+  },
+  "Katowice Intl/Ras Al Khaimah Intl": {
+    "name": "Katowice Intl/Ras Al Khaimah Intl",
+    "country_name": "Poland/UAE",
+    "latlng": [50.4743, 19.08]
+  },
+  "Kuala Lumpur": {
+    "name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "latlng": [2.7456, 101.7098]
+  },
+  "Kunming": {
+    "name": "Kunming",
+    "country_name": "China",
+    "latlng": [25.1019, 102.9292]
+  },
+  "Kuwait": {
+    "name": "Kuwait",
+    "country_name": "Kuwait",
+    "latlng": [29.2266, 47.9689]
+  },
+  "Lahore": {
+    "name": "Lahore",
+    "country_name": "Pakistan",
+    "latlng": [31.5216, 74.4036]
+  },
+  "London/Heathrow": {
+    "name": "London/Heathrow",
+    "country_name": "United Kingdom",
+    "latlng": [51.47, -0.4543]
+  },
+  "Madurai": {
+    "name": "Madurai",
+    "country_name": "India",
+    "latlng": [9.8345, 78.0934]
+  },
+  "Male": {
+    "name": "Male",
+    "country_name": "Maldives",
+    "latlng": [4.1917, 73.529]
+  },
+  "Melbourne": {
+    "name": "Melbourne",
+    "country_name": "Australia",
+    "latlng": [-37.669, 144.841]
+  },
+  "Mumbai": {
+    "name": "Mumbai",
+    "country_name": "India",
+    "latlng": [19.0896, 72.8656]
+  },
+  "Muscat": {
+    "name": "Muscat",
+    "country_name": "Oman",
+    "latlng": [23.5933, 58.2844]
+  },
+  "Narita": {
+    "name": "Narita",
+    "country_name": "Japan",
+    "latlng": [35.772, 140.3929]
+  },
+  "Paris Charles de Gaulle": {
+    "name": "Paris Charles de Gaulle",
+    "country_name": "France",
+    "latlng": [49.0097, 2.5479]
+  },
+  "Poznan/Ras Al Khaimah Intl": {
+    "name": "Poznan/Ras Al Khaimah Intl",
+    "country_name": "Poland/UAE",
+    "latlng": [52.4215, 16.8263]
+  },
+  "Riyadh": {
+    "name": "Riyadh",
+    "country_name": "Saudi Arabia",
+    "latlng": [24.9577, 46.6989]
+  },
+  "Seychelles": {
+    "name": "Seychelles",
+    "country_name": "Seychelles",
+    "latlng": [-4.674, 55.5218]
+  },
+  "Shanghai": {
+    "name": "Shanghai",
+    "country_name": "China",
+    "latlng": [31.1443, 121.8083]
+  },
+  "Sharjah": {
+    "name": "Sharjah",
+    "country_name": "United Arab Emirates",
+    "latlng": [25.3286, 55.5172]
+  },
+  "Sheremetyevo": {
+    "name": "Sheremetyevo",
+    "country_name": "Russia",
+    "latlng": [55.9726, 37.4146]
+  },
+  "Singapore": {
+    "name": "Singapore",
+    "country_name": "Singapore",
+    "latlng": [1.3644, 103.9915]
+  },
+  "Sydney": {
+    "name": "Sydney",
+    "country_name": "Australia",
+    "latlng": [-33.9461, 151.1772]
+  },
+  "Thiruvananthapuram": {
+    "name": "Thiruvananthapuram",
+    "country_name": "India",
+    "latlng": [8.4821, 76.92]
+  },
+  "Tiruchirappalli": {
+    "name": "Tiruchirappalli",
+    "country_name": "India",
+    "latlng": [10.7654, 78.7097]
+  },
+  "Warsaw Chopin Intl/Ras Al Khaimah Intl": {
+    "name": "Warsaw Chopin Intl/Ras Al Khaimah Intl",
+    "country_name": "Poland/UAE",
+    "latlng": [52.1657, 20.9671]
+  },
+  "Zurich Intl": {
+    "name": "Zurich Intl",
+    "country_name": "Switzerland",
+    "latlng": [47.4647, 8.5492]
+  }
+}

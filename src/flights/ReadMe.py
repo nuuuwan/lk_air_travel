@@ -18,11 +18,13 @@ class ReadMe:
         lines = [
             "## Airlines",
             "",
-            "| Airline | Flights |",
-            "|---------|---------------|",
+            "| # | Airline | Flights/Week |",
+            "|---:|---------|-------------:|",
         ]
-        for airline, count in airline_counts.most_common():
-            lines.append(f"| {airline} | {count} |")
+        for idx, (airline, count) in enumerate(
+            airline_counts.most_common(), 1
+        ):
+            lines.append(f"| {idx} | {airline} | {count} |")
         return lines
 
     @staticmethod
@@ -68,12 +70,14 @@ class ReadMe:
         lines = [
             "## Countries",
             "",
-            "| Country | Flights |",
-            "|---------|---------------|",
+            "| # | Country | Flights/Week |",
+            "|---:|---------|-------------:|",
         ]
-        for country, count in country_counts.most_common():
+        for idx, (country, count) in enumerate(
+            country_counts.most_common(), 1
+        ):
             flag = self._get_country_flag(country)
-            lines.append(f"| {flag} {country} | {count} |")
+            lines.append(f"| {idx} | {flag} {country} | {count} |")
         return lines
 
     def _get_origin_table(
@@ -82,13 +86,13 @@ class ReadMe:
         lines = [
             "## Inbound Locations",
             "",
-            "| Country | Origin | Flights |",
-            "|---------|--------|---------------|",
+            "| # | Country | Origin | Flights/Week |",
+            "|---:|---------|--------|-------------:|",
         ]
-        for origin, count in origin_counts.most_common():
+        for idx, (origin, count) in enumerate(origin_counts.most_common(), 1):
             country = airport_to_country.get(origin, "Unknown")
             flag = self._get_country_flag(country)
-            lines.append(f"| {flag} {country} | {origin} | {count} |")
+            lines.append(f"| {idx} | {flag} {country} | {origin} | {count} |")
         return lines
 
     def _summary_md(self) -> str:

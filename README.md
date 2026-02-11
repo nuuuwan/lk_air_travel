@@ -1,6 +1,6 @@
 # Air Travel in 🇱🇰 Sri Lanka (lk_air_travel)
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--11_18:53:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--11_18:55:28-green)
 
 ![Flight Map](images/flight_map.png)
 
@@ -42,121 +42,121 @@ Each flight record includes:
 
 ## Airlines
 
-| Airline | Flights |
-|---------|---------------|
-| Srilankan Airlines | 258 |
-| Indigo Airlines | 54 |
-| Qatar Airways | 35 |
-| Fly Dubai | 33 |
-| Emirates | 28 |
-| Etihad Airways | 27 |
-| Fits Air | 26 |
-| Air India | 21 |
-| Air Arabia | 20 |
-| Air Asia Berhad | 14 |
-| China Eastern | 14 |
-| Turkish Airlines | 11 |
-| THAI AIR ASIA | 10 |
-| Singapore Airlines | 10 |
-| Gulf Air | 9 |
-| Malaysia Airlines | 9 |
-| Enter Air | 8 |
-| Thai Airways | 7 |
-| Jazeera Airways | 7 |
-| Air China | 7 |
-| Cathay Pacific | 7 |
-| Chongqing Airlines | 6 |
-| Salam Air | 5 |
-| Air Arabia Abu Dhabi | 5 |
-| Kuwait Airways | 4 |
-| Aeroflot | 3 |
-| Air Seychelles | 2 |
-| Air Astana | 2 |
-| Edelweiss Air | 2 |
+| # | Airline | Flights/Week |
+|---:|---------|-------------:|
+| 1 | Srilankan Airlines | 258 |
+| 2 | Indigo Airlines | 54 |
+| 3 | Qatar Airways | 35 |
+| 4 | Fly Dubai | 33 |
+| 5 | Emirates | 28 |
+| 6 | Etihad Airways | 27 |
+| 7 | Fits Air | 26 |
+| 8 | Air India | 21 |
+| 9 | Air Arabia | 20 |
+| 10 | Air Asia Berhad | 14 |
+| 11 | China Eastern | 14 |
+| 12 | Turkish Airlines | 11 |
+| 13 | THAI AIR ASIA | 10 |
+| 14 | Singapore Airlines | 10 |
+| 15 | Gulf Air | 9 |
+| 16 | Malaysia Airlines | 9 |
+| 17 | Enter Air | 8 |
+| 18 | Thai Airways | 7 |
+| 19 | Jazeera Airways | 7 |
+| 20 | Air China | 7 |
+| 21 | Cathay Pacific | 7 |
+| 22 | Chongqing Airlines | 6 |
+| 23 | Salam Air | 5 |
+| 24 | Air Arabia Abu Dhabi | 5 |
+| 25 | Kuwait Airways | 4 |
+| 26 | Aeroflot | 3 |
+| 27 | Air Seychelles | 2 |
+| 28 | Air Astana | 2 |
+| 29 | Edelweiss Air | 2 |
 
 ## Countries
 
-| Country | Flights |
-|---------|---------------|
-| 🇮🇳 India | 167 |
-| 🇦🇪 United Arab Emirates | 125 |
-| 🇲🇻 Maldives | 57 |
-| 🇶🇦 Qatar | 42 |
-| 🇲🇾 Malaysia | 40 |
-| 🇹🇭 Thailand | 33 |
-| 🇨🇳 China | 28 |
-| 🇸🇬 Singapore | 24 |
-| 🇰🇼 Kuwait | 18 |
-| 🇧🇩 Bangladesh | 14 |
-| 🇸🇦 Saudi Arabia | 14 |
-| 🇦🇺 Australia | 11 |
-| 🇹🇷 Turkey | 10 |
-| 🇬🇧 United Kingdom | 9 |
-| 🇵🇰 Pakistan | 8 |
-| 🇮🇩 Indonesia | 7 |
-| 🇭🇰 Hong Kong | 7 |
-| 🇴🇲 Oman | 5 |
-| 🇳🇵 Nepal | 4 |
-| 🇯🇵 Japan | 4 |
-| 🇫🇷 France | 3 |
-| 🇩🇪 Germany | 3 |
-| 🇷🇺 Russia | 3 |
-| 🇸🇨 Seychelles | 2 |
-| 🇰🇿 Kazakhstan | 2 |
-| 🇰🇷 South Korea | 2 |
-| 🇨🇭 Switzerland | 2 |
+| # | Country | Flights/Week |
+|---:|---------|-------------:|
+| 1 | 🇮🇳 India | 167 |
+| 2 | 🇦🇪 United Arab Emirates | 125 |
+| 3 | 🇲🇻 Maldives | 57 |
+| 4 | 🇶🇦 Qatar | 42 |
+| 5 | 🇲🇾 Malaysia | 40 |
+| 6 | 🇹🇭 Thailand | 33 |
+| 7 | 🇨🇳 China | 28 |
+| 8 | 🇸🇬 Singapore | 24 |
+| 9 | 🇰🇼 Kuwait | 18 |
+| 10 | 🇧🇩 Bangladesh | 14 |
+| 11 | 🇸🇦 Saudi Arabia | 14 |
+| 12 | 🇦🇺 Australia | 11 |
+| 13 | 🇹🇷 Turkey | 10 |
+| 14 | 🇬🇧 United Kingdom | 9 |
+| 15 | 🇵🇰 Pakistan | 8 |
+| 16 | 🇮🇩 Indonesia | 7 |
+| 17 | 🇭🇰 Hong Kong | 7 |
+| 18 | 🇴🇲 Oman | 5 |
+| 19 | 🇳🇵 Nepal | 4 |
+| 20 | 🇯🇵 Japan | 4 |
+| 21 | 🇫🇷 France | 3 |
+| 22 | 🇩🇪 Germany | 3 |
+| 23 | 🇷🇺 Russia | 3 |
+| 24 | 🇸🇨 Seychelles | 2 |
+| 25 | 🇰🇿 Kazakhstan | 2 |
+| 26 | 🇰🇷 South Korea | 2 |
+| 27 | 🇨🇭 Switzerland | 2 |
 
 ## Inbound Locations
 
-| Country | Origin | Flights |
-|---------|--------|---------------|
-| 🇦🇪 United Arab Emirates | Dubai | 65 |
-| 🇲🇻 Maldives | Male | 55 |
-| 🇮🇳 India | Chennai | 50 |
-| 🇶🇦 Qatar | Doha | 42 |
-| 🇲🇾 Malaysia | Kuala Lumpur | 40 |
-| 🇦🇪 United Arab Emirates | Abu Dhabi | 32 |
-| 🇮🇳 India | Mumbai | 28 |
-| 🇮🇳 India | Delhi | 28 |
-| 🇸🇬 Singapore | Singapore | 24 |
-| 🇮🇳 India | Bangalore | 24 |
-| 🇹🇭 Thailand | Bangkok Suvarnabhumi | 23 |
-| 🇦🇪 United Arab Emirates | Sharjah | 20 |
-| 🇰🇼 Kuwait | Kuwait | 18 |
-| 🇧🇩 Bangladesh | Dhaka | 14 |
-| 🇮🇳 India | Hyderabad Intl | 12 |
-| 🇹🇷 Turkey | Istanbul Ataturk | 10 |
-| 🇹🇭 Thailand | Bangkok Don Mueang | 10 |
-| 🇬🇧 United Kingdom | London-Heathrow | 9 |
-| 🇦🇪 United Arab Emirates | Ras Al Khaimah Intl | 8 |
-| 🇮🇳 India | Tiruchirappalli | 8 |
-| 🇸🇦 Saudi Arabia | Dammam | 7 |
-| 🇸🇦 Saudi Arabia | Riyadh | 7 |
-| 🇮🇩 Indonesia | Jakarta | 7 |
-| 🇮🇳 India | Cochin | 7 |
-| 🇨🇳 China | Shanghai | 7 |
-| 🇨🇳 China | Chengdu-Tianfu | 7 |
-| 🇦🇺 Australia | Melbourne | 7 |
-| 🇭🇰 Hong Kong | Hong Kong | 7 |
-| 🇨🇳 China | Kunming | 7 |
-| 🇮🇳 India | Madurai | 6 |
-| 🇴🇲 Oman | Muscat | 5 |
-| 🇵🇰 Pakistan | Karachi | 4 |
-| 🇮🇳 India | Thiruvananthapuram | 4 |
-| 🇳🇵 Nepal | Kathmandu | 4 |
-| 🇵🇰 Pakistan | Lahore | 4 |
-| 🇨🇳 China | Guangzhou Baiyun | 4 |
-| 🇯🇵 Japan | Narita | 4 |
-| 🇦🇺 Australia | Sydney | 4 |
-| 🇫🇷 France | Paris Charles de Gaulle | 3 |
-| 🇩🇪 Germany | Frankfurt Main | 3 |
-| 🇨🇳 China | Chongqing | 3 |
-| 🇷🇺 Russia | Sheremetyevo | 3 |
-| 🇸🇨 Seychelles | Seychelles | 2 |
-| 🇰🇿 Kazakhstan | Almaty International Airport | 2 |
-| 🇰🇷 South Korea | Incheon | 2 |
-| 🇨🇭 Switzerland | Zurich Intl | 2 |
-| 🇲🇻 Maldives | Gan Intl | 2 |
+| # | Country | Origin | Flights/Week |
+|---:|---------|--------|-------------:|
+| 1 | 🇦🇪 United Arab Emirates | Dubai | 65 |
+| 2 | 🇲🇻 Maldives | Male | 55 |
+| 3 | 🇮🇳 India | Chennai | 50 |
+| 4 | 🇶🇦 Qatar | Doha | 42 |
+| 5 | 🇲🇾 Malaysia | Kuala Lumpur | 40 |
+| 6 | 🇦🇪 United Arab Emirates | Abu Dhabi | 32 |
+| 7 | 🇮🇳 India | Mumbai | 28 |
+| 8 | 🇮🇳 India | Delhi | 28 |
+| 9 | 🇸🇬 Singapore | Singapore | 24 |
+| 10 | 🇮🇳 India | Bangalore | 24 |
+| 11 | 🇹🇭 Thailand | Bangkok Suvarnabhumi | 23 |
+| 12 | 🇦🇪 United Arab Emirates | Sharjah | 20 |
+| 13 | 🇰🇼 Kuwait | Kuwait | 18 |
+| 14 | 🇧🇩 Bangladesh | Dhaka | 14 |
+| 15 | 🇮🇳 India | Hyderabad Intl | 12 |
+| 16 | 🇹🇷 Turkey | Istanbul Ataturk | 10 |
+| 17 | 🇹🇭 Thailand | Bangkok Don Mueang | 10 |
+| 18 | 🇬🇧 United Kingdom | London-Heathrow | 9 |
+| 19 | 🇦🇪 United Arab Emirates | Ras Al Khaimah Intl | 8 |
+| 20 | 🇮🇳 India | Tiruchirappalli | 8 |
+| 21 | 🇸🇦 Saudi Arabia | Dammam | 7 |
+| 22 | 🇸🇦 Saudi Arabia | Riyadh | 7 |
+| 23 | 🇮🇩 Indonesia | Jakarta | 7 |
+| 24 | 🇮🇳 India | Cochin | 7 |
+| 25 | 🇨🇳 China | Shanghai | 7 |
+| 26 | 🇨🇳 China | Chengdu-Tianfu | 7 |
+| 27 | 🇦🇺 Australia | Melbourne | 7 |
+| 28 | 🇭🇰 Hong Kong | Hong Kong | 7 |
+| 29 | 🇨🇳 China | Kunming | 7 |
+| 30 | 🇮🇳 India | Madurai | 6 |
+| 31 | 🇴🇲 Oman | Muscat | 5 |
+| 32 | 🇵🇰 Pakistan | Karachi | 4 |
+| 33 | 🇮🇳 India | Thiruvananthapuram | 4 |
+| 34 | 🇳🇵 Nepal | Kathmandu | 4 |
+| 35 | 🇵🇰 Pakistan | Lahore | 4 |
+| 36 | 🇨🇳 China | Guangzhou Baiyun | 4 |
+| 37 | 🇯🇵 Japan | Narita | 4 |
+| 38 | 🇦🇺 Australia | Sydney | 4 |
+| 39 | 🇫🇷 France | Paris Charles de Gaulle | 3 |
+| 40 | 🇩🇪 Germany | Frankfurt Main | 3 |
+| 41 | 🇨🇳 China | Chongqing | 3 |
+| 42 | 🇷🇺 Russia | Sheremetyevo | 3 |
+| 43 | 🇸🇨 Seychelles | Seychelles | 2 |
+| 44 | 🇰🇿 Kazakhstan | Almaty International Airport | 2 |
+| 45 | 🇰🇷 South Korea | Incheon | 2 |
+| 46 | 🇨🇭 Switzerland | Zurich Intl | 2 |
+| 47 | 🇲🇻 Maldives | Gan Intl | 2 |
 
 ---
 

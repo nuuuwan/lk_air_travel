@@ -83,7 +83,9 @@ class ReadMe:
         origins = sorted(
             {f["airport_name"] for f in self.flights if f["airport_name"]}
         )
-        airlines = sorted({f["airline"] for f in self.flights if f["airline"]})
+        airlines = sorted(
+            {f["airline"] for f in self.flights if f["airline"]}
+        )
         airline_counts = Counter(f["airline"] for f in self.flights)
         origin_counts = Counter(
             f["airport_name"] for f in self.flights if f["airport_name"]
@@ -113,6 +115,8 @@ class ReadMe:
             "",
             f"![LastUpdated](https://img.shields.io/badge/last_updated-{timestamp}-green)",
             "",
+            "![Flight Map](images/flight_map.png)",
+            "",
             "## Introduction",
             "",
             "This repository provides automated tracking of inbound flight "
@@ -120,7 +124,7 @@ class ReadMe:
             "Flight data is fetched from the official airport website and "
             "updated daily via GitHub Actions.",
             "",
-            "**Data Source:** [Airport.lk Flight Information](https://www.airport.lk/)",
+            "**Data Source:** <https://www.airport.lk>",
             "",
             "Each flight record includes:",
             "- Flight number and airline",

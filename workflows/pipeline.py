@@ -1,11 +1,12 @@
 import os
 
-from flights import Flight
+from flights import Flight, FlightMap
 from flights.ReadMe import ReadMe
 
 DIR = os.path.join(os.path.dirname(__file__), "..")
 DATA_DIR = os.path.join(DIR, "data")
 README_PATH = os.path.join(DIR, "README.md")
+MAP_PATH = os.path.join(DIR, "images", "flight_map.png")
 
 
 def get_cmb_inbound_locations():
@@ -17,6 +18,9 @@ def get_cmb_inbound_locations():
 
     print(f"Stored {len(all_flights)} flights to data/flights/")
     print("Aggregated to data/flights.json")
+
+    FlightMap(DATA_DIR, MAP_PATH).create_map()
+    print("Generated flight map")
 
     ReadMe(DATA_DIR, README_PATH).write()
     print("Updated README.md")

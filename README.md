@@ -1,12 +1,14 @@
 # lk_air_travel
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--11_18:17:17-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--11_18:33:07-green)
+
+![Flight Map](images/flight_map.png)
 
 ## Introduction
 
 This repository provides automated tracking of inbound flight schedules to Colombo's Bandaranaike International Airport (CMB). Flight data is fetched from the official airport website and updated daily via GitHub Actions.
 
-**Data Source:** [Airport.lk Flight Information](https://www.airport.lk/)
+**Data Source:** <https://www.airport.lk>
 
 Each flight record includes:
 - Flight number and airline

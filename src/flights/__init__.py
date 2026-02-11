@@ -3,4 +3,5 @@
 
 from flights.Airport import Airport
 from flights.Flight import Flight
+from flights.FlightMap import FlightMap
 from flights.ReadMe import ReadMe

@@ -13,7 +13,7 @@ def get_cmb_inbound_locations():
     print("Fetching inbound flight schedule to CMB (Bandaranaike Intl)...\n")
 
     all_flights = Flight.fetch_and_store_cmb_arrivals(DATA_DIR)
-    all_origins = {f.from_via for f in all_flights if f.from_via}
+    all_origins = {f.airport_name for f in all_flights if f.airport_name}
 
     print(f"Stored {len(all_flights)} flights to data/flights/")
     print("Aggregated to data/flights.json")

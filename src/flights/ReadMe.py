@@ -15,14 +15,12 @@ class ReadMe:
 
     def _summary_md(self) -> str:
         origins = sorted(
-            {f["from_via"] for f in self.flights if f["from_via"]}
+            {f["airport_name"] for f in self.flights if f["airport_name"]}
         )
-        airlines = sorted(
-            {f["airline"] for f in self.flights if f["airline"]}
-        )
+        airlines = sorted({f["airline"] for f in self.flights if f["airline"]})
         airline_counts = Counter(f["airline"] for f in self.flights)
         origin_counts = Counter(
-            f["from_via"] for f in self.flights if f["from_via"]
+            f["airport_name"] for f in self.flights if f["airport_name"]
         )
 
         lines = [

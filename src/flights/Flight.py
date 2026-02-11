@@ -2,8 +2,11 @@ import json
 import os
 from dataclasses import asdict, dataclass
 from datetime import datetime, timedelta, timezone
+from typing import Optional
 
 import httpx
+
+from flights.airport_data import get_airport_country, get_airport_latlng
 
 SCHEDULE_URL = "https://www.airport.lk/flight_info/flightdetails_load"
 DAYS = ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"]
@@ -33,7 +36,9 @@ class Flight:
     flight_no: str
     aircraft_type: str
     ut_arrival_time: int
-    from_via: str
+    airport_name: str
+    country_name: str
+    airport_latlng: Optional[tuple[float, float]]
     notes: str
 
     def to_dict(self):
@@ -76,6 +81,7 @@ class Flight:
             )
             response.raise_for_status()
             for raw in response.json():
+                airport_name = raw["from_via"].strip()
                 flight = cls(
                     id=raw["id"],
                     airline=raw["airline"].strip(),
@@ -85,7 +91,9 @@ class Flight:
                         day,
                         raw["est_arrival_time"].strip(),
                     ),
-                    from_via=raw["from_via"].strip(),
+                    airport_name=airport_name,
+                    country_name=get_airport_country(airport_name),
+                    airport_latlng=get_airport_latlng(airport_name),
                     notes=raw["notes"].strip(),
                 )
                 all_flights.append(flight)

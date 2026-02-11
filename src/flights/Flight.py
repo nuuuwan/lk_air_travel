@@ -13,6 +13,33 @@ DAYS = ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"]
 SL_TZ = timezone(timedelta(hours=5, minutes=30))
 DAY_INDEX = {d: i for i, d in enumerate(DAYS)}
 
+# Single airports with city/airport format (not multi-leg flights)
+SINGLE_AIRPORT_CITIES = {
+    "London/Heathrow",
+    "Chengdu/Tianfu",
+}
+
+
+def _parse_airport_name(raw_name: str) -> str:
+    """Parse airport name to handle multi-leg flights and city/airport format.
+
+    For single airports with city/airport format (e.g., London/Heathrow),
+    replace "/" with "-" to avoid confusion.
+
+    For multi-leg flights (e.g., Dubai/Male), extract the second airport
+    as the actual origin since the flight stops there en route to Colombo.
+    """
+    if "/" not in raw_name:
+        return raw_name
+
+    # Check if this is a known single airport with city/airport format
+    if raw_name in SINGLE_AIRPORT_CITIES:
+        return raw_name.replace("/", "-")
+
+    # Otherwise, it's a multi-leg flight - use the second airport
+    parts = raw_name.split("/")
+    return parts[-1].strip()
+
 
 def _to_unix_time(day: str, hhmm: str) -> int:
     """Convert a day-of-week + HHMM string to a Unix timestamp.
@@ -89,7 +116,8 @@ class Flight:
             )
             response.raise_for_status()
             for raw in response.json():
-                airport_name = raw["from_via"].strip()
+                raw_airport_name = raw["from_via"].strip()
+                airport_name = _parse_airport_name(raw_airport_name)
                 airport = Airport.from_name(airport_name)
                 flight = cls(
                     id=raw["id"],

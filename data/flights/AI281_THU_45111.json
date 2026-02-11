@@ -1,0 +1,9 @@
+{
+  "id": "45111",
+  "airline": "Air India",
+  "flight_no": "AI281",
+  "aircraft_type": "A321",
+  "ut_arrival_time": 1770892500,
+  "from_via": "Delhi",
+  "notes": "-"
+}

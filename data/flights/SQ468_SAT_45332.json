@@ -1,0 +1,9 @@
+{
+  "id": "45332",
+  "airline": "Singapore Airlines",
+  "flight_no": "SQ468",
+  "aircraft_type": "B787",
+  "ut_arrival_time": 1771092000,
+  "from_via": "Singapore",
+  "notes": "-"
+}

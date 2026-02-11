@@ -1,0 +1,5798 @@
+[
+  {
+    "id": "44782",
+    "airline": "Thai Airways",
+    "flight_no": "TG307",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770575460,
+    "from_via": "Bangkok Suvarnabhumi",
+    "notes": "-"
+  },
+  {
+    "id": "44783",
+    "airline": "Fits Air",
+    "flight_no": "8D822",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770575700,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "44784",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL232",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770576000,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "44785",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ569",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1770578100,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "44786",
+    "airline": "Air Arabia",
+    "flight_no": "G9587",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770582000,
+    "from_via": "Sharjah",
+    "notes": "-"
+  },
+  {
+    "id": "44787",
+    "airline": "Qatar Airways",
+    "flight_no": "QR658",
+    "aircraft_type": "B789",
+    "ut_arrival_time": 1770582300,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "44788",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1171",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1770582600,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "44789",
+    "airline": "Fits Air",
+    "flight_no": "8D932",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770583800,
+    "from_via": "Dhaka",
+    "notes": "(ETA 0305 FM 19 JAN)"
+  },
+  {
+    "id": "44790",
+    "airline": "Qatar Airways",
+    "flight_no": "QR662",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770585300,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "44791",
+    "airline": "Etihad Airways",
+    "flight_no": "EY394",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770585600,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "44792",
+    "airline": "Jazeera Airways",
+    "flight_no": "J9551",
+    "aircraft_type": "A32N",
+    "ut_arrival_time": 1770588000,
+    "from_via": "Kuwait",
+    "notes": "-"
+  },
+  {
+    "id": "44793",
+    "airline": "Air Arabia",
+    "flight_no": "G9502",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770588300,
+    "from_via": "Sharjah",
+    "notes": "-"
+  },
+  {
+    "id": "44794",
+    "airline": "Salam Air",
+    "flight_no": "OV437",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770589200,
+    "from_via": "Muscat",
+    "notes": "-"
+  },
+  {
+    "id": "44795",
+    "airline": "Air Seychelles",
+    "flight_no": "HM262",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770589200,
+    "from_via": "Seychelles",
+    "notes": "-"
+  },
+  {
+    "id": "44796",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ565",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1770591000,
+    "from_via": "Dubai",
+    "notes": "(ONLY ON 05 JAN)"
+  },
+  {
+    "id": "44797",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL506",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770591300,
+    "from_via": "London/Heathrow",
+    "notes": "-"
+  },
+  {
+    "id": "44798",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL226",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1770593400,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "44799",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL564",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770594900,
+    "from_via": "Paris Charles de Gaulle",
+    "notes": "-"
+  },
+  {
+    "id": "44800",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL142",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770595500,
+    "from_via": "Mumbai",
+    "notes": "-"
+  },
+  {
+    "id": "44801",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL558",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770595800,
+    "from_via": "Frankfurt Main",
+    "notes": "-"
+  },
+  {
+    "id": "44802",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL218",
+    "aircraft_type": "A32A",
+    "ut_arrival_time": 1770596400,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "44803",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL254",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1770597300,
+    "from_via": "Dammam",
+    "notes": "-"
+  },
+  {
+    "id": "44804",
+    "airline": "Turkish Airlines",
+    "flight_no": "TK730",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770597600,
+    "from_via": "Istanbul Ataturk",
+    "notes": "-"
+  },
+  {
+    "id": "44805",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL230",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1770597900,
+    "from_via": "Kuwait",
+    "notes": "-"
+  },
+  {
+    "id": "44806",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL266",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1770597900,
+    "from_via": "Riyadh",
+    "notes": "-"
+  },
+  {
+    "id": "44807",
+    "airline": "Air India",
+    "flight_no": "AI277",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1770601800,
+    "from_via": "Delhi",
+    "notes": "-"
+  },
+  {
+    "id": "44808",
+    "airline": "Enter Air",
+    "flight_no": "E47947",
+    "aircraft_type": "B38M",
+    "ut_arrival_time": 1770603300,
+    "from_via": "Katowice Intl/Ras Al Khaimah Intl",
+    "notes": "(ONLY ON 12 JAN)"
+  },
+  {
+    "id": "44809",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1185",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770604800,
+    "from_via": "Mumbai",
+    "notes": "-"
+  },
+  {
+    "id": "44810",
+    "airline": "Etihad Airways",
+    "flight_no": "EY392",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770605100,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "44811",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ579",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1770605100,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "44812",
+    "airline": "Kuwait Airways",
+    "flight_no": "KU361",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770605400,
+    "from_via": "Kuwait",
+    "notes": "-"
+  },
+  {
+    "id": "44813",
+    "airline": "Emirates",
+    "flight_no": "EK650",
+    "aircraft_type": "B77W",
+    "ut_arrival_time": 1770605400,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "44814",
+    "airline": "Enter Air",
+    "flight_no": "E41921",
+    "aircraft_type": "B38M",
+    "ut_arrival_time": 1770606000,
+    "from_via": "Poznan/Ras Al Khaimah Intl",
+    "notes": "(ONLY ON 12 JAN)"
+  },
+  {
+    "id": "44815",
+    "airline": "Qatar Airways",
+    "flight_no": "QR664",
+    "aircraft_type": "B788",
+    "ut_arrival_time": 1770606900,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "44816",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL192",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770606900,
+    "from_via": "Delhi",
+    "notes": "-"
+  },
+  {
+    "id": "44817",
+    "airline": "Air Asia Berhad",
+    "flight_no": "AK45",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770609300,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "44818",
+    "airline": "Enter Air",
+    "flight_no": "E41301",
+    "aircraft_type": "B38M",
+    "ut_arrival_time": 1770609600,
+    "from_via": "Gdansk Im Lecha Walesy/Ras Al Khaimah Intl",
+    "notes": "(ONLY ON 12 JAN)"
+  },
+  {
+    "id": "44819",
+    "airline": "Gulf Air",
+    "flight_no": "GF144",
+    "aircraft_type": "A32N",
+    "ut_arrival_time": 1770610500,
+    "from_via": "Bahrain/Male",
+    "notes": "-"
+  },
+  {
+    "id": "44820",
+    "airline": "Qatar Airways",
+    "flight_no": "QR660",
+    "aircraft_type": "B789",
+    "ut_arrival_time": 1770610500,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "44821",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL319",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770610500,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "44822",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ1025",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1770612300,
+    "from_via": "Dubai/Male",
+    "notes": "-"
+  },
+  {
+    "id": "44823",
+    "airline": "Fits Air",
+    "flight_no": "8D922",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770612900,
+    "from_via": "Male",
+    "notes": "-"
+  },
+  {
+    "id": "44824",
+    "airline": "Enter Air",
+    "flight_no": "E41177",
+    "aircraft_type": "B38M",
+    "ut_arrival_time": 1770613200,
+    "from_via": "Warsaw Chopin Intl/Ras Al Khaimah Intl",
+    "notes": "(ONLY ON 12 JAN)"
+  },
+  {
+    "id": "44825",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL152",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770614400,
+    "from_via": "Karachi",
+    "notes": "-"
+  },
+  {
+    "id": "44826",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL307",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770615000,
+    "from_via": "Singapore",
+    "notes": "-"
+  },
+  {
+    "id": "44827",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL403",
+    "aircraft_type": "A32A",
+    "ut_arrival_time": 1770615000,
+    "from_via": "Bangkok Suvarnabhumi",
+    "notes": "-"
+  },
+  {
+    "id": "44828",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL122",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770615300,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "44829",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL162",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770615900,
+    "from_via": "Thiruvananthapuram",
+    "notes": "-"
+  },
+  {
+    "id": "44830",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL102",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770616200,
+    "from_via": "Male",
+    "notes": "-"
+  },
+  {
+    "id": "44831",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1167",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770616800,
+    "from_via": "Bangalore",
+    "notes": "-"
+  },
+  {
+    "id": "44832",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL504",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770620400,
+    "from_via": "London/Heathrow",
+    "notes": "-"
+  },
+  {
+    "id": "44833",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1175",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770621300,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "44834",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1181",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770624600,
+    "from_via": "Hyderabad Intl",
+    "notes": "-"
+  },
+  {
+    "id": "44835",
+    "airline": "Air Arabia",
+    "flight_no": "G9508",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770624900,
+    "from_via": "Sharjah",
+    "notes": "-"
+  },
+  {
+    "id": "44836",
+    "airline": "Air Astana",
+    "flight_no": "KC167",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1770626400,
+    "from_via": "Almaty International Airport",
+    "notes": "-"
+  },
+  {
+    "id": "44837",
+    "airline": "Air India",
+    "flight_no": "AI2276",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1770629400,
+    "from_via": "Mumbai",
+    "notes": "-"
+  },
+  {
+    "id": "44838",
+    "airline": "Etihad Airways",
+    "flight_no": "EY390",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770630300,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "44839",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL315",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1770632400,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "44840",
+    "airline": "Emirates",
+    "flight_no": "EK654",
+    "aircraft_type": "A350",
+    "ut_arrival_time": 1770632700,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "44841",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL190",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770632700,
+    "from_via": "Dhaka",
+    "notes": "-"
+  },
+  {
+    "id": "44842",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL405",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1770632700,
+    "from_via": "Bangkok Suvarnabhumi",
+    "notes": "-"
+  },
+  {
+    "id": "44843",
+    "airline": "Air India",
+    "flight_no": "AI281",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1770633300,
+    "from_via": "Delhi",
+    "notes": "-"
+  },
+  {
+    "id": "44844",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL182",
+    "aircraft_type": "A32A",
+    "ut_arrival_time": 1770633600,
+    "from_via": "Kathmandu",
+    "notes": "-"
+  },
+  {
+    "id": "44845",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1179",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770633900,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "44846",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ549",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1770634200,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "44847",
+    "airline": "Qatar Airways",
+    "flight_no": "QR654",
+    "aircraft_type": "B789",
+    "ut_arrival_time": 1770634800,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "44848",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL140",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770635100,
+    "from_via": "Madurai",
+    "notes": "-"
+  },
+  {
+    "id": "44849",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL471",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770635700,
+    "from_via": "Incheon",
+    "notes": "-"
+  },
+  {
+    "id": "44850",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL154",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770636600,
+    "from_via": "Lahore",
+    "notes": "-"
+  },
+  {
+    "id": "44851",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL134",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770637200,
+    "from_via": "Tiruchirappalli",
+    "notes": "-"
+  },
+  {
+    "id": "44852",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL128",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770637500,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "44853",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL365",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1770637800,
+    "from_via": "Jakarta",
+    "notes": "-"
+  },
+  {
+    "id": "44854",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL168",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770638100,
+    "from_via": "Cochin",
+    "notes": "-"
+  },
+  {
+    "id": "44855",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL116",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1770638400,
+    "from_via": "Male",
+    "notes": "-"
+  },
+  {
+    "id": "44856",
+    "airline": "Emirates",
+    "flight_no": "EK652",
+    "aircraft_type": "B77W",
+    "ut_arrival_time": 1770641700,
+    "from_via": "Dubai/Male",
+    "notes": "-"
+  },
+  {
+    "id": "44857",
+    "airline": "China Eastern",
+    "flight_no": "MU6017",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1770643800,
+    "from_via": "Shanghai",
+    "notes": "-"
+  },
+  {
+    "id": "44858",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1183",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770647100,
+    "from_via": "Bangalore",
+    "notes": "-"
+  },
+  {
+    "id": "44859",
+    "airline": "Etihad Airways",
+    "flight_no": "EY396",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770648600,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "44860",
+    "airline": "Air China",
+    "flight_no": "CA425",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770651300,
+    "from_via": "Chengdu/Tianfu",
+    "notes": "-"
+  },
+  {
+    "id": "44861",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1173",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770651300,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "44862",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL309",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770651600,
+    "from_via": "Singapore",
+    "notes": "-"
+  },
+  {
+    "id": "44863",
+    "airline": "Air Asia Berhad",
+    "flight_no": "AK47",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770654000,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "44864",
+    "airline": "Emirates",
+    "flight_no": "EK648",
+    "aircraft_type": "B77W",
+    "ut_arrival_time": 1770654300,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "44865",
+    "airline": "THAI AIR ASIA",
+    "flight_no": "FD140",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770654600,
+    "from_via": "Bangkok Don Mueang",
+    "notes": "-"
+  },
+  {
+    "id": "44866",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL196",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770655200,
+    "from_via": "Delhi",
+    "notes": "-"
+  },
+  {
+    "id": "44867",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL124",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770655500,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "44868",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL605",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770655800,
+    "from_via": "Melbourne",
+    "notes": "-"
+  },
+  {
+    "id": "44869",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL176",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770657000,
+    "from_via": "Hyderabad Intl",
+    "notes": "-"
+  },
+  {
+    "id": "44870",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL104",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770657600,
+    "from_via": "Male",
+    "notes": "(A333 ON 05 & 19 JAN)"
+  },
+  {
+    "id": "44871",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL172",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770657600,
+    "from_via": "Bangalore",
+    "notes": "-"
+  },
+  {
+    "id": "44872",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL144",
+    "aircraft_type": "A32A",
+    "ut_arrival_time": 1770659100,
+    "from_via": "Mumbai",
+    "notes": "-"
+  },
+  {
+    "id": "44873",
+    "airline": "Cathay Pacific",
+    "flight_no": "CX611",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770660000,
+    "from_via": "Hong Kong",
+    "notes": "-"
+  },
+  {
+    "id": "44874",
+    "airline": "Singapore Airlines",
+    "flight_no": "SQ468",
+    "aircraft_type": "B787",
+    "ut_arrival_time": 1770660000,
+    "from_via": "Singapore",
+    "notes": "-"
+  },
+  {
+    "id": "44875",
+    "airline": "Malaysia Airlines",
+    "flight_no": "MH179",
+    "aircraft_type": "B738",
+    "ut_arrival_time": 1770660300,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "44876",
+    "airline": "China Eastern",
+    "flight_no": "MU713",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1770660600,
+    "from_via": "Kunming",
+    "notes": "-"
+  },
+  {
+    "id": "44877",
+    "airline": "Thai Airways",
+    "flight_no": "TG307",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770661860,
+    "from_via": "Bangkok Suvarnabhumi",
+    "notes": "-"
+  },
+  {
+    "id": "44878",
+    "airline": "Fits Air",
+    "flight_no": "8D822",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770662100,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "44879",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ569",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1770664500,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "44880",
+    "airline": "Air Arabia",
+    "flight_no": "G9587",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770668400,
+    "from_via": "Sharjah",
+    "notes": "-"
+  },
+  {
+    "id": "44881",
+    "airline": "Qatar Airways",
+    "flight_no": "QR658",
+    "aircraft_type": "B789",
+    "ut_arrival_time": 1770668700,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "44882",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1171",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1770669000,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "44883",
+    "airline": "Fits Air",
+    "flight_no": "8D932",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770670200,
+    "from_via": "Dhaka",
+    "notes": "(ETA 0305 FM 20 JAN)"
+  },
+  {
+    "id": "44884",
+    "airline": "Qatar Airways",
+    "flight_no": "QR662",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770671700,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "44885",
+    "airline": "Etihad Airways",
+    "flight_no": "EY394",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770672000,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "44886",
+    "airline": "Jazeera Airways",
+    "flight_no": "J9551",
+    "aircraft_type": "A32N",
+    "ut_arrival_time": 1770674400,
+    "from_via": "Kuwait",
+    "notes": "-"
+  },
+  {
+    "id": "44887",
+    "airline": "Air Arabia",
+    "flight_no": "G9502",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770674700,
+    "from_via": "Sharjah",
+    "notes": "-"
+  },
+  {
+    "id": "44888",
+    "airline": "Salam Air",
+    "flight_no": "OV437",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770675600,
+    "from_via": "Muscat",
+    "notes": "-"
+  },
+  {
+    "id": "44889",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ561",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1770678900,
+    "from_via": "Dubai",
+    "notes": "(ONLY ON 06 JAN)"
+  },
+  {
+    "id": "44890",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL226",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770679800,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "44891",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL174",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770680100,
+    "from_via": "Bangalore",
+    "notes": "-"
+  },
+  {
+    "id": "44892",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL881",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770680100,
+    "from_via": "Guangzhou Baiyun",
+    "notes": "-"
+  },
+  {
+    "id": "44893",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL142",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770681900,
+    "from_via": "Mumbai",
+    "notes": "-"
+  },
+  {
+    "id": "44894",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL218",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1770682800,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "44895",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL254",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1770683700,
+    "from_via": "Dammam",
+    "notes": "-"
+  },
+  {
+    "id": "44896",
+    "airline": "Turkish Airlines",
+    "flight_no": "TK730",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770684000,
+    "from_via": "Istanbul Ataturk",
+    "notes": "-"
+  },
+  {
+    "id": "44897",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL230",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1770684300,
+    "from_via": "Kuwait",
+    "notes": "-"
+  },
+  {
+    "id": "44898",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL266",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1770684300,
+    "from_via": "Riyadh",
+    "notes": "-"
+  },
+  {
+    "id": "44899",
+    "airline": "Air India",
+    "flight_no": "AI277",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1770688200,
+    "from_via": "Delhi",
+    "notes": "-"
+  },
+  {
+    "id": "44900",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1185",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770691200,
+    "from_via": "Mumbai",
+    "notes": "-"
+  },
+  {
+    "id": "44901",
+    "airline": "Etihad Airways",
+    "flight_no": "EY392",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770691500,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "44902",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ579",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1770691500,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "44903",
+    "airline": "Emirates",
+    "flight_no": "EK650",
+    "aircraft_type": "B77W",
+    "ut_arrival_time": 1770691800,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "44904",
+    "airline": "Qatar Airways",
+    "flight_no": "QR664",
+    "aircraft_type": "B788",
+    "ut_arrival_time": 1770693300,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "44905",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL192",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770693300,
+    "from_via": "Delhi",
+    "notes": "-"
+  },
+  {
+    "id": "44906",
+    "airline": "Air Asia Berhad",
+    "flight_no": "AK45",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770695700,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "44907",
+    "airline": "Gulf Air",
+    "flight_no": "GF144",
+    "aircraft_type": "A32N",
+    "ut_arrival_time": 1770696900,
+    "from_via": "Bahrain/Male",
+    "notes": "-"
+  },
+  {
+    "id": "44908",
+    "airline": "Qatar Airways",
+    "flight_no": "QR660",
+    "aircraft_type": "B789",
+    "ut_arrival_time": 1770696900,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "44909",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL319",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770696900,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "44910",
+    "airline": "Edelweiss Air",
+    "flight_no": "WK64",
+    "aircraft_type": "A343",
+    "ut_arrival_time": 1770698700,
+    "from_via": "Zurich Intl",
+    "notes": "-"
+  },
+  {
+    "id": "44911",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ1025",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1770698700,
+    "from_via": "Dubai/Male",
+    "notes": "-"
+  },
+  {
+    "id": "44912",
+    "airline": "Fits Air",
+    "flight_no": "8D922",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770699300,
+    "from_via": "Male",
+    "notes": "-"
+  },
+  {
+    "id": "44913",
+    "airline": "Singapore Airlines",
+    "flight_no": "SQ462",
+    "aircraft_type": "A359M",
+    "ut_arrival_time": 1770700500,
+    "from_via": "Singapore",
+    "notes": "-"
+  },
+  {
+    "id": "44914",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL307",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770701400,
+    "from_via": "Singapore",
+    "notes": "-"
+  },
+  {
+    "id": "44915",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL403",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770701400,
+    "from_via": "Bangkok Suvarnabhumi",
+    "notes": "-"
+  },
+  {
+    "id": "44916",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL122",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1770701700,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "44917",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL138",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770702000,
+    "from_via": "Madurai",
+    "notes": "-"
+  },
+  {
+    "id": "44918",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL132",
+    "aircraft_type": "A32A",
+    "ut_arrival_time": 1770702300,
+    "from_via": "Tiruchirappalli",
+    "notes": "-"
+  },
+  {
+    "id": "44919",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL162",
+    "aircraft_type": "A32A",
+    "ut_arrival_time": 1770702300,
+    "from_via": "Thiruvananthapuram",
+    "notes": "-"
+  },
+  {
+    "id": "44920",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL102",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1770702600,
+    "from_via": "Male",
+    "notes": "-"
+  },
+  {
+    "id": "44921",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL166",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770702900,
+    "from_via": "Cochin",
+    "notes": "-"
+  },
+  {
+    "id": "44922",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1167",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770703200,
+    "from_via": "Bangalore",
+    "notes": "-"
+  },
+  {
+    "id": "44923",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL504",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770706800,
+    "from_via": "London/Heathrow",
+    "notes": "-"
+  },
+  {
+    "id": "44924",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1175",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770707700,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "44925",
+    "airline": "Turkish Airlines",
+    "flight_no": "TK732",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1770709800,
+    "from_via": "Istanbul Ataturk",
+    "notes": "-"
+  },
+  {
+    "id": "44926",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1181",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770711000,
+    "from_via": "Hyderabad Intl",
+    "notes": "-"
+  },
+  {
+    "id": "44927",
+    "airline": "Air Arabia",
+    "flight_no": "G9508",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770711300,
+    "from_via": "Sharjah",
+    "notes": "-"
+  },
+  {
+    "id": "44928",
+    "airline": "Air India",
+    "flight_no": "AI2276",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1770715800,
+    "from_via": "Mumbai",
+    "notes": "-"
+  },
+  {
+    "id": "44929",
+    "airline": "Etihad Airways",
+    "flight_no": "EY390",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770716700,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "44930",
+    "airline": "Chongqing Airlines",
+    "flight_no": "OQ2393",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770718200,
+    "from_via": "Chongqing",
+    "notes": "(FM 13 JAN)"
+  },
+  {
+    "id": "44931",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL315",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1770718800,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "44932",
+    "airline": "Emirates",
+    "flight_no": "EK654",
+    "aircraft_type": "A350",
+    "ut_arrival_time": 1770719100,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "44933",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL190",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770719100,
+    "from_via": "Dhaka",
+    "notes": "-"
+  },
+  {
+    "id": "44934",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL405",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1770719100,
+    "from_via": "Bangkok Suvarnabhumi",
+    "notes": "-"
+  },
+  {
+    "id": "44935",
+    "airline": "Air India",
+    "flight_no": "AI281",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1770719700,
+    "from_via": "Delhi",
+    "notes": "-"
+  },
+  {
+    "id": "44936",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1179",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770720300,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "44937",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ549",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1770720600,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "44938",
+    "airline": "Qatar Airways",
+    "flight_no": "QR654",
+    "aircraft_type": "B789",
+    "ut_arrival_time": 1770721200,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "44939",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL120",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770723000,
+    "from_via": "Gan Intl",
+    "notes": "-"
+  },
+  {
+    "id": "44940",
+    "airline": "Fits Air",
+    "flight_no": "8D924",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770723900,
+    "from_via": "Male",
+    "notes": "(ETA 1830 FM 20 JAN)"
+  },
+  {
+    "id": "44941",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL128",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770723900,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "44942",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL365",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1770724200,
+    "from_via": "Jakarta",
+    "notes": "-"
+  },
+  {
+    "id": "44943",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL116",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1770724800,
+    "from_via": "Male",
+    "notes": "-"
+  },
+  {
+    "id": "44944",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL455",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770724800,
+    "from_via": "Narita",
+    "notes": "-"
+  },
+  {
+    "id": "44945",
+    "airline": "Emirates",
+    "flight_no": "EK652",
+    "aircraft_type": "B77W",
+    "ut_arrival_time": 1770728100,
+    "from_via": "Dubai/Male",
+    "notes": "-"
+  },
+  {
+    "id": "44946",
+    "airline": "China Eastern",
+    "flight_no": "MU6017",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1770730200,
+    "from_via": "Shanghai",
+    "notes": "-"
+  },
+  {
+    "id": "44947",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1183",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770733500,
+    "from_via": "Bangalore",
+    "notes": "-"
+  },
+  {
+    "id": "44948",
+    "airline": "Etihad Airways",
+    "flight_no": "EY396",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770735000,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "44949",
+    "airline": "Air Arabia Abu Dhabi",
+    "flight_no": "3L708",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770735300,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "44950",
+    "airline": "Chongqing Airlines",
+    "flight_no": "OQ2394",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770737400,
+    "from_via": "Male",
+    "notes": "(FM 13 JAN)"
+  },
+  {
+    "id": "44951",
+    "airline": "Air China",
+    "flight_no": "CA425",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770737700,
+    "from_via": "Chengdu/Tianfu",
+    "notes": "-"
+  },
+  {
+    "id": "44952",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1173",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770737700,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "44953",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL309",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770738000,
+    "from_via": "Singapore",
+    "notes": "-"
+  },
+  {
+    "id": "44954",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL184",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770740100,
+    "from_via": "Karachi",
+    "notes": "-"
+  },
+  {
+    "id": "44955",
+    "airline": "Air Asia Berhad",
+    "flight_no": "AK47",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770740400,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "44956",
+    "airline": "Emirates",
+    "flight_no": "EK648",
+    "aircraft_type": "B77W",
+    "ut_arrival_time": 1770740700,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "44957",
+    "airline": "THAI AIR ASIA",
+    "flight_no": "FD140",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770741000,
+    "from_via": "Bangkok Don Mueang",
+    "notes": "-"
+  },
+  {
+    "id": "44958",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL196",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770741600,
+    "from_via": "Delhi",
+    "notes": "-"
+  },
+  {
+    "id": "44959",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL124",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770741900,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "44960",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL186",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770741900,
+    "from_via": "Lahore",
+    "notes": "-"
+  },
+  {
+    "id": "44961",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL605",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770742200,
+    "from_via": "Melbourne",
+    "notes": "-"
+  },
+  {
+    "id": "44962",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL607",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770743700,
+    "from_via": "Sydney",
+    "notes": "-"
+  },
+  {
+    "id": "44963",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL104",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770744000,
+    "from_via": "Male",
+    "notes": "(A332 ON 20 JAN)"
+  },
+  {
+    "id": "44964",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL144",
+    "aircraft_type": "A32A",
+    "ut_arrival_time": 1770745500,
+    "from_via": "Mumbai",
+    "notes": "-"
+  },
+  {
+    "id": "44965",
+    "airline": "Cathay Pacific",
+    "flight_no": "CX611",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770746400,
+    "from_via": "Hong Kong",
+    "notes": "-"
+  },
+  {
+    "id": "44966",
+    "airline": "Singapore Airlines",
+    "flight_no": "SQ468",
+    "aircraft_type": "B787",
+    "ut_arrival_time": 1770746400,
+    "from_via": "Singapore",
+    "notes": "-"
+  },
+  {
+    "id": "44967",
+    "airline": "Malaysia Airlines",
+    "flight_no": "MH179",
+    "aircraft_type": "B738",
+    "ut_arrival_time": 1770746700,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "44968",
+    "airline": "China Eastern",
+    "flight_no": "MU713",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1770747000,
+    "from_via": "Kunming",
+    "notes": "(FM 20 JAN)"
+  },
+  {
+    "id": "44969",
+    "airline": "Thai Airways",
+    "flight_no": "TG307",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770748260,
+    "from_via": "Bangkok Suvarnabhumi",
+    "notes": "-"
+  },
+  {
+    "id": "44970",
+    "airline": "Fits Air",
+    "flight_no": "8D822",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770748500,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "44971",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL232",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770748800,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "44972",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ569",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1770750900,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "44973",
+    "airline": "THAI AIR ASIA",
+    "flight_no": "FD142",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770754500,
+    "from_via": "Bangkok Don Mueang",
+    "notes": "-"
+  },
+  {
+    "id": "44974",
+    "airline": "Air Arabia",
+    "flight_no": "G9587",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770754800,
+    "from_via": "Sharjah",
+    "notes": "-"
+  },
+  {
+    "id": "44975",
+    "airline": "Qatar Airways",
+    "flight_no": "QR658",
+    "aircraft_type": "B789",
+    "ut_arrival_time": 1770755100,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "44976",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1171",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1770755400,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "44977",
+    "airline": "Fits Air",
+    "flight_no": "8D932",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770756600,
+    "from_via": "Dhaka",
+    "notes": "(ETA 0305 FM 21 JAN)"
+  },
+  {
+    "id": "44978",
+    "airline": "Qatar Airways",
+    "flight_no": "QR662",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770758100,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "44979",
+    "airline": "Etihad Airways",
+    "flight_no": "EY394",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770758400,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "44980",
+    "airline": "Jazeera Airways",
+    "flight_no": "J9551",
+    "aircraft_type": "A32N",
+    "ut_arrival_time": 1770760800,
+    "from_via": "Kuwait",
+    "notes": "-"
+  },
+  {
+    "id": "44981",
+    "airline": "Air Arabia",
+    "flight_no": "G9502",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770761100,
+    "from_via": "Sharjah",
+    "notes": "-"
+  },
+  {
+    "id": "44982",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ565",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1770763800,
+    "from_via": "Dubai",
+    "notes": "(ONLY ON 07 JAN)"
+  },
+  {
+    "id": "44983",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL226",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770766200,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "44984",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL174",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770766500,
+    "from_via": "Bangalore",
+    "notes": "-"
+  },
+  {
+    "id": "44985",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL881",
+    "aircraft_type": "A32A",
+    "ut_arrival_time": 1770766500,
+    "from_via": "Guangzhou Baiyun",
+    "notes": "-"
+  },
+  {
+    "id": "44986",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL142",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1770768300,
+    "from_via": "Mumbai",
+    "notes": "-"
+  },
+  {
+    "id": "44987",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL218",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1770769200,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "44988",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL254",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1770770100,
+    "from_via": "Dammam",
+    "notes": "-"
+  },
+  {
+    "id": "44989",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL230",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1770770700,
+    "from_via": "Kuwait",
+    "notes": "-"
+  },
+  {
+    "id": "44990",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL266",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770770700,
+    "from_via": "Riyadh",
+    "notes": "-"
+  },
+  {
+    "id": "44991",
+    "airline": "Turkish Airlines",
+    "flight_no": "TK730",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770771000,
+    "from_via": "Istanbul Ataturk",
+    "notes": "-"
+  },
+  {
+    "id": "44992",
+    "airline": "Air India",
+    "flight_no": "AI277",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1770774600,
+    "from_via": "Delhi",
+    "notes": "-"
+  },
+  {
+    "id": "44993",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1185",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770777600,
+    "from_via": "Mumbai",
+    "notes": "-"
+  },
+  {
+    "id": "44994",
+    "airline": "Etihad Airways",
+    "flight_no": "EY392",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770777900,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "44995",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ579",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1770777900,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "44996",
+    "airline": "Emirates",
+    "flight_no": "EK650",
+    "aircraft_type": "B77W",
+    "ut_arrival_time": 1770778200,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "44997",
+    "airline": "Air India",
+    "flight_no": "AI2276",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1770779400,
+    "from_via": "Mumbai",
+    "notes": "-"
+  },
+  {
+    "id": "44998",
+    "airline": "Qatar Airways",
+    "flight_no": "QR664",
+    "aircraft_type": "B788",
+    "ut_arrival_time": 1770779700,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "44999",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL192",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770779700,
+    "from_via": "Delhi",
+    "notes": "-"
+  },
+  {
+    "id": "45000",
+    "airline": "Air Asia Berhad",
+    "flight_no": "AK45",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770782100,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "45001",
+    "airline": "Gulf Air",
+    "flight_no": "GF144",
+    "aircraft_type": "A32N",
+    "ut_arrival_time": 1770782700,
+    "from_via": "Bahrain/Male",
+    "notes": "-"
+  },
+  {
+    "id": "45002",
+    "airline": "Qatar Airways",
+    "flight_no": "QR660",
+    "aircraft_type": "B789",
+    "ut_arrival_time": 1770783300,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "45003",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL319",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770783300,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "45004",
+    "airline": "Aeroflot",
+    "flight_no": "SU288",
+    "aircraft_type": "B77W",
+    "ut_arrival_time": 1770783600,
+    "from_via": "Sheremetyevo",
+    "notes": "-"
+  },
+  {
+    "id": "45005",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ1025",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1770785100,
+    "from_via": "Dubai/Male",
+    "notes": "-"
+  },
+  {
+    "id": "45006",
+    "airline": "Fits Air",
+    "flight_no": "8D922",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770785700,
+    "from_via": "Male",
+    "notes": "-"
+  },
+  {
+    "id": "45007",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL307",
+    "aircraft_type": "A32A",
+    "ut_arrival_time": 1770787800,
+    "from_via": "Singapore",
+    "notes": "-"
+  },
+  {
+    "id": "45008",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL403",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770787800,
+    "from_via": "Bangkok Suvarnabhumi",
+    "notes": "-"
+  },
+  {
+    "id": "45009",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL122",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770788100,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45010",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL132",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770788700,
+    "from_via": "Tiruchirappalli",
+    "notes": "-"
+  },
+  {
+    "id": "45011",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL102",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770789000,
+    "from_via": "Male",
+    "notes": "-"
+  },
+  {
+    "id": "45012",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1167",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770789600,
+    "from_via": "Bangalore",
+    "notes": "-"
+  },
+  {
+    "id": "45013",
+    "airline": "Fits Air",
+    "flight_no": "8D722",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770790800,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "45014",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL178",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770792000,
+    "from_via": "Hyderabad Intl",
+    "notes": "-"
+  },
+  {
+    "id": "45015",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL504",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770793200,
+    "from_via": "London/Heathrow",
+    "notes": "-"
+  },
+  {
+    "id": "45016",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1175",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770794100,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45017",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL182",
+    "aircraft_type": "A32A",
+    "ut_arrival_time": 1770809400,
+    "from_via": "Kathmandu",
+    "notes": "-"
+  },
+  {
+    "id": "45018",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL190",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1770809400,
+    "from_via": "Dhaka",
+    "notes": "-"
+  },
+  {
+    "id": "45019",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL315",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770809400,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "45020",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL128",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770810300,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45021",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL140",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770810300,
+    "from_via": "Madurai",
+    "notes": "-"
+  },
+  {
+    "id": "45022",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL365",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1770810600,
+    "from_via": "Jakarta",
+    "notes": "-"
+  },
+  {
+    "id": "45023",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL405",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1770810600,
+    "from_via": "Bangkok Suvarnabhumi",
+    "notes": "-"
+  },
+  {
+    "id": "45024",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL168",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770810900,
+    "from_via": "Cochin",
+    "notes": "-"
+  },
+  {
+    "id": "45025",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL471",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770810900,
+    "from_via": "Incheon",
+    "notes": "-"
+  },
+  {
+    "id": "45026",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL116",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1770811200,
+    "from_via": "Male",
+    "notes": "-"
+  },
+  {
+    "id": "45027",
+    "airline": "Turkish Airlines",
+    "flight_no": "TK6136",
+    "aircraft_type": "B77X",
+    "ut_arrival_time": 1770811500,
+    "from_via": "Istanbul Ataturk/Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45028",
+    "airline": "Air India",
+    "flight_no": "AI281",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1770813900,
+    "from_via": "Delhi",
+    "notes": "-"
+  },
+  {
+    "id": "45029",
+    "airline": "Emirates",
+    "flight_no": "EK652",
+    "aircraft_type": "B77W",
+    "ut_arrival_time": 1770814500,
+    "from_via": "Dubai/Male",
+    "notes": "-"
+  },
+  {
+    "id": "45030",
+    "airline": "Emirates",
+    "flight_no": "EK654",
+    "aircraft_type": "A350",
+    "ut_arrival_time": 1770815700,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45031",
+    "airline": "China Eastern",
+    "flight_no": "MU6017",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1770816600,
+    "from_via": "Shanghai",
+    "notes": "-"
+  },
+  {
+    "id": "45032",
+    "airline": "Qatar Airways",
+    "flight_no": "QR654",
+    "aircraft_type": "B789",
+    "ut_arrival_time": 1770817800,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "45033",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1183",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770819900,
+    "from_via": "Bangalore",
+    "notes": "-"
+  },
+  {
+    "id": "45034",
+    "airline": "Etihad Airways",
+    "flight_no": "EY396",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770821400,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "45035",
+    "airline": "Air Arabia Abu Dhabi",
+    "flight_no": "3L708",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770821700,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "45036",
+    "airline": "Air China",
+    "flight_no": "CA425",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770824100,
+    "from_via": "Chengdu/Tianfu",
+    "notes": "-"
+  },
+  {
+    "id": "45037",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1173",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770824100,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45038",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL309",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1770824400,
+    "from_via": "Singapore",
+    "notes": "-"
+  },
+  {
+    "id": "45039",
+    "airline": "Air Asia Berhad",
+    "flight_no": "AK47",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770826800,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "45040",
+    "airline": "Emirates",
+    "flight_no": "EK648",
+    "aircraft_type": "B77W",
+    "ut_arrival_time": 1770827100,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45041",
+    "airline": "THAI AIR ASIA",
+    "flight_no": "FD140",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770827400,
+    "from_via": "Bangkok Don Mueang",
+    "notes": "-"
+  },
+  {
+    "id": "45042",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ549",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1770827400,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45043",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL196",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770828000,
+    "from_via": "Delhi",
+    "notes": "-"
+  },
+  {
+    "id": "45044",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL124",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770828300,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45045",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL124",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770828300,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45046",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL605",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770828600,
+    "from_via": "Melbourne",
+    "notes": "-"
+  },
+  {
+    "id": "45047",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL144",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770831900,
+    "from_via": "Mumbai",
+    "notes": "-"
+  },
+  {
+    "id": "45048",
+    "airline": "Cathay Pacific",
+    "flight_no": "CX611",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770832800,
+    "from_via": "Hong Kong",
+    "notes": "-"
+  },
+  {
+    "id": "45049",
+    "airline": "Singapore Airlines",
+    "flight_no": "SQ468",
+    "aircraft_type": "B787",
+    "ut_arrival_time": 1770832800,
+    "from_via": "Singapore",
+    "notes": "-"
+  },
+  {
+    "id": "45050",
+    "airline": "Malaysia Airlines",
+    "flight_no": "MH179",
+    "aircraft_type": "B738",
+    "ut_arrival_time": 1770833100,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "45051",
+    "airline": "China Eastern",
+    "flight_no": "MU713",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1770833400,
+    "from_via": "Kunming",
+    "notes": "-"
+  },
+  {
+    "id": "45052",
+    "airline": "Thai Airways",
+    "flight_no": "TG307",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770834660,
+    "from_via": "Bangkok Suvarnabhumi",
+    "notes": "-"
+  },
+  {
+    "id": "45053",
+    "airline": "Fits Air",
+    "flight_no": "8D822",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770834900,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45054",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL232",
+    "aircraft_type": "A32A",
+    "ut_arrival_time": 1770835200,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45055",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ569",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1770837300,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45056",
+    "airline": "Air Arabia",
+    "flight_no": "G9587",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770841200,
+    "from_via": "Sharjah",
+    "notes": "-"
+  },
+  {
+    "id": "45057",
+    "airline": "Qatar Airways",
+    "flight_no": "QR658",
+    "aircraft_type": "B789",
+    "ut_arrival_time": 1770841500,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "45058",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1171",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1770841800,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45059",
+    "airline": "Qatar Airways",
+    "flight_no": "QR662",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770844500,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "45060",
+    "airline": "Etihad Airways",
+    "flight_no": "EY394",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770844800,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "45061",
+    "airline": "Fits Air",
+    "flight_no": "8D932",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770845700,
+    "from_via": "Dhaka",
+    "notes": "(ETA 0220 ON 08 & 15 JAN)"
+  },
+  {
+    "id": "45062",
+    "airline": "Jazeera Airways",
+    "flight_no": "J9551",
+    "aircraft_type": "A32N",
+    "ut_arrival_time": 1770847200,
+    "from_via": "Kuwait",
+    "notes": "(FM 08 JAN)"
+  },
+  {
+    "id": "45063",
+    "airline": "Air Arabia",
+    "flight_no": "G9502",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770847500,
+    "from_via": "Sharjah",
+    "notes": "-"
+  },
+  {
+    "id": "45064",
+    "airline": "Salam Air",
+    "flight_no": "OV437",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770848400,
+    "from_via": "Muscat",
+    "notes": "-"
+  },
+  {
+    "id": "45065",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL226",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770852600,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45066",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL174",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770852900,
+    "from_via": "Bangalore",
+    "notes": "-"
+  },
+  {
+    "id": "45067",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL564",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770854100,
+    "from_via": "Paris Charles de Gaulle",
+    "notes": "-"
+  },
+  {
+    "id": "45068",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL142",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770854700,
+    "from_via": "Mumbai",
+    "notes": "-"
+  },
+  {
+    "id": "45069",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL558",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770855000,
+    "from_via": "Frankfurt Main",
+    "notes": "-"
+  },
+  {
+    "id": "45070",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL218",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1770855600,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "45071",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL254",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1770856500,
+    "from_via": "Dammam",
+    "notes": "-"
+  },
+  {
+    "id": "45072",
+    "airline": "Turkish Airlines",
+    "flight_no": "TK730",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770856800,
+    "from_via": "Istanbul Ataturk",
+    "notes": "-"
+  },
+  {
+    "id": "45073",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL230",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1770857100,
+    "from_via": "Kuwait",
+    "notes": "-"
+  },
+  {
+    "id": "45074",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL266",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770857100,
+    "from_via": "Riyadh",
+    "notes": "-"
+  },
+  {
+    "id": "45075",
+    "airline": "Air India",
+    "flight_no": "AI277",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1770861000,
+    "from_via": "Delhi",
+    "notes": "-"
+  },
+  {
+    "id": "45076",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1185",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770864000,
+    "from_via": "Mumbai",
+    "notes": "-"
+  },
+  {
+    "id": "45077",
+    "airline": "Etihad Airways",
+    "flight_no": "EY392",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770864300,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "45078",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ579",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1770864300,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45079",
+    "airline": "Kuwait Airways",
+    "flight_no": "KU361",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770864600,
+    "from_via": "Kuwait",
+    "notes": "-"
+  },
+  {
+    "id": "45080",
+    "airline": "Emirates",
+    "flight_no": "EK650",
+    "aircraft_type": "B77W",
+    "ut_arrival_time": 1770864600,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45081",
+    "airline": "Qatar Airways",
+    "flight_no": "QR664",
+    "aircraft_type": "B788",
+    "ut_arrival_time": 1770866100,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "45082",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL192",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770866100,
+    "from_via": "Delhi",
+    "notes": "-"
+  },
+  {
+    "id": "45083",
+    "airline": "Air Asia Berhad",
+    "flight_no": "AK45",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770868500,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "45084",
+    "airline": "Gulf Air",
+    "flight_no": "GF144",
+    "aircraft_type": "A32N",
+    "ut_arrival_time": 1770869700,
+    "from_via": "Bahrain/Male",
+    "notes": "-"
+  },
+  {
+    "id": "45085",
+    "airline": "Qatar Airways",
+    "flight_no": "QR660",
+    "aircraft_type": "B789",
+    "ut_arrival_time": 1770869700,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "45086",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL319",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770869700,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "45087",
+    "airline": "Gulf Air",
+    "flight_no": "GF2144",
+    "aircraft_type": "A32N",
+    "ut_arrival_time": 1770870300,
+    "from_via": "Bahrain/Male",
+    "notes": "(ONLY ON 08 JAN)"
+  },
+  {
+    "id": "45088",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ1025",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1770871500,
+    "from_via": "Dubai/Male",
+    "notes": "-"
+  },
+  {
+    "id": "45089",
+    "airline": "Singapore Airlines",
+    "flight_no": "SQ462",
+    "aircraft_type": "A359M",
+    "ut_arrival_time": 1770873300,
+    "from_via": "Singapore",
+    "notes": "(FM 08 JAN )"
+  },
+  {
+    "id": "45090",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL307",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770874200,
+    "from_via": "Singapore",
+    "notes": "-"
+  },
+  {
+    "id": "45091",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL403",
+    "aircraft_type": "A32A",
+    "ut_arrival_time": 1770874200,
+    "from_via": "Bangkok Suvarnabhumi",
+    "notes": "-"
+  },
+  {
+    "id": "45092",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL122",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1770874500,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45093",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL132",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770875100,
+    "from_via": "Tiruchirappalli",
+    "notes": "-"
+  },
+  {
+    "id": "45094",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL162",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770875100,
+    "from_via": "Thiruvananthapuram",
+    "notes": "-"
+  },
+  {
+    "id": "45095",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL102",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770875400,
+    "from_via": "Male",
+    "notes": "-"
+  },
+  {
+    "id": "45096",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL1174",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1770875700,
+    "from_via": "Bangalore",
+    "notes": "-"
+  },
+  {
+    "id": "45097",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL166",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770875700,
+    "from_via": "Cochin",
+    "notes": "-"
+  },
+  {
+    "id": "45098",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1167",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770876000,
+    "from_via": "Bangalore",
+    "notes": "-"
+  },
+  {
+    "id": "45099",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL504",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770879600,
+    "from_via": "London/Heathrow",
+    "notes": "-"
+  },
+  {
+    "id": "45100",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1175",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770880500,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45101",
+    "airline": "Turkish Airlines",
+    "flight_no": "TK732",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1770882600,
+    "from_via": "Istanbul Ataturk",
+    "notes": "-"
+  },
+  {
+    "id": "45102",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1181",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770883800,
+    "from_via": "Hyderabad Intl",
+    "notes": "-"
+  },
+  {
+    "id": "45103",
+    "airline": "Air Arabia",
+    "flight_no": "G9508",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770884100,
+    "from_via": "Sharjah",
+    "notes": "-"
+  },
+  {
+    "id": "45104",
+    "airline": "Air India",
+    "flight_no": "AI2276",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1770888600,
+    "from_via": "Mumbai",
+    "notes": "-"
+  },
+  {
+    "id": "45105",
+    "airline": "Etihad Airways",
+    "flight_no": "EY390",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770889500,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "45106",
+    "airline": "Chongqing Airlines",
+    "flight_no": "OQ2393",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770891000,
+    "from_via": "Chongqing",
+    "notes": "(FM 15 JAN)"
+  },
+  {
+    "id": "45107",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL405",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1770891300,
+    "from_via": "Bangkok Suvarnabhumi",
+    "notes": "-"
+  },
+  {
+    "id": "45108",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL315",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1770891600,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "45109",
+    "airline": "Emirates",
+    "flight_no": "EK654",
+    "aircraft_type": "A350",
+    "ut_arrival_time": 1770891900,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45110",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL190",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770891900,
+    "from_via": "Dhaka",
+    "notes": "-"
+  },
+  {
+    "id": "45111",
+    "airline": "Air India",
+    "flight_no": "AI281",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1770892500,
+    "from_via": "Delhi",
+    "notes": "-"
+  },
+  {
+    "id": "45112",
+    "airline": "Air Astana",
+    "flight_no": "KC167",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1770892800,
+    "from_via": "Almaty International Airport",
+    "notes": "-"
+  },
+  {
+    "id": "45113",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL182",
+    "aircraft_type": "A32A",
+    "ut_arrival_time": 1770892800,
+    "from_via": "Kathmandu",
+    "notes": "-"
+  },
+  {
+    "id": "45114",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1179",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770893100,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45115",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ549",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1770893400,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45116",
+    "airline": "Qatar Airways",
+    "flight_no": "QR654",
+    "aircraft_type": "B789",
+    "ut_arrival_time": 1770894000,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "45117",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL154",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770895800,
+    "from_via": "Lahore",
+    "notes": "-"
+  },
+  {
+    "id": "45118",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL134",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770896400,
+    "from_via": "Tiruchirappalli",
+    "notes": "-"
+  },
+  {
+    "id": "45119",
+    "airline": "Fits Air",
+    "flight_no": "8D924",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770896700,
+    "from_via": "Male",
+    "notes": "(ETA 1830 FM 22 JAN)"
+  },
+  {
+    "id": "45120",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL128",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770896700,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45121",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL365",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1770897000,
+    "from_via": "Jakarta",
+    "notes": "-"
+  },
+  {
+    "id": "45122",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL116",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1770897600,
+    "from_via": "Male",
+    "notes": "-"
+  },
+  {
+    "id": "45123",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL455",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770897600,
+    "from_via": "Narita",
+    "notes": "-"
+  },
+  {
+    "id": "45124",
+    "airline": "Emirates",
+    "flight_no": "EK652",
+    "aircraft_type": "B77W",
+    "ut_arrival_time": 1770900900,
+    "from_via": "Dubai/Male",
+    "notes": "-"
+  },
+  {
+    "id": "45125",
+    "airline": "China Eastern",
+    "flight_no": "MU6017",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1770903000,
+    "from_via": "Shanghai",
+    "notes": "-"
+  },
+  {
+    "id": "45126",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1183",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770906300,
+    "from_via": "Bangalore",
+    "notes": "-"
+  },
+  {
+    "id": "45127",
+    "airline": "Etihad Airways",
+    "flight_no": "EY396",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770907800,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "45128",
+    "airline": "Air Arabia Abu Dhabi",
+    "flight_no": "3L708",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770908100,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "45129",
+    "airline": "Chongqing Airlines",
+    "flight_no": "OQ2394",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770910200,
+    "from_via": "Male",
+    "notes": "(FM 15 JAN)"
+  },
+  {
+    "id": "45130",
+    "airline": "Air China",
+    "flight_no": "CA425",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770910500,
+    "from_via": "Chengdu/Tianfu",
+    "notes": "-"
+  },
+  {
+    "id": "45131",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1173",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770910500,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45132",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL309",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770910800,
+    "from_via": "Singapore",
+    "notes": "-"
+  },
+  {
+    "id": "45133",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL184",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770912900,
+    "from_via": "Karachi",
+    "notes": "-"
+  },
+  {
+    "id": "45134",
+    "airline": "Air Asia Berhad",
+    "flight_no": "AK47",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770913200,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "45135",
+    "airline": "Emirates",
+    "flight_no": "EK648",
+    "aircraft_type": "B77W",
+    "ut_arrival_time": 1770913500,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45136",
+    "airline": "THAI AIR ASIA",
+    "flight_no": "FD140",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770913800,
+    "from_via": "Bangkok Don Mueang",
+    "notes": "-"
+  },
+  {
+    "id": "45137",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL196",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770914400,
+    "from_via": "Delhi",
+    "notes": "-"
+  },
+  {
+    "id": "45138",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL124",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770914700,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45139",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL605",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770915000,
+    "from_via": "Melbourne",
+    "notes": "-"
+  },
+  {
+    "id": "45140",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL176",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770916200,
+    "from_via": "Hyderabad Intl",
+    "notes": "-"
+  },
+  {
+    "id": "45141",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL104",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770916800,
+    "from_via": "Male",
+    "notes": "-"
+  },
+  {
+    "id": "45142",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL144",
+    "aircraft_type": "A32A",
+    "ut_arrival_time": 1770918300,
+    "from_via": "Mumbai",
+    "notes": "-"
+  },
+  {
+    "id": "45143",
+    "airline": "Cathay Pacific",
+    "flight_no": "CX611",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770919200,
+    "from_via": "Hong Kong",
+    "notes": "-"
+  },
+  {
+    "id": "45144",
+    "airline": "Singapore Airlines",
+    "flight_no": "SQ468",
+    "aircraft_type": "B787",
+    "ut_arrival_time": 1770919200,
+    "from_via": "Singapore",
+    "notes": "-"
+  },
+  {
+    "id": "45145",
+    "airline": "Malaysia Airlines",
+    "flight_no": "MH179",
+    "aircraft_type": "B738",
+    "ut_arrival_time": 1770919500,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "45146",
+    "airline": "China Eastern",
+    "flight_no": "MU713",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1770919800,
+    "from_via": "Kunming",
+    "notes": "(CANCELLED ON 08 JAN)"
+  },
+  {
+    "id": "45147",
+    "airline": "Thai Airways",
+    "flight_no": "TG307",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770921060,
+    "from_via": "Bangkok Suvarnabhumi",
+    "notes": "-"
+  },
+  {
+    "id": "45148",
+    "airline": "Fits Air",
+    "flight_no": "8D822",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770921300,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45149",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ569",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1770923700,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45150",
+    "airline": "THAI AIR ASIA",
+    "flight_no": "FD142",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770927300,
+    "from_via": "Bangkok Don Mueang",
+    "notes": "-"
+  },
+  {
+    "id": "45151",
+    "airline": "Kuwait Airways",
+    "flight_no": "KU363",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770927300,
+    "from_via": "Kuwait",
+    "notes": "-"
+  },
+  {
+    "id": "45152",
+    "airline": "Air Arabia",
+    "flight_no": "G9587",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770927600,
+    "from_via": "Sharjah",
+    "notes": "-"
+  },
+  {
+    "id": "45153",
+    "airline": "Qatar Airways",
+    "flight_no": "QR658",
+    "aircraft_type": "B789",
+    "ut_arrival_time": 1770927900,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "45154",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1171",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1770928200,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45155",
+    "airline": "Fits Air",
+    "flight_no": "8D932",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770929400,
+    "from_via": "Dhaka",
+    "notes": "(ETA 0305 FM 23 JAN)"
+  },
+  {
+    "id": "45156",
+    "airline": "Qatar Airways",
+    "flight_no": "QR662",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770930900,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "45157",
+    "airline": "Etihad Airways",
+    "flight_no": "EY394",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770931200,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "45158",
+    "airline": "Jazeera Airways",
+    "flight_no": "J9551",
+    "aircraft_type": "A32N",
+    "ut_arrival_time": 1770933600,
+    "from_via": "Kuwait",
+    "notes": "-"
+  },
+  {
+    "id": "45159",
+    "airline": "Air Arabia",
+    "flight_no": "G9502",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770933900,
+    "from_via": "Sharjah",
+    "notes": "-"
+  },
+  {
+    "id": "45160",
+    "airline": "Air Seychelles",
+    "flight_no": "HM262",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770934800,
+    "from_via": "Seychelles",
+    "notes": "-"
+  },
+  {
+    "id": "45161",
+    "airline": "Enter Air",
+    "flight_no": "E41477",
+    "aircraft_type": "B738",
+    "ut_arrival_time": 1770935400,
+    "from_via": "Gdansk Im Lecha Walesy/Ras Al Khaimah Intl",
+    "notes": "(ONLY ON 02 & 23 JAN)"
+  },
+  {
+    "id": "45162",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL407",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770936000,
+    "from_via": "Bangkok Suvarnabhumi",
+    "notes": "(CANCELLED ON 16 & 30 JAN)"
+  },
+  {
+    "id": "45163",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL226",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1770939000,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45164",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL881",
+    "aircraft_type": "A32A",
+    "ut_arrival_time": 1770939300,
+    "from_via": "Guangzhou Baiyun",
+    "notes": "-"
+  },
+  {
+    "id": "45165",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL142",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770941100,
+    "from_via": "Mumbai",
+    "notes": "-"
+  },
+  {
+    "id": "45166",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL218",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770942000,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "45167",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL254",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1770942900,
+    "from_via": "Dammam",
+    "notes": "-"
+  },
+  {
+    "id": "45168",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL230",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1770943500,
+    "from_via": "Kuwait",
+    "notes": "-"
+  },
+  {
+    "id": "45169",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL266",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770943500,
+    "from_via": "Riyadh",
+    "notes": "-"
+  },
+  {
+    "id": "45170",
+    "airline": "Turkish Airlines",
+    "flight_no": "TK730",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770943800,
+    "from_via": "Istanbul Ataturk",
+    "notes": "(ETA 0610 ON 02 JAN)"
+  },
+  {
+    "id": "45171",
+    "airline": "Air India",
+    "flight_no": "AI277",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1770947400,
+    "from_via": "Delhi",
+    "notes": "-"
+  },
+  {
+    "id": "45172",
+    "airline": "Enter Air",
+    "flight_no": "E41913",
+    "aircraft_type": "B738",
+    "ut_arrival_time": 1770948900,
+    "from_via": "Poznan/Ras Al Khaimah Intl",
+    "notes": "(ONLY ON 02 & 23 JAN)"
+  },
+  {
+    "id": "45173",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1185",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770950400,
+    "from_via": "Mumbai",
+    "notes": "-"
+  },
+  {
+    "id": "45174",
+    "airline": "Etihad Airways",
+    "flight_no": "EY392",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770950700,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "45175",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ579",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1770950700,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45176",
+    "airline": "Emirates",
+    "flight_no": "EK650",
+    "aircraft_type": "B77W",
+    "ut_arrival_time": 1770951000,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45177",
+    "airline": "Qatar Airways",
+    "flight_no": "QR664",
+    "aircraft_type": "B788",
+    "ut_arrival_time": 1770952500,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "45178",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL192",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770952500,
+    "from_via": "Delhi",
+    "notes": "-"
+  },
+  {
+    "id": "45179",
+    "airline": "Air Asia Berhad",
+    "flight_no": "AK45",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770954900,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "45180",
+    "airline": "Enter Air",
+    "flight_no": "E47607",
+    "aircraft_type": "B738",
+    "ut_arrival_time": 1770955200,
+    "from_via": "Katowice Intl/Ras Al Khaimah Intl",
+    "notes": "(ONLY ON 02 & 23 JAN)"
+  },
+  {
+    "id": "45181",
+    "airline": "Gulf Air",
+    "flight_no": "GF144",
+    "aircraft_type": "A32N",
+    "ut_arrival_time": 1770956100,
+    "from_via": "Bahrain/Male",
+    "notes": "-"
+  },
+  {
+    "id": "45182",
+    "airline": "Qatar Airways",
+    "flight_no": "QR660",
+    "aircraft_type": "B789",
+    "ut_arrival_time": 1770956100,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "45183",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL319",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1770956100,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "45184",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ1025",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1770957900,
+    "from_via": "Dubai/Male",
+    "notes": "-"
+  },
+  {
+    "id": "45185",
+    "airline": "Fits Air",
+    "flight_no": "8D922",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770958500,
+    "from_via": "Male",
+    "notes": "-"
+  },
+  {
+    "id": "45186",
+    "airline": "Aeroflot",
+    "flight_no": "SU288",
+    "aircraft_type": "B77W",
+    "ut_arrival_time": 1770958800,
+    "from_via": "Sheremetyevo",
+    "notes": "-"
+  },
+  {
+    "id": "45187",
+    "airline": "Enter Air",
+    "flight_no": "E41561",
+    "aircraft_type": "B738",
+    "ut_arrival_time": 1770958800,
+    "from_via": "Warsaw Chopin Intl/Ras Al Khaimah Intl",
+    "notes": "(ONLY ON 02 & 23 JAN)"
+  },
+  {
+    "id": "45188",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL307",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770960600,
+    "from_via": "Singapore",
+    "notes": "-"
+  },
+  {
+    "id": "45189",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL403",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770960600,
+    "from_via": "Bangkok Suvarnabhumi",
+    "notes": "-"
+  },
+  {
+    "id": "45190",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL122",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770960900,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45191",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL138",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770961200,
+    "from_via": "Madurai",
+    "notes": "-"
+  },
+  {
+    "id": "45192",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL162",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770961500,
+    "from_via": "Thiruvananthapuram",
+    "notes": "-"
+  },
+  {
+    "id": "45193",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL102",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770961800,
+    "from_via": "Male",
+    "notes": "-"
+  },
+  {
+    "id": "45194",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL1174",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1770962100,
+    "from_via": "Bangalore",
+    "notes": "-"
+  },
+  {
+    "id": "45195",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1167",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770962400,
+    "from_via": "Bangalore",
+    "notes": "-"
+  },
+  {
+    "id": "45196",
+    "airline": "Fits Air",
+    "flight_no": "8D722",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770963600,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "45197",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL504",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1770966000,
+    "from_via": "London/Heathrow",
+    "notes": "-"
+  },
+  {
+    "id": "45198",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1175",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770966900,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45199",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1181",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770970200,
+    "from_via": "Hyderabad Intl",
+    "notes": "-"
+  },
+  {
+    "id": "45200",
+    "airline": "Air Arabia",
+    "flight_no": "G9508",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770970500,
+    "from_via": "Sharjah",
+    "notes": "-"
+  },
+  {
+    "id": "45201",
+    "airline": "Air India",
+    "flight_no": "AI2276",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1770975000,
+    "from_via": "Mumbai",
+    "notes": "-"
+  },
+  {
+    "id": "45202",
+    "airline": "Etihad Airways",
+    "flight_no": "EY390",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770975900,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "45203",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL178",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1770976500,
+    "from_via": "Hyderabad Intl",
+    "notes": "-"
+  },
+  {
+    "id": "45204",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL405",
+    "aircraft_type": "A32A",
+    "ut_arrival_time": 1770977700,
+    "from_via": "Bangkok Suvarnabhumi",
+    "notes": "-"
+  },
+  {
+    "id": "45205",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL315",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1770978000,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "45206",
+    "airline": "Emirates",
+    "flight_no": "EK654",
+    "aircraft_type": "A350",
+    "ut_arrival_time": 1770978300,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45207",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL190",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1770978300,
+    "from_via": "Dhaka",
+    "notes": "-"
+  },
+  {
+    "id": "45208",
+    "airline": "Air India",
+    "flight_no": "AI281",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1770978900,
+    "from_via": "Delhi",
+    "notes": "-"
+  },
+  {
+    "id": "45209",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1179",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770979500,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45210",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ549",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1770979800,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45211",
+    "airline": "Qatar Airways",
+    "flight_no": "QR654",
+    "aircraft_type": "B789",
+    "ut_arrival_time": 1770980400,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "45212",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL134",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770982800,
+    "from_via": "Tiruchirappalli",
+    "notes": "-"
+  },
+  {
+    "id": "45213",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL128",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770983100,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45214",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL365",
+    "aircraft_type": "A32A",
+    "ut_arrival_time": 1770983400,
+    "from_via": "Jakarta",
+    "notes": "(CANCELLED ON 16 & 30 JAN)"
+  },
+  {
+    "id": "45215",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL168",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770983700,
+    "from_via": "Cochin",
+    "notes": "-"
+  },
+  {
+    "id": "45216",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL116",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770984000,
+    "from_via": "Male",
+    "notes": "-"
+  },
+  {
+    "id": "45217",
+    "airline": "Emirates",
+    "flight_no": "EK652",
+    "aircraft_type": "B77W",
+    "ut_arrival_time": 1770987300,
+    "from_via": "Dubai/Male",
+    "notes": "-"
+  },
+  {
+    "id": "45218",
+    "airline": "China Eastern",
+    "flight_no": "MU6017",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1770989400,
+    "from_via": "Shanghai",
+    "notes": "-"
+  },
+  {
+    "id": "45219",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1183",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770992700,
+    "from_via": "Bangalore",
+    "notes": "-"
+  },
+  {
+    "id": "45220",
+    "airline": "Etihad Airways",
+    "flight_no": "EY396",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770994200,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "45221",
+    "airline": "Air China",
+    "flight_no": "CA425",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770996900,
+    "from_via": "Chengdu/Tianfu",
+    "notes": "-"
+  },
+  {
+    "id": "45222",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1173",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770996900,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45223",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL309",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1770997200,
+    "from_via": "Singapore",
+    "notes": "-"
+  },
+  {
+    "id": "45224",
+    "airline": "Air Asia Berhad",
+    "flight_no": "AK47",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1770999600,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "45225",
+    "airline": "Emirates",
+    "flight_no": "EK648",
+    "aircraft_type": "B77W",
+    "ut_arrival_time": 1770999900,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45226",
+    "airline": "THAI AIR ASIA",
+    "flight_no": "FD140",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771000200,
+    "from_via": "Bangkok Don Mueang",
+    "notes": "-"
+  },
+  {
+    "id": "45227",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL196",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771000800,
+    "from_via": "Delhi",
+    "notes": "-"
+  },
+  {
+    "id": "45228",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL124",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771001100,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45229",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL605",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1771001400,
+    "from_via": "Melbourne",
+    "notes": "-"
+  },
+  {
+    "id": "45230",
+    "airline": "Malaysia Airlines",
+    "flight_no": "MH7085",
+    "aircraft_type": "B738",
+    "ut_arrival_time": 1771002300,
+    "from_via": "Kuala Lumpur",
+    "notes": "(ONLY ON 02 & 09 JAN)"
+  },
+  {
+    "id": "45231",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL607",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1771002900,
+    "from_via": "Sydney",
+    "notes": "-"
+  },
+  {
+    "id": "45232",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL104",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771003200,
+    "from_via": "Male",
+    "notes": "-"
+  },
+  {
+    "id": "45233",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL172",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771003200,
+    "from_via": "Bangalore",
+    "notes": "-"
+  },
+  {
+    "id": "45234",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL144",
+    "aircraft_type": "A32A",
+    "ut_arrival_time": 1771004700,
+    "from_via": "Mumbai",
+    "notes": "-"
+  },
+  {
+    "id": "45235",
+    "airline": "Cathay Pacific",
+    "flight_no": "CX611",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1771005600,
+    "from_via": "Hong Kong",
+    "notes": "-"
+  },
+  {
+    "id": "45236",
+    "airline": "Singapore Airlines",
+    "flight_no": "SQ468",
+    "aircraft_type": "B787",
+    "ut_arrival_time": 1771005600,
+    "from_via": "Singapore",
+    "notes": "-"
+  },
+  {
+    "id": "45237",
+    "airline": "Malaysia Airlines",
+    "flight_no": "MH179",
+    "aircraft_type": "B738",
+    "ut_arrival_time": 1771005900,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "45238",
+    "airline": "China Eastern",
+    "flight_no": "MU713",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1771006200,
+    "from_via": "Kunming",
+    "notes": "-"
+  },
+  {
+    "id": "45239",
+    "airline": "Thai Airways",
+    "flight_no": "TG307",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771007460,
+    "from_via": "Bangkok Suvarnabhumi",
+    "notes": "-"
+  },
+  {
+    "id": "45240",
+    "airline": "Fits Air",
+    "flight_no": "8D822",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771007700,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45241",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL232",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771008000,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45242",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ569",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1771010100,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45243",
+    "airline": "Kuwait Airways",
+    "flight_no": "KU363",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771013700,
+    "from_via": "Kuwait",
+    "notes": "-"
+  },
+  {
+    "id": "45244",
+    "airline": "Air Arabia",
+    "flight_no": "G9587",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771014000,
+    "from_via": "Sharjah",
+    "notes": "-"
+  },
+  {
+    "id": "45245",
+    "airline": "Qatar Airways",
+    "flight_no": "QR658",
+    "aircraft_type": "B789",
+    "ut_arrival_time": 1771014300,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "45246",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1171",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1771014600,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45247",
+    "airline": "Fits Air",
+    "flight_no": "8D932",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771015800,
+    "from_via": "Dhaka",
+    "notes": "(ETA 0305 FM 17 JAN)"
+  },
+  {
+    "id": "45248",
+    "airline": "Qatar Airways",
+    "flight_no": "QR662",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1771017300,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "45249",
+    "airline": "Etihad Airways",
+    "flight_no": "EY394",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771017600,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "45250",
+    "airline": "Jazeera Airways",
+    "flight_no": "J9551",
+    "aircraft_type": "A32N",
+    "ut_arrival_time": 1771020000,
+    "from_via": "Kuwait",
+    "notes": "-"
+  },
+  {
+    "id": "45251",
+    "airline": "Air Arabia",
+    "flight_no": "G9502",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771020300,
+    "from_via": "Sharjah",
+    "notes": "-"
+  },
+  {
+    "id": "45252",
+    "airline": "Salam Air",
+    "flight_no": "OV437",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771021200,
+    "from_via": "Muscat",
+    "notes": "-"
+  },
+  {
+    "id": "45253",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL407",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771022400,
+    "from_via": "Bangkok Suvarnabhumi",
+    "notes": "(ONLY ON 03 JAN)"
+  },
+  {
+    "id": "45254",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ561",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1771024500,
+    "from_via": "Dubai",
+    "notes": "(ONLY ON 03 & 10 JAN)"
+  },
+  {
+    "id": "45255",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL226",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1771025400,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45256",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL174",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771025700,
+    "from_via": "Bangalore",
+    "notes": "-"
+  },
+  {
+    "id": "45257",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL564",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1771026900,
+    "from_via": "Paris Charles de Gaulle",
+    "notes": "-"
+  },
+  {
+    "id": "45258",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL142",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771027500,
+    "from_via": "Mumbai",
+    "notes": "-"
+  },
+  {
+    "id": "45259",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL558",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1771027800,
+    "from_via": "Frankfurt Main",
+    "notes": "-"
+  },
+  {
+    "id": "45260",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL218",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1771028400,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "45261",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL254",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1771029300,
+    "from_via": "Dammam",
+    "notes": "-"
+  },
+  {
+    "id": "45262",
+    "airline": "Turkish Airlines",
+    "flight_no": "TK730",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1771029600,
+    "from_via": "Istanbul Ataturk",
+    "notes": "-"
+  },
+  {
+    "id": "45263",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL230",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1771029900,
+    "from_via": "Kuwait",
+    "notes": "-"
+  },
+  {
+    "id": "45264",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL266",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1771029900,
+    "from_via": "Riyadh",
+    "notes": "-"
+  },
+  {
+    "id": "45265",
+    "airline": "Air India",
+    "flight_no": "AI277",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1771033800,
+    "from_via": "Delhi",
+    "notes": "-"
+  },
+  {
+    "id": "45266",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1185",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771036800,
+    "from_via": "Mumbai",
+    "notes": "-"
+  },
+  {
+    "id": "45267",
+    "airline": "Etihad Airways",
+    "flight_no": "EY392",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771037100,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "45268",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ579",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1771037100,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45269",
+    "airline": "Emirates",
+    "flight_no": "EK650",
+    "aircraft_type": "B77W",
+    "ut_arrival_time": 1771037400,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45270",
+    "airline": "Qatar Airways",
+    "flight_no": "QR664",
+    "aircraft_type": "B788",
+    "ut_arrival_time": 1771038900,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "45271",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL192",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771038900,
+    "from_via": "Delhi",
+    "notes": "-"
+  },
+  {
+    "id": "45272",
+    "airline": "Air Asia Berhad",
+    "flight_no": "AK45",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771041300,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "45273",
+    "airline": "Gulf Air",
+    "flight_no": "GF144",
+    "aircraft_type": "A32N",
+    "ut_arrival_time": 1771042500,
+    "from_via": "Bahrain/Male",
+    "notes": "-"
+  },
+  {
+    "id": "45274",
+    "airline": "Qatar Airways",
+    "flight_no": "QR660",
+    "aircraft_type": "B789",
+    "ut_arrival_time": 1771042500,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "45275",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL319",
+    "aircraft_type": "A32A",
+    "ut_arrival_time": 1771042500,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "45276",
+    "airline": "Gulf Air",
+    "flight_no": "GF2144",
+    "aircraft_type": "A32N",
+    "ut_arrival_time": 1771043100,
+    "from_via": "Bahrain/Male",
+    "notes": "(ONLY ON 03 JAN)"
+  },
+  {
+    "id": "45277",
+    "airline": "Edelweiss Air",
+    "flight_no": "WK64",
+    "aircraft_type": "A343",
+    "ut_arrival_time": 1771044300,
+    "from_via": "Zurich Intl",
+    "notes": "-"
+  },
+  {
+    "id": "45278",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ1025",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1771044300,
+    "from_via": "Dubai/Male",
+    "notes": "-"
+  },
+  {
+    "id": "45279",
+    "airline": "Fits Air",
+    "flight_no": "8D922",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771044900,
+    "from_via": "Male",
+    "notes": "-"
+  },
+  {
+    "id": "45280",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL152",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771046400,
+    "from_via": "Karachi",
+    "notes": "-"
+  },
+  {
+    "id": "45281",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL307",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771047000,
+    "from_via": "Singapore",
+    "notes": "(ETA 1030 ON 31 JAN)"
+  },
+  {
+    "id": "45282",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL403",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771047000,
+    "from_via": "Bangkok Suvarnabhumi",
+    "notes": "-"
+  },
+  {
+    "id": "45283",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL122",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1771047300,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45284",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL132",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1771047900,
+    "from_via": "Tiruchirappalli",
+    "notes": "-"
+  },
+  {
+    "id": "45285",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL102",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1771048200,
+    "from_via": "Male",
+    "notes": "-"
+  },
+  {
+    "id": "45286",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL1174",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771048500,
+    "from_via": "Bangalore",
+    "notes": "-"
+  },
+  {
+    "id": "45287",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL166",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771048500,
+    "from_via": "Cochin",
+    "notes": "-"
+  },
+  {
+    "id": "45288",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1167",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771048800,
+    "from_via": "Bangalore",
+    "notes": "-"
+  },
+  {
+    "id": "45289",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL504",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1771052400,
+    "from_via": "London/Heathrow",
+    "notes": "-"
+  },
+  {
+    "id": "45290",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1175",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771053300,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45291",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1181",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771056600,
+    "from_via": "Hyderabad Intl",
+    "notes": "-"
+  },
+  {
+    "id": "45292",
+    "airline": "Air Arabia",
+    "flight_no": "G9508",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771056900,
+    "from_via": "Sharjah",
+    "notes": "-"
+  },
+  {
+    "id": "45293",
+    "airline": "Air India",
+    "flight_no": "AI2276",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1771061400,
+    "from_via": "Mumbai",
+    "notes": "-"
+  },
+  {
+    "id": "45294",
+    "airline": "Etihad Airways",
+    "flight_no": "EY390",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771062300,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "45295",
+    "airline": "Chongqing Airlines",
+    "flight_no": "OQ2393",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771063800,
+    "from_via": "Chongqing",
+    "notes": "(FM 10 JAN)"
+  },
+  {
+    "id": "45296",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL315",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771064400,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "45297",
+    "airline": "Emirates",
+    "flight_no": "EK654",
+    "aircraft_type": "A350",
+    "ut_arrival_time": 1771064700,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45298",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL190",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1771064700,
+    "from_via": "Dhaka",
+    "notes": "-"
+  },
+  {
+    "id": "45299",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL405",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1771064700,
+    "from_via": "Bangkok Suvarnabhumi",
+    "notes": "-"
+  },
+  {
+    "id": "45300",
+    "airline": "Air India",
+    "flight_no": "AI281",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1771065300,
+    "from_via": "Delhi",
+    "notes": "-"
+  },
+  {
+    "id": "45301",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1179",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771065900,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45302",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ549",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1771066200,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45303",
+    "airline": "Qatar Airways",
+    "flight_no": "QR654",
+    "aircraft_type": "B789",
+    "ut_arrival_time": 1771066800,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "45304",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL140",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771067100,
+    "from_via": "Madurai",
+    "notes": "-"
+  },
+  {
+    "id": "45305",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL120",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1771068600,
+    "from_via": "Gan Intl",
+    "notes": "-"
+  },
+  {
+    "id": "45306",
+    "airline": "Fits Air",
+    "flight_no": "8D924",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771069500,
+    "from_via": "Male",
+    "notes": "(ETA 1830 FM 17 JAN)"
+  },
+  {
+    "id": "45307",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL128",
+    "aircraft_type": "A32A",
+    "ut_arrival_time": 1771069500,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45308",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL365",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1771069800,
+    "from_via": "Jakarta",
+    "notes": "-"
+  },
+  {
+    "id": "45309",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL116",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1771070400,
+    "from_via": "Male",
+    "notes": "-"
+  },
+  {
+    "id": "45310",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL455",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1771070400,
+    "from_via": "Narita",
+    "notes": "-"
+  },
+  {
+    "id": "45311",
+    "airline": "Emirates",
+    "flight_no": "EK652",
+    "aircraft_type": "B77W",
+    "ut_arrival_time": 1771073700,
+    "from_via": "Dubai/Male",
+    "notes": "-"
+  },
+  {
+    "id": "45312",
+    "airline": "China Eastern",
+    "flight_no": "MU6017",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1771075800,
+    "from_via": "Shanghai",
+    "notes": "-"
+  },
+  {
+    "id": "45313",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1183",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771079100,
+    "from_via": "Bangalore",
+    "notes": "-"
+  },
+  {
+    "id": "45314",
+    "airline": "Etihad Airways",
+    "flight_no": "EY396",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771080600,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "45315",
+    "airline": "Air Arabia Abu Dhabi",
+    "flight_no": "3L708",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771080900,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "45316",
+    "airline": "Chongqing Airlines",
+    "flight_no": "OQ2394",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771083000,
+    "from_via": "Male",
+    "notes": "(FM 10 JAN)"
+  },
+  {
+    "id": "45317",
+    "airline": "Air China",
+    "flight_no": "CA425",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771083300,
+    "from_via": "Chengdu/Tianfu",
+    "notes": "-"
+  },
+  {
+    "id": "45318",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1173",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771083300,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45319",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL309",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1771083600,
+    "from_via": "Singapore",
+    "notes": "-"
+  },
+  {
+    "id": "45320",
+    "airline": "Air Asia Berhad",
+    "flight_no": "AK47",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771086000,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "45321",
+    "airline": "Emirates",
+    "flight_no": "EK648",
+    "aircraft_type": "B77W",
+    "ut_arrival_time": 1771086300,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45322",
+    "airline": "THAI AIR ASIA",
+    "flight_no": "FD140",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771086600,
+    "from_via": "Bangkok Don Mueang",
+    "notes": "-"
+  },
+  {
+    "id": "45323",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL196",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771087200,
+    "from_via": "Delhi",
+    "notes": "-"
+  },
+  {
+    "id": "45324",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL124",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771087500,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45325",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL605",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1771087800,
+    "from_via": "Melbourne",
+    "notes": "-"
+  },
+  {
+    "id": "45326",
+    "airline": "Malaysia Airlines",
+    "flight_no": "MH7085",
+    "aircraft_type": "B738",
+    "ut_arrival_time": 1771088700,
+    "from_via": "Kuala Lumpur",
+    "notes": "(ONLY ON 03 & 10 JAN)"
+  },
+  {
+    "id": "45327",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL176",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771089000,
+    "from_via": "Hyderabad Intl",
+    "notes": "(ONLY ON 03 JAN)"
+  },
+  {
+    "id": "45328",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL607",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1771089300,
+    "from_via": "Sydney",
+    "notes": "-"
+  },
+  {
+    "id": "45329",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL104",
+    "aircraft_type": "A32A",
+    "ut_arrival_time": 1771089600,
+    "from_via": "Male",
+    "notes": "-"
+  },
+  {
+    "id": "45330",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL144",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771091100,
+    "from_via": "Mumbai",
+    "notes": "-"
+  },
+  {
+    "id": "45331",
+    "airline": "Cathay Pacific",
+    "flight_no": "CX611",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1771092000,
+    "from_via": "Hong Kong",
+    "notes": "-"
+  },
+  {
+    "id": "45332",
+    "airline": "Singapore Airlines",
+    "flight_no": "SQ468",
+    "aircraft_type": "B787",
+    "ut_arrival_time": 1771092000,
+    "from_via": "Singapore",
+    "notes": "-"
+  },
+  {
+    "id": "45333",
+    "airline": "Malaysia Airlines",
+    "flight_no": "MH179",
+    "aircraft_type": "B738",
+    "ut_arrival_time": 1771092300,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "45334",
+    "airline": "China Eastern",
+    "flight_no": "MU713",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1771092600,
+    "from_via": "Kunming",
+    "notes": "(FM 17 JAN)"
+  },
+  {
+    "id": "45335",
+    "airline": "Thai Airways",
+    "flight_no": "TG307",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771093860,
+    "from_via": "Bangkok Suvarnabhumi",
+    "notes": "-"
+  },
+  {
+    "id": "45336",
+    "airline": "Fits Air",
+    "flight_no": "8D822",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771094100,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45337",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ569",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1771096500,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45338",
+    "airline": "THAI AIR ASIA",
+    "flight_no": "FD142",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771100100,
+    "from_via": "Bangkok Don Mueang",
+    "notes": "-"
+  },
+  {
+    "id": "45339",
+    "airline": "Air Arabia",
+    "flight_no": "G9587",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771100400,
+    "from_via": "Sharjah",
+    "notes": "-"
+  },
+  {
+    "id": "45340",
+    "airline": "Qatar Airways",
+    "flight_no": "QR658",
+    "aircraft_type": "B789",
+    "ut_arrival_time": 1771100700,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "45341",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1171",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1771101000,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45342",
+    "airline": "Fits Air",
+    "flight_no": "8D932",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771102200,
+    "from_via": "Dhaka",
+    "notes": "(ETA 0305 FM 18 JAN)"
+  },
+  {
+    "id": "45343",
+    "airline": "Qatar Airways",
+    "flight_no": "QR662",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1771103700,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "45344",
+    "airline": "Etihad Airways",
+    "flight_no": "EY394",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771104000,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "45345",
+    "airline": "Jazeera Airways",
+    "flight_no": "J9551",
+    "aircraft_type": "A32N",
+    "ut_arrival_time": 1771106400,
+    "from_via": "Kuwait",
+    "notes": "-"
+  },
+  {
+    "id": "45346",
+    "airline": "Air Arabia",
+    "flight_no": "G9502",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771106700,
+    "from_via": "Sharjah",
+    "notes": "-"
+  },
+  {
+    "id": "45347",
+    "airline": "Salam Air",
+    "flight_no": "OV437",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771107600,
+    "from_via": "Muscat",
+    "notes": "-"
+  },
+  {
+    "id": "45348",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ565",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1771109400,
+    "from_via": "Dubai",
+    "notes": "(ONLY ON 04 & 11 JAN)"
+  },
+  {
+    "id": "45349",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL506",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1771109700,
+    "from_via": "London/Heathrow",
+    "notes": "-"
+  },
+  {
+    "id": "45350",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL226",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1771111800,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45351",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL881",
+    "aircraft_type": "A32A",
+    "ut_arrival_time": 1771112100,
+    "from_via": "Guangzhou Baiyun",
+    "notes": "-"
+  },
+  {
+    "id": "45352",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL142",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771113900,
+    "from_via": "Mumbai",
+    "notes": "-"
+  },
+  {
+    "id": "45353",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL218",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771114800,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "45354",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL254",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1771115700,
+    "from_via": "Dammam",
+    "notes": "-"
+  },
+  {
+    "id": "45355",
+    "airline": "Turkish Airlines",
+    "flight_no": "TK730",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1771116000,
+    "from_via": "Istanbul Ataturk",
+    "notes": "-"
+  },
+  {
+    "id": "45356",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL230",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1771116300,
+    "from_via": "Kuwait",
+    "notes": "-"
+  },
+  {
+    "id": "45357",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL266",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1771116300,
+    "from_via": "Riyadh",
+    "notes": "-"
+  },
+  {
+    "id": "45358",
+    "airline": "Air India",
+    "flight_no": "AI277",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1771120200,
+    "from_via": "Delhi",
+    "notes": "-"
+  },
+  {
+    "id": "45359",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1185",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771123200,
+    "from_via": "Mumbai",
+    "notes": "-"
+  },
+  {
+    "id": "45360",
+    "airline": "Etihad Airways",
+    "flight_no": "EY392",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771123500,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "45361",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ579",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1771123500,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45362",
+    "airline": "Emirates",
+    "flight_no": "EK650",
+    "aircraft_type": "B77W",
+    "ut_arrival_time": 1771123800,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45363",
+    "airline": "Qatar Airways",
+    "flight_no": "QR664",
+    "aircraft_type": "B788",
+    "ut_arrival_time": 1771125300,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "45364",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL192",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771125300,
+    "from_via": "Delhi",
+    "notes": "-"
+  },
+  {
+    "id": "45365",
+    "airline": "Air Asia Berhad",
+    "flight_no": "AK45",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771127700,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "45366",
+    "airline": "Gulf Air",
+    "flight_no": "GF144",
+    "aircraft_type": "A32N",
+    "ut_arrival_time": 1771128900,
+    "from_via": "Bahrain/Male",
+    "notes": "-"
+  },
+  {
+    "id": "45367",
+    "airline": "Qatar Airways",
+    "flight_no": "QR660",
+    "aircraft_type": "B789",
+    "ut_arrival_time": 1771128900,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "45368",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL319",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771128900,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "45369",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ1025",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1771130700,
+    "from_via": "Dubai/Male",
+    "notes": "-"
+  },
+  {
+    "id": "45370",
+    "airline": "Fits Air",
+    "flight_no": "8D922",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771131300,
+    "from_via": "Male",
+    "notes": "-"
+  },
+  {
+    "id": "45371",
+    "airline": "Aeroflot",
+    "flight_no": "SU288",
+    "aircraft_type": "B77W",
+    "ut_arrival_time": 1771131600,
+    "from_via": "Sheremetyevo",
+    "notes": "-"
+  },
+  {
+    "id": "45372",
+    "airline": "Singapore Airlines",
+    "flight_no": "SQ462",
+    "aircraft_type": "A359M",
+    "ut_arrival_time": 1771132500,
+    "from_via": "Singapore",
+    "notes": "(FM 11 JAN)"
+  },
+  {
+    "id": "45373",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL307",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771133400,
+    "from_via": "Singapore",
+    "notes": "-"
+  },
+  {
+    "id": "45374",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL403",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771133400,
+    "from_via": "Bangkok Suvarnabhumi",
+    "notes": "-"
+  },
+  {
+    "id": "45375",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL122",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1771133700,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45376",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL132",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1771134300,
+    "from_via": "Tiruchirappalli",
+    "notes": "-"
+  },
+  {
+    "id": "45377",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL102",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1771134600,
+    "from_via": "Male",
+    "notes": "-"
+  },
+  {
+    "id": "45378",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL166",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771134900,
+    "from_via": "Cochin",
+    "notes": "-"
+  },
+  {
+    "id": "45379",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1167",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771135200,
+    "from_via": "Bangalore",
+    "notes": "-"
+  },
+  {
+    "id": "45380",
+    "airline": "Fits Air",
+    "flight_no": "8D722",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771136400,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "45381",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL504",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1771138800,
+    "from_via": "London/Heathrow",
+    "notes": "-"
+  },
+  {
+    "id": "45382",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1175",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771139700,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45383",
+    "airline": "Turkish Airlines",
+    "flight_no": "TK732",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1771141800,
+    "from_via": "Istanbul Ataturk",
+    "notes": "-"
+  },
+  {
+    "id": "45384",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1181",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771143000,
+    "from_via": "Hyderabad Intl",
+    "notes": "-"
+  },
+  {
+    "id": "45385",
+    "airline": "Air Arabia",
+    "flight_no": "G9508",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771143300,
+    "from_via": "Sharjah",
+    "notes": "-"
+  },
+  {
+    "id": "45386",
+    "airline": "Air India",
+    "flight_no": "AI2276",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1771147800,
+    "from_via": "Mumbai",
+    "notes": "-"
+  },
+  {
+    "id": "45387",
+    "airline": "Etihad Airways",
+    "flight_no": "EY390",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771148700,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "45388",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL178",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771149300,
+    "from_via": "Hyderabad Intl",
+    "notes": "-"
+  },
+  {
+    "id": "45389",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL315",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1771150800,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "45390",
+    "airline": "Emirates",
+    "flight_no": "EK654",
+    "aircraft_type": "A350",
+    "ut_arrival_time": 1771151100,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45391",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL190",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771151100,
+    "from_via": "Dhaka",
+    "notes": "-"
+  },
+  {
+    "id": "45392",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL405",
+    "aircraft_type": "A32A",
+    "ut_arrival_time": 1771151100,
+    "from_via": "Bangkok Suvarnabhumi",
+    "notes": "-"
+  },
+  {
+    "id": "45393",
+    "airline": "Air India",
+    "flight_no": "AI281",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1771151700,
+    "from_via": "Delhi",
+    "notes": "-"
+  },
+  {
+    "id": "45394",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL182",
+    "aircraft_type": "A32A",
+    "ut_arrival_time": 1771152000,
+    "from_via": "Kathmandu",
+    "notes": "-"
+  },
+  {
+    "id": "45395",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1179",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771152300,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45396",
+    "airline": "Fly Dubai",
+    "flight_no": "FZ549",
+    "aircraft_type": "B737",
+    "ut_arrival_time": 1771152600,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45397",
+    "airline": "Qatar Airways",
+    "flight_no": "QR654",
+    "aircraft_type": "B789",
+    "ut_arrival_time": 1771153200,
+    "from_via": "Doha",
+    "notes": "-"
+  },
+  {
+    "id": "45398",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL140",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771153500,
+    "from_via": "Madurai",
+    "notes": "-"
+  },
+  {
+    "id": "45399",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL128",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1771155900,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45400",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL365",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1771156200,
+    "from_via": "Jakarta",
+    "notes": "-"
+  },
+  {
+    "id": "45401",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL116",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771156800,
+    "from_via": "Male",
+    "notes": "-"
+  },
+  {
+    "id": "45402",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL455",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1771156800,
+    "from_via": "Narita",
+    "notes": "-"
+  },
+  {
+    "id": "45403",
+    "airline": "Emirates",
+    "flight_no": "EK652",
+    "aircraft_type": "B77W",
+    "ut_arrival_time": 1771160100,
+    "from_via": "Dubai/Male",
+    "notes": "-"
+  },
+  {
+    "id": "45404",
+    "airline": "China Eastern",
+    "flight_no": "MU6017",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1771162200,
+    "from_via": "Shanghai",
+    "notes": "-"
+  },
+  {
+    "id": "45405",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1183",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771165500,
+    "from_via": "Bangalore",
+    "notes": "-"
+  },
+  {
+    "id": "45406",
+    "airline": "Etihad Airways",
+    "flight_no": "EY396",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771167000,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "45407",
+    "airline": "Air Arabia Abu Dhabi",
+    "flight_no": "3L708",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771167300,
+    "from_via": "Abu Dhabi",
+    "notes": "-"
+  },
+  {
+    "id": "45408",
+    "airline": "Air China",
+    "flight_no": "CA425",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771169700,
+    "from_via": "Chengdu/Tianfu",
+    "notes": "-"
+  },
+  {
+    "id": "45409",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1173",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771169700,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45410",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL309",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1771170000,
+    "from_via": "Singapore",
+    "notes": "-"
+  },
+  {
+    "id": "45411",
+    "airline": "Air Asia Berhad",
+    "flight_no": "AK47",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771172400,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "45412",
+    "airline": "Emirates",
+    "flight_no": "EK648",
+    "aircraft_type": "B77W",
+    "ut_arrival_time": 1771172700,
+    "from_via": "Dubai",
+    "notes": "-"
+  },
+  {
+    "id": "45413",
+    "airline": "THAI AIR ASIA",
+    "flight_no": "FD140",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771173000,
+    "from_via": "Bangkok Don Mueang",
+    "notes": "-"
+  },
+  {
+    "id": "45414",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL196",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771173600,
+    "from_via": "Delhi",
+    "notes": "-"
+  },
+  {
+    "id": "45415",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL124",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771173900,
+    "from_via": "Chennai",
+    "notes": "-"
+  },
+  {
+    "id": "45416",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL186",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771173900,
+    "from_via": "Lahore",
+    "notes": "-"
+  },
+  {
+    "id": "45417",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL605",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1771174200,
+    "from_via": "Melbourne",
+    "notes": "-"
+  },
+  {
+    "id": "45418",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL607",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1771175700,
+    "from_via": "Sydney",
+    "notes": "-"
+  },
+  {
+    "id": "45419",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL104",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771176000,
+    "from_via": "Male",
+    "notes": "-"
+  },
+  {
+    "id": "45420",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL172",
+    "aircraft_type": "A32A",
+    "ut_arrival_time": 1771176000,
+    "from_via": "Bangalore",
+    "notes": "-"
+  },
+  {
+    "id": "45421",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL144",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1771177500,
+    "from_via": "Mumbai",
+    "notes": "-"
+  },
+  {
+    "id": "45422",
+    "airline": "Cathay Pacific",
+    "flight_no": "CX611",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1771178400,
+    "from_via": "Hong Kong",
+    "notes": "-"
+  },
+  {
+    "id": "45423",
+    "airline": "Singapore Airlines",
+    "flight_no": "SQ468",
+    "aircraft_type": "B787",
+    "ut_arrival_time": 1771178400,
+    "from_via": "Singapore",
+    "notes": "-"
+  },
+  {
+    "id": "45424",
+    "airline": "Malaysia Airlines",
+    "flight_no": "MH179",
+    "aircraft_type": "B738",
+    "ut_arrival_time": 1771178700,
+    "from_via": "Kuala Lumpur",
+    "notes": "-"
+  },
+  {
+    "id": "45425",
+    "airline": "China Eastern",
+    "flight_no": "MU713",
+    "aircraft_type": "A332",
+    "ut_arrival_time": 1771179000,
+    "from_via": "Kunming",
+    "notes": "-"
+  }
+]

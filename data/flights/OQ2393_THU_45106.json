@@ -4,6 +4,11 @@
   "flight_no": "OQ2393",
   "aircraft_type": "A320",
   "ut_arrival_time": 1770891000,
-  "from_via": "Chongqing",
+  "airport_name": "Chongqing",
+  "country_name": "China",
+  "airport_latlng": [
+    29.7193,
+    106.6419
+  ],
   "notes": "(FM 15 JAN)"
 }

@@ -4,6 +4,11 @@
   "flight_no": "UL140",
   "aircraft_type": "A320",
   "ut_arrival_time": 1771067100,
-  "from_via": "Madurai",
+  "airport_name": "Madurai",
+  "country_name": "India",
+  "airport_latlng": [
+    9.8345,
+    78.0934
+  ],
   "notes": "-"
 }

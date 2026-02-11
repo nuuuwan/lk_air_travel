@@ -4,6 +4,11 @@
   "flight_no": "E41477",
   "aircraft_type": "B738",
   "ut_arrival_time": 1770935400,
-  "from_via": "Gdansk Im Lecha Walesy/Ras Al Khaimah Intl",
+  "airport_name": "Gdansk Im Lecha Walesy/Ras Al Khaimah Intl",
+  "country_name": "Poland/UAE",
+  "airport_latlng": [
+    54.3776,
+    18.4662
+  ],
   "notes": "(ONLY ON 02 & 23 JAN)"
 }

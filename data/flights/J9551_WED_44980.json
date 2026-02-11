@@ -4,6 +4,11 @@
   "flight_no": "J9551",
   "aircraft_type": "A32N",
   "ut_arrival_time": 1770760800,
-  "from_via": "Kuwait",
+  "airport_name": "Kuwait",
+  "country_name": "Kuwait",
+  "airport_latlng": [
+    29.2266,
+    47.9689
+  ],
   "notes": "-"
 }

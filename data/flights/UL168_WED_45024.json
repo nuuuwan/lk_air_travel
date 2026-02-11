@@ -4,6 +4,11 @@
   "flight_no": "UL168",
   "aircraft_type": "A320",
   "ut_arrival_time": 1770810900,
-  "from_via": "Cochin",
+  "airport_name": "Cochin",
+  "country_name": "India",
+  "airport_latlng": [
+    10.152,
+    76.3874
+  ],
   "notes": "-"
 }

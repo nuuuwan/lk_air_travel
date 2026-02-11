@@ -4,6 +4,11 @@
   "flight_no": "UL319",
   "aircraft_type": "A320",
   "ut_arrival_time": 1770869700,
-  "from_via": "Kuala Lumpur",
+  "airport_name": "Kuala Lumpur",
+  "country_name": "Malaysia",
+  "airport_latlng": [
+    2.7456,
+    101.7098
+  ],
   "notes": "-"
 }

@@ -4,6 +4,11 @@
   "flight_no": "UL407",
   "aircraft_type": "A320",
   "ut_arrival_time": 1770936000,
-  "from_via": "Bangkok Suvarnabhumi",
+  "airport_name": "Bangkok Suvarnabhumi",
+  "country_name": "Thailand",
+  "airport_latlng": [
+    13.69,
+    100.7501
+  ],
   "notes": "(CANCELLED ON 16 & 30 JAN)"
 }

@@ -4,6 +4,11 @@
   "flight_no": "WK64",
   "aircraft_type": "A343",
   "ut_arrival_time": 1770698700,
-  "from_via": "Zurich Intl",
+  "airport_name": "Zurich Intl",
+  "country_name": "Switzerland",
+  "airport_latlng": [
+    47.4647,
+    8.5492
+  ],
   "notes": "-"
 }

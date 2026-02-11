@@ -4,6 +4,11 @@
   "flight_no": "8D932",
   "aircraft_type": "A320",
   "ut_arrival_time": 1771102200,
-  "from_via": "Dhaka",
+  "airport_name": "Dhaka",
+  "country_name": "Bangladesh",
+  "airport_latlng": [
+    23.8434,
+    90.3978
+  ],
   "notes": "(ETA 0305 FM 18 JAN)"
 }

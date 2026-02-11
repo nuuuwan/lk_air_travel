@@ -4,6 +4,11 @@
   "flight_no": "EY394",
   "aircraft_type": "A320",
   "ut_arrival_time": 1770758400,
-  "from_via": "Abu Dhabi",
+  "airport_name": "Abu Dhabi",
+  "country_name": "United Arab Emirates",
+  "airport_latlng": [
+    24.433,
+    54.6511
+  ],
   "notes": "-"
 }

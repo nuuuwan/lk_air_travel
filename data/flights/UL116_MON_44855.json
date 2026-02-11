@@ -4,6 +4,11 @@
   "flight_no": "UL116",
   "aircraft_type": "A332",
   "ut_arrival_time": 1770638400,
-  "from_via": "Male",
+  "airport_name": "Male",
+  "country_name": "Maldives",
+  "airport_latlng": [
+    4.1917,
+    73.529
+  ],
   "notes": "-"
 }

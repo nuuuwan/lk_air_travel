@@ -4,6 +4,11 @@
   "flight_no": "CX611",
   "aircraft_type": "A333",
   "ut_arrival_time": 1770660000,
-  "from_via": "Hong Kong",
+  "airport_name": "Hong Kong",
+  "country_name": "Hong Kong",
+  "airport_latlng": [
+    22.308,
+    113.9185
+  ],
   "notes": "-"
 }

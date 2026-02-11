@@ -4,6 +4,11 @@
   "flight_no": "UL226",
   "aircraft_type": "A332",
   "ut_arrival_time": 1771111800,
-  "from_via": "Dubai",
+  "airport_name": "Dubai",
+  "country_name": "United Arab Emirates",
+  "airport_latlng": [
+    25.2532,
+    55.3657
+  ],
   "notes": "-"
 }

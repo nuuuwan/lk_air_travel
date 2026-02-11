@@ -4,6 +4,11 @@
   "flight_no": "SU288",
   "aircraft_type": "B77W",
   "ut_arrival_time": 1770958800,
-  "from_via": "Sheremetyevo",
+  "airport_name": "Sheremetyevo",
+  "country_name": "Russia",
+  "airport_latlng": [
+    55.9726,
+    37.4146
+  ],
   "notes": "-"
 }

@@ -4,6 +4,11 @@
   "flight_no": "FZ1025",
   "aircraft_type": "B737",
   "ut_arrival_time": 1771130700,
-  "from_via": "Dubai/Male",
+  "airport_name": "Dubai/Male",
+  "country_name": "United Arab Emirates/Maldives",
+  "airport_latlng": [
+    25.2532,
+    55.3657
+  ],
   "notes": "-"
 }

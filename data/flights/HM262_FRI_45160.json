@@ -4,6 +4,11 @@
   "flight_no": "HM262",
   "aircraft_type": "A320",
   "ut_arrival_time": 1770934800,
-  "from_via": "Seychelles",
+  "airport_name": "Seychelles",
+  "country_name": "Seychelles",
+  "airport_latlng": [
+    -4.674,
+    55.5218
+  ],
   "notes": "-"
 }

@@ -4,6 +4,11 @@
   "flight_no": "UL152",
   "aircraft_type": "A320",
   "ut_arrival_time": 1770614400,
-  "from_via": "Karachi",
+  "airport_name": "Karachi",
+  "country_name": "Pakistan",
+  "airport_latlng": [
+    24.9065,
+    67.1608
+  ],
   "notes": "-"
 }

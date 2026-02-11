@@ -4,6 +4,11 @@
   "flight_no": "6E1173",
   "aircraft_type": "A320",
   "ut_arrival_time": 1770996900,
-  "from_via": "Chennai",
+  "airport_name": "Chennai",
+  "country_name": "India",
+  "airport_latlng": [
+    12.9902,
+    80.1693
+  ],
   "notes": "-"
 }

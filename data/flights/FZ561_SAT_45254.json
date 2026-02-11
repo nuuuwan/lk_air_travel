@@ -4,6 +4,11 @@
   "flight_no": "FZ561",
   "aircraft_type": "B737",
   "ut_arrival_time": 1771024500,
-  "from_via": "Dubai",
+  "airport_name": "Dubai",
+  "country_name": "United Arab Emirates",
+  "airport_latlng": [
+    25.2532,
+    55.3657
+  ],
   "notes": "(ONLY ON 03 & 10 JAN)"
 }

@@ -4,6 +4,11 @@
   "flight_no": "UL564",
   "aircraft_type": "A333",
   "ut_arrival_time": 1771026900,
-  "from_via": "Paris Charles de Gaulle",
+  "airport_name": "Paris Charles de Gaulle",
+  "country_name": "France",
+  "airport_latlng": [
+    49.0097,
+    2.5479
+  ],
   "notes": "-"
 }

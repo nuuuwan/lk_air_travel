@@ -4,6 +4,11 @@
   "flight_no": "OV437",
   "aircraft_type": "A320",
   "ut_arrival_time": 1770589200,
-  "from_via": "Muscat",
+  "airport_name": "Muscat",
+  "country_name": "Oman",
+  "airport_latlng": [
+    23.5933,
+    58.2844
+  ],
   "notes": "-"
 }

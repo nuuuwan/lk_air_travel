@@ -4,6 +4,11 @@
   "flight_no": "KC167",
   "aircraft_type": "A321",
   "ut_arrival_time": 1770626400,
-  "from_via": "Almaty International Airport",
+  "airport_name": "Almaty International Airport",
+  "country_name": "Kazakhstan",
+  "airport_latlng": [
+    43.3521,
+    77.0405
+  ],
   "notes": "-"
 }

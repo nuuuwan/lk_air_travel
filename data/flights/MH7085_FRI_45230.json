@@ -4,6 +4,11 @@
   "flight_no": "MH7085",
   "aircraft_type": "B738",
   "ut_arrival_time": 1771002300,
-  "from_via": "Kuala Lumpur",
+  "airport_name": "Kuala Lumpur",
+  "country_name": "Malaysia",
+  "airport_latlng": [
+    2.7456,
+    101.7098
+  ],
   "notes": "(ONLY ON 02 & 09 JAN)"
 }

@@ -4,6 +4,11 @@
   "flight_no": "AI277",
   "aircraft_type": "A321",
   "ut_arrival_time": 1770601800,
-  "from_via": "Delhi",
+  "airport_name": "Delhi",
+  "country_name": "India",
+  "airport_latlng": [
+    28.5562,
+    77.1
+  ],
   "notes": "-"
 }

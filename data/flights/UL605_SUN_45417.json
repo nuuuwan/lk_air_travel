@@ -4,6 +4,11 @@
   "flight_no": "UL605",
   "aircraft_type": "A333",
   "ut_arrival_time": 1771174200,
-  "from_via": "Melbourne",
+  "airport_name": "Melbourne",
+  "country_name": "Australia",
+  "airport_latlng": [
+    -37.669,
+    144.841
+  ],
   "notes": "-"
 }

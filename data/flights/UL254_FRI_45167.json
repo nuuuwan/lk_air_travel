@@ -4,6 +4,11 @@
   "flight_no": "UL254",
   "aircraft_type": "A32B",
   "ut_arrival_time": 1770942900,
-  "from_via": "Dammam",
+  "airport_name": "Dammam",
+  "country_name": "Saudi Arabia",
+  "airport_latlng": [
+    26.4715,
+    49.7979
+  ],
   "notes": "-"
 }

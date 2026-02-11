@@ -4,6 +4,11 @@
   "flight_no": "UL196",
   "aircraft_type": "A320",
   "ut_arrival_time": 1771000800,
-  "from_via": "Delhi",
+  "airport_name": "Delhi",
+  "country_name": "India",
+  "airport_latlng": [
+    28.5562,
+    77.1
+  ],
   "notes": "-"
 }

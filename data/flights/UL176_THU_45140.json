@@ -4,6 +4,11 @@
   "flight_no": "UL176",
   "aircraft_type": "A320",
   "ut_arrival_time": 1770916200,
-  "from_via": "Hyderabad Intl",
+  "airport_name": "Hyderabad Intl",
+  "country_name": "India",
+  "airport_latlng": [
+    17.2403,
+    78.4294
+  ],
   "notes": "-"
 }

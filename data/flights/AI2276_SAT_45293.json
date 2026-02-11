@@ -4,6 +4,11 @@
   "flight_no": "AI2276",
   "aircraft_type": "A321",
   "ut_arrival_time": 1771061400,
-  "from_via": "Mumbai",
+  "airport_name": "Mumbai",
+  "country_name": "India",
+  "airport_latlng": [
+    19.0896,
+    72.8656
+  ],
   "notes": "-"
 }

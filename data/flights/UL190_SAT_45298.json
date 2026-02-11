@@ -4,6 +4,11 @@
   "flight_no": "UL190",
   "aircraft_type": "A332",
   "ut_arrival_time": 1771064700,
-  "from_via": "Dhaka",
+  "airport_name": "Dhaka",
+  "country_name": "Bangladesh",
+  "airport_latlng": [
+    23.8434,
+    90.3978
+  ],
   "notes": "-"
 }

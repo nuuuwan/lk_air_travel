@@ -4,6 +4,11 @@
   "flight_no": "GF2144",
   "aircraft_type": "A32N",
   "ut_arrival_time": 1770870300,
-  "from_via": "Bahrain/Male",
+  "airport_name": "Bahrain/Male",
+  "country_name": "Bahrain/Maldives",
+  "airport_latlng": [
+    26.2708,
+    50.6336
+  ],
   "notes": "(ONLY ON 08 JAN)"
 }

@@ -4,6 +4,11 @@
   "flight_no": "FD140",
   "aircraft_type": "A320",
   "ut_arrival_time": 1770741000,
-  "from_via": "Bangkok Don Mueang",
+  "airport_name": "Bangkok Don Mueang",
+  "country_name": "Thailand",
+  "airport_latlng": [
+    13.9126,
+    100.6074
+  ],
   "notes": "-"
 }

@@ -4,6 +4,11 @@
   "flight_no": "UL403",
   "aircraft_type": "A320",
   "ut_arrival_time": 1770787800,
-  "from_via": "Bangkok Suvarnabhumi",
+  "airport_name": "Bangkok Suvarnabhumi",
+  "country_name": "Thailand",
+  "airport_latlng": [
+    13.69,
+    100.7501
+  ],
   "notes": "-"
 }

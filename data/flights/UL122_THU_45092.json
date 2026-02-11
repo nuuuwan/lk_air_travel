@@ -4,6 +4,11 @@
   "flight_no": "UL122",
   "aircraft_type": "A332",
   "ut_arrival_time": 1770874500,
-  "from_via": "Chennai",
+  "airport_name": "Chennai",
+  "country_name": "India",
+  "airport_latlng": [
+    12.9902,
+    80.1693
+  ],
   "notes": "-"
 }

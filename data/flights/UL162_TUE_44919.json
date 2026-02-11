@@ -4,6 +4,11 @@
   "flight_no": "UL162",
   "aircraft_type": "A32A",
   "ut_arrival_time": 1770702300,
-  "from_via": "Thiruvananthapuram",
+  "airport_name": "Thiruvananthapuram",
+  "country_name": "India",
+  "airport_latlng": [
+    8.4821,
+    76.92
+  ],
   "notes": "-"
 }

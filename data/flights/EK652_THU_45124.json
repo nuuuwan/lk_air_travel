@@ -4,6 +4,11 @@
   "flight_no": "EK652",
   "aircraft_type": "B77W",
   "ut_arrival_time": 1770900900,
-  "from_via": "Dubai/Male",
+  "airport_name": "Dubai/Male",
+  "country_name": "United Arab Emirates/Maldives",
+  "airport_latlng": [
+    25.2532,
+    55.3657
+  ],
   "notes": "-"
 }

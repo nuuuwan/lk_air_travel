@@ -4,6 +4,11 @@
   "flight_no": "UL120",
   "aircraft_type": "A32B",
   "ut_arrival_time": 1771068600,
-  "from_via": "Gan Intl",
+  "airport_name": "Gan Intl",
+  "country_name": "Maldives",
+  "airport_latlng": [
+    -0.6942,
+    73.1556
+  ],
   "notes": "-"
 }

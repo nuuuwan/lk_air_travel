@@ -5,7 +5,12 @@
     "flight_no": "TG307",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770575460,
-    "from_via": "Bangkok Suvarnabhumi",
+    "airport_name": "Bangkok Suvarnabhumi",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -14,7 +19,12 @@
     "flight_no": "8D822",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770575700,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -23,7 +33,12 @@
     "flight_no": "UL232",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770576000,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -32,7 +47,12 @@
     "flight_no": "FZ569",
     "aircraft_type": "B737",
     "ut_arrival_time": 1770578100,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -41,7 +61,12 @@
     "flight_no": "G9587",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770582000,
-    "from_via": "Sharjah",
+    "airport_name": "Sharjah",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.3286,
+      55.5172
+    ],
     "notes": "-"
   },
   {
@@ -50,7 +75,12 @@
     "flight_no": "QR658",
     "aircraft_type": "B789",
     "ut_arrival_time": 1770582300,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -59,7 +89,12 @@
     "flight_no": "6E1171",
     "aircraft_type": "A321",
     "ut_arrival_time": 1770582600,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -68,7 +103,12 @@
     "flight_no": "8D932",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770583800,
-    "from_via": "Dhaka",
+    "airport_name": "Dhaka",
+    "country_name": "Bangladesh",
+    "airport_latlng": [
+      23.8434,
+      90.3978
+    ],
     "notes": "(ETA 0305 FM 19 JAN)"
   },
   {
@@ -77,7 +117,12 @@
     "flight_no": "QR662",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770585300,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -86,7 +131,12 @@
     "flight_no": "EY394",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770585600,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -95,7 +145,12 @@
     "flight_no": "J9551",
     "aircraft_type": "A32N",
     "ut_arrival_time": 1770588000,
-    "from_via": "Kuwait",
+    "airport_name": "Kuwait",
+    "country_name": "Kuwait",
+    "airport_latlng": [
+      29.2266,
+      47.9689
+    ],
     "notes": "-"
   },
   {
@@ -104,7 +159,12 @@
     "flight_no": "G9502",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770588300,
-    "from_via": "Sharjah",
+    "airport_name": "Sharjah",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.3286,
+      55.5172
+    ],
     "notes": "-"
   },
   {
@@ -113,7 +173,12 @@
     "flight_no": "OV437",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770589200,
-    "from_via": "Muscat",
+    "airport_name": "Muscat",
+    "country_name": "Oman",
+    "airport_latlng": [
+      23.5933,
+      58.2844
+    ],
     "notes": "-"
   },
   {
@@ -122,7 +187,12 @@
     "flight_no": "HM262",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770589200,
-    "from_via": "Seychelles",
+    "airport_name": "Seychelles",
+    "country_name": "Seychelles",
+    "airport_latlng": [
+      -4.674,
+      55.5218
+    ],
     "notes": "-"
   },
   {
@@ -131,7 +201,12 @@
     "flight_no": "FZ565",
     "aircraft_type": "B737",
     "ut_arrival_time": 1770591000,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "(ONLY ON 05 JAN)"
   },
   {
@@ -140,7 +215,12 @@
     "flight_no": "UL506",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770591300,
-    "from_via": "London/Heathrow",
+    "airport_name": "London/Heathrow",
+    "country_name": "United Kingdom",
+    "airport_latlng": [
+      51.47,
+      -0.4543
+    ],
     "notes": "-"
   },
   {
@@ -149,7 +229,12 @@
     "flight_no": "UL226",
     "aircraft_type": "A332",
     "ut_arrival_time": 1770593400,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -158,7 +243,12 @@
     "flight_no": "UL564",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770594900,
-    "from_via": "Paris Charles de Gaulle",
+    "airport_name": "Paris Charles de Gaulle",
+    "country_name": "France",
+    "airport_latlng": [
+      49.0097,
+      2.5479
+    ],
     "notes": "-"
   },
   {
@@ -167,7 +257,12 @@
     "flight_no": "UL142",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770595500,
-    "from_via": "Mumbai",
+    "airport_name": "Mumbai",
+    "country_name": "India",
+    "airport_latlng": [
+      19.0896,
+      72.8656
+    ],
     "notes": "-"
   },
   {
@@ -176,7 +271,12 @@
     "flight_no": "UL558",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770595800,
-    "from_via": "Frankfurt Main",
+    "airport_name": "Frankfurt Main",
+    "country_name": "Germany",
+    "airport_latlng": [
+      50.0379,
+      8.5622
+    ],
     "notes": "-"
   },
   {
@@ -185,7 +285,12 @@
     "flight_no": "UL218",
     "aircraft_type": "A32A",
     "ut_arrival_time": 1770596400,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -194,7 +299,12 @@
     "flight_no": "UL254",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1770597300,
-    "from_via": "Dammam",
+    "airport_name": "Dammam",
+    "country_name": "Saudi Arabia",
+    "airport_latlng": [
+      26.4715,
+      49.7979
+    ],
     "notes": "-"
   },
   {
@@ -203,7 +313,12 @@
     "flight_no": "TK730",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770597600,
-    "from_via": "Istanbul Ataturk",
+    "airport_name": "Istanbul Ataturk",
+    "country_name": "Turkey",
+    "airport_latlng": [
+      40.9769,
+      28.8146
+    ],
     "notes": "-"
   },
   {
@@ -212,7 +327,12 @@
     "flight_no": "UL230",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1770597900,
-    "from_via": "Kuwait",
+    "airport_name": "Kuwait",
+    "country_name": "Kuwait",
+    "airport_latlng": [
+      29.2266,
+      47.9689
+    ],
     "notes": "-"
   },
   {
@@ -221,7 +341,12 @@
     "flight_no": "UL266",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1770597900,
-    "from_via": "Riyadh",
+    "airport_name": "Riyadh",
+    "country_name": "Saudi Arabia",
+    "airport_latlng": [
+      24.9577,
+      46.6989
+    ],
     "notes": "-"
   },
   {
@@ -230,7 +355,12 @@
     "flight_no": "AI277",
     "aircraft_type": "A321",
     "ut_arrival_time": 1770601800,
-    "from_via": "Delhi",
+    "airport_name": "Delhi",
+    "country_name": "India",
+    "airport_latlng": [
+      28.5562,
+      77.1
+    ],
     "notes": "-"
   },
   {
@@ -239,7 +369,12 @@
     "flight_no": "E47947",
     "aircraft_type": "B38M",
     "ut_arrival_time": 1770603300,
-    "from_via": "Katowice Intl/Ras Al Khaimah Intl",
+    "airport_name": "Katowice Intl/Ras Al Khaimah Intl",
+    "country_name": "Poland/UAE",
+    "airport_latlng": [
+      50.4743,
+      19.08
+    ],
     "notes": "(ONLY ON 12 JAN)"
   },
   {
@@ -248,7 +383,12 @@
     "flight_no": "6E1185",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770604800,
-    "from_via": "Mumbai",
+    "airport_name": "Mumbai",
+    "country_name": "India",
+    "airport_latlng": [
+      19.0896,
+      72.8656
+    ],
     "notes": "-"
   },
   {
@@ -257,7 +397,12 @@
     "flight_no": "EY392",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770605100,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -266,7 +411,12 @@
     "flight_no": "FZ579",
     "aircraft_type": "B737",
     "ut_arrival_time": 1770605100,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -275,7 +425,12 @@
     "flight_no": "KU361",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770605400,
-    "from_via": "Kuwait",
+    "airport_name": "Kuwait",
+    "country_name": "Kuwait",
+    "airport_latlng": [
+      29.2266,
+      47.9689
+    ],
     "notes": "-"
   },
   {
@@ -284,7 +439,12 @@
     "flight_no": "EK650",
     "aircraft_type": "B77W",
     "ut_arrival_time": 1770605400,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -293,7 +453,12 @@
     "flight_no": "E41921",
     "aircraft_type": "B38M",
     "ut_arrival_time": 1770606000,
-    "from_via": "Poznan/Ras Al Khaimah Intl",
+    "airport_name": "Poznan/Ras Al Khaimah Intl",
+    "country_name": "Poland/UAE",
+    "airport_latlng": [
+      52.4215,
+      16.8263
+    ],
     "notes": "(ONLY ON 12 JAN)"
   },
   {
@@ -302,7 +467,12 @@
     "flight_no": "QR664",
     "aircraft_type": "B788",
     "ut_arrival_time": 1770606900,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -311,7 +481,12 @@
     "flight_no": "UL192",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770606900,
-    "from_via": "Delhi",
+    "airport_name": "Delhi",
+    "country_name": "India",
+    "airport_latlng": [
+      28.5562,
+      77.1
+    ],
     "notes": "-"
   },
   {
@@ -320,7 +495,12 @@
     "flight_no": "AK45",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770609300,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -329,7 +509,12 @@
     "flight_no": "E41301",
     "aircraft_type": "B38M",
     "ut_arrival_time": 1770609600,
-    "from_via": "Gdansk Im Lecha Walesy/Ras Al Khaimah Intl",
+    "airport_name": "Gdansk Im Lecha Walesy/Ras Al Khaimah Intl",
+    "country_name": "Poland/UAE",
+    "airport_latlng": [
+      54.3776,
+      18.4662
+    ],
     "notes": "(ONLY ON 12 JAN)"
   },
   {
@@ -338,7 +523,12 @@
     "flight_no": "GF144",
     "aircraft_type": "A32N",
     "ut_arrival_time": 1770610500,
-    "from_via": "Bahrain/Male",
+    "airport_name": "Bahrain/Male",
+    "country_name": "Bahrain/Maldives",
+    "airport_latlng": [
+      26.2708,
+      50.6336
+    ],
     "notes": "-"
   },
   {
@@ -347,7 +537,12 @@
     "flight_no": "QR660",
     "aircraft_type": "B789",
     "ut_arrival_time": 1770610500,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -356,7 +551,12 @@
     "flight_no": "UL319",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770610500,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -365,7 +565,12 @@
     "flight_no": "FZ1025",
     "aircraft_type": "B737",
     "ut_arrival_time": 1770612300,
-    "from_via": "Dubai/Male",
+    "airport_name": "Dubai/Male",
+    "country_name": "United Arab Emirates/Maldives",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -374,7 +579,12 @@
     "flight_no": "8D922",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770612900,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "-"
   },
   {
@@ -383,7 +593,12 @@
     "flight_no": "E41177",
     "aircraft_type": "B38M",
     "ut_arrival_time": 1770613200,
-    "from_via": "Warsaw Chopin Intl/Ras Al Khaimah Intl",
+    "airport_name": "Warsaw Chopin Intl/Ras Al Khaimah Intl",
+    "country_name": "Poland/UAE",
+    "airport_latlng": [
+      52.1657,
+      20.9671
+    ],
     "notes": "(ONLY ON 12 JAN)"
   },
   {
@@ -392,7 +607,12 @@
     "flight_no": "UL152",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770614400,
-    "from_via": "Karachi",
+    "airport_name": "Karachi",
+    "country_name": "Pakistan",
+    "airport_latlng": [
+      24.9065,
+      67.1608
+    ],
     "notes": "-"
   },
   {
@@ -401,7 +621,12 @@
     "flight_no": "UL307",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770615000,
-    "from_via": "Singapore",
+    "airport_name": "Singapore",
+    "country_name": "Singapore",
+    "airport_latlng": [
+      1.3644,
+      103.9915
+    ],
     "notes": "-"
   },
   {
@@ -410,7 +635,12 @@
     "flight_no": "UL403",
     "aircraft_type": "A32A",
     "ut_arrival_time": 1770615000,
-    "from_via": "Bangkok Suvarnabhumi",
+    "airport_name": "Bangkok Suvarnabhumi",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -419,7 +649,12 @@
     "flight_no": "UL122",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770615300,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -428,7 +663,12 @@
     "flight_no": "UL162",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770615900,
-    "from_via": "Thiruvananthapuram",
+    "airport_name": "Thiruvananthapuram",
+    "country_name": "India",
+    "airport_latlng": [
+      8.4821,
+      76.92
+    ],
     "notes": "-"
   },
   {
@@ -437,7 +677,12 @@
     "flight_no": "UL102",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770616200,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "-"
   },
   {
@@ -446,7 +691,12 @@
     "flight_no": "6E1167",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770616800,
-    "from_via": "Bangalore",
+    "airport_name": "Bangalore",
+    "country_name": "India",
+    "airport_latlng": [
+      13.1986,
+      77.7066
+    ],
     "notes": "-"
   },
   {
@@ -455,7 +705,12 @@
     "flight_no": "UL504",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770620400,
-    "from_via": "London/Heathrow",
+    "airport_name": "London/Heathrow",
+    "country_name": "United Kingdom",
+    "airport_latlng": [
+      51.47,
+      -0.4543
+    ],
     "notes": "-"
   },
   {
@@ -464,7 +719,12 @@
     "flight_no": "6E1175",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770621300,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -473,7 +733,12 @@
     "flight_no": "6E1181",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770624600,
-    "from_via": "Hyderabad Intl",
+    "airport_name": "Hyderabad Intl",
+    "country_name": "India",
+    "airport_latlng": [
+      17.2403,
+      78.4294
+    ],
     "notes": "-"
   },
   {
@@ -482,7 +747,12 @@
     "flight_no": "G9508",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770624900,
-    "from_via": "Sharjah",
+    "airport_name": "Sharjah",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.3286,
+      55.5172
+    ],
     "notes": "-"
   },
   {
@@ -491,7 +761,12 @@
     "flight_no": "KC167",
     "aircraft_type": "A321",
     "ut_arrival_time": 1770626400,
-    "from_via": "Almaty International Airport",
+    "airport_name": "Almaty International Airport",
+    "country_name": "Kazakhstan",
+    "airport_latlng": [
+      43.3521,
+      77.0405
+    ],
     "notes": "-"
   },
   {
@@ -500,7 +775,12 @@
     "flight_no": "AI2276",
     "aircraft_type": "A321",
     "ut_arrival_time": 1770629400,
-    "from_via": "Mumbai",
+    "airport_name": "Mumbai",
+    "country_name": "India",
+    "airport_latlng": [
+      19.0896,
+      72.8656
+    ],
     "notes": "-"
   },
   {
@@ -509,7 +789,12 @@
     "flight_no": "EY390",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770630300,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -518,7 +803,12 @@
     "flight_no": "UL315",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1770632400,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -527,7 +817,12 @@
     "flight_no": "EK654",
     "aircraft_type": "A350",
     "ut_arrival_time": 1770632700,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -536,7 +831,12 @@
     "flight_no": "UL190",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770632700,
-    "from_via": "Dhaka",
+    "airport_name": "Dhaka",
+    "country_name": "Bangladesh",
+    "airport_latlng": [
+      23.8434,
+      90.3978
+    ],
     "notes": "-"
   },
   {
@@ -545,7 +845,12 @@
     "flight_no": "UL405",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1770632700,
-    "from_via": "Bangkok Suvarnabhumi",
+    "airport_name": "Bangkok Suvarnabhumi",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -554,7 +859,12 @@
     "flight_no": "AI281",
     "aircraft_type": "A321",
     "ut_arrival_time": 1770633300,
-    "from_via": "Delhi",
+    "airport_name": "Delhi",
+    "country_name": "India",
+    "airport_latlng": [
+      28.5562,
+      77.1
+    ],
     "notes": "-"
   },
   {
@@ -563,7 +873,12 @@
     "flight_no": "UL182",
     "aircraft_type": "A32A",
     "ut_arrival_time": 1770633600,
-    "from_via": "Kathmandu",
+    "airport_name": "Kathmandu",
+    "country_name": "Nepal",
+    "airport_latlng": [
+      27.6966,
+      85.3591
+    ],
     "notes": "-"
   },
   {
@@ -572,7 +887,12 @@
     "flight_no": "6E1179",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770633900,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -581,7 +901,12 @@
     "flight_no": "FZ549",
     "aircraft_type": "B737",
     "ut_arrival_time": 1770634200,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -590,7 +915,12 @@
     "flight_no": "QR654",
     "aircraft_type": "B789",
     "ut_arrival_time": 1770634800,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -599,7 +929,12 @@
     "flight_no": "UL140",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770635100,
-    "from_via": "Madurai",
+    "airport_name": "Madurai",
+    "country_name": "India",
+    "airport_latlng": [
+      9.8345,
+      78.0934
+    ],
     "notes": "-"
   },
   {
@@ -608,7 +943,12 @@
     "flight_no": "UL471",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770635700,
-    "from_via": "Incheon",
+    "airport_name": "Incheon",
+    "country_name": "South Korea",
+    "airport_latlng": [
+      37.4602,
+      126.4407
+    ],
     "notes": "-"
   },
   {
@@ -617,7 +957,12 @@
     "flight_no": "UL154",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770636600,
-    "from_via": "Lahore",
+    "airport_name": "Lahore",
+    "country_name": "Pakistan",
+    "airport_latlng": [
+      31.5216,
+      74.4036
+    ],
     "notes": "-"
   },
   {
@@ -626,7 +971,12 @@
     "flight_no": "UL134",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770637200,
-    "from_via": "Tiruchirappalli",
+    "airport_name": "Tiruchirappalli",
+    "country_name": "India",
+    "airport_latlng": [
+      10.7654,
+      78.7097
+    ],
     "notes": "-"
   },
   {
@@ -635,7 +985,12 @@
     "flight_no": "UL128",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770637500,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -644,7 +999,12 @@
     "flight_no": "UL365",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1770637800,
-    "from_via": "Jakarta",
+    "airport_name": "Jakarta",
+    "country_name": "Indonesia",
+    "airport_latlng": [
+      -6.1256,
+      106.6559
+    ],
     "notes": "-"
   },
   {
@@ -653,7 +1013,12 @@
     "flight_no": "UL168",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770638100,
-    "from_via": "Cochin",
+    "airport_name": "Cochin",
+    "country_name": "India",
+    "airport_latlng": [
+      10.152,
+      76.3874
+    ],
     "notes": "-"
   },
   {
@@ -662,7 +1027,12 @@
     "flight_no": "UL116",
     "aircraft_type": "A332",
     "ut_arrival_time": 1770638400,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "-"
   },
   {
@@ -671,7 +1041,12 @@
     "flight_no": "EK652",
     "aircraft_type": "B77W",
     "ut_arrival_time": 1770641700,
-    "from_via": "Dubai/Male",
+    "airport_name": "Dubai/Male",
+    "country_name": "United Arab Emirates/Maldives",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -680,7 +1055,12 @@
     "flight_no": "MU6017",
     "aircraft_type": "A332",
     "ut_arrival_time": 1770643800,
-    "from_via": "Shanghai",
+    "airport_name": "Shanghai",
+    "country_name": "China",
+    "airport_latlng": [
+      31.1443,
+      121.8083
+    ],
     "notes": "-"
   },
   {
@@ -689,7 +1069,12 @@
     "flight_no": "6E1183",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770647100,
-    "from_via": "Bangalore",
+    "airport_name": "Bangalore",
+    "country_name": "India",
+    "airport_latlng": [
+      13.1986,
+      77.7066
+    ],
     "notes": "-"
   },
   {
@@ -698,7 +1083,12 @@
     "flight_no": "EY396",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770648600,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -707,7 +1097,12 @@
     "flight_no": "CA425",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770651300,
-    "from_via": "Chengdu/Tianfu",
+    "airport_name": "Chengdu/Tianfu",
+    "country_name": "China",
+    "airport_latlng": [
+      30.3089,
+      104.4419
+    ],
     "notes": "-"
   },
   {
@@ -716,7 +1111,12 @@
     "flight_no": "6E1173",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770651300,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -725,7 +1125,12 @@
     "flight_no": "UL309",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770651600,
-    "from_via": "Singapore",
+    "airport_name": "Singapore",
+    "country_name": "Singapore",
+    "airport_latlng": [
+      1.3644,
+      103.9915
+    ],
     "notes": "-"
   },
   {
@@ -734,7 +1139,12 @@
     "flight_no": "AK47",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770654000,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -743,7 +1153,12 @@
     "flight_no": "EK648",
     "aircraft_type": "B77W",
     "ut_arrival_time": 1770654300,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -752,7 +1167,12 @@
     "flight_no": "FD140",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770654600,
-    "from_via": "Bangkok Don Mueang",
+    "airport_name": "Bangkok Don Mueang",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.9126,
+      100.6074
+    ],
     "notes": "-"
   },
   {
@@ -761,7 +1181,12 @@
     "flight_no": "UL196",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770655200,
-    "from_via": "Delhi",
+    "airport_name": "Delhi",
+    "country_name": "India",
+    "airport_latlng": [
+      28.5562,
+      77.1
+    ],
     "notes": "-"
   },
   {
@@ -770,7 +1195,12 @@
     "flight_no": "UL124",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770655500,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -779,7 +1209,12 @@
     "flight_no": "UL605",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770655800,
-    "from_via": "Melbourne",
+    "airport_name": "Melbourne",
+    "country_name": "Australia",
+    "airport_latlng": [
+      -37.669,
+      144.841
+    ],
     "notes": "-"
   },
   {
@@ -788,7 +1223,12 @@
     "flight_no": "UL176",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770657000,
-    "from_via": "Hyderabad Intl",
+    "airport_name": "Hyderabad Intl",
+    "country_name": "India",
+    "airport_latlng": [
+      17.2403,
+      78.4294
+    ],
     "notes": "-"
   },
   {
@@ -797,7 +1237,12 @@
     "flight_no": "UL104",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770657600,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "(A333 ON 05 & 19 JAN)"
   },
   {
@@ -806,7 +1251,12 @@
     "flight_no": "UL172",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770657600,
-    "from_via": "Bangalore",
+    "airport_name": "Bangalore",
+    "country_name": "India",
+    "airport_latlng": [
+      13.1986,
+      77.7066
+    ],
     "notes": "-"
   },
   {
@@ -815,7 +1265,12 @@
     "flight_no": "UL144",
     "aircraft_type": "A32A",
     "ut_arrival_time": 1770659100,
-    "from_via": "Mumbai",
+    "airport_name": "Mumbai",
+    "country_name": "India",
+    "airport_latlng": [
+      19.0896,
+      72.8656
+    ],
     "notes": "-"
   },
   {
@@ -824,7 +1279,12 @@
     "flight_no": "CX611",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770660000,
-    "from_via": "Hong Kong",
+    "airport_name": "Hong Kong",
+    "country_name": "Hong Kong",
+    "airport_latlng": [
+      22.308,
+      113.9185
+    ],
     "notes": "-"
   },
   {
@@ -833,7 +1293,12 @@
     "flight_no": "SQ468",
     "aircraft_type": "B787",
     "ut_arrival_time": 1770660000,
-    "from_via": "Singapore",
+    "airport_name": "Singapore",
+    "country_name": "Singapore",
+    "airport_latlng": [
+      1.3644,
+      103.9915
+    ],
     "notes": "-"
   },
   {
@@ -842,7 +1307,12 @@
     "flight_no": "MH179",
     "aircraft_type": "B738",
     "ut_arrival_time": 1770660300,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -851,7 +1321,12 @@
     "flight_no": "MU713",
     "aircraft_type": "A332",
     "ut_arrival_time": 1770660600,
-    "from_via": "Kunming",
+    "airport_name": "Kunming",
+    "country_name": "China",
+    "airport_latlng": [
+      25.1019,
+      102.9292
+    ],
     "notes": "-"
   },
   {
@@ -860,7 +1335,12 @@
     "flight_no": "TG307",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770661860,
-    "from_via": "Bangkok Suvarnabhumi",
+    "airport_name": "Bangkok Suvarnabhumi",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -869,7 +1349,12 @@
     "flight_no": "8D822",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770662100,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -878,7 +1363,12 @@
     "flight_no": "FZ569",
     "aircraft_type": "B737",
     "ut_arrival_time": 1770664500,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -887,7 +1377,12 @@
     "flight_no": "G9587",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770668400,
-    "from_via": "Sharjah",
+    "airport_name": "Sharjah",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.3286,
+      55.5172
+    ],
     "notes": "-"
   },
   {
@@ -896,7 +1391,12 @@
     "flight_no": "QR658",
     "aircraft_type": "B789",
     "ut_arrival_time": 1770668700,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -905,7 +1405,12 @@
     "flight_no": "6E1171",
     "aircraft_type": "A321",
     "ut_arrival_time": 1770669000,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -914,7 +1419,12 @@
     "flight_no": "8D932",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770670200,
-    "from_via": "Dhaka",
+    "airport_name": "Dhaka",
+    "country_name": "Bangladesh",
+    "airport_latlng": [
+      23.8434,
+      90.3978
+    ],
     "notes": "(ETA 0305 FM 20 JAN)"
   },
   {
@@ -923,7 +1433,12 @@
     "flight_no": "QR662",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770671700,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -932,7 +1447,12 @@
     "flight_no": "EY394",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770672000,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -941,7 +1461,12 @@
     "flight_no": "J9551",
     "aircraft_type": "A32N",
     "ut_arrival_time": 1770674400,
-    "from_via": "Kuwait",
+    "airport_name": "Kuwait",
+    "country_name": "Kuwait",
+    "airport_latlng": [
+      29.2266,
+      47.9689
+    ],
     "notes": "-"
   },
   {
@@ -950,7 +1475,12 @@
     "flight_no": "G9502",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770674700,
-    "from_via": "Sharjah",
+    "airport_name": "Sharjah",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.3286,
+      55.5172
+    ],
     "notes": "-"
   },
   {
@@ -959,7 +1489,12 @@
     "flight_no": "OV437",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770675600,
-    "from_via": "Muscat",
+    "airport_name": "Muscat",
+    "country_name": "Oman",
+    "airport_latlng": [
+      23.5933,
+      58.2844
+    ],
     "notes": "-"
   },
   {
@@ -968,7 +1503,12 @@
     "flight_no": "FZ561",
     "aircraft_type": "B737",
     "ut_arrival_time": 1770678900,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "(ONLY ON 06 JAN)"
   },
   {
@@ -977,7 +1517,12 @@
     "flight_no": "UL226",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770679800,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -986,7 +1531,12 @@
     "flight_no": "UL174",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770680100,
-    "from_via": "Bangalore",
+    "airport_name": "Bangalore",
+    "country_name": "India",
+    "airport_latlng": [
+      13.1986,
+      77.7066
+    ],
     "notes": "-"
   },
   {
@@ -995,7 +1545,12 @@
     "flight_no": "UL881",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770680100,
-    "from_via": "Guangzhou Baiyun",
+    "airport_name": "Guangzhou Baiyun",
+    "country_name": "China",
+    "airport_latlng": [
+      23.3924,
+      113.2988
+    ],
     "notes": "-"
   },
   {
@@ -1004,7 +1559,12 @@
     "flight_no": "UL142",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770681900,
-    "from_via": "Mumbai",
+    "airport_name": "Mumbai",
+    "country_name": "India",
+    "airport_latlng": [
+      19.0896,
+      72.8656
+    ],
     "notes": "-"
   },
   {
@@ -1013,7 +1573,12 @@
     "flight_no": "UL218",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1770682800,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -1022,7 +1587,12 @@
     "flight_no": "UL254",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1770683700,
-    "from_via": "Dammam",
+    "airport_name": "Dammam",
+    "country_name": "Saudi Arabia",
+    "airport_latlng": [
+      26.4715,
+      49.7979
+    ],
     "notes": "-"
   },
   {
@@ -1031,7 +1601,12 @@
     "flight_no": "TK730",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770684000,
-    "from_via": "Istanbul Ataturk",
+    "airport_name": "Istanbul Ataturk",
+    "country_name": "Turkey",
+    "airport_latlng": [
+      40.9769,
+      28.8146
+    ],
     "notes": "-"
   },
   {
@@ -1040,7 +1615,12 @@
     "flight_no": "UL230",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1770684300,
-    "from_via": "Kuwait",
+    "airport_name": "Kuwait",
+    "country_name": "Kuwait",
+    "airport_latlng": [
+      29.2266,
+      47.9689
+    ],
     "notes": "-"
   },
   {
@@ -1049,7 +1629,12 @@
     "flight_no": "UL266",
     "aircraft_type": "A332",
     "ut_arrival_time": 1770684300,
-    "from_via": "Riyadh",
+    "airport_name": "Riyadh",
+    "country_name": "Saudi Arabia",
+    "airport_latlng": [
+      24.9577,
+      46.6989
+    ],
     "notes": "-"
   },
   {
@@ -1058,7 +1643,12 @@
     "flight_no": "AI277",
     "aircraft_type": "A321",
     "ut_arrival_time": 1770688200,
-    "from_via": "Delhi",
+    "airport_name": "Delhi",
+    "country_name": "India",
+    "airport_latlng": [
+      28.5562,
+      77.1
+    ],
     "notes": "-"
   },
   {
@@ -1067,7 +1657,12 @@
     "flight_no": "6E1185",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770691200,
-    "from_via": "Mumbai",
+    "airport_name": "Mumbai",
+    "country_name": "India",
+    "airport_latlng": [
+      19.0896,
+      72.8656
+    ],
     "notes": "-"
   },
   {
@@ -1076,7 +1671,12 @@
     "flight_no": "EY392",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770691500,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -1085,7 +1685,12 @@
     "flight_no": "FZ579",
     "aircraft_type": "B737",
     "ut_arrival_time": 1770691500,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -1094,7 +1699,12 @@
     "flight_no": "EK650",
     "aircraft_type": "B77W",
     "ut_arrival_time": 1770691800,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -1103,7 +1713,12 @@
     "flight_no": "QR664",
     "aircraft_type": "B788",
     "ut_arrival_time": 1770693300,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -1112,7 +1727,12 @@
     "flight_no": "UL192",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770693300,
-    "from_via": "Delhi",
+    "airport_name": "Delhi",
+    "country_name": "India",
+    "airport_latlng": [
+      28.5562,
+      77.1
+    ],
     "notes": "-"
   },
   {
@@ -1121,7 +1741,12 @@
     "flight_no": "AK45",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770695700,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -1130,7 +1755,12 @@
     "flight_no": "GF144",
     "aircraft_type": "A32N",
     "ut_arrival_time": 1770696900,
-    "from_via": "Bahrain/Male",
+    "airport_name": "Bahrain/Male",
+    "country_name": "Bahrain/Maldives",
+    "airport_latlng": [
+      26.2708,
+      50.6336
+    ],
     "notes": "-"
   },
   {
@@ -1139,7 +1769,12 @@
     "flight_no": "QR660",
     "aircraft_type": "B789",
     "ut_arrival_time": 1770696900,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -1148,7 +1783,12 @@
     "flight_no": "UL319",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770696900,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -1157,7 +1797,12 @@
     "flight_no": "WK64",
     "aircraft_type": "A343",
     "ut_arrival_time": 1770698700,
-    "from_via": "Zurich Intl",
+    "airport_name": "Zurich Intl",
+    "country_name": "Switzerland",
+    "airport_latlng": [
+      47.4647,
+      8.5492
+    ],
     "notes": "-"
   },
   {
@@ -1166,7 +1811,12 @@
     "flight_no": "FZ1025",
     "aircraft_type": "B737",
     "ut_arrival_time": 1770698700,
-    "from_via": "Dubai/Male",
+    "airport_name": "Dubai/Male",
+    "country_name": "United Arab Emirates/Maldives",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -1175,7 +1825,12 @@
     "flight_no": "8D922",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770699300,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "-"
   },
   {
@@ -1184,7 +1839,12 @@
     "flight_no": "SQ462",
     "aircraft_type": "A359M",
     "ut_arrival_time": 1770700500,
-    "from_via": "Singapore",
+    "airport_name": "Singapore",
+    "country_name": "Singapore",
+    "airport_latlng": [
+      1.3644,
+      103.9915
+    ],
     "notes": "-"
   },
   {
@@ -1193,7 +1853,12 @@
     "flight_no": "UL307",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770701400,
-    "from_via": "Singapore",
+    "airport_name": "Singapore",
+    "country_name": "Singapore",
+    "airport_latlng": [
+      1.3644,
+      103.9915
+    ],
     "notes": "-"
   },
   {
@@ -1202,7 +1867,12 @@
     "flight_no": "UL403",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770701400,
-    "from_via": "Bangkok Suvarnabhumi",
+    "airport_name": "Bangkok Suvarnabhumi",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -1211,7 +1881,12 @@
     "flight_no": "UL122",
     "aircraft_type": "A332",
     "ut_arrival_time": 1770701700,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -1220,7 +1895,12 @@
     "flight_no": "UL138",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770702000,
-    "from_via": "Madurai",
+    "airport_name": "Madurai",
+    "country_name": "India",
+    "airport_latlng": [
+      9.8345,
+      78.0934
+    ],
     "notes": "-"
   },
   {
@@ -1229,7 +1909,12 @@
     "flight_no": "UL132",
     "aircraft_type": "A32A",
     "ut_arrival_time": 1770702300,
-    "from_via": "Tiruchirappalli",
+    "airport_name": "Tiruchirappalli",
+    "country_name": "India",
+    "airport_latlng": [
+      10.7654,
+      78.7097
+    ],
     "notes": "-"
   },
   {
@@ -1238,7 +1923,12 @@
     "flight_no": "UL162",
     "aircraft_type": "A32A",
     "ut_arrival_time": 1770702300,
-    "from_via": "Thiruvananthapuram",
+    "airport_name": "Thiruvananthapuram",
+    "country_name": "India",
+    "airport_latlng": [
+      8.4821,
+      76.92
+    ],
     "notes": "-"
   },
   {
@@ -1247,7 +1937,12 @@
     "flight_no": "UL102",
     "aircraft_type": "A332",
     "ut_arrival_time": 1770702600,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "-"
   },
   {
@@ -1256,7 +1951,12 @@
     "flight_no": "UL166",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770702900,
-    "from_via": "Cochin",
+    "airport_name": "Cochin",
+    "country_name": "India",
+    "airport_latlng": [
+      10.152,
+      76.3874
+    ],
     "notes": "-"
   },
   {
@@ -1265,7 +1965,12 @@
     "flight_no": "6E1167",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770703200,
-    "from_via": "Bangalore",
+    "airport_name": "Bangalore",
+    "country_name": "India",
+    "airport_latlng": [
+      13.1986,
+      77.7066
+    ],
     "notes": "-"
   },
   {
@@ -1274,7 +1979,12 @@
     "flight_no": "UL504",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770706800,
-    "from_via": "London/Heathrow",
+    "airport_name": "London/Heathrow",
+    "country_name": "United Kingdom",
+    "airport_latlng": [
+      51.47,
+      -0.4543
+    ],
     "notes": "-"
   },
   {
@@ -1283,7 +1993,12 @@
     "flight_no": "6E1175",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770707700,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -1292,7 +2007,12 @@
     "flight_no": "TK732",
     "aircraft_type": "A332",
     "ut_arrival_time": 1770709800,
-    "from_via": "Istanbul Ataturk",
+    "airport_name": "Istanbul Ataturk",
+    "country_name": "Turkey",
+    "airport_latlng": [
+      40.9769,
+      28.8146
+    ],
     "notes": "-"
   },
   {
@@ -1301,7 +2021,12 @@
     "flight_no": "6E1181",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770711000,
-    "from_via": "Hyderabad Intl",
+    "airport_name": "Hyderabad Intl",
+    "country_name": "India",
+    "airport_latlng": [
+      17.2403,
+      78.4294
+    ],
     "notes": "-"
   },
   {
@@ -1310,7 +2035,12 @@
     "flight_no": "G9508",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770711300,
-    "from_via": "Sharjah",
+    "airport_name": "Sharjah",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.3286,
+      55.5172
+    ],
     "notes": "-"
   },
   {
@@ -1319,7 +2049,12 @@
     "flight_no": "AI2276",
     "aircraft_type": "A321",
     "ut_arrival_time": 1770715800,
-    "from_via": "Mumbai",
+    "airport_name": "Mumbai",
+    "country_name": "India",
+    "airport_latlng": [
+      19.0896,
+      72.8656
+    ],
     "notes": "-"
   },
   {
@@ -1328,7 +2063,12 @@
     "flight_no": "EY390",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770716700,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -1337,7 +2077,12 @@
     "flight_no": "OQ2393",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770718200,
-    "from_via": "Chongqing",
+    "airport_name": "Chongqing",
+    "country_name": "China",
+    "airport_latlng": [
+      29.7193,
+      106.6419
+    ],
     "notes": "(FM 13 JAN)"
   },
   {
@@ -1346,7 +2091,12 @@
     "flight_no": "UL315",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1770718800,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -1355,7 +2105,12 @@
     "flight_no": "EK654",
     "aircraft_type": "A350",
     "ut_arrival_time": 1770719100,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -1364,7 +2119,12 @@
     "flight_no": "UL190",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770719100,
-    "from_via": "Dhaka",
+    "airport_name": "Dhaka",
+    "country_name": "Bangladesh",
+    "airport_latlng": [
+      23.8434,
+      90.3978
+    ],
     "notes": "-"
   },
   {
@@ -1373,7 +2133,12 @@
     "flight_no": "UL405",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1770719100,
-    "from_via": "Bangkok Suvarnabhumi",
+    "airport_name": "Bangkok Suvarnabhumi",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -1382,7 +2147,12 @@
     "flight_no": "AI281",
     "aircraft_type": "A321",
     "ut_arrival_time": 1770719700,
-    "from_via": "Delhi",
+    "airport_name": "Delhi",
+    "country_name": "India",
+    "airport_latlng": [
+      28.5562,
+      77.1
+    ],
     "notes": "-"
   },
   {
@@ -1391,7 +2161,12 @@
     "flight_no": "6E1179",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770720300,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -1400,7 +2175,12 @@
     "flight_no": "FZ549",
     "aircraft_type": "B737",
     "ut_arrival_time": 1770720600,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -1409,7 +2189,12 @@
     "flight_no": "QR654",
     "aircraft_type": "B789",
     "ut_arrival_time": 1770721200,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -1418,7 +2203,12 @@
     "flight_no": "UL120",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770723000,
-    "from_via": "Gan Intl",
+    "airport_name": "Gan Intl",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      -0.6942,
+      73.1556
+    ],
     "notes": "-"
   },
   {
@@ -1427,7 +2217,12 @@
     "flight_no": "8D924",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770723900,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "(ETA 1830 FM 20 JAN)"
   },
   {
@@ -1436,7 +2231,12 @@
     "flight_no": "UL128",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770723900,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -1445,7 +2245,12 @@
     "flight_no": "UL365",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1770724200,
-    "from_via": "Jakarta",
+    "airport_name": "Jakarta",
+    "country_name": "Indonesia",
+    "airport_latlng": [
+      -6.1256,
+      106.6559
+    ],
     "notes": "-"
   },
   {
@@ -1454,7 +2259,12 @@
     "flight_no": "UL116",
     "aircraft_type": "A332",
     "ut_arrival_time": 1770724800,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "-"
   },
   {
@@ -1463,7 +2273,12 @@
     "flight_no": "UL455",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770724800,
-    "from_via": "Narita",
+    "airport_name": "Narita",
+    "country_name": "Japan",
+    "airport_latlng": [
+      35.772,
+      140.3929
+    ],
     "notes": "-"
   },
   {
@@ -1472,7 +2287,12 @@
     "flight_no": "EK652",
     "aircraft_type": "B77W",
     "ut_arrival_time": 1770728100,
-    "from_via": "Dubai/Male",
+    "airport_name": "Dubai/Male",
+    "country_name": "United Arab Emirates/Maldives",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -1481,7 +2301,12 @@
     "flight_no": "MU6017",
     "aircraft_type": "A332",
     "ut_arrival_time": 1770730200,
-    "from_via": "Shanghai",
+    "airport_name": "Shanghai",
+    "country_name": "China",
+    "airport_latlng": [
+      31.1443,
+      121.8083
+    ],
     "notes": "-"
   },
   {
@@ -1490,7 +2315,12 @@
     "flight_no": "6E1183",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770733500,
-    "from_via": "Bangalore",
+    "airport_name": "Bangalore",
+    "country_name": "India",
+    "airport_latlng": [
+      13.1986,
+      77.7066
+    ],
     "notes": "-"
   },
   {
@@ -1499,7 +2329,12 @@
     "flight_no": "EY396",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770735000,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -1508,7 +2343,12 @@
     "flight_no": "3L708",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770735300,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -1517,7 +2357,12 @@
     "flight_no": "OQ2394",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770737400,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "(FM 13 JAN)"
   },
   {
@@ -1526,7 +2371,12 @@
     "flight_no": "CA425",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770737700,
-    "from_via": "Chengdu/Tianfu",
+    "airport_name": "Chengdu/Tianfu",
+    "country_name": "China",
+    "airport_latlng": [
+      30.3089,
+      104.4419
+    ],
     "notes": "-"
   },
   {
@@ -1535,7 +2385,12 @@
     "flight_no": "6E1173",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770737700,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -1544,7 +2399,12 @@
     "flight_no": "UL309",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770738000,
-    "from_via": "Singapore",
+    "airport_name": "Singapore",
+    "country_name": "Singapore",
+    "airport_latlng": [
+      1.3644,
+      103.9915
+    ],
     "notes": "-"
   },
   {
@@ -1553,7 +2413,12 @@
     "flight_no": "UL184",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770740100,
-    "from_via": "Karachi",
+    "airport_name": "Karachi",
+    "country_name": "Pakistan",
+    "airport_latlng": [
+      24.9065,
+      67.1608
+    ],
     "notes": "-"
   },
   {
@@ -1562,7 +2427,12 @@
     "flight_no": "AK47",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770740400,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -1571,7 +2441,12 @@
     "flight_no": "EK648",
     "aircraft_type": "B77W",
     "ut_arrival_time": 1770740700,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -1580,7 +2455,12 @@
     "flight_no": "FD140",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770741000,
-    "from_via": "Bangkok Don Mueang",
+    "airport_name": "Bangkok Don Mueang",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.9126,
+      100.6074
+    ],
     "notes": "-"
   },
   {
@@ -1589,7 +2469,12 @@
     "flight_no": "UL196",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770741600,
-    "from_via": "Delhi",
+    "airport_name": "Delhi",
+    "country_name": "India",
+    "airport_latlng": [
+      28.5562,
+      77.1
+    ],
     "notes": "-"
   },
   {
@@ -1598,7 +2483,12 @@
     "flight_no": "UL124",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770741900,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -1607,7 +2497,12 @@
     "flight_no": "UL186",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770741900,
-    "from_via": "Lahore",
+    "airport_name": "Lahore",
+    "country_name": "Pakistan",
+    "airport_latlng": [
+      31.5216,
+      74.4036
+    ],
     "notes": "-"
   },
   {
@@ -1616,7 +2511,12 @@
     "flight_no": "UL605",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770742200,
-    "from_via": "Melbourne",
+    "airport_name": "Melbourne",
+    "country_name": "Australia",
+    "airport_latlng": [
+      -37.669,
+      144.841
+    ],
     "notes": "-"
   },
   {
@@ -1625,7 +2525,12 @@
     "flight_no": "UL607",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770743700,
-    "from_via": "Sydney",
+    "airport_name": "Sydney",
+    "country_name": "Australia",
+    "airport_latlng": [
+      -33.9461,
+      151.1772
+    ],
     "notes": "-"
   },
   {
@@ -1634,7 +2539,12 @@
     "flight_no": "UL104",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770744000,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "(A332 ON 20 JAN)"
   },
   {
@@ -1643,7 +2553,12 @@
     "flight_no": "UL144",
     "aircraft_type": "A32A",
     "ut_arrival_time": 1770745500,
-    "from_via": "Mumbai",
+    "airport_name": "Mumbai",
+    "country_name": "India",
+    "airport_latlng": [
+      19.0896,
+      72.8656
+    ],
     "notes": "-"
   },
   {
@@ -1652,7 +2567,12 @@
     "flight_no": "CX611",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770746400,
-    "from_via": "Hong Kong",
+    "airport_name": "Hong Kong",
+    "country_name": "Hong Kong",
+    "airport_latlng": [
+      22.308,
+      113.9185
+    ],
     "notes": "-"
   },
   {
@@ -1661,7 +2581,12 @@
     "flight_no": "SQ468",
     "aircraft_type": "B787",
     "ut_arrival_time": 1770746400,
-    "from_via": "Singapore",
+    "airport_name": "Singapore",
+    "country_name": "Singapore",
+    "airport_latlng": [
+      1.3644,
+      103.9915
+    ],
     "notes": "-"
   },
   {
@@ -1670,7 +2595,12 @@
     "flight_no": "MH179",
     "aircraft_type": "B738",
     "ut_arrival_time": 1770746700,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -1679,7 +2609,12 @@
     "flight_no": "MU713",
     "aircraft_type": "A332",
     "ut_arrival_time": 1770747000,
-    "from_via": "Kunming",
+    "airport_name": "Kunming",
+    "country_name": "China",
+    "airport_latlng": [
+      25.1019,
+      102.9292
+    ],
     "notes": "(FM 20 JAN)"
   },
   {
@@ -1688,7 +2623,12 @@
     "flight_no": "TG307",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770748260,
-    "from_via": "Bangkok Suvarnabhumi",
+    "airport_name": "Bangkok Suvarnabhumi",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -1697,7 +2637,12 @@
     "flight_no": "8D822",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770748500,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -1706,7 +2651,12 @@
     "flight_no": "UL232",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770748800,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -1715,7 +2665,12 @@
     "flight_no": "FZ569",
     "aircraft_type": "B737",
     "ut_arrival_time": 1770750900,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -1724,7 +2679,12 @@
     "flight_no": "FD142",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770754500,
-    "from_via": "Bangkok Don Mueang",
+    "airport_name": "Bangkok Don Mueang",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.9126,
+      100.6074
+    ],
     "notes": "-"
   },
   {
@@ -1733,7 +2693,12 @@
     "flight_no": "G9587",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770754800,
-    "from_via": "Sharjah",
+    "airport_name": "Sharjah",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.3286,
+      55.5172
+    ],
     "notes": "-"
   },
   {
@@ -1742,7 +2707,12 @@
     "flight_no": "QR658",
     "aircraft_type": "B789",
     "ut_arrival_time": 1770755100,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -1751,7 +2721,12 @@
     "flight_no": "6E1171",
     "aircraft_type": "A321",
     "ut_arrival_time": 1770755400,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -1760,7 +2735,12 @@
     "flight_no": "8D932",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770756600,
-    "from_via": "Dhaka",
+    "airport_name": "Dhaka",
+    "country_name": "Bangladesh",
+    "airport_latlng": [
+      23.8434,
+      90.3978
+    ],
     "notes": "(ETA 0305 FM 21 JAN)"
   },
   {
@@ -1769,7 +2749,12 @@
     "flight_no": "QR662",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770758100,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -1778,7 +2763,12 @@
     "flight_no": "EY394",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770758400,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -1787,7 +2777,12 @@
     "flight_no": "J9551",
     "aircraft_type": "A32N",
     "ut_arrival_time": 1770760800,
-    "from_via": "Kuwait",
+    "airport_name": "Kuwait",
+    "country_name": "Kuwait",
+    "airport_latlng": [
+      29.2266,
+      47.9689
+    ],
     "notes": "-"
   },
   {
@@ -1796,7 +2791,12 @@
     "flight_no": "G9502",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770761100,
-    "from_via": "Sharjah",
+    "airport_name": "Sharjah",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.3286,
+      55.5172
+    ],
     "notes": "-"
   },
   {
@@ -1805,7 +2805,12 @@
     "flight_no": "FZ565",
     "aircraft_type": "B737",
     "ut_arrival_time": 1770763800,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "(ONLY ON 07 JAN)"
   },
   {
@@ -1814,7 +2819,12 @@
     "flight_no": "UL226",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770766200,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -1823,7 +2833,12 @@
     "flight_no": "UL174",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770766500,
-    "from_via": "Bangalore",
+    "airport_name": "Bangalore",
+    "country_name": "India",
+    "airport_latlng": [
+      13.1986,
+      77.7066
+    ],
     "notes": "-"
   },
   {
@@ -1832,7 +2847,12 @@
     "flight_no": "UL881",
     "aircraft_type": "A32A",
     "ut_arrival_time": 1770766500,
-    "from_via": "Guangzhou Baiyun",
+    "airport_name": "Guangzhou Baiyun",
+    "country_name": "China",
+    "airport_latlng": [
+      23.3924,
+      113.2988
+    ],
     "notes": "-"
   },
   {
@@ -1841,7 +2861,12 @@
     "flight_no": "UL142",
     "aircraft_type": "A332",
     "ut_arrival_time": 1770768300,
-    "from_via": "Mumbai",
+    "airport_name": "Mumbai",
+    "country_name": "India",
+    "airport_latlng": [
+      19.0896,
+      72.8656
+    ],
     "notes": "-"
   },
   {
@@ -1850,7 +2875,12 @@
     "flight_no": "UL218",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1770769200,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -1859,7 +2889,12 @@
     "flight_no": "UL254",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1770770100,
-    "from_via": "Dammam",
+    "airport_name": "Dammam",
+    "country_name": "Saudi Arabia",
+    "airport_latlng": [
+      26.4715,
+      49.7979
+    ],
     "notes": "-"
   },
   {
@@ -1868,7 +2903,12 @@
     "flight_no": "UL230",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1770770700,
-    "from_via": "Kuwait",
+    "airport_name": "Kuwait",
+    "country_name": "Kuwait",
+    "airport_latlng": [
+      29.2266,
+      47.9689
+    ],
     "notes": "-"
   },
   {
@@ -1877,7 +2917,12 @@
     "flight_no": "UL266",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770770700,
-    "from_via": "Riyadh",
+    "airport_name": "Riyadh",
+    "country_name": "Saudi Arabia",
+    "airport_latlng": [
+      24.9577,
+      46.6989
+    ],
     "notes": "-"
   },
   {
@@ -1886,7 +2931,12 @@
     "flight_no": "TK730",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770771000,
-    "from_via": "Istanbul Ataturk",
+    "airport_name": "Istanbul Ataturk",
+    "country_name": "Turkey",
+    "airport_latlng": [
+      40.9769,
+      28.8146
+    ],
     "notes": "-"
   },
   {
@@ -1895,7 +2945,12 @@
     "flight_no": "AI277",
     "aircraft_type": "A321",
     "ut_arrival_time": 1770774600,
-    "from_via": "Delhi",
+    "airport_name": "Delhi",
+    "country_name": "India",
+    "airport_latlng": [
+      28.5562,
+      77.1
+    ],
     "notes": "-"
   },
   {
@@ -1904,7 +2959,12 @@
     "flight_no": "6E1185",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770777600,
-    "from_via": "Mumbai",
+    "airport_name": "Mumbai",
+    "country_name": "India",
+    "airport_latlng": [
+      19.0896,
+      72.8656
+    ],
     "notes": "-"
   },
   {
@@ -1913,7 +2973,12 @@
     "flight_no": "EY392",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770777900,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -1922,7 +2987,12 @@
     "flight_no": "FZ579",
     "aircraft_type": "B737",
     "ut_arrival_time": 1770777900,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -1931,7 +3001,12 @@
     "flight_no": "EK650",
     "aircraft_type": "B77W",
     "ut_arrival_time": 1770778200,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -1940,7 +3015,12 @@
     "flight_no": "AI2276",
     "aircraft_type": "A321",
     "ut_arrival_time": 1770779400,
-    "from_via": "Mumbai",
+    "airport_name": "Mumbai",
+    "country_name": "India",
+    "airport_latlng": [
+      19.0896,
+      72.8656
+    ],
     "notes": "-"
   },
   {
@@ -1949,7 +3029,12 @@
     "flight_no": "QR664",
     "aircraft_type": "B788",
     "ut_arrival_time": 1770779700,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -1958,7 +3043,12 @@
     "flight_no": "UL192",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770779700,
-    "from_via": "Delhi",
+    "airport_name": "Delhi",
+    "country_name": "India",
+    "airport_latlng": [
+      28.5562,
+      77.1
+    ],
     "notes": "-"
   },
   {
@@ -1967,7 +3057,12 @@
     "flight_no": "AK45",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770782100,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -1976,7 +3071,12 @@
     "flight_no": "GF144",
     "aircraft_type": "A32N",
     "ut_arrival_time": 1770782700,
-    "from_via": "Bahrain/Male",
+    "airport_name": "Bahrain/Male",
+    "country_name": "Bahrain/Maldives",
+    "airport_latlng": [
+      26.2708,
+      50.6336
+    ],
     "notes": "-"
   },
   {
@@ -1985,7 +3085,12 @@
     "flight_no": "QR660",
     "aircraft_type": "B789",
     "ut_arrival_time": 1770783300,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -1994,7 +3099,12 @@
     "flight_no": "UL319",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770783300,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -2003,7 +3113,12 @@
     "flight_no": "SU288",
     "aircraft_type": "B77W",
     "ut_arrival_time": 1770783600,
-    "from_via": "Sheremetyevo",
+    "airport_name": "Sheremetyevo",
+    "country_name": "Russia",
+    "airport_latlng": [
+      55.9726,
+      37.4146
+    ],
     "notes": "-"
   },
   {
@@ -2012,7 +3127,12 @@
     "flight_no": "FZ1025",
     "aircraft_type": "B737",
     "ut_arrival_time": 1770785100,
-    "from_via": "Dubai/Male",
+    "airport_name": "Dubai/Male",
+    "country_name": "United Arab Emirates/Maldives",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -2021,7 +3141,12 @@
     "flight_no": "8D922",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770785700,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "-"
   },
   {
@@ -2030,7 +3155,12 @@
     "flight_no": "UL307",
     "aircraft_type": "A32A",
     "ut_arrival_time": 1770787800,
-    "from_via": "Singapore",
+    "airport_name": "Singapore",
+    "country_name": "Singapore",
+    "airport_latlng": [
+      1.3644,
+      103.9915
+    ],
     "notes": "-"
   },
   {
@@ -2039,7 +3169,12 @@
     "flight_no": "UL403",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770787800,
-    "from_via": "Bangkok Suvarnabhumi",
+    "airport_name": "Bangkok Suvarnabhumi",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -2048,7 +3183,12 @@
     "flight_no": "UL122",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770788100,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -2057,7 +3197,12 @@
     "flight_no": "UL132",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770788700,
-    "from_via": "Tiruchirappalli",
+    "airport_name": "Tiruchirappalli",
+    "country_name": "India",
+    "airport_latlng": [
+      10.7654,
+      78.7097
+    ],
     "notes": "-"
   },
   {
@@ -2066,7 +3211,12 @@
     "flight_no": "UL102",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770789000,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "-"
   },
   {
@@ -2075,7 +3225,12 @@
     "flight_no": "6E1167",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770789600,
-    "from_via": "Bangalore",
+    "airport_name": "Bangalore",
+    "country_name": "India",
+    "airport_latlng": [
+      13.1986,
+      77.7066
+    ],
     "notes": "-"
   },
   {
@@ -2084,7 +3239,12 @@
     "flight_no": "8D722",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770790800,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -2093,7 +3253,12 @@
     "flight_no": "UL178",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770792000,
-    "from_via": "Hyderabad Intl",
+    "airport_name": "Hyderabad Intl",
+    "country_name": "India",
+    "airport_latlng": [
+      17.2403,
+      78.4294
+    ],
     "notes": "-"
   },
   {
@@ -2102,7 +3267,12 @@
     "flight_no": "UL504",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770793200,
-    "from_via": "London/Heathrow",
+    "airport_name": "London/Heathrow",
+    "country_name": "United Kingdom",
+    "airport_latlng": [
+      51.47,
+      -0.4543
+    ],
     "notes": "-"
   },
   {
@@ -2111,7 +3281,12 @@
     "flight_no": "6E1175",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770794100,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -2120,7 +3295,12 @@
     "flight_no": "UL182",
     "aircraft_type": "A32A",
     "ut_arrival_time": 1770809400,
-    "from_via": "Kathmandu",
+    "airport_name": "Kathmandu",
+    "country_name": "Nepal",
+    "airport_latlng": [
+      27.6966,
+      85.3591
+    ],
     "notes": "-"
   },
   {
@@ -2129,7 +3309,12 @@
     "flight_no": "UL190",
     "aircraft_type": "A332",
     "ut_arrival_time": 1770809400,
-    "from_via": "Dhaka",
+    "airport_name": "Dhaka",
+    "country_name": "Bangladesh",
+    "airport_latlng": [
+      23.8434,
+      90.3978
+    ],
     "notes": "-"
   },
   {
@@ -2138,7 +3323,12 @@
     "flight_no": "UL315",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770809400,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -2147,7 +3337,12 @@
     "flight_no": "UL128",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770810300,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -2156,7 +3351,12 @@
     "flight_no": "UL140",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770810300,
-    "from_via": "Madurai",
+    "airport_name": "Madurai",
+    "country_name": "India",
+    "airport_latlng": [
+      9.8345,
+      78.0934
+    ],
     "notes": "-"
   },
   {
@@ -2165,7 +3365,12 @@
     "flight_no": "UL365",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1770810600,
-    "from_via": "Jakarta",
+    "airport_name": "Jakarta",
+    "country_name": "Indonesia",
+    "airport_latlng": [
+      -6.1256,
+      106.6559
+    ],
     "notes": "-"
   },
   {
@@ -2174,7 +3379,12 @@
     "flight_no": "UL405",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1770810600,
-    "from_via": "Bangkok Suvarnabhumi",
+    "airport_name": "Bangkok Suvarnabhumi",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -2183,7 +3393,12 @@
     "flight_no": "UL168",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770810900,
-    "from_via": "Cochin",
+    "airport_name": "Cochin",
+    "country_name": "India",
+    "airport_latlng": [
+      10.152,
+      76.3874
+    ],
     "notes": "-"
   },
   {
@@ -2192,7 +3407,12 @@
     "flight_no": "UL471",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770810900,
-    "from_via": "Incheon",
+    "airport_name": "Incheon",
+    "country_name": "South Korea",
+    "airport_latlng": [
+      37.4602,
+      126.4407
+    ],
     "notes": "-"
   },
   {
@@ -2201,7 +3421,12 @@
     "flight_no": "UL116",
     "aircraft_type": "A332",
     "ut_arrival_time": 1770811200,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "-"
   },
   {
@@ -2210,7 +3435,12 @@
     "flight_no": "TK6136",
     "aircraft_type": "B77X",
     "ut_arrival_time": 1770811500,
-    "from_via": "Istanbul Ataturk/Chennai",
+    "airport_name": "Istanbul Ataturk/Chennai",
+    "country_name": "Turkey/India",
+    "airport_latlng": [
+      40.9769,
+      28.8146
+    ],
     "notes": "-"
   },
   {
@@ -2219,7 +3449,12 @@
     "flight_no": "AI281",
     "aircraft_type": "A321",
     "ut_arrival_time": 1770813900,
-    "from_via": "Delhi",
+    "airport_name": "Delhi",
+    "country_name": "India",
+    "airport_latlng": [
+      28.5562,
+      77.1
+    ],
     "notes": "-"
   },
   {
@@ -2228,7 +3463,12 @@
     "flight_no": "EK652",
     "aircraft_type": "B77W",
     "ut_arrival_time": 1770814500,
-    "from_via": "Dubai/Male",
+    "airport_name": "Dubai/Male",
+    "country_name": "United Arab Emirates/Maldives",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -2237,7 +3477,12 @@
     "flight_no": "EK654",
     "aircraft_type": "A350",
     "ut_arrival_time": 1770815700,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -2246,7 +3491,12 @@
     "flight_no": "MU6017",
     "aircraft_type": "A332",
     "ut_arrival_time": 1770816600,
-    "from_via": "Shanghai",
+    "airport_name": "Shanghai",
+    "country_name": "China",
+    "airport_latlng": [
+      31.1443,
+      121.8083
+    ],
     "notes": "-"
   },
   {
@@ -2255,7 +3505,12 @@
     "flight_no": "QR654",
     "aircraft_type": "B789",
     "ut_arrival_time": 1770817800,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -2264,7 +3519,12 @@
     "flight_no": "6E1183",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770819900,
-    "from_via": "Bangalore",
+    "airport_name": "Bangalore",
+    "country_name": "India",
+    "airport_latlng": [
+      13.1986,
+      77.7066
+    ],
     "notes": "-"
   },
   {
@@ -2273,7 +3533,12 @@
     "flight_no": "EY396",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770821400,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -2282,7 +3547,12 @@
     "flight_no": "3L708",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770821700,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -2291,7 +3561,12 @@
     "flight_no": "CA425",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770824100,
-    "from_via": "Chengdu/Tianfu",
+    "airport_name": "Chengdu/Tianfu",
+    "country_name": "China",
+    "airport_latlng": [
+      30.3089,
+      104.4419
+    ],
     "notes": "-"
   },
   {
@@ -2300,7 +3575,12 @@
     "flight_no": "6E1173",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770824100,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -2309,7 +3589,12 @@
     "flight_no": "UL309",
     "aircraft_type": "A332",
     "ut_arrival_time": 1770824400,
-    "from_via": "Singapore",
+    "airport_name": "Singapore",
+    "country_name": "Singapore",
+    "airport_latlng": [
+      1.3644,
+      103.9915
+    ],
     "notes": "-"
   },
   {
@@ -2318,7 +3603,12 @@
     "flight_no": "AK47",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770826800,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -2327,7 +3617,12 @@
     "flight_no": "EK648",
     "aircraft_type": "B77W",
     "ut_arrival_time": 1770827100,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -2336,7 +3631,12 @@
     "flight_no": "FD140",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770827400,
-    "from_via": "Bangkok Don Mueang",
+    "airport_name": "Bangkok Don Mueang",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.9126,
+      100.6074
+    ],
     "notes": "-"
   },
   {
@@ -2345,7 +3645,12 @@
     "flight_no": "FZ549",
     "aircraft_type": "B737",
     "ut_arrival_time": 1770827400,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -2354,7 +3659,12 @@
     "flight_no": "UL196",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770828000,
-    "from_via": "Delhi",
+    "airport_name": "Delhi",
+    "country_name": "India",
+    "airport_latlng": [
+      28.5562,
+      77.1
+    ],
     "notes": "-"
   },
   {
@@ -2363,7 +3673,12 @@
     "flight_no": "UL124",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770828300,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -2372,7 +3687,12 @@
     "flight_no": "UL124",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770828300,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -2381,7 +3701,12 @@
     "flight_no": "UL605",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770828600,
-    "from_via": "Melbourne",
+    "airport_name": "Melbourne",
+    "country_name": "Australia",
+    "airport_latlng": [
+      -37.669,
+      144.841
+    ],
     "notes": "-"
   },
   {
@@ -2390,7 +3715,12 @@
     "flight_no": "UL144",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770831900,
-    "from_via": "Mumbai",
+    "airport_name": "Mumbai",
+    "country_name": "India",
+    "airport_latlng": [
+      19.0896,
+      72.8656
+    ],
     "notes": "-"
   },
   {
@@ -2399,7 +3729,12 @@
     "flight_no": "CX611",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770832800,
-    "from_via": "Hong Kong",
+    "airport_name": "Hong Kong",
+    "country_name": "Hong Kong",
+    "airport_latlng": [
+      22.308,
+      113.9185
+    ],
     "notes": "-"
   },
   {
@@ -2408,7 +3743,12 @@
     "flight_no": "SQ468",
     "aircraft_type": "B787",
     "ut_arrival_time": 1770832800,
-    "from_via": "Singapore",
+    "airport_name": "Singapore",
+    "country_name": "Singapore",
+    "airport_latlng": [
+      1.3644,
+      103.9915
+    ],
     "notes": "-"
   },
   {
@@ -2417,7 +3757,12 @@
     "flight_no": "MH179",
     "aircraft_type": "B738",
     "ut_arrival_time": 1770833100,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -2426,7 +3771,12 @@
     "flight_no": "MU713",
     "aircraft_type": "A332",
     "ut_arrival_time": 1770833400,
-    "from_via": "Kunming",
+    "airport_name": "Kunming",
+    "country_name": "China",
+    "airport_latlng": [
+      25.1019,
+      102.9292
+    ],
     "notes": "-"
   },
   {
@@ -2435,7 +3785,12 @@
     "flight_no": "TG307",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770834660,
-    "from_via": "Bangkok Suvarnabhumi",
+    "airport_name": "Bangkok Suvarnabhumi",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -2444,7 +3799,12 @@
     "flight_no": "8D822",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770834900,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -2453,7 +3813,12 @@
     "flight_no": "UL232",
     "aircraft_type": "A32A",
     "ut_arrival_time": 1770835200,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -2462,7 +3827,12 @@
     "flight_no": "FZ569",
     "aircraft_type": "B737",
     "ut_arrival_time": 1770837300,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -2471,7 +3841,12 @@
     "flight_no": "G9587",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770841200,
-    "from_via": "Sharjah",
+    "airport_name": "Sharjah",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.3286,
+      55.5172
+    ],
     "notes": "-"
   },
   {
@@ -2480,7 +3855,12 @@
     "flight_no": "QR658",
     "aircraft_type": "B789",
     "ut_arrival_time": 1770841500,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -2489,7 +3869,12 @@
     "flight_no": "6E1171",
     "aircraft_type": "A321",
     "ut_arrival_time": 1770841800,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -2498,7 +3883,12 @@
     "flight_no": "QR662",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770844500,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -2507,7 +3897,12 @@
     "flight_no": "EY394",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770844800,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -2516,7 +3911,12 @@
     "flight_no": "8D932",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770845700,
-    "from_via": "Dhaka",
+    "airport_name": "Dhaka",
+    "country_name": "Bangladesh",
+    "airport_latlng": [
+      23.8434,
+      90.3978
+    ],
     "notes": "(ETA 0220 ON 08 & 15 JAN)"
   },
   {
@@ -2525,7 +3925,12 @@
     "flight_no": "J9551",
     "aircraft_type": "A32N",
     "ut_arrival_time": 1770847200,
-    "from_via": "Kuwait",
+    "airport_name": "Kuwait",
+    "country_name": "Kuwait",
+    "airport_latlng": [
+      29.2266,
+      47.9689
+    ],
     "notes": "(FM 08 JAN)"
   },
   {
@@ -2534,7 +3939,12 @@
     "flight_no": "G9502",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770847500,
-    "from_via": "Sharjah",
+    "airport_name": "Sharjah",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.3286,
+      55.5172
+    ],
     "notes": "-"
   },
   {
@@ -2543,7 +3953,12 @@
     "flight_no": "OV437",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770848400,
-    "from_via": "Muscat",
+    "airport_name": "Muscat",
+    "country_name": "Oman",
+    "airport_latlng": [
+      23.5933,
+      58.2844
+    ],
     "notes": "-"
   },
   {
@@ -2552,7 +3967,12 @@
     "flight_no": "UL226",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770852600,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -2561,7 +3981,12 @@
     "flight_no": "UL174",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770852900,
-    "from_via": "Bangalore",
+    "airport_name": "Bangalore",
+    "country_name": "India",
+    "airport_latlng": [
+      13.1986,
+      77.7066
+    ],
     "notes": "-"
   },
   {
@@ -2570,7 +3995,12 @@
     "flight_no": "UL564",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770854100,
-    "from_via": "Paris Charles de Gaulle",
+    "airport_name": "Paris Charles de Gaulle",
+    "country_name": "France",
+    "airport_latlng": [
+      49.0097,
+      2.5479
+    ],
     "notes": "-"
   },
   {
@@ -2579,7 +4009,12 @@
     "flight_no": "UL142",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770854700,
-    "from_via": "Mumbai",
+    "airport_name": "Mumbai",
+    "country_name": "India",
+    "airport_latlng": [
+      19.0896,
+      72.8656
+    ],
     "notes": "-"
   },
   {
@@ -2588,7 +4023,12 @@
     "flight_no": "UL558",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770855000,
-    "from_via": "Frankfurt Main",
+    "airport_name": "Frankfurt Main",
+    "country_name": "Germany",
+    "airport_latlng": [
+      50.0379,
+      8.5622
+    ],
     "notes": "-"
   },
   {
@@ -2597,7 +4037,12 @@
     "flight_no": "UL218",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1770855600,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -2606,7 +4051,12 @@
     "flight_no": "UL254",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1770856500,
-    "from_via": "Dammam",
+    "airport_name": "Dammam",
+    "country_name": "Saudi Arabia",
+    "airport_latlng": [
+      26.4715,
+      49.7979
+    ],
     "notes": "-"
   },
   {
@@ -2615,7 +4065,12 @@
     "flight_no": "TK730",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770856800,
-    "from_via": "Istanbul Ataturk",
+    "airport_name": "Istanbul Ataturk",
+    "country_name": "Turkey",
+    "airport_latlng": [
+      40.9769,
+      28.8146
+    ],
     "notes": "-"
   },
   {
@@ -2624,7 +4079,12 @@
     "flight_no": "UL230",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1770857100,
-    "from_via": "Kuwait",
+    "airport_name": "Kuwait",
+    "country_name": "Kuwait",
+    "airport_latlng": [
+      29.2266,
+      47.9689
+    ],
     "notes": "-"
   },
   {
@@ -2633,7 +4093,12 @@
     "flight_no": "UL266",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770857100,
-    "from_via": "Riyadh",
+    "airport_name": "Riyadh",
+    "country_name": "Saudi Arabia",
+    "airport_latlng": [
+      24.9577,
+      46.6989
+    ],
     "notes": "-"
   },
   {
@@ -2642,7 +4107,12 @@
     "flight_no": "AI277",
     "aircraft_type": "A321",
     "ut_arrival_time": 1770861000,
-    "from_via": "Delhi",
+    "airport_name": "Delhi",
+    "country_name": "India",
+    "airport_latlng": [
+      28.5562,
+      77.1
+    ],
     "notes": "-"
   },
   {
@@ -2651,7 +4121,12 @@
     "flight_no": "6E1185",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770864000,
-    "from_via": "Mumbai",
+    "airport_name": "Mumbai",
+    "country_name": "India",
+    "airport_latlng": [
+      19.0896,
+      72.8656
+    ],
     "notes": "-"
   },
   {
@@ -2660,7 +4135,12 @@
     "flight_no": "EY392",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770864300,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -2669,7 +4149,12 @@
     "flight_no": "FZ579",
     "aircraft_type": "B737",
     "ut_arrival_time": 1770864300,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -2678,7 +4163,12 @@
     "flight_no": "KU361",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770864600,
-    "from_via": "Kuwait",
+    "airport_name": "Kuwait",
+    "country_name": "Kuwait",
+    "airport_latlng": [
+      29.2266,
+      47.9689
+    ],
     "notes": "-"
   },
   {
@@ -2687,7 +4177,12 @@
     "flight_no": "EK650",
     "aircraft_type": "B77W",
     "ut_arrival_time": 1770864600,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -2696,7 +4191,12 @@
     "flight_no": "QR664",
     "aircraft_type": "B788",
     "ut_arrival_time": 1770866100,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -2705,7 +4205,12 @@
     "flight_no": "UL192",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770866100,
-    "from_via": "Delhi",
+    "airport_name": "Delhi",
+    "country_name": "India",
+    "airport_latlng": [
+      28.5562,
+      77.1
+    ],
     "notes": "-"
   },
   {
@@ -2714,7 +4219,12 @@
     "flight_no": "AK45",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770868500,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -2723,7 +4233,12 @@
     "flight_no": "GF144",
     "aircraft_type": "A32N",
     "ut_arrival_time": 1770869700,
-    "from_via": "Bahrain/Male",
+    "airport_name": "Bahrain/Male",
+    "country_name": "Bahrain/Maldives",
+    "airport_latlng": [
+      26.2708,
+      50.6336
+    ],
     "notes": "-"
   },
   {
@@ -2732,7 +4247,12 @@
     "flight_no": "QR660",
     "aircraft_type": "B789",
     "ut_arrival_time": 1770869700,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -2741,7 +4261,12 @@
     "flight_no": "UL319",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770869700,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -2750,7 +4275,12 @@
     "flight_no": "GF2144",
     "aircraft_type": "A32N",
     "ut_arrival_time": 1770870300,
-    "from_via": "Bahrain/Male",
+    "airport_name": "Bahrain/Male",
+    "country_name": "Bahrain/Maldives",
+    "airport_latlng": [
+      26.2708,
+      50.6336
+    ],
     "notes": "(ONLY ON 08 JAN)"
   },
   {
@@ -2759,7 +4289,12 @@
     "flight_no": "FZ1025",
     "aircraft_type": "B737",
     "ut_arrival_time": 1770871500,
-    "from_via": "Dubai/Male",
+    "airport_name": "Dubai/Male",
+    "country_name": "United Arab Emirates/Maldives",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -2768,7 +4303,12 @@
     "flight_no": "SQ462",
     "aircraft_type": "A359M",
     "ut_arrival_time": 1770873300,
-    "from_via": "Singapore",
+    "airport_name": "Singapore",
+    "country_name": "Singapore",
+    "airport_latlng": [
+      1.3644,
+      103.9915
+    ],
     "notes": "(FM 08 JAN )"
   },
   {
@@ -2777,7 +4317,12 @@
     "flight_no": "UL307",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770874200,
-    "from_via": "Singapore",
+    "airport_name": "Singapore",
+    "country_name": "Singapore",
+    "airport_latlng": [
+      1.3644,
+      103.9915
+    ],
     "notes": "-"
   },
   {
@@ -2786,7 +4331,12 @@
     "flight_no": "UL403",
     "aircraft_type": "A32A",
     "ut_arrival_time": 1770874200,
-    "from_via": "Bangkok Suvarnabhumi",
+    "airport_name": "Bangkok Suvarnabhumi",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -2795,7 +4345,12 @@
     "flight_no": "UL122",
     "aircraft_type": "A332",
     "ut_arrival_time": 1770874500,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -2804,7 +4359,12 @@
     "flight_no": "UL132",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770875100,
-    "from_via": "Tiruchirappalli",
+    "airport_name": "Tiruchirappalli",
+    "country_name": "India",
+    "airport_latlng": [
+      10.7654,
+      78.7097
+    ],
     "notes": "-"
   },
   {
@@ -2813,7 +4373,12 @@
     "flight_no": "UL162",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770875100,
-    "from_via": "Thiruvananthapuram",
+    "airport_name": "Thiruvananthapuram",
+    "country_name": "India",
+    "airport_latlng": [
+      8.4821,
+      76.92
+    ],
     "notes": "-"
   },
   {
@@ -2822,7 +4387,12 @@
     "flight_no": "UL102",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770875400,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "-"
   },
   {
@@ -2831,7 +4401,12 @@
     "flight_no": "UL1174",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1770875700,
-    "from_via": "Bangalore",
+    "airport_name": "Bangalore",
+    "country_name": "India",
+    "airport_latlng": [
+      13.1986,
+      77.7066
+    ],
     "notes": "-"
   },
   {
@@ -2840,7 +4415,12 @@
     "flight_no": "UL166",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770875700,
-    "from_via": "Cochin",
+    "airport_name": "Cochin",
+    "country_name": "India",
+    "airport_latlng": [
+      10.152,
+      76.3874
+    ],
     "notes": "-"
   },
   {
@@ -2849,7 +4429,12 @@
     "flight_no": "6E1167",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770876000,
-    "from_via": "Bangalore",
+    "airport_name": "Bangalore",
+    "country_name": "India",
+    "airport_latlng": [
+      13.1986,
+      77.7066
+    ],
     "notes": "-"
   },
   {
@@ -2858,7 +4443,12 @@
     "flight_no": "UL504",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770879600,
-    "from_via": "London/Heathrow",
+    "airport_name": "London/Heathrow",
+    "country_name": "United Kingdom",
+    "airport_latlng": [
+      51.47,
+      -0.4543
+    ],
     "notes": "-"
   },
   {
@@ -2867,7 +4457,12 @@
     "flight_no": "6E1175",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770880500,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -2876,7 +4471,12 @@
     "flight_no": "TK732",
     "aircraft_type": "A332",
     "ut_arrival_time": 1770882600,
-    "from_via": "Istanbul Ataturk",
+    "airport_name": "Istanbul Ataturk",
+    "country_name": "Turkey",
+    "airport_latlng": [
+      40.9769,
+      28.8146
+    ],
     "notes": "-"
   },
   {
@@ -2885,7 +4485,12 @@
     "flight_no": "6E1181",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770883800,
-    "from_via": "Hyderabad Intl",
+    "airport_name": "Hyderabad Intl",
+    "country_name": "India",
+    "airport_latlng": [
+      17.2403,
+      78.4294
+    ],
     "notes": "-"
   },
   {
@@ -2894,7 +4499,12 @@
     "flight_no": "G9508",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770884100,
-    "from_via": "Sharjah",
+    "airport_name": "Sharjah",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.3286,
+      55.5172
+    ],
     "notes": "-"
   },
   {
@@ -2903,7 +4513,12 @@
     "flight_no": "AI2276",
     "aircraft_type": "A321",
     "ut_arrival_time": 1770888600,
-    "from_via": "Mumbai",
+    "airport_name": "Mumbai",
+    "country_name": "India",
+    "airport_latlng": [
+      19.0896,
+      72.8656
+    ],
     "notes": "-"
   },
   {
@@ -2912,7 +4527,12 @@
     "flight_no": "EY390",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770889500,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -2921,7 +4541,12 @@
     "flight_no": "OQ2393",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770891000,
-    "from_via": "Chongqing",
+    "airport_name": "Chongqing",
+    "country_name": "China",
+    "airport_latlng": [
+      29.7193,
+      106.6419
+    ],
     "notes": "(FM 15 JAN)"
   },
   {
@@ -2930,7 +4555,12 @@
     "flight_no": "UL405",
     "aircraft_type": "A332",
     "ut_arrival_time": 1770891300,
-    "from_via": "Bangkok Suvarnabhumi",
+    "airport_name": "Bangkok Suvarnabhumi",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -2939,7 +4569,12 @@
     "flight_no": "UL315",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1770891600,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -2948,7 +4583,12 @@
     "flight_no": "EK654",
     "aircraft_type": "A350",
     "ut_arrival_time": 1770891900,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -2957,7 +4597,12 @@
     "flight_no": "UL190",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770891900,
-    "from_via": "Dhaka",
+    "airport_name": "Dhaka",
+    "country_name": "Bangladesh",
+    "airport_latlng": [
+      23.8434,
+      90.3978
+    ],
     "notes": "-"
   },
   {
@@ -2966,7 +4611,12 @@
     "flight_no": "AI281",
     "aircraft_type": "A321",
     "ut_arrival_time": 1770892500,
-    "from_via": "Delhi",
+    "airport_name": "Delhi",
+    "country_name": "India",
+    "airport_latlng": [
+      28.5562,
+      77.1
+    ],
     "notes": "-"
   },
   {
@@ -2975,7 +4625,12 @@
     "flight_no": "KC167",
     "aircraft_type": "A321",
     "ut_arrival_time": 1770892800,
-    "from_via": "Almaty International Airport",
+    "airport_name": "Almaty International Airport",
+    "country_name": "Kazakhstan",
+    "airport_latlng": [
+      43.3521,
+      77.0405
+    ],
     "notes": "-"
   },
   {
@@ -2984,7 +4639,12 @@
     "flight_no": "UL182",
     "aircraft_type": "A32A",
     "ut_arrival_time": 1770892800,
-    "from_via": "Kathmandu",
+    "airport_name": "Kathmandu",
+    "country_name": "Nepal",
+    "airport_latlng": [
+      27.6966,
+      85.3591
+    ],
     "notes": "-"
   },
   {
@@ -2993,7 +4653,12 @@
     "flight_no": "6E1179",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770893100,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -3002,7 +4667,12 @@
     "flight_no": "FZ549",
     "aircraft_type": "B737",
     "ut_arrival_time": 1770893400,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -3011,7 +4681,12 @@
     "flight_no": "QR654",
     "aircraft_type": "B789",
     "ut_arrival_time": 1770894000,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -3020,7 +4695,12 @@
     "flight_no": "UL154",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770895800,
-    "from_via": "Lahore",
+    "airport_name": "Lahore",
+    "country_name": "Pakistan",
+    "airport_latlng": [
+      31.5216,
+      74.4036
+    ],
     "notes": "-"
   },
   {
@@ -3029,7 +4709,12 @@
     "flight_no": "UL134",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770896400,
-    "from_via": "Tiruchirappalli",
+    "airport_name": "Tiruchirappalli",
+    "country_name": "India",
+    "airport_latlng": [
+      10.7654,
+      78.7097
+    ],
     "notes": "-"
   },
   {
@@ -3038,7 +4723,12 @@
     "flight_no": "8D924",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770896700,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "(ETA 1830 FM 22 JAN)"
   },
   {
@@ -3047,7 +4737,12 @@
     "flight_no": "UL128",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770896700,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -3056,7 +4751,12 @@
     "flight_no": "UL365",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1770897000,
-    "from_via": "Jakarta",
+    "airport_name": "Jakarta",
+    "country_name": "Indonesia",
+    "airport_latlng": [
+      -6.1256,
+      106.6559
+    ],
     "notes": "-"
   },
   {
@@ -3065,7 +4765,12 @@
     "flight_no": "UL116",
     "aircraft_type": "A332",
     "ut_arrival_time": 1770897600,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "-"
   },
   {
@@ -3074,7 +4779,12 @@
     "flight_no": "UL455",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770897600,
-    "from_via": "Narita",
+    "airport_name": "Narita",
+    "country_name": "Japan",
+    "airport_latlng": [
+      35.772,
+      140.3929
+    ],
     "notes": "-"
   },
   {
@@ -3083,7 +4793,12 @@
     "flight_no": "EK652",
     "aircraft_type": "B77W",
     "ut_arrival_time": 1770900900,
-    "from_via": "Dubai/Male",
+    "airport_name": "Dubai/Male",
+    "country_name": "United Arab Emirates/Maldives",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -3092,7 +4807,12 @@
     "flight_no": "MU6017",
     "aircraft_type": "A332",
     "ut_arrival_time": 1770903000,
-    "from_via": "Shanghai",
+    "airport_name": "Shanghai",
+    "country_name": "China",
+    "airport_latlng": [
+      31.1443,
+      121.8083
+    ],
     "notes": "-"
   },
   {
@@ -3101,7 +4821,12 @@
     "flight_no": "6E1183",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770906300,
-    "from_via": "Bangalore",
+    "airport_name": "Bangalore",
+    "country_name": "India",
+    "airport_latlng": [
+      13.1986,
+      77.7066
+    ],
     "notes": "-"
   },
   {
@@ -3110,7 +4835,12 @@
     "flight_no": "EY396",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770907800,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -3119,7 +4849,12 @@
     "flight_no": "3L708",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770908100,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -3128,7 +4863,12 @@
     "flight_no": "OQ2394",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770910200,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "(FM 15 JAN)"
   },
   {
@@ -3137,7 +4877,12 @@
     "flight_no": "CA425",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770910500,
-    "from_via": "Chengdu/Tianfu",
+    "airport_name": "Chengdu/Tianfu",
+    "country_name": "China",
+    "airport_latlng": [
+      30.3089,
+      104.4419
+    ],
     "notes": "-"
   },
   {
@@ -3146,7 +4891,12 @@
     "flight_no": "6E1173",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770910500,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -3155,7 +4905,12 @@
     "flight_no": "UL309",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770910800,
-    "from_via": "Singapore",
+    "airport_name": "Singapore",
+    "country_name": "Singapore",
+    "airport_latlng": [
+      1.3644,
+      103.9915
+    ],
     "notes": "-"
   },
   {
@@ -3164,7 +4919,12 @@
     "flight_no": "UL184",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770912900,
-    "from_via": "Karachi",
+    "airport_name": "Karachi",
+    "country_name": "Pakistan",
+    "airport_latlng": [
+      24.9065,
+      67.1608
+    ],
     "notes": "-"
   },
   {
@@ -3173,7 +4933,12 @@
     "flight_no": "AK47",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770913200,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -3182,7 +4947,12 @@
     "flight_no": "EK648",
     "aircraft_type": "B77W",
     "ut_arrival_time": 1770913500,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -3191,7 +4961,12 @@
     "flight_no": "FD140",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770913800,
-    "from_via": "Bangkok Don Mueang",
+    "airport_name": "Bangkok Don Mueang",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.9126,
+      100.6074
+    ],
     "notes": "-"
   },
   {
@@ -3200,7 +4975,12 @@
     "flight_no": "UL196",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770914400,
-    "from_via": "Delhi",
+    "airport_name": "Delhi",
+    "country_name": "India",
+    "airport_latlng": [
+      28.5562,
+      77.1
+    ],
     "notes": "-"
   },
   {
@@ -3209,7 +4989,12 @@
     "flight_no": "UL124",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770914700,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -3218,7 +5003,12 @@
     "flight_no": "UL605",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770915000,
-    "from_via": "Melbourne",
+    "airport_name": "Melbourne",
+    "country_name": "Australia",
+    "airport_latlng": [
+      -37.669,
+      144.841
+    ],
     "notes": "-"
   },
   {
@@ -3227,7 +5017,12 @@
     "flight_no": "UL176",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770916200,
-    "from_via": "Hyderabad Intl",
+    "airport_name": "Hyderabad Intl",
+    "country_name": "India",
+    "airport_latlng": [
+      17.2403,
+      78.4294
+    ],
     "notes": "-"
   },
   {
@@ -3236,7 +5031,12 @@
     "flight_no": "UL104",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770916800,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "-"
   },
   {
@@ -3245,7 +5045,12 @@
     "flight_no": "UL144",
     "aircraft_type": "A32A",
     "ut_arrival_time": 1770918300,
-    "from_via": "Mumbai",
+    "airport_name": "Mumbai",
+    "country_name": "India",
+    "airport_latlng": [
+      19.0896,
+      72.8656
+    ],
     "notes": "-"
   },
   {
@@ -3254,7 +5059,12 @@
     "flight_no": "CX611",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770919200,
-    "from_via": "Hong Kong",
+    "airport_name": "Hong Kong",
+    "country_name": "Hong Kong",
+    "airport_latlng": [
+      22.308,
+      113.9185
+    ],
     "notes": "-"
   },
   {
@@ -3263,7 +5073,12 @@
     "flight_no": "SQ468",
     "aircraft_type": "B787",
     "ut_arrival_time": 1770919200,
-    "from_via": "Singapore",
+    "airport_name": "Singapore",
+    "country_name": "Singapore",
+    "airport_latlng": [
+      1.3644,
+      103.9915
+    ],
     "notes": "-"
   },
   {
@@ -3272,7 +5087,12 @@
     "flight_no": "MH179",
     "aircraft_type": "B738",
     "ut_arrival_time": 1770919500,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -3281,7 +5101,12 @@
     "flight_no": "MU713",
     "aircraft_type": "A332",
     "ut_arrival_time": 1770919800,
-    "from_via": "Kunming",
+    "airport_name": "Kunming",
+    "country_name": "China",
+    "airport_latlng": [
+      25.1019,
+      102.9292
+    ],
     "notes": "(CANCELLED ON 08 JAN)"
   },
   {
@@ -3290,7 +5115,12 @@
     "flight_no": "TG307",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770921060,
-    "from_via": "Bangkok Suvarnabhumi",
+    "airport_name": "Bangkok Suvarnabhumi",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -3299,7 +5129,12 @@
     "flight_no": "8D822",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770921300,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -3308,7 +5143,12 @@
     "flight_no": "FZ569",
     "aircraft_type": "B737",
     "ut_arrival_time": 1770923700,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -3317,7 +5157,12 @@
     "flight_no": "FD142",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770927300,
-    "from_via": "Bangkok Don Mueang",
+    "airport_name": "Bangkok Don Mueang",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.9126,
+      100.6074
+    ],
     "notes": "-"
   },
   {
@@ -3326,7 +5171,12 @@
     "flight_no": "KU363",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770927300,
-    "from_via": "Kuwait",
+    "airport_name": "Kuwait",
+    "country_name": "Kuwait",
+    "airport_latlng": [
+      29.2266,
+      47.9689
+    ],
     "notes": "-"
   },
   {
@@ -3335,7 +5185,12 @@
     "flight_no": "G9587",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770927600,
-    "from_via": "Sharjah",
+    "airport_name": "Sharjah",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.3286,
+      55.5172
+    ],
     "notes": "-"
   },
   {
@@ -3344,7 +5199,12 @@
     "flight_no": "QR658",
     "aircraft_type": "B789",
     "ut_arrival_time": 1770927900,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -3353,7 +5213,12 @@
     "flight_no": "6E1171",
     "aircraft_type": "A321",
     "ut_arrival_time": 1770928200,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -3362,7 +5227,12 @@
     "flight_no": "8D932",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770929400,
-    "from_via": "Dhaka",
+    "airport_name": "Dhaka",
+    "country_name": "Bangladesh",
+    "airport_latlng": [
+      23.8434,
+      90.3978
+    ],
     "notes": "(ETA 0305 FM 23 JAN)"
   },
   {
@@ -3371,7 +5241,12 @@
     "flight_no": "QR662",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770930900,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -3380,7 +5255,12 @@
     "flight_no": "EY394",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770931200,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -3389,7 +5269,12 @@
     "flight_no": "J9551",
     "aircraft_type": "A32N",
     "ut_arrival_time": 1770933600,
-    "from_via": "Kuwait",
+    "airport_name": "Kuwait",
+    "country_name": "Kuwait",
+    "airport_latlng": [
+      29.2266,
+      47.9689
+    ],
     "notes": "-"
   },
   {
@@ -3398,7 +5283,12 @@
     "flight_no": "G9502",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770933900,
-    "from_via": "Sharjah",
+    "airport_name": "Sharjah",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.3286,
+      55.5172
+    ],
     "notes": "-"
   },
   {
@@ -3407,7 +5297,12 @@
     "flight_no": "HM262",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770934800,
-    "from_via": "Seychelles",
+    "airport_name": "Seychelles",
+    "country_name": "Seychelles",
+    "airport_latlng": [
+      -4.674,
+      55.5218
+    ],
     "notes": "-"
   },
   {
@@ -3416,7 +5311,12 @@
     "flight_no": "E41477",
     "aircraft_type": "B738",
     "ut_arrival_time": 1770935400,
-    "from_via": "Gdansk Im Lecha Walesy/Ras Al Khaimah Intl",
+    "airport_name": "Gdansk Im Lecha Walesy/Ras Al Khaimah Intl",
+    "country_name": "Poland/UAE",
+    "airport_latlng": [
+      54.3776,
+      18.4662
+    ],
     "notes": "(ONLY ON 02 & 23 JAN)"
   },
   {
@@ -3425,7 +5325,12 @@
     "flight_no": "UL407",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770936000,
-    "from_via": "Bangkok Suvarnabhumi",
+    "airport_name": "Bangkok Suvarnabhumi",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "(CANCELLED ON 16 & 30 JAN)"
   },
   {
@@ -3434,7 +5339,12 @@
     "flight_no": "UL226",
     "aircraft_type": "A332",
     "ut_arrival_time": 1770939000,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -3443,7 +5353,12 @@
     "flight_no": "UL881",
     "aircraft_type": "A32A",
     "ut_arrival_time": 1770939300,
-    "from_via": "Guangzhou Baiyun",
+    "airport_name": "Guangzhou Baiyun",
+    "country_name": "China",
+    "airport_latlng": [
+      23.3924,
+      113.2988
+    ],
     "notes": "-"
   },
   {
@@ -3452,7 +5367,12 @@
     "flight_no": "UL142",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770941100,
-    "from_via": "Mumbai",
+    "airport_name": "Mumbai",
+    "country_name": "India",
+    "airport_latlng": [
+      19.0896,
+      72.8656
+    ],
     "notes": "-"
   },
   {
@@ -3461,7 +5381,12 @@
     "flight_no": "UL218",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770942000,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -3470,7 +5395,12 @@
     "flight_no": "UL254",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1770942900,
-    "from_via": "Dammam",
+    "airport_name": "Dammam",
+    "country_name": "Saudi Arabia",
+    "airport_latlng": [
+      26.4715,
+      49.7979
+    ],
     "notes": "-"
   },
   {
@@ -3479,7 +5409,12 @@
     "flight_no": "UL230",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1770943500,
-    "from_via": "Kuwait",
+    "airport_name": "Kuwait",
+    "country_name": "Kuwait",
+    "airport_latlng": [
+      29.2266,
+      47.9689
+    ],
     "notes": "-"
   },
   {
@@ -3488,7 +5423,12 @@
     "flight_no": "UL266",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770943500,
-    "from_via": "Riyadh",
+    "airport_name": "Riyadh",
+    "country_name": "Saudi Arabia",
+    "airport_latlng": [
+      24.9577,
+      46.6989
+    ],
     "notes": "-"
   },
   {
@@ -3497,7 +5437,12 @@
     "flight_no": "TK730",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770943800,
-    "from_via": "Istanbul Ataturk",
+    "airport_name": "Istanbul Ataturk",
+    "country_name": "Turkey",
+    "airport_latlng": [
+      40.9769,
+      28.8146
+    ],
     "notes": "(ETA 0610 ON 02 JAN)"
   },
   {
@@ -3506,7 +5451,12 @@
     "flight_no": "AI277",
     "aircraft_type": "A321",
     "ut_arrival_time": 1770947400,
-    "from_via": "Delhi",
+    "airport_name": "Delhi",
+    "country_name": "India",
+    "airport_latlng": [
+      28.5562,
+      77.1
+    ],
     "notes": "-"
   },
   {
@@ -3515,7 +5465,12 @@
     "flight_no": "E41913",
     "aircraft_type": "B738",
     "ut_arrival_time": 1770948900,
-    "from_via": "Poznan/Ras Al Khaimah Intl",
+    "airport_name": "Poznan/Ras Al Khaimah Intl",
+    "country_name": "Poland/UAE",
+    "airport_latlng": [
+      52.4215,
+      16.8263
+    ],
     "notes": "(ONLY ON 02 & 23 JAN)"
   },
   {
@@ -3524,7 +5479,12 @@
     "flight_no": "6E1185",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770950400,
-    "from_via": "Mumbai",
+    "airport_name": "Mumbai",
+    "country_name": "India",
+    "airport_latlng": [
+      19.0896,
+      72.8656
+    ],
     "notes": "-"
   },
   {
@@ -3533,7 +5493,12 @@
     "flight_no": "EY392",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770950700,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -3542,7 +5507,12 @@
     "flight_no": "FZ579",
     "aircraft_type": "B737",
     "ut_arrival_time": 1770950700,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -3551,7 +5521,12 @@
     "flight_no": "EK650",
     "aircraft_type": "B77W",
     "ut_arrival_time": 1770951000,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -3560,7 +5535,12 @@
     "flight_no": "QR664",
     "aircraft_type": "B788",
     "ut_arrival_time": 1770952500,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -3569,7 +5549,12 @@
     "flight_no": "UL192",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770952500,
-    "from_via": "Delhi",
+    "airport_name": "Delhi",
+    "country_name": "India",
+    "airport_latlng": [
+      28.5562,
+      77.1
+    ],
     "notes": "-"
   },
   {
@@ -3578,7 +5563,12 @@
     "flight_no": "AK45",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770954900,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -3587,7 +5577,12 @@
     "flight_no": "E47607",
     "aircraft_type": "B738",
     "ut_arrival_time": 1770955200,
-    "from_via": "Katowice Intl/Ras Al Khaimah Intl",
+    "airport_name": "Katowice Intl/Ras Al Khaimah Intl",
+    "country_name": "Poland/UAE",
+    "airport_latlng": [
+      50.4743,
+      19.08
+    ],
     "notes": "(ONLY ON 02 & 23 JAN)"
   },
   {
@@ -3596,7 +5591,12 @@
     "flight_no": "GF144",
     "aircraft_type": "A32N",
     "ut_arrival_time": 1770956100,
-    "from_via": "Bahrain/Male",
+    "airport_name": "Bahrain/Male",
+    "country_name": "Bahrain/Maldives",
+    "airport_latlng": [
+      26.2708,
+      50.6336
+    ],
     "notes": "-"
   },
   {
@@ -3605,7 +5605,12 @@
     "flight_no": "QR660",
     "aircraft_type": "B789",
     "ut_arrival_time": 1770956100,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -3614,7 +5619,12 @@
     "flight_no": "UL319",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1770956100,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -3623,7 +5633,12 @@
     "flight_no": "FZ1025",
     "aircraft_type": "B737",
     "ut_arrival_time": 1770957900,
-    "from_via": "Dubai/Male",
+    "airport_name": "Dubai/Male",
+    "country_name": "United Arab Emirates/Maldives",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -3632,7 +5647,12 @@
     "flight_no": "8D922",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770958500,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "-"
   },
   {
@@ -3641,7 +5661,12 @@
     "flight_no": "SU288",
     "aircraft_type": "B77W",
     "ut_arrival_time": 1770958800,
-    "from_via": "Sheremetyevo",
+    "airport_name": "Sheremetyevo",
+    "country_name": "Russia",
+    "airport_latlng": [
+      55.9726,
+      37.4146
+    ],
     "notes": "-"
   },
   {
@@ -3650,7 +5675,12 @@
     "flight_no": "E41561",
     "aircraft_type": "B738",
     "ut_arrival_time": 1770958800,
-    "from_via": "Warsaw Chopin Intl/Ras Al Khaimah Intl",
+    "airport_name": "Warsaw Chopin Intl/Ras Al Khaimah Intl",
+    "country_name": "Poland/UAE",
+    "airport_latlng": [
+      52.1657,
+      20.9671
+    ],
     "notes": "(ONLY ON 02 & 23 JAN)"
   },
   {
@@ -3659,7 +5689,12 @@
     "flight_no": "UL307",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770960600,
-    "from_via": "Singapore",
+    "airport_name": "Singapore",
+    "country_name": "Singapore",
+    "airport_latlng": [
+      1.3644,
+      103.9915
+    ],
     "notes": "-"
   },
   {
@@ -3668,7 +5703,12 @@
     "flight_no": "UL403",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770960600,
-    "from_via": "Bangkok Suvarnabhumi",
+    "airport_name": "Bangkok Suvarnabhumi",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -3677,7 +5717,12 @@
     "flight_no": "UL122",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770960900,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -3686,7 +5731,12 @@
     "flight_no": "UL138",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770961200,
-    "from_via": "Madurai",
+    "airport_name": "Madurai",
+    "country_name": "India",
+    "airport_latlng": [
+      9.8345,
+      78.0934
+    ],
     "notes": "-"
   },
   {
@@ -3695,7 +5745,12 @@
     "flight_no": "UL162",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770961500,
-    "from_via": "Thiruvananthapuram",
+    "airport_name": "Thiruvananthapuram",
+    "country_name": "India",
+    "airport_latlng": [
+      8.4821,
+      76.92
+    ],
     "notes": "-"
   },
   {
@@ -3704,7 +5759,12 @@
     "flight_no": "UL102",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770961800,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "-"
   },
   {
@@ -3713,7 +5773,12 @@
     "flight_no": "UL1174",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1770962100,
-    "from_via": "Bangalore",
+    "airport_name": "Bangalore",
+    "country_name": "India",
+    "airport_latlng": [
+      13.1986,
+      77.7066
+    ],
     "notes": "-"
   },
   {
@@ -3722,7 +5787,12 @@
     "flight_no": "6E1167",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770962400,
-    "from_via": "Bangalore",
+    "airport_name": "Bangalore",
+    "country_name": "India",
+    "airport_latlng": [
+      13.1986,
+      77.7066
+    ],
     "notes": "-"
   },
   {
@@ -3731,7 +5801,12 @@
     "flight_no": "8D722",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770963600,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -3740,7 +5815,12 @@
     "flight_no": "UL504",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770966000,
-    "from_via": "London/Heathrow",
+    "airport_name": "London/Heathrow",
+    "country_name": "United Kingdom",
+    "airport_latlng": [
+      51.47,
+      -0.4543
+    ],
     "notes": "-"
   },
   {
@@ -3749,7 +5829,12 @@
     "flight_no": "6E1175",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770966900,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -3758,7 +5843,12 @@
     "flight_no": "6E1181",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770970200,
-    "from_via": "Hyderabad Intl",
+    "airport_name": "Hyderabad Intl",
+    "country_name": "India",
+    "airport_latlng": [
+      17.2403,
+      78.4294
+    ],
     "notes": "-"
   },
   {
@@ -3767,7 +5857,12 @@
     "flight_no": "G9508",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770970500,
-    "from_via": "Sharjah",
+    "airport_name": "Sharjah",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.3286,
+      55.5172
+    ],
     "notes": "-"
   },
   {
@@ -3776,7 +5871,12 @@
     "flight_no": "AI2276",
     "aircraft_type": "A321",
     "ut_arrival_time": 1770975000,
-    "from_via": "Mumbai",
+    "airport_name": "Mumbai",
+    "country_name": "India",
+    "airport_latlng": [
+      19.0896,
+      72.8656
+    ],
     "notes": "-"
   },
   {
@@ -3785,7 +5885,12 @@
     "flight_no": "EY390",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770975900,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -3794,7 +5899,12 @@
     "flight_no": "UL178",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1770976500,
-    "from_via": "Hyderabad Intl",
+    "airport_name": "Hyderabad Intl",
+    "country_name": "India",
+    "airport_latlng": [
+      17.2403,
+      78.4294
+    ],
     "notes": "-"
   },
   {
@@ -3803,7 +5913,12 @@
     "flight_no": "UL405",
     "aircraft_type": "A32A",
     "ut_arrival_time": 1770977700,
-    "from_via": "Bangkok Suvarnabhumi",
+    "airport_name": "Bangkok Suvarnabhumi",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -3812,7 +5927,12 @@
     "flight_no": "UL315",
     "aircraft_type": "A332",
     "ut_arrival_time": 1770978000,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -3821,7 +5941,12 @@
     "flight_no": "EK654",
     "aircraft_type": "A350",
     "ut_arrival_time": 1770978300,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -3830,7 +5955,12 @@
     "flight_no": "UL190",
     "aircraft_type": "A332",
     "ut_arrival_time": 1770978300,
-    "from_via": "Dhaka",
+    "airport_name": "Dhaka",
+    "country_name": "Bangladesh",
+    "airport_latlng": [
+      23.8434,
+      90.3978
+    ],
     "notes": "-"
   },
   {
@@ -3839,7 +5969,12 @@
     "flight_no": "AI281",
     "aircraft_type": "A321",
     "ut_arrival_time": 1770978900,
-    "from_via": "Delhi",
+    "airport_name": "Delhi",
+    "country_name": "India",
+    "airport_latlng": [
+      28.5562,
+      77.1
+    ],
     "notes": "-"
   },
   {
@@ -3848,7 +5983,12 @@
     "flight_no": "6E1179",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770979500,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -3857,7 +5997,12 @@
     "flight_no": "FZ549",
     "aircraft_type": "B737",
     "ut_arrival_time": 1770979800,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -3866,7 +6011,12 @@
     "flight_no": "QR654",
     "aircraft_type": "B789",
     "ut_arrival_time": 1770980400,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -3875,7 +6025,12 @@
     "flight_no": "UL134",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770982800,
-    "from_via": "Tiruchirappalli",
+    "airport_name": "Tiruchirappalli",
+    "country_name": "India",
+    "airport_latlng": [
+      10.7654,
+      78.7097
+    ],
     "notes": "-"
   },
   {
@@ -3884,7 +6039,12 @@
     "flight_no": "UL128",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770983100,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -3893,7 +6053,12 @@
     "flight_no": "UL365",
     "aircraft_type": "A32A",
     "ut_arrival_time": 1770983400,
-    "from_via": "Jakarta",
+    "airport_name": "Jakarta",
+    "country_name": "Indonesia",
+    "airport_latlng": [
+      -6.1256,
+      106.6559
+    ],
     "notes": "(CANCELLED ON 16 & 30 JAN)"
   },
   {
@@ -3902,7 +6067,12 @@
     "flight_no": "UL168",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770983700,
-    "from_via": "Cochin",
+    "airport_name": "Cochin",
+    "country_name": "India",
+    "airport_latlng": [
+      10.152,
+      76.3874
+    ],
     "notes": "-"
   },
   {
@@ -3911,7 +6081,12 @@
     "flight_no": "UL116",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770984000,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "-"
   },
   {
@@ -3920,7 +6095,12 @@
     "flight_no": "EK652",
     "aircraft_type": "B77W",
     "ut_arrival_time": 1770987300,
-    "from_via": "Dubai/Male",
+    "airport_name": "Dubai/Male",
+    "country_name": "United Arab Emirates/Maldives",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -3929,7 +6109,12 @@
     "flight_no": "MU6017",
     "aircraft_type": "A332",
     "ut_arrival_time": 1770989400,
-    "from_via": "Shanghai",
+    "airport_name": "Shanghai",
+    "country_name": "China",
+    "airport_latlng": [
+      31.1443,
+      121.8083
+    ],
     "notes": "-"
   },
   {
@@ -3938,7 +6123,12 @@
     "flight_no": "6E1183",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770992700,
-    "from_via": "Bangalore",
+    "airport_name": "Bangalore",
+    "country_name": "India",
+    "airport_latlng": [
+      13.1986,
+      77.7066
+    ],
     "notes": "-"
   },
   {
@@ -3947,7 +6137,12 @@
     "flight_no": "EY396",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770994200,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -3956,7 +6151,12 @@
     "flight_no": "CA425",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770996900,
-    "from_via": "Chengdu/Tianfu",
+    "airport_name": "Chengdu/Tianfu",
+    "country_name": "China",
+    "airport_latlng": [
+      30.3089,
+      104.4419
+    ],
     "notes": "-"
   },
   {
@@ -3965,7 +6165,12 @@
     "flight_no": "6E1173",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770996900,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -3974,7 +6179,12 @@
     "flight_no": "UL309",
     "aircraft_type": "A332",
     "ut_arrival_time": 1770997200,
-    "from_via": "Singapore",
+    "airport_name": "Singapore",
+    "country_name": "Singapore",
+    "airport_latlng": [
+      1.3644,
+      103.9915
+    ],
     "notes": "-"
   },
   {
@@ -3983,7 +6193,12 @@
     "flight_no": "AK47",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770999600,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -3992,7 +6207,12 @@
     "flight_no": "EK648",
     "aircraft_type": "B77W",
     "ut_arrival_time": 1770999900,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -4001,7 +6221,12 @@
     "flight_no": "FD140",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771000200,
-    "from_via": "Bangkok Don Mueang",
+    "airport_name": "Bangkok Don Mueang",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.9126,
+      100.6074
+    ],
     "notes": "-"
   },
   {
@@ -4010,7 +6235,12 @@
     "flight_no": "UL196",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771000800,
-    "from_via": "Delhi",
+    "airport_name": "Delhi",
+    "country_name": "India",
+    "airport_latlng": [
+      28.5562,
+      77.1
+    ],
     "notes": "-"
   },
   {
@@ -4019,7 +6249,12 @@
     "flight_no": "UL124",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771001100,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -4028,7 +6263,12 @@
     "flight_no": "UL605",
     "aircraft_type": "A333",
     "ut_arrival_time": 1771001400,
-    "from_via": "Melbourne",
+    "airport_name": "Melbourne",
+    "country_name": "Australia",
+    "airport_latlng": [
+      -37.669,
+      144.841
+    ],
     "notes": "-"
   },
   {
@@ -4037,7 +6277,12 @@
     "flight_no": "MH7085",
     "aircraft_type": "B738",
     "ut_arrival_time": 1771002300,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "(ONLY ON 02 & 09 JAN)"
   },
   {
@@ -4046,7 +6291,12 @@
     "flight_no": "UL607",
     "aircraft_type": "A333",
     "ut_arrival_time": 1771002900,
-    "from_via": "Sydney",
+    "airport_name": "Sydney",
+    "country_name": "Australia",
+    "airport_latlng": [
+      -33.9461,
+      151.1772
+    ],
     "notes": "-"
   },
   {
@@ -4055,7 +6305,12 @@
     "flight_no": "UL104",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771003200,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "-"
   },
   {
@@ -4064,7 +6319,12 @@
     "flight_no": "UL172",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771003200,
-    "from_via": "Bangalore",
+    "airport_name": "Bangalore",
+    "country_name": "India",
+    "airport_latlng": [
+      13.1986,
+      77.7066
+    ],
     "notes": "-"
   },
   {
@@ -4073,7 +6333,12 @@
     "flight_no": "UL144",
     "aircraft_type": "A32A",
     "ut_arrival_time": 1771004700,
-    "from_via": "Mumbai",
+    "airport_name": "Mumbai",
+    "country_name": "India",
+    "airport_latlng": [
+      19.0896,
+      72.8656
+    ],
     "notes": "-"
   },
   {
@@ -4082,7 +6347,12 @@
     "flight_no": "CX611",
     "aircraft_type": "A333",
     "ut_arrival_time": 1771005600,
-    "from_via": "Hong Kong",
+    "airport_name": "Hong Kong",
+    "country_name": "Hong Kong",
+    "airport_latlng": [
+      22.308,
+      113.9185
+    ],
     "notes": "-"
   },
   {
@@ -4091,7 +6361,12 @@
     "flight_no": "SQ468",
     "aircraft_type": "B787",
     "ut_arrival_time": 1771005600,
-    "from_via": "Singapore",
+    "airport_name": "Singapore",
+    "country_name": "Singapore",
+    "airport_latlng": [
+      1.3644,
+      103.9915
+    ],
     "notes": "-"
   },
   {
@@ -4100,7 +6375,12 @@
     "flight_no": "MH179",
     "aircraft_type": "B738",
     "ut_arrival_time": 1771005900,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -4109,7 +6389,12 @@
     "flight_no": "MU713",
     "aircraft_type": "A332",
     "ut_arrival_time": 1771006200,
-    "from_via": "Kunming",
+    "airport_name": "Kunming",
+    "country_name": "China",
+    "airport_latlng": [
+      25.1019,
+      102.9292
+    ],
     "notes": "-"
   },
   {
@@ -4118,7 +6403,12 @@
     "flight_no": "TG307",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771007460,
-    "from_via": "Bangkok Suvarnabhumi",
+    "airport_name": "Bangkok Suvarnabhumi",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -4127,7 +6417,12 @@
     "flight_no": "8D822",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771007700,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -4136,7 +6431,12 @@
     "flight_no": "UL232",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771008000,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -4145,7 +6445,12 @@
     "flight_no": "FZ569",
     "aircraft_type": "B737",
     "ut_arrival_time": 1771010100,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -4154,7 +6459,12 @@
     "flight_no": "KU363",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771013700,
-    "from_via": "Kuwait",
+    "airport_name": "Kuwait",
+    "country_name": "Kuwait",
+    "airport_latlng": [
+      29.2266,
+      47.9689
+    ],
     "notes": "-"
   },
   {
@@ -4163,7 +6473,12 @@
     "flight_no": "G9587",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771014000,
-    "from_via": "Sharjah",
+    "airport_name": "Sharjah",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.3286,
+      55.5172
+    ],
     "notes": "-"
   },
   {
@@ -4172,7 +6487,12 @@
     "flight_no": "QR658",
     "aircraft_type": "B789",
     "ut_arrival_time": 1771014300,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -4181,7 +6501,12 @@
     "flight_no": "6E1171",
     "aircraft_type": "A321",
     "ut_arrival_time": 1771014600,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -4190,7 +6515,12 @@
     "flight_no": "8D932",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771015800,
-    "from_via": "Dhaka",
+    "airport_name": "Dhaka",
+    "country_name": "Bangladesh",
+    "airport_latlng": [
+      23.8434,
+      90.3978
+    ],
     "notes": "(ETA 0305 FM 17 JAN)"
   },
   {
@@ -4199,7 +6529,12 @@
     "flight_no": "QR662",
     "aircraft_type": "A333",
     "ut_arrival_time": 1771017300,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -4208,7 +6543,12 @@
     "flight_no": "EY394",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771017600,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -4217,7 +6557,12 @@
     "flight_no": "J9551",
     "aircraft_type": "A32N",
     "ut_arrival_time": 1771020000,
-    "from_via": "Kuwait",
+    "airport_name": "Kuwait",
+    "country_name": "Kuwait",
+    "airport_latlng": [
+      29.2266,
+      47.9689
+    ],
     "notes": "-"
   },
   {
@@ -4226,7 +6571,12 @@
     "flight_no": "G9502",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771020300,
-    "from_via": "Sharjah",
+    "airport_name": "Sharjah",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.3286,
+      55.5172
+    ],
     "notes": "-"
   },
   {
@@ -4235,7 +6585,12 @@
     "flight_no": "OV437",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771021200,
-    "from_via": "Muscat",
+    "airport_name": "Muscat",
+    "country_name": "Oman",
+    "airport_latlng": [
+      23.5933,
+      58.2844
+    ],
     "notes": "-"
   },
   {
@@ -4244,7 +6599,12 @@
     "flight_no": "UL407",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771022400,
-    "from_via": "Bangkok Suvarnabhumi",
+    "airport_name": "Bangkok Suvarnabhumi",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "(ONLY ON 03 JAN)"
   },
   {
@@ -4253,7 +6613,12 @@
     "flight_no": "FZ561",
     "aircraft_type": "B737",
     "ut_arrival_time": 1771024500,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "(ONLY ON 03 & 10 JAN)"
   },
   {
@@ -4262,7 +6627,12 @@
     "flight_no": "UL226",
     "aircraft_type": "A332",
     "ut_arrival_time": 1771025400,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -4271,7 +6641,12 @@
     "flight_no": "UL174",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771025700,
-    "from_via": "Bangalore",
+    "airport_name": "Bangalore",
+    "country_name": "India",
+    "airport_latlng": [
+      13.1986,
+      77.7066
+    ],
     "notes": "-"
   },
   {
@@ -4280,7 +6655,12 @@
     "flight_no": "UL564",
     "aircraft_type": "A333",
     "ut_arrival_time": 1771026900,
-    "from_via": "Paris Charles de Gaulle",
+    "airport_name": "Paris Charles de Gaulle",
+    "country_name": "France",
+    "airport_latlng": [
+      49.0097,
+      2.5479
+    ],
     "notes": "-"
   },
   {
@@ -4289,7 +6669,12 @@
     "flight_no": "UL142",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771027500,
-    "from_via": "Mumbai",
+    "airport_name": "Mumbai",
+    "country_name": "India",
+    "airport_latlng": [
+      19.0896,
+      72.8656
+    ],
     "notes": "-"
   },
   {
@@ -4298,7 +6683,12 @@
     "flight_no": "UL558",
     "aircraft_type": "A333",
     "ut_arrival_time": 1771027800,
-    "from_via": "Frankfurt Main",
+    "airport_name": "Frankfurt Main",
+    "country_name": "Germany",
+    "airport_latlng": [
+      50.0379,
+      8.5622
+    ],
     "notes": "-"
   },
   {
@@ -4307,7 +6697,12 @@
     "flight_no": "UL218",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1771028400,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -4316,7 +6711,12 @@
     "flight_no": "UL254",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1771029300,
-    "from_via": "Dammam",
+    "airport_name": "Dammam",
+    "country_name": "Saudi Arabia",
+    "airport_latlng": [
+      26.4715,
+      49.7979
+    ],
     "notes": "-"
   },
   {
@@ -4325,7 +6725,12 @@
     "flight_no": "TK730",
     "aircraft_type": "A333",
     "ut_arrival_time": 1771029600,
-    "from_via": "Istanbul Ataturk",
+    "airport_name": "Istanbul Ataturk",
+    "country_name": "Turkey",
+    "airport_latlng": [
+      40.9769,
+      28.8146
+    ],
     "notes": "-"
   },
   {
@@ -4334,7 +6739,12 @@
     "flight_no": "UL230",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1771029900,
-    "from_via": "Kuwait",
+    "airport_name": "Kuwait",
+    "country_name": "Kuwait",
+    "airport_latlng": [
+      29.2266,
+      47.9689
+    ],
     "notes": "-"
   },
   {
@@ -4343,7 +6753,12 @@
     "flight_no": "UL266",
     "aircraft_type": "A332",
     "ut_arrival_time": 1771029900,
-    "from_via": "Riyadh",
+    "airport_name": "Riyadh",
+    "country_name": "Saudi Arabia",
+    "airport_latlng": [
+      24.9577,
+      46.6989
+    ],
     "notes": "-"
   },
   {
@@ -4352,7 +6767,12 @@
     "flight_no": "AI277",
     "aircraft_type": "A321",
     "ut_arrival_time": 1771033800,
-    "from_via": "Delhi",
+    "airport_name": "Delhi",
+    "country_name": "India",
+    "airport_latlng": [
+      28.5562,
+      77.1
+    ],
     "notes": "-"
   },
   {
@@ -4361,7 +6781,12 @@
     "flight_no": "6E1185",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771036800,
-    "from_via": "Mumbai",
+    "airport_name": "Mumbai",
+    "country_name": "India",
+    "airport_latlng": [
+      19.0896,
+      72.8656
+    ],
     "notes": "-"
   },
   {
@@ -4370,7 +6795,12 @@
     "flight_no": "EY392",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771037100,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -4379,7 +6809,12 @@
     "flight_no": "FZ579",
     "aircraft_type": "B737",
     "ut_arrival_time": 1771037100,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -4388,7 +6823,12 @@
     "flight_no": "EK650",
     "aircraft_type": "B77W",
     "ut_arrival_time": 1771037400,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -4397,7 +6837,12 @@
     "flight_no": "QR664",
     "aircraft_type": "B788",
     "ut_arrival_time": 1771038900,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -4406,7 +6851,12 @@
     "flight_no": "UL192",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771038900,
-    "from_via": "Delhi",
+    "airport_name": "Delhi",
+    "country_name": "India",
+    "airport_latlng": [
+      28.5562,
+      77.1
+    ],
     "notes": "-"
   },
   {
@@ -4415,7 +6865,12 @@
     "flight_no": "AK45",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771041300,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -4424,7 +6879,12 @@
     "flight_no": "GF144",
     "aircraft_type": "A32N",
     "ut_arrival_time": 1771042500,
-    "from_via": "Bahrain/Male",
+    "airport_name": "Bahrain/Male",
+    "country_name": "Bahrain/Maldives",
+    "airport_latlng": [
+      26.2708,
+      50.6336
+    ],
     "notes": "-"
   },
   {
@@ -4433,7 +6893,12 @@
     "flight_no": "QR660",
     "aircraft_type": "B789",
     "ut_arrival_time": 1771042500,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -4442,7 +6907,12 @@
     "flight_no": "UL319",
     "aircraft_type": "A32A",
     "ut_arrival_time": 1771042500,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -4451,7 +6921,12 @@
     "flight_no": "GF2144",
     "aircraft_type": "A32N",
     "ut_arrival_time": 1771043100,
-    "from_via": "Bahrain/Male",
+    "airport_name": "Bahrain/Male",
+    "country_name": "Bahrain/Maldives",
+    "airport_latlng": [
+      26.2708,
+      50.6336
+    ],
     "notes": "(ONLY ON 03 JAN)"
   },
   {
@@ -4460,7 +6935,12 @@
     "flight_no": "WK64",
     "aircraft_type": "A343",
     "ut_arrival_time": 1771044300,
-    "from_via": "Zurich Intl",
+    "airport_name": "Zurich Intl",
+    "country_name": "Switzerland",
+    "airport_latlng": [
+      47.4647,
+      8.5492
+    ],
     "notes": "-"
   },
   {
@@ -4469,7 +6949,12 @@
     "flight_no": "FZ1025",
     "aircraft_type": "B737",
     "ut_arrival_time": 1771044300,
-    "from_via": "Dubai/Male",
+    "airport_name": "Dubai/Male",
+    "country_name": "United Arab Emirates/Maldives",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -4478,7 +6963,12 @@
     "flight_no": "8D922",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771044900,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "-"
   },
   {
@@ -4487,7 +6977,12 @@
     "flight_no": "UL152",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771046400,
-    "from_via": "Karachi",
+    "airport_name": "Karachi",
+    "country_name": "Pakistan",
+    "airport_latlng": [
+      24.9065,
+      67.1608
+    ],
     "notes": "-"
   },
   {
@@ -4496,7 +6991,12 @@
     "flight_no": "UL307",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771047000,
-    "from_via": "Singapore",
+    "airport_name": "Singapore",
+    "country_name": "Singapore",
+    "airport_latlng": [
+      1.3644,
+      103.9915
+    ],
     "notes": "(ETA 1030 ON 31 JAN)"
   },
   {
@@ -4505,7 +7005,12 @@
     "flight_no": "UL403",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771047000,
-    "from_via": "Bangkok Suvarnabhumi",
+    "airport_name": "Bangkok Suvarnabhumi",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -4514,7 +7019,12 @@
     "flight_no": "UL122",
     "aircraft_type": "A333",
     "ut_arrival_time": 1771047300,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -4523,7 +7033,12 @@
     "flight_no": "UL132",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1771047900,
-    "from_via": "Tiruchirappalli",
+    "airport_name": "Tiruchirappalli",
+    "country_name": "India",
+    "airport_latlng": [
+      10.7654,
+      78.7097
+    ],
     "notes": "-"
   },
   {
@@ -4532,7 +7047,12 @@
     "flight_no": "UL102",
     "aircraft_type": "A332",
     "ut_arrival_time": 1771048200,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "-"
   },
   {
@@ -4541,7 +7061,12 @@
     "flight_no": "UL1174",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771048500,
-    "from_via": "Bangalore",
+    "airport_name": "Bangalore",
+    "country_name": "India",
+    "airport_latlng": [
+      13.1986,
+      77.7066
+    ],
     "notes": "-"
   },
   {
@@ -4550,7 +7075,12 @@
     "flight_no": "UL166",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771048500,
-    "from_via": "Cochin",
+    "airport_name": "Cochin",
+    "country_name": "India",
+    "airport_latlng": [
+      10.152,
+      76.3874
+    ],
     "notes": "-"
   },
   {
@@ -4559,7 +7089,12 @@
     "flight_no": "6E1167",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771048800,
-    "from_via": "Bangalore",
+    "airport_name": "Bangalore",
+    "country_name": "India",
+    "airport_latlng": [
+      13.1986,
+      77.7066
+    ],
     "notes": "-"
   },
   {
@@ -4568,7 +7103,12 @@
     "flight_no": "UL504",
     "aircraft_type": "A333",
     "ut_arrival_time": 1771052400,
-    "from_via": "London/Heathrow",
+    "airport_name": "London/Heathrow",
+    "country_name": "United Kingdom",
+    "airport_latlng": [
+      51.47,
+      -0.4543
+    ],
     "notes": "-"
   },
   {
@@ -4577,7 +7117,12 @@
     "flight_no": "6E1175",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771053300,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -4586,7 +7131,12 @@
     "flight_no": "6E1181",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771056600,
-    "from_via": "Hyderabad Intl",
+    "airport_name": "Hyderabad Intl",
+    "country_name": "India",
+    "airport_latlng": [
+      17.2403,
+      78.4294
+    ],
     "notes": "-"
   },
   {
@@ -4595,7 +7145,12 @@
     "flight_no": "G9508",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771056900,
-    "from_via": "Sharjah",
+    "airport_name": "Sharjah",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.3286,
+      55.5172
+    ],
     "notes": "-"
   },
   {
@@ -4604,7 +7159,12 @@
     "flight_no": "AI2276",
     "aircraft_type": "A321",
     "ut_arrival_time": 1771061400,
-    "from_via": "Mumbai",
+    "airport_name": "Mumbai",
+    "country_name": "India",
+    "airport_latlng": [
+      19.0896,
+      72.8656
+    ],
     "notes": "-"
   },
   {
@@ -4613,7 +7173,12 @@
     "flight_no": "EY390",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771062300,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -4622,7 +7187,12 @@
     "flight_no": "OQ2393",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771063800,
-    "from_via": "Chongqing",
+    "airport_name": "Chongqing",
+    "country_name": "China",
+    "airport_latlng": [
+      29.7193,
+      106.6419
+    ],
     "notes": "(FM 10 JAN)"
   },
   {
@@ -4631,7 +7201,12 @@
     "flight_no": "UL315",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771064400,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -4640,7 +7215,12 @@
     "flight_no": "EK654",
     "aircraft_type": "A350",
     "ut_arrival_time": 1771064700,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -4649,7 +7229,12 @@
     "flight_no": "UL190",
     "aircraft_type": "A332",
     "ut_arrival_time": 1771064700,
-    "from_via": "Dhaka",
+    "airport_name": "Dhaka",
+    "country_name": "Bangladesh",
+    "airport_latlng": [
+      23.8434,
+      90.3978
+    ],
     "notes": "-"
   },
   {
@@ -4658,7 +7243,12 @@
     "flight_no": "UL405",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1771064700,
-    "from_via": "Bangkok Suvarnabhumi",
+    "airport_name": "Bangkok Suvarnabhumi",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -4667,7 +7257,12 @@
     "flight_no": "AI281",
     "aircraft_type": "A321",
     "ut_arrival_time": 1771065300,
-    "from_via": "Delhi",
+    "airport_name": "Delhi",
+    "country_name": "India",
+    "airport_latlng": [
+      28.5562,
+      77.1
+    ],
     "notes": "-"
   },
   {
@@ -4676,7 +7271,12 @@
     "flight_no": "6E1179",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771065900,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -4685,7 +7285,12 @@
     "flight_no": "FZ549",
     "aircraft_type": "B737",
     "ut_arrival_time": 1771066200,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -4694,7 +7299,12 @@
     "flight_no": "QR654",
     "aircraft_type": "B789",
     "ut_arrival_time": 1771066800,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -4703,7 +7313,12 @@
     "flight_no": "UL140",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771067100,
-    "from_via": "Madurai",
+    "airport_name": "Madurai",
+    "country_name": "India",
+    "airport_latlng": [
+      9.8345,
+      78.0934
+    ],
     "notes": "-"
   },
   {
@@ -4712,7 +7327,12 @@
     "flight_no": "UL120",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1771068600,
-    "from_via": "Gan Intl",
+    "airport_name": "Gan Intl",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      -0.6942,
+      73.1556
+    ],
     "notes": "-"
   },
   {
@@ -4721,7 +7341,12 @@
     "flight_no": "8D924",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771069500,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "(ETA 1830 FM 17 JAN)"
   },
   {
@@ -4730,7 +7355,12 @@
     "flight_no": "UL128",
     "aircraft_type": "A32A",
     "ut_arrival_time": 1771069500,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -4739,7 +7369,12 @@
     "flight_no": "UL365",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1771069800,
-    "from_via": "Jakarta",
+    "airport_name": "Jakarta",
+    "country_name": "Indonesia",
+    "airport_latlng": [
+      -6.1256,
+      106.6559
+    ],
     "notes": "-"
   },
   {
@@ -4748,7 +7383,12 @@
     "flight_no": "UL116",
     "aircraft_type": "A332",
     "ut_arrival_time": 1771070400,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "-"
   },
   {
@@ -4757,7 +7397,12 @@
     "flight_no": "UL455",
     "aircraft_type": "A332",
     "ut_arrival_time": 1771070400,
-    "from_via": "Narita",
+    "airport_name": "Narita",
+    "country_name": "Japan",
+    "airport_latlng": [
+      35.772,
+      140.3929
+    ],
     "notes": "-"
   },
   {
@@ -4766,7 +7411,12 @@
     "flight_no": "EK652",
     "aircraft_type": "B77W",
     "ut_arrival_time": 1771073700,
-    "from_via": "Dubai/Male",
+    "airport_name": "Dubai/Male",
+    "country_name": "United Arab Emirates/Maldives",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -4775,7 +7425,12 @@
     "flight_no": "MU6017",
     "aircraft_type": "A332",
     "ut_arrival_time": 1771075800,
-    "from_via": "Shanghai",
+    "airport_name": "Shanghai",
+    "country_name": "China",
+    "airport_latlng": [
+      31.1443,
+      121.8083
+    ],
     "notes": "-"
   },
   {
@@ -4784,7 +7439,12 @@
     "flight_no": "6E1183",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771079100,
-    "from_via": "Bangalore",
+    "airport_name": "Bangalore",
+    "country_name": "India",
+    "airport_latlng": [
+      13.1986,
+      77.7066
+    ],
     "notes": "-"
   },
   {
@@ -4793,7 +7453,12 @@
     "flight_no": "EY396",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771080600,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -4802,7 +7467,12 @@
     "flight_no": "3L708",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771080900,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -4811,7 +7481,12 @@
     "flight_no": "OQ2394",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771083000,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "(FM 10 JAN)"
   },
   {
@@ -4820,7 +7495,12 @@
     "flight_no": "CA425",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771083300,
-    "from_via": "Chengdu/Tianfu",
+    "airport_name": "Chengdu/Tianfu",
+    "country_name": "China",
+    "airport_latlng": [
+      30.3089,
+      104.4419
+    ],
     "notes": "-"
   },
   {
@@ -4829,7 +7509,12 @@
     "flight_no": "6E1173",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771083300,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -4838,7 +7523,12 @@
     "flight_no": "UL309",
     "aircraft_type": "A333",
     "ut_arrival_time": 1771083600,
-    "from_via": "Singapore",
+    "airport_name": "Singapore",
+    "country_name": "Singapore",
+    "airport_latlng": [
+      1.3644,
+      103.9915
+    ],
     "notes": "-"
   },
   {
@@ -4847,7 +7537,12 @@
     "flight_no": "AK47",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771086000,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -4856,7 +7551,12 @@
     "flight_no": "EK648",
     "aircraft_type": "B77W",
     "ut_arrival_time": 1771086300,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -4865,7 +7565,12 @@
     "flight_no": "FD140",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771086600,
-    "from_via": "Bangkok Don Mueang",
+    "airport_name": "Bangkok Don Mueang",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.9126,
+      100.6074
+    ],
     "notes": "-"
   },
   {
@@ -4874,7 +7579,12 @@
     "flight_no": "UL196",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771087200,
-    "from_via": "Delhi",
+    "airport_name": "Delhi",
+    "country_name": "India",
+    "airport_latlng": [
+      28.5562,
+      77.1
+    ],
     "notes": "-"
   },
   {
@@ -4883,7 +7593,12 @@
     "flight_no": "UL124",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771087500,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -4892,7 +7607,12 @@
     "flight_no": "UL605",
     "aircraft_type": "A333",
     "ut_arrival_time": 1771087800,
-    "from_via": "Melbourne",
+    "airport_name": "Melbourne",
+    "country_name": "Australia",
+    "airport_latlng": [
+      -37.669,
+      144.841
+    ],
     "notes": "-"
   },
   {
@@ -4901,7 +7621,12 @@
     "flight_no": "MH7085",
     "aircraft_type": "B738",
     "ut_arrival_time": 1771088700,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "(ONLY ON 03 & 10 JAN)"
   },
   {
@@ -4910,7 +7635,12 @@
     "flight_no": "UL176",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771089000,
-    "from_via": "Hyderabad Intl",
+    "airport_name": "Hyderabad Intl",
+    "country_name": "India",
+    "airport_latlng": [
+      17.2403,
+      78.4294
+    ],
     "notes": "(ONLY ON 03 JAN)"
   },
   {
@@ -4919,7 +7649,12 @@
     "flight_no": "UL607",
     "aircraft_type": "A333",
     "ut_arrival_time": 1771089300,
-    "from_via": "Sydney",
+    "airport_name": "Sydney",
+    "country_name": "Australia",
+    "airport_latlng": [
+      -33.9461,
+      151.1772
+    ],
     "notes": "-"
   },
   {
@@ -4928,7 +7663,12 @@
     "flight_no": "UL104",
     "aircraft_type": "A32A",
     "ut_arrival_time": 1771089600,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "-"
   },
   {
@@ -4937,7 +7677,12 @@
     "flight_no": "UL144",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771091100,
-    "from_via": "Mumbai",
+    "airport_name": "Mumbai",
+    "country_name": "India",
+    "airport_latlng": [
+      19.0896,
+      72.8656
+    ],
     "notes": "-"
   },
   {
@@ -4946,7 +7691,12 @@
     "flight_no": "CX611",
     "aircraft_type": "A333",
     "ut_arrival_time": 1771092000,
-    "from_via": "Hong Kong",
+    "airport_name": "Hong Kong",
+    "country_name": "Hong Kong",
+    "airport_latlng": [
+      22.308,
+      113.9185
+    ],
     "notes": "-"
   },
   {
@@ -4955,7 +7705,12 @@
     "flight_no": "SQ468",
     "aircraft_type": "B787",
     "ut_arrival_time": 1771092000,
-    "from_via": "Singapore",
+    "airport_name": "Singapore",
+    "country_name": "Singapore",
+    "airport_latlng": [
+      1.3644,
+      103.9915
+    ],
     "notes": "-"
   },
   {
@@ -4964,7 +7719,12 @@
     "flight_no": "MH179",
     "aircraft_type": "B738",
     "ut_arrival_time": 1771092300,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -4973,7 +7733,12 @@
     "flight_no": "MU713",
     "aircraft_type": "A332",
     "ut_arrival_time": 1771092600,
-    "from_via": "Kunming",
+    "airport_name": "Kunming",
+    "country_name": "China",
+    "airport_latlng": [
+      25.1019,
+      102.9292
+    ],
     "notes": "(FM 17 JAN)"
   },
   {
@@ -4982,7 +7747,12 @@
     "flight_no": "TG307",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771093860,
-    "from_via": "Bangkok Suvarnabhumi",
+    "airport_name": "Bangkok Suvarnabhumi",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -4991,7 +7761,12 @@
     "flight_no": "8D822",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771094100,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -5000,7 +7775,12 @@
     "flight_no": "FZ569",
     "aircraft_type": "B737",
     "ut_arrival_time": 1771096500,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -5009,7 +7789,12 @@
     "flight_no": "FD142",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771100100,
-    "from_via": "Bangkok Don Mueang",
+    "airport_name": "Bangkok Don Mueang",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.9126,
+      100.6074
+    ],
     "notes": "-"
   },
   {
@@ -5018,7 +7803,12 @@
     "flight_no": "G9587",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771100400,
-    "from_via": "Sharjah",
+    "airport_name": "Sharjah",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.3286,
+      55.5172
+    ],
     "notes": "-"
   },
   {
@@ -5027,7 +7817,12 @@
     "flight_no": "QR658",
     "aircraft_type": "B789",
     "ut_arrival_time": 1771100700,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -5036,7 +7831,12 @@
     "flight_no": "6E1171",
     "aircraft_type": "A321",
     "ut_arrival_time": 1771101000,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -5045,7 +7845,12 @@
     "flight_no": "8D932",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771102200,
-    "from_via": "Dhaka",
+    "airport_name": "Dhaka",
+    "country_name": "Bangladesh",
+    "airport_latlng": [
+      23.8434,
+      90.3978
+    ],
     "notes": "(ETA 0305 FM 18 JAN)"
   },
   {
@@ -5054,7 +7859,12 @@
     "flight_no": "QR662",
     "aircraft_type": "A333",
     "ut_arrival_time": 1771103700,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -5063,7 +7873,12 @@
     "flight_no": "EY394",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771104000,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -5072,7 +7887,12 @@
     "flight_no": "J9551",
     "aircraft_type": "A32N",
     "ut_arrival_time": 1771106400,
-    "from_via": "Kuwait",
+    "airport_name": "Kuwait",
+    "country_name": "Kuwait",
+    "airport_latlng": [
+      29.2266,
+      47.9689
+    ],
     "notes": "-"
   },
   {
@@ -5081,7 +7901,12 @@
     "flight_no": "G9502",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771106700,
-    "from_via": "Sharjah",
+    "airport_name": "Sharjah",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.3286,
+      55.5172
+    ],
     "notes": "-"
   },
   {
@@ -5090,7 +7915,12 @@
     "flight_no": "OV437",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771107600,
-    "from_via": "Muscat",
+    "airport_name": "Muscat",
+    "country_name": "Oman",
+    "airport_latlng": [
+      23.5933,
+      58.2844
+    ],
     "notes": "-"
   },
   {
@@ -5099,7 +7929,12 @@
     "flight_no": "FZ565",
     "aircraft_type": "B737",
     "ut_arrival_time": 1771109400,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "(ONLY ON 04 & 11 JAN)"
   },
   {
@@ -5108,7 +7943,12 @@
     "flight_no": "UL506",
     "aircraft_type": "A333",
     "ut_arrival_time": 1771109700,
-    "from_via": "London/Heathrow",
+    "airport_name": "London/Heathrow",
+    "country_name": "United Kingdom",
+    "airport_latlng": [
+      51.47,
+      -0.4543
+    ],
     "notes": "-"
   },
   {
@@ -5117,7 +7957,12 @@
     "flight_no": "UL226",
     "aircraft_type": "A332",
     "ut_arrival_time": 1771111800,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -5126,7 +7971,12 @@
     "flight_no": "UL881",
     "aircraft_type": "A32A",
     "ut_arrival_time": 1771112100,
-    "from_via": "Guangzhou Baiyun",
+    "airport_name": "Guangzhou Baiyun",
+    "country_name": "China",
+    "airport_latlng": [
+      23.3924,
+      113.2988
+    ],
     "notes": "-"
   },
   {
@@ -5135,7 +7985,12 @@
     "flight_no": "UL142",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771113900,
-    "from_via": "Mumbai",
+    "airport_name": "Mumbai",
+    "country_name": "India",
+    "airport_latlng": [
+      19.0896,
+      72.8656
+    ],
     "notes": "-"
   },
   {
@@ -5144,7 +7999,12 @@
     "flight_no": "UL218",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771114800,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -5153,7 +8013,12 @@
     "flight_no": "UL254",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1771115700,
-    "from_via": "Dammam",
+    "airport_name": "Dammam",
+    "country_name": "Saudi Arabia",
+    "airport_latlng": [
+      26.4715,
+      49.7979
+    ],
     "notes": "-"
   },
   {
@@ -5162,7 +8027,12 @@
     "flight_no": "TK730",
     "aircraft_type": "A333",
     "ut_arrival_time": 1771116000,
-    "from_via": "Istanbul Ataturk",
+    "airport_name": "Istanbul Ataturk",
+    "country_name": "Turkey",
+    "airport_latlng": [
+      40.9769,
+      28.8146
+    ],
     "notes": "-"
   },
   {
@@ -5171,7 +8041,12 @@
     "flight_no": "UL230",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1771116300,
-    "from_via": "Kuwait",
+    "airport_name": "Kuwait",
+    "country_name": "Kuwait",
+    "airport_latlng": [
+      29.2266,
+      47.9689
+    ],
     "notes": "-"
   },
   {
@@ -5180,7 +8055,12 @@
     "flight_no": "UL266",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1771116300,
-    "from_via": "Riyadh",
+    "airport_name": "Riyadh",
+    "country_name": "Saudi Arabia",
+    "airport_latlng": [
+      24.9577,
+      46.6989
+    ],
     "notes": "-"
   },
   {
@@ -5189,7 +8069,12 @@
     "flight_no": "AI277",
     "aircraft_type": "A321",
     "ut_arrival_time": 1771120200,
-    "from_via": "Delhi",
+    "airport_name": "Delhi",
+    "country_name": "India",
+    "airport_latlng": [
+      28.5562,
+      77.1
+    ],
     "notes": "-"
   },
   {
@@ -5198,7 +8083,12 @@
     "flight_no": "6E1185",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771123200,
-    "from_via": "Mumbai",
+    "airport_name": "Mumbai",
+    "country_name": "India",
+    "airport_latlng": [
+      19.0896,
+      72.8656
+    ],
     "notes": "-"
   },
   {
@@ -5207,7 +8097,12 @@
     "flight_no": "EY392",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771123500,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -5216,7 +8111,12 @@
     "flight_no": "FZ579",
     "aircraft_type": "B737",
     "ut_arrival_time": 1771123500,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -5225,7 +8125,12 @@
     "flight_no": "EK650",
     "aircraft_type": "B77W",
     "ut_arrival_time": 1771123800,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -5234,7 +8139,12 @@
     "flight_no": "QR664",
     "aircraft_type": "B788",
     "ut_arrival_time": 1771125300,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -5243,7 +8153,12 @@
     "flight_no": "UL192",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771125300,
-    "from_via": "Delhi",
+    "airport_name": "Delhi",
+    "country_name": "India",
+    "airport_latlng": [
+      28.5562,
+      77.1
+    ],
     "notes": "-"
   },
   {
@@ -5252,7 +8167,12 @@
     "flight_no": "AK45",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771127700,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -5261,7 +8181,12 @@
     "flight_no": "GF144",
     "aircraft_type": "A32N",
     "ut_arrival_time": 1771128900,
-    "from_via": "Bahrain/Male",
+    "airport_name": "Bahrain/Male",
+    "country_name": "Bahrain/Maldives",
+    "airport_latlng": [
+      26.2708,
+      50.6336
+    ],
     "notes": "-"
   },
   {
@@ -5270,7 +8195,12 @@
     "flight_no": "QR660",
     "aircraft_type": "B789",
     "ut_arrival_time": 1771128900,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -5279,7 +8209,12 @@
     "flight_no": "UL319",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771128900,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -5288,7 +8223,12 @@
     "flight_no": "FZ1025",
     "aircraft_type": "B737",
     "ut_arrival_time": 1771130700,
-    "from_via": "Dubai/Male",
+    "airport_name": "Dubai/Male",
+    "country_name": "United Arab Emirates/Maldives",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -5297,7 +8237,12 @@
     "flight_no": "8D922",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771131300,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "-"
   },
   {
@@ -5306,7 +8251,12 @@
     "flight_no": "SU288",
     "aircraft_type": "B77W",
     "ut_arrival_time": 1771131600,
-    "from_via": "Sheremetyevo",
+    "airport_name": "Sheremetyevo",
+    "country_name": "Russia",
+    "airport_latlng": [
+      55.9726,
+      37.4146
+    ],
     "notes": "-"
   },
   {
@@ -5315,7 +8265,12 @@
     "flight_no": "SQ462",
     "aircraft_type": "A359M",
     "ut_arrival_time": 1771132500,
-    "from_via": "Singapore",
+    "airport_name": "Singapore",
+    "country_name": "Singapore",
+    "airport_latlng": [
+      1.3644,
+      103.9915
+    ],
     "notes": "(FM 11 JAN)"
   },
   {
@@ -5324,7 +8279,12 @@
     "flight_no": "UL307",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771133400,
-    "from_via": "Singapore",
+    "airport_name": "Singapore",
+    "country_name": "Singapore",
+    "airport_latlng": [
+      1.3644,
+      103.9915
+    ],
     "notes": "-"
   },
   {
@@ -5333,7 +8293,12 @@
     "flight_no": "UL403",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771133400,
-    "from_via": "Bangkok Suvarnabhumi",
+    "airport_name": "Bangkok Suvarnabhumi",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -5342,7 +8307,12 @@
     "flight_no": "UL122",
     "aircraft_type": "A332",
     "ut_arrival_time": 1771133700,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -5351,7 +8321,12 @@
     "flight_no": "UL132",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1771134300,
-    "from_via": "Tiruchirappalli",
+    "airport_name": "Tiruchirappalli",
+    "country_name": "India",
+    "airport_latlng": [
+      10.7654,
+      78.7097
+    ],
     "notes": "-"
   },
   {
@@ -5360,7 +8335,12 @@
     "flight_no": "UL102",
     "aircraft_type": "A332",
     "ut_arrival_time": 1771134600,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "-"
   },
   {
@@ -5369,7 +8349,12 @@
     "flight_no": "UL166",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771134900,
-    "from_via": "Cochin",
+    "airport_name": "Cochin",
+    "country_name": "India",
+    "airport_latlng": [
+      10.152,
+      76.3874
+    ],
     "notes": "-"
   },
   {
@@ -5378,7 +8363,12 @@
     "flight_no": "6E1167",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771135200,
-    "from_via": "Bangalore",
+    "airport_name": "Bangalore",
+    "country_name": "India",
+    "airport_latlng": [
+      13.1986,
+      77.7066
+    ],
     "notes": "-"
   },
   {
@@ -5387,7 +8377,12 @@
     "flight_no": "8D722",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771136400,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -5396,7 +8391,12 @@
     "flight_no": "UL504",
     "aircraft_type": "A333",
     "ut_arrival_time": 1771138800,
-    "from_via": "London/Heathrow",
+    "airport_name": "London/Heathrow",
+    "country_name": "United Kingdom",
+    "airport_latlng": [
+      51.47,
+      -0.4543
+    ],
     "notes": "-"
   },
   {
@@ -5405,7 +8405,12 @@
     "flight_no": "6E1175",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771139700,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -5414,7 +8419,12 @@
     "flight_no": "TK732",
     "aircraft_type": "A332",
     "ut_arrival_time": 1771141800,
-    "from_via": "Istanbul Ataturk",
+    "airport_name": "Istanbul Ataturk",
+    "country_name": "Turkey",
+    "airport_latlng": [
+      40.9769,
+      28.8146
+    ],
     "notes": "-"
   },
   {
@@ -5423,7 +8433,12 @@
     "flight_no": "6E1181",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771143000,
-    "from_via": "Hyderabad Intl",
+    "airport_name": "Hyderabad Intl",
+    "country_name": "India",
+    "airport_latlng": [
+      17.2403,
+      78.4294
+    ],
     "notes": "-"
   },
   {
@@ -5432,7 +8447,12 @@
     "flight_no": "G9508",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771143300,
-    "from_via": "Sharjah",
+    "airport_name": "Sharjah",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.3286,
+      55.5172
+    ],
     "notes": "-"
   },
   {
@@ -5441,7 +8461,12 @@
     "flight_no": "AI2276",
     "aircraft_type": "A321",
     "ut_arrival_time": 1771147800,
-    "from_via": "Mumbai",
+    "airport_name": "Mumbai",
+    "country_name": "India",
+    "airport_latlng": [
+      19.0896,
+      72.8656
+    ],
     "notes": "-"
   },
   {
@@ -5450,7 +8475,12 @@
     "flight_no": "EY390",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771148700,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -5459,7 +8489,12 @@
     "flight_no": "UL178",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771149300,
-    "from_via": "Hyderabad Intl",
+    "airport_name": "Hyderabad Intl",
+    "country_name": "India",
+    "airport_latlng": [
+      17.2403,
+      78.4294
+    ],
     "notes": "-"
   },
   {
@@ -5468,7 +8503,12 @@
     "flight_no": "UL315",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1771150800,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -5477,7 +8517,12 @@
     "flight_no": "EK654",
     "aircraft_type": "A350",
     "ut_arrival_time": 1771151100,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -5486,7 +8531,12 @@
     "flight_no": "UL190",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771151100,
-    "from_via": "Dhaka",
+    "airport_name": "Dhaka",
+    "country_name": "Bangladesh",
+    "airport_latlng": [
+      23.8434,
+      90.3978
+    ],
     "notes": "-"
   },
   {
@@ -5495,7 +8545,12 @@
     "flight_no": "UL405",
     "aircraft_type": "A32A",
     "ut_arrival_time": 1771151100,
-    "from_via": "Bangkok Suvarnabhumi",
+    "airport_name": "Bangkok Suvarnabhumi",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -5504,7 +8559,12 @@
     "flight_no": "AI281",
     "aircraft_type": "A321",
     "ut_arrival_time": 1771151700,
-    "from_via": "Delhi",
+    "airport_name": "Delhi",
+    "country_name": "India",
+    "airport_latlng": [
+      28.5562,
+      77.1
+    ],
     "notes": "-"
   },
   {
@@ -5513,7 +8573,12 @@
     "flight_no": "UL182",
     "aircraft_type": "A32A",
     "ut_arrival_time": 1771152000,
-    "from_via": "Kathmandu",
+    "airport_name": "Kathmandu",
+    "country_name": "Nepal",
+    "airport_latlng": [
+      27.6966,
+      85.3591
+    ],
     "notes": "-"
   },
   {
@@ -5522,7 +8587,12 @@
     "flight_no": "6E1179",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771152300,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -5531,7 +8601,12 @@
     "flight_no": "FZ549",
     "aircraft_type": "B737",
     "ut_arrival_time": 1771152600,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -5540,7 +8615,12 @@
     "flight_no": "QR654",
     "aircraft_type": "B789",
     "ut_arrival_time": 1771153200,
-    "from_via": "Doha",
+    "airport_name": "Doha",
+    "country_name": "Qatar",
+    "airport_latlng": [
+      25.2731,
+      51.608
+    ],
     "notes": "-"
   },
   {
@@ -5549,7 +8629,12 @@
     "flight_no": "UL140",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771153500,
-    "from_via": "Madurai",
+    "airport_name": "Madurai",
+    "country_name": "India",
+    "airport_latlng": [
+      9.8345,
+      78.0934
+    ],
     "notes": "-"
   },
   {
@@ -5558,7 +8643,12 @@
     "flight_no": "UL128",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1771155900,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -5567,7 +8657,12 @@
     "flight_no": "UL365",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1771156200,
-    "from_via": "Jakarta",
+    "airport_name": "Jakarta",
+    "country_name": "Indonesia",
+    "airport_latlng": [
+      -6.1256,
+      106.6559
+    ],
     "notes": "-"
   },
   {
@@ -5576,7 +8671,12 @@
     "flight_no": "UL116",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771156800,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "-"
   },
   {
@@ -5585,7 +8685,12 @@
     "flight_no": "UL455",
     "aircraft_type": "A332",
     "ut_arrival_time": 1771156800,
-    "from_via": "Narita",
+    "airport_name": "Narita",
+    "country_name": "Japan",
+    "airport_latlng": [
+      35.772,
+      140.3929
+    ],
     "notes": "-"
   },
   {
@@ -5594,7 +8699,12 @@
     "flight_no": "EK652",
     "aircraft_type": "B77W",
     "ut_arrival_time": 1771160100,
-    "from_via": "Dubai/Male",
+    "airport_name": "Dubai/Male",
+    "country_name": "United Arab Emirates/Maldives",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -5603,7 +8713,12 @@
     "flight_no": "MU6017",
     "aircraft_type": "A332",
     "ut_arrival_time": 1771162200,
-    "from_via": "Shanghai",
+    "airport_name": "Shanghai",
+    "country_name": "China",
+    "airport_latlng": [
+      31.1443,
+      121.8083
+    ],
     "notes": "-"
   },
   {
@@ -5612,7 +8727,12 @@
     "flight_no": "6E1183",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771165500,
-    "from_via": "Bangalore",
+    "airport_name": "Bangalore",
+    "country_name": "India",
+    "airport_latlng": [
+      13.1986,
+      77.7066
+    ],
     "notes": "-"
   },
   {
@@ -5621,7 +8741,12 @@
     "flight_no": "EY396",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771167000,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -5630,7 +8755,12 @@
     "flight_no": "3L708",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771167300,
-    "from_via": "Abu Dhabi",
+    "airport_name": "Abu Dhabi",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      24.433,
+      54.6511
+    ],
     "notes": "-"
   },
   {
@@ -5639,7 +8769,12 @@
     "flight_no": "CA425",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771169700,
-    "from_via": "Chengdu/Tianfu",
+    "airport_name": "Chengdu/Tianfu",
+    "country_name": "China",
+    "airport_latlng": [
+      30.3089,
+      104.4419
+    ],
     "notes": "-"
   },
   {
@@ -5648,7 +8783,12 @@
     "flight_no": "6E1173",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771169700,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -5657,7 +8797,12 @@
     "flight_no": "UL309",
     "aircraft_type": "A332",
     "ut_arrival_time": 1771170000,
-    "from_via": "Singapore",
+    "airport_name": "Singapore",
+    "country_name": "Singapore",
+    "airport_latlng": [
+      1.3644,
+      103.9915
+    ],
     "notes": "-"
   },
   {
@@ -5666,7 +8811,12 @@
     "flight_no": "AK47",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771172400,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -5675,7 +8825,12 @@
     "flight_no": "EK648",
     "aircraft_type": "B77W",
     "ut_arrival_time": 1771172700,
-    "from_via": "Dubai",
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
+    "airport_latlng": [
+      25.2532,
+      55.3657
+    ],
     "notes": "-"
   },
   {
@@ -5684,7 +8839,12 @@
     "flight_no": "FD140",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771173000,
-    "from_via": "Bangkok Don Mueang",
+    "airport_name": "Bangkok Don Mueang",
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.9126,
+      100.6074
+    ],
     "notes": "-"
   },
   {
@@ -5693,7 +8853,12 @@
     "flight_no": "UL196",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771173600,
-    "from_via": "Delhi",
+    "airport_name": "Delhi",
+    "country_name": "India",
+    "airport_latlng": [
+      28.5562,
+      77.1
+    ],
     "notes": "-"
   },
   {
@@ -5702,7 +8867,12 @@
     "flight_no": "UL124",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771173900,
-    "from_via": "Chennai",
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
     "notes": "-"
   },
   {
@@ -5711,7 +8881,12 @@
     "flight_no": "UL186",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771173900,
-    "from_via": "Lahore",
+    "airport_name": "Lahore",
+    "country_name": "Pakistan",
+    "airport_latlng": [
+      31.5216,
+      74.4036
+    ],
     "notes": "-"
   },
   {
@@ -5720,7 +8895,12 @@
     "flight_no": "UL605",
     "aircraft_type": "A333",
     "ut_arrival_time": 1771174200,
-    "from_via": "Melbourne",
+    "airport_name": "Melbourne",
+    "country_name": "Australia",
+    "airport_latlng": [
+      -37.669,
+      144.841
+    ],
     "notes": "-"
   },
   {
@@ -5729,7 +8909,12 @@
     "flight_no": "UL607",
     "aircraft_type": "A333",
     "ut_arrival_time": 1771175700,
-    "from_via": "Sydney",
+    "airport_name": "Sydney",
+    "country_name": "Australia",
+    "airport_latlng": [
+      -33.9461,
+      151.1772
+    ],
     "notes": "-"
   },
   {
@@ -5738,7 +8923,12 @@
     "flight_no": "UL104",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771176000,
-    "from_via": "Male",
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
     "notes": "-"
   },
   {
@@ -5747,7 +8937,12 @@
     "flight_no": "UL172",
     "aircraft_type": "A32A",
     "ut_arrival_time": 1771176000,
-    "from_via": "Bangalore",
+    "airport_name": "Bangalore",
+    "country_name": "India",
+    "airport_latlng": [
+      13.1986,
+      77.7066
+    ],
     "notes": "-"
   },
   {
@@ -5756,7 +8951,12 @@
     "flight_no": "UL144",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771177500,
-    "from_via": "Mumbai",
+    "airport_name": "Mumbai",
+    "country_name": "India",
+    "airport_latlng": [
+      19.0896,
+      72.8656
+    ],
     "notes": "-"
   },
   {
@@ -5765,7 +8965,12 @@
     "flight_no": "CX611",
     "aircraft_type": "A333",
     "ut_arrival_time": 1771178400,
-    "from_via": "Hong Kong",
+    "airport_name": "Hong Kong",
+    "country_name": "Hong Kong",
+    "airport_latlng": [
+      22.308,
+      113.9185
+    ],
     "notes": "-"
   },
   {
@@ -5774,7 +8979,12 @@
     "flight_no": "SQ468",
     "aircraft_type": "B787",
     "ut_arrival_time": 1771178400,
-    "from_via": "Singapore",
+    "airport_name": "Singapore",
+    "country_name": "Singapore",
+    "airport_latlng": [
+      1.3644,
+      103.9915
+    ],
     "notes": "-"
   },
   {
@@ -5783,7 +8993,12 @@
     "flight_no": "MH179",
     "aircraft_type": "B738",
     "ut_arrival_time": 1771178700,
-    "from_via": "Kuala Lumpur",
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
+    "airport_latlng": [
+      2.7456,
+      101.7098
+    ],
     "notes": "-"
   },
   {
@@ -5792,7 +9007,12 @@
     "flight_no": "MU713",
     "aircraft_type": "A332",
     "ut_arrival_time": 1771179000,
-    "from_via": "Kunming",
+    "airport_name": "Kunming",
+    "country_name": "China",
+    "airport_latlng": [
+      25.1019,
+      102.9292
+    ],
     "notes": "-"
   }
 ]

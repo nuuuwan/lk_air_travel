@@ -4,6 +4,11 @@
   "flight_no": "QR658",
   "aircraft_type": "B789",
   "ut_arrival_time": 1770668700,
-  "from_via": "Doha",
+  "airport_name": "Doha",
+  "country_name": "Qatar",
+  "airport_latlng": [
+    25.2731,
+    51.608
+  ],
   "notes": "-"
 }

@@ -4,6 +4,11 @@
   "flight_no": "UL132",
   "aircraft_type": "A320",
   "ut_arrival_time": 1770875100,
-  "from_via": "Tiruchirappalli",
+  "airport_name": "Tiruchirappalli",
+  "country_name": "India",
+  "airport_latlng": [
+    10.7654,
+    78.7097
+  ],
   "notes": "-"
 }

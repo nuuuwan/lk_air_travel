@@ -4,6 +4,11 @@
   "flight_no": "TK730",
   "aircraft_type": "A333",
   "ut_arrival_time": 1770597600,
-  "from_via": "Istanbul Ataturk",
+  "airport_name": "Istanbul Ataturk",
+  "country_name": "Turkey",
+  "airport_latlng": [
+    40.9769,
+    28.8146
+  ],
   "notes": "-"
 }

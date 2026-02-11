@@ -6,7 +6,7 @@ from typing import Optional
 
 import httpx
 
-from flights.airport_data import get_airport_country, get_airport_latlng
+from flights.Airport import Airport
 
 SCHEDULE_URL = "https://www.airport.lk/flight_info/flightdetails_load"
 DAYS = ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"]
@@ -40,6 +40,14 @@ class Flight:
     country_name: str
     airport_latlng: Optional[tuple[float, float]]
     notes: str
+
+    @property
+    def file_path(self) -> str:
+        """Generate filename: <flight_num>_<YYYYMMDD>_<HHMM>.json"""
+        dt = datetime.fromtimestamp(self.ut_arrival_time, SL_TZ)
+        date_str = dt.strftime("%Y%m%d")
+        time_str = dt.strftime("%H%M")
+        return f"{self.flight_no}_{date_str}_{time_str}.json"
 
     def to_dict(self):
         return asdict(self)
@@ -82,6 +90,7 @@ class Flight:
             response.raise_for_status()
             for raw in response.json():
                 airport_name = raw["from_via"].strip()
+                airport = Airport.from_name(airport_name)
                 flight = cls(
                     id=raw["id"],
                     airline=raw["airline"].strip(),
@@ -92,13 +101,16 @@ class Flight:
                         raw["est_arrival_time"].strip(),
                     ),
                     airport_name=airport_name,
-                    country_name=get_airport_country(airport_name),
-                    airport_latlng=get_airport_latlng(airport_name),
+                    country_name=(
+                        airport.country_name if airport else "Unknown"
+                    ),
+                    airport_latlng=airport.latlng if airport else None,
                     notes=raw["notes"].strip(),
                 )
                 all_flights.append(flight)
-                fname = f"{flight.flight_no}" f"_{day}_{flight.id}.json"
-                flight.to_json_file(os.path.join(flights_dir, fname))
+                flight.to_json_file(
+                    os.path.join(flights_dir, flight.file_path)
+                )
 
         agg_path = os.path.join(data_dir, "flights.json")
         with open(agg_path, "w") as f:

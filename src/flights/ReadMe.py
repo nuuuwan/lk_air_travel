@@ -13,11 +13,35 @@ class ReadMe:
         with open(flights_json, "r") as f:
             self.flights = json.load(f)
 
+    def _get_airline_table(self, airline_counts: Counter) -> list[str]:
+        lines = [
+            "## Airlines",
+            "",
+            "| Airline | Weekly Flights |",
+            "|---------|---------------|",
+        ]
+        for airline, count in airline_counts.most_common():
+            lines.append(f"| {airline} | {count} |")
+        return lines
+
+    def _get_origin_table(self, origin_counts: Counter) -> list[str]:
+        lines = [
+            "## Inbound Locations",
+            "",
+            "| Origin | Weekly Flights |",
+            "|--------|---------------|",
+        ]
+        for origin, count in origin_counts.most_common():
+            lines.append(f"| {origin} | {count} |")
+        return lines
+
     def _summary_md(self) -> str:
         origins = sorted(
             {f["airport_name"] for f in self.flights if f["airport_name"]}
         )
-        airlines = sorted({f["airline"] for f in self.flights if f["airline"]})
+        airlines = sorted(
+            {f["airline"] for f in self.flights if f["airline"]}
+        )
         airline_counts = Counter(f["airline"] for f in self.flights)
         origin_counts = Counter(
             f["airport_name"] for f in self.flights if f["airport_name"]
@@ -33,24 +57,10 @@ class ReadMe:
             f"- **{len(origins)}** origins",
             f"- **{len(airlines)}** airlines",
             "",
-            "## Airlines",
-            "",
-            "| Airline | Weekly Flights |",
-            "|---------|---------------|",
         ]
-        for airline, count in airline_counts.most_common():
-            lines.append(f"| {airline} | {count} |")
-
-        lines += [
-            "",
-            "## Inbound Locations",
-            "",
-            "| Origin | Weekly Flights |",
-            "|--------|---------------|",
-        ]
-        for origin, count in origin_counts.most_common():
-            lines.append(f"| {origin} | {count} |")
-
+        lines += self._get_airline_table(airline_counts)
+        lines.append("")
+        lines += self._get_origin_table(origin_counts)
         lines.append("")
         return "\n".join(lines)
 

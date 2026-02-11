@@ -1,10 +1,6 @@
 # Air Travel in 🇱🇰 Sri Lanka (lk_air_travel)
 
-<<<<<<< HEAD
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--11_18:40:37-green)
-=======
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--11_18:42:31-green)
->>>>>>> f8e9a25 (fix: Update README and flight map visualization for improved clarity and accuracy)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--11_18:45:55-green)
 
 ![Flight Map](images/flight_map.png)
 
@@ -39,6 +35,7 @@ Each flight record includes:
 
 - **644** total flights
 - **53** origins
+- **31** countries
 - **29** airlines
 
 ## Airlines
@@ -74,6 +71,42 @@ Each flight record includes:
 | Air Seychelles | 2 |
 | Air Astana | 2 |
 | Edelweiss Air | 2 |
+
+## Countries
+
+| Country | Flights |
+|---------|---------------|
+| 🇮🇳 India | 166 |
+| 🇦🇪 United Arab Emirates | 117 |
+| 🇶🇦 Qatar | 42 |
+| 🇲🇾 Malaysia | 40 |
+| 🇲🇻 Maldives | 34 |
+| 🇹🇭 Thailand | 33 |
+| 🇨🇳 China | 28 |
+| 🇸🇬 Singapore | 24 |
+| 🇰🇼 Kuwait | 18 |
+| 🇧🇩 Bangladesh | 14 |
+| 🇸🇦 Saudi Arabia | 14 |
+| 🇦🇪 United Arab Emirates/Maldives | 14 |
+| 🇦🇺 Australia | 11 |
+| 🇹🇷 Turkey | 10 |
+| 🇬🇧 United Kingdom | 9 |
+| 🇧🇭 Bahrain/Maldives | 9 |
+| 🇵🇱 Poland/UAE | 8 |
+| 🇵🇰 Pakistan | 8 |
+| 🇮🇩 Indonesia | 7 |
+| 🇭🇰 Hong Kong | 7 |
+| 🇴🇲 Oman | 5 |
+| 🇳🇵 Nepal | 4 |
+| 🇯🇵 Japan | 4 |
+| 🇫🇷 France | 3 |
+| 🇩🇪 Germany | 3 |
+| 🇷🇺 Russia | 3 |
+| 🇸🇨 Seychelles | 2 |
+| 🇰🇿 Kazakhstan | 2 |
+| 🇰🇷 South Korea | 2 |
+| 🇨🇭 Switzerland | 2 |
+| 🇹🇷 Turkey/India | 1 |
 
 ## Inbound Locations
 

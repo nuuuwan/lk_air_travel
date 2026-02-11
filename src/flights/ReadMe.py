@@ -66,18 +66,23 @@ class ReadMe:
         }
         return flag_map.get(country, "🏳️")
 
-    def _get_country_table(self, country_counts: Counter) -> list[str]:
+    def _get_country_table(
+        self, country_counts: Counter, country_to_airports: dict
+    ) -> list[str]:
         lines = [
             "## Countries",
             "",
-            "| # | Country | Flights/Week |",
-            "|---:|---------|-------------:|",
+            "| # | Country | Destinations | Flights/Week |",
+            "|---:|---------|-------------:|-------------:|",
         ]
         for idx, (country, count) in enumerate(
             country_counts.most_common(), 1
         ):
             flag = self._get_country_flag(country)
-            lines.append(f"| {idx} | {flag} {country} | {count} |")
+            destinations = len(country_to_airports.get(country, []))
+            lines.append(
+                f"| {idx} | {flag} {country} | {destinations} | {count} |"
+            )
         return lines
 
     def _get_origin_table(
@@ -117,6 +122,16 @@ class ReadMe:
             for f in self.flights
             if f["airport_name"]
         }
+
+        # Create mapping of country to airports (for destinations count)
+        country_to_airports = {}
+        for f in self.flights:
+            if f.get("country_name") and f.get("airport_name"):
+                country = f["country_name"]
+                airport = f["airport_name"]
+                if country not in country_to_airports:
+                    country_to_airports[country] = set()
+                country_to_airports[country].add(airport)
 
         # Get current timestamp for last updated badge
         sl_tz = timezone(timedelta(hours=5, minutes=30))
@@ -193,7 +208,7 @@ class ReadMe:
         ]
         lines += self._get_airline_table(airline_counts)
         lines.append("")
-        lines += self._get_country_table(country_counts)
+        lines += self._get_country_table(country_counts, country_to_airports)
         lines.append("")
         lines += self._get_origin_table(origin_counts, airport_to_country)
         lines.append("")

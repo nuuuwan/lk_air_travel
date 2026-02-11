@@ -1,6 +1,6 @@
 # Air Travel in 🇱🇰 Sri Lanka (lk_air_travel)
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--11_18:55:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--11_18:56:47-green)
 
 ![Flight Map](images/flight_map.png)
 
@@ -76,35 +76,35 @@ Each flight record includes:
 
 ## Countries
 
-| # | Country | Flights/Week |
-|---:|---------|-------------:|
-| 1 | 🇮🇳 India | 167 |
-| 2 | 🇦🇪 United Arab Emirates | 125 |
-| 3 | 🇲🇻 Maldives | 57 |
-| 4 | 🇶🇦 Qatar | 42 |
-| 5 | 🇲🇾 Malaysia | 40 |
-| 6 | 🇹🇭 Thailand | 33 |
-| 7 | 🇨🇳 China | 28 |
-| 8 | 🇸🇬 Singapore | 24 |
-| 9 | 🇰🇼 Kuwait | 18 |
-| 10 | 🇧🇩 Bangladesh | 14 |
-| 11 | 🇸🇦 Saudi Arabia | 14 |
-| 12 | 🇦🇺 Australia | 11 |
-| 13 | 🇹🇷 Turkey | 10 |
-| 14 | 🇬🇧 United Kingdom | 9 |
-| 15 | 🇵🇰 Pakistan | 8 |
-| 16 | 🇮🇩 Indonesia | 7 |
-| 17 | 🇭🇰 Hong Kong | 7 |
-| 18 | 🇴🇲 Oman | 5 |
-| 19 | 🇳🇵 Nepal | 4 |
-| 20 | 🇯🇵 Japan | 4 |
-| 21 | 🇫🇷 France | 3 |
-| 22 | 🇩🇪 Germany | 3 |
-| 23 | 🇷🇺 Russia | 3 |
-| 24 | 🇸🇨 Seychelles | 2 |
-| 25 | 🇰🇿 Kazakhstan | 2 |
-| 26 | 🇰🇷 South Korea | 2 |
-| 27 | 🇨🇭 Switzerland | 2 |
+| # | Country | Destinations | Flights/Week |
+|---:|---------|-------------:|-------------:|
+| 1 | 🇮🇳 India | 9 | 167 |
+| 2 | 🇦🇪 United Arab Emirates | 4 | 125 |
+| 3 | 🇲🇻 Maldives | 2 | 57 |
+| 4 | 🇶🇦 Qatar | 1 | 42 |
+| 5 | 🇲🇾 Malaysia | 1 | 40 |
+| 6 | 🇹🇭 Thailand | 2 | 33 |
+| 7 | 🇨🇳 China | 5 | 28 |
+| 8 | 🇸🇬 Singapore | 1 | 24 |
+| 9 | 🇰🇼 Kuwait | 1 | 18 |
+| 10 | 🇧🇩 Bangladesh | 1 | 14 |
+| 11 | 🇸🇦 Saudi Arabia | 2 | 14 |
+| 12 | 🇦🇺 Australia | 2 | 11 |
+| 13 | 🇹🇷 Turkey | 1 | 10 |
+| 14 | 🇬🇧 United Kingdom | 1 | 9 |
+| 15 | 🇵🇰 Pakistan | 2 | 8 |
+| 16 | 🇮🇩 Indonesia | 1 | 7 |
+| 17 | 🇭🇰 Hong Kong | 1 | 7 |
+| 18 | 🇴🇲 Oman | 1 | 5 |
+| 19 | 🇳🇵 Nepal | 1 | 4 |
+| 20 | 🇯🇵 Japan | 1 | 4 |
+| 21 | 🇫🇷 France | 1 | 3 |
+| 22 | 🇩🇪 Germany | 1 | 3 |
+| 23 | 🇷🇺 Russia | 1 | 3 |
+| 24 | 🇸🇨 Seychelles | 1 | 2 |
+| 25 | 🇰🇿 Kazakhstan | 1 | 2 |
+| 26 | 🇰🇷 South Korea | 1 | 2 |
+| 27 | 🇨🇭 Switzerland | 1 | 2 |
 
 ## Inbound Locations
 

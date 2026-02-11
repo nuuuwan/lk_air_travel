@@ -4,11 +4,11 @@
   "flight_no": "E47947",
   "aircraft_type": "B38M",
   "ut_arrival_time": 1770603300,
-  "airport_name": "Katowice Intl/Ras Al Khaimah Intl",
-  "country_name": "Poland/UAE",
+  "airport_name": "Ras Al Khaimah Intl",
+  "country_name": "United Arab Emirates",
   "airport_latlng": [
-    50.4743,
-    19.08
+    25.6135,
+    55.9388
   ],
   "notes": "(ONLY ON 12 JAN)"
 }

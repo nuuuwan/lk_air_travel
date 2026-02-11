@@ -4,11 +4,11 @@
   "flight_no": "E41921",
   "aircraft_type": "B38M",
   "ut_arrival_time": 1770606000,
-  "airport_name": "Poznan/Ras Al Khaimah Intl",
-  "country_name": "Poland/UAE",
+  "airport_name": "Ras Al Khaimah Intl",
+  "country_name": "United Arab Emirates",
   "airport_latlng": [
-    52.4215,
-    16.8263
+    25.6135,
+    55.9388
   ],
   "notes": "(ONLY ON 12 JAN)"
 }

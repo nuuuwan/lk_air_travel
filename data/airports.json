@@ -9,6 +9,11 @@
     "country_name": "Kazakhstan",
     "latlng": [43.3521, 77.0405]
   },
+  "Bahrain": {
+    "name": "Bahrain",
+    "country_name": "Bahrain",
+    "latlng": [26.2708, 50.6336]
+  },
   "Bahrain/Male": {
     "name": "Bahrain/Male",
     "country_name": "Bahrain/Maldives",
@@ -28,6 +33,11 @@
     "name": "Bangkok Suvarnabhumi",
     "country_name": "Thailand",
     "latlng": [13.69, 100.7501]
+  },
+  "Chengdu-Tianfu": {
+    "name": "Chengdu-Tianfu",
+    "country_name": "China",
+    "latlng": [30.3089, 104.4419]
   },
   "Chengdu/Tianfu": {
     "name": "Chengdu/Tianfu",
@@ -164,6 +174,11 @@
     "country_name": "Pakistan",
     "latlng": [31.5216, 74.4036]
   },
+  "London-Heathrow": {
+    "name": "London-Heathrow",
+    "country_name": "United Kingdom",
+    "latlng": [51.47, -0.4543]
+  },
   "London/Heathrow": {
     "name": "London/Heathrow",
     "country_name": "United Kingdom",
@@ -208,6 +223,11 @@
     "name": "Poznan/Ras Al Khaimah Intl",
     "country_name": "Poland/UAE",
     "latlng": [52.4215, 16.8263]
+  },
+  "Ras Al Khaimah Intl": {
+    "name": "Ras Al Khaimah Intl",
+    "country_name": "United Arab Emirates",
+    "latlng": [25.6135, 55.9388]
   },
   "Riyadh": {
     "name": "Riyadh",

@@ -4,11 +4,11 @@
   "flight_no": "E47607",
   "aircraft_type": "B738",
   "ut_arrival_time": 1770955200,
-  "airport_name": "Katowice Intl/Ras Al Khaimah Intl",
-  "country_name": "Poland/UAE",
+  "airport_name": "Ras Al Khaimah Intl",
+  "country_name": "United Arab Emirates",
   "airport_latlng": [
-    50.4743,
-    19.08
+    25.6135,
+    55.9388
   ],
   "notes": "(ONLY ON 02 & 23 JAN)"
 }

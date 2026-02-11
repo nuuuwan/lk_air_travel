@@ -4,11 +4,11 @@
   "flight_no": "E41301",
   "aircraft_type": "B38M",
   "ut_arrival_time": 1770609600,
-  "airport_name": "Gdansk Im Lecha Walesy/Ras Al Khaimah Intl",
-  "country_name": "Poland/UAE",
+  "airport_name": "Ras Al Khaimah Intl",
+  "country_name": "United Arab Emirates",
   "airport_latlng": [
-    54.3776,
-    18.4662
+    25.6135,
+    55.9388
   ],
   "notes": "(ONLY ON 12 JAN)"
 }

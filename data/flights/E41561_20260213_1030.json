@@ -4,11 +4,11 @@
   "flight_no": "E41561",
   "aircraft_type": "B738",
   "ut_arrival_time": 1770958800,
-  "airport_name": "Warsaw Chopin Intl/Ras Al Khaimah Intl",
-  "country_name": "Poland/UAE",
+  "airport_name": "Ras Al Khaimah Intl",
+  "country_name": "United Arab Emirates",
   "airport_latlng": [
-    52.1657,
-    20.9671
+    25.6135,
+    55.9388
   ],
   "notes": "(ONLY ON 02 & 23 JAN)"
 }

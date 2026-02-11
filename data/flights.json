@@ -215,7 +215,7 @@
     "flight_no": "UL506",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770591300,
-    "airport_name": "London/Heathrow",
+    "airport_name": "London-Heathrow",
     "country_name": "United Kingdom",
     "airport_latlng": [
       51.47,
@@ -369,11 +369,11 @@
     "flight_no": "E47947",
     "aircraft_type": "B38M",
     "ut_arrival_time": 1770603300,
-    "airport_name": "Katowice Intl/Ras Al Khaimah Intl",
-    "country_name": "Poland/UAE",
+    "airport_name": "Ras Al Khaimah Intl",
+    "country_name": "United Arab Emirates",
     "airport_latlng": [
-      50.4743,
-      19.08
+      25.6135,
+      55.9388
     ],
     "notes": "(ONLY ON 12 JAN)"
   },
@@ -453,11 +453,11 @@
     "flight_no": "E41921",
     "aircraft_type": "B38M",
     "ut_arrival_time": 1770606000,
-    "airport_name": "Poznan/Ras Al Khaimah Intl",
-    "country_name": "Poland/UAE",
+    "airport_name": "Ras Al Khaimah Intl",
+    "country_name": "United Arab Emirates",
     "airport_latlng": [
-      52.4215,
-      16.8263
+      25.6135,
+      55.9388
     ],
     "notes": "(ONLY ON 12 JAN)"
   },
@@ -509,11 +509,11 @@
     "flight_no": "E41301",
     "aircraft_type": "B38M",
     "ut_arrival_time": 1770609600,
-    "airport_name": "Gdansk Im Lecha Walesy/Ras Al Khaimah Intl",
-    "country_name": "Poland/UAE",
+    "airport_name": "Ras Al Khaimah Intl",
+    "country_name": "United Arab Emirates",
     "airport_latlng": [
-      54.3776,
-      18.4662
+      25.6135,
+      55.9388
     ],
     "notes": "(ONLY ON 12 JAN)"
   },
@@ -523,11 +523,11 @@
     "flight_no": "GF144",
     "aircraft_type": "A32N",
     "ut_arrival_time": 1770610500,
-    "airport_name": "Bahrain/Male",
-    "country_name": "Bahrain/Maldives",
+    "airport_name": "Male",
+    "country_name": "Maldives",
     "airport_latlng": [
-      26.2708,
-      50.6336
+      4.1917,
+      73.529
     ],
     "notes": "-"
   },
@@ -565,11 +565,11 @@
     "flight_no": "FZ1025",
     "aircraft_type": "B737",
     "ut_arrival_time": 1770612300,
-    "airport_name": "Dubai/Male",
-    "country_name": "United Arab Emirates/Maldives",
+    "airport_name": "Male",
+    "country_name": "Maldives",
     "airport_latlng": [
-      25.2532,
-      55.3657
+      4.1917,
+      73.529
     ],
     "notes": "-"
   },
@@ -593,11 +593,11 @@
     "flight_no": "E41177",
     "aircraft_type": "B38M",
     "ut_arrival_time": 1770613200,
-    "airport_name": "Warsaw Chopin Intl/Ras Al Khaimah Intl",
-    "country_name": "Poland/UAE",
+    "airport_name": "Ras Al Khaimah Intl",
+    "country_name": "United Arab Emirates",
     "airport_latlng": [
-      52.1657,
-      20.9671
+      25.6135,
+      55.9388
     ],
     "notes": "(ONLY ON 12 JAN)"
   },
@@ -705,7 +705,7 @@
     "flight_no": "UL504",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770620400,
-    "airport_name": "London/Heathrow",
+    "airport_name": "London-Heathrow",
     "country_name": "United Kingdom",
     "airport_latlng": [
       51.47,
@@ -1041,11 +1041,11 @@
     "flight_no": "EK652",
     "aircraft_type": "B77W",
     "ut_arrival_time": 1770641700,
-    "airport_name": "Dubai/Male",
-    "country_name": "United Arab Emirates/Maldives",
+    "airport_name": "Male",
+    "country_name": "Maldives",
     "airport_latlng": [
-      25.2532,
-      55.3657
+      4.1917,
+      73.529
     ],
     "notes": "-"
   },
@@ -1097,7 +1097,7 @@
     "flight_no": "CA425",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770651300,
-    "airport_name": "Chengdu/Tianfu",
+    "airport_name": "Chengdu-Tianfu",
     "country_name": "China",
     "airport_latlng": [
       30.3089,
@@ -1755,11 +1755,11 @@
     "flight_no": "GF144",
     "aircraft_type": "A32N",
     "ut_arrival_time": 1770696900,
-    "airport_name": "Bahrain/Male",
-    "country_name": "Bahrain/Maldives",
+    "airport_name": "Male",
+    "country_name": "Maldives",
     "airport_latlng": [
-      26.2708,
-      50.6336
+      4.1917,
+      73.529
     ],
     "notes": "-"
   },
@@ -1811,11 +1811,11 @@
     "flight_no": "FZ1025",
     "aircraft_type": "B737",
     "ut_arrival_time": 1770698700,
-    "airport_name": "Dubai/Male",
-    "country_name": "United Arab Emirates/Maldives",
+    "airport_name": "Male",
+    "country_name": "Maldives",
     "airport_latlng": [
-      25.2532,
-      55.3657
+      4.1917,
+      73.529
     ],
     "notes": "-"
   },
@@ -1979,7 +1979,7 @@
     "flight_no": "UL504",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770706800,
-    "airport_name": "London/Heathrow",
+    "airport_name": "London-Heathrow",
     "country_name": "United Kingdom",
     "airport_latlng": [
       51.47,
@@ -2287,11 +2287,11 @@
     "flight_no": "EK652",
     "aircraft_type": "B77W",
     "ut_arrival_time": 1770728100,
-    "airport_name": "Dubai/Male",
-    "country_name": "United Arab Emirates/Maldives",
+    "airport_name": "Male",
+    "country_name": "Maldives",
     "airport_latlng": [
-      25.2532,
-      55.3657
+      4.1917,
+      73.529
     ],
     "notes": "-"
   },
@@ -2371,7 +2371,7 @@
     "flight_no": "CA425",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770737700,
-    "airport_name": "Chengdu/Tianfu",
+    "airport_name": "Chengdu-Tianfu",
     "country_name": "China",
     "airport_latlng": [
       30.3089,
@@ -3071,11 +3071,11 @@
     "flight_no": "GF144",
     "aircraft_type": "A32N",
     "ut_arrival_time": 1770782700,
-    "airport_name": "Bahrain/Male",
-    "country_name": "Bahrain/Maldives",
+    "airport_name": "Male",
+    "country_name": "Maldives",
     "airport_latlng": [
-      26.2708,
-      50.6336
+      4.1917,
+      73.529
     ],
     "notes": "-"
   },
@@ -3127,11 +3127,11 @@
     "flight_no": "FZ1025",
     "aircraft_type": "B737",
     "ut_arrival_time": 1770785100,
-    "airport_name": "Dubai/Male",
-    "country_name": "United Arab Emirates/Maldives",
+    "airport_name": "Male",
+    "country_name": "Maldives",
     "airport_latlng": [
-      25.2532,
-      55.3657
+      4.1917,
+      73.529
     ],
     "notes": "-"
   },
@@ -3267,7 +3267,7 @@
     "flight_no": "UL504",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770793200,
-    "airport_name": "London/Heathrow",
+    "airport_name": "London-Heathrow",
     "country_name": "United Kingdom",
     "airport_latlng": [
       51.47,
@@ -3435,11 +3435,11 @@
     "flight_no": "TK6136",
     "aircraft_type": "B77X",
     "ut_arrival_time": 1770811500,
-    "airport_name": "Istanbul Ataturk/Chennai",
-    "country_name": "Turkey/India",
+    "airport_name": "Chennai",
+    "country_name": "India",
     "airport_latlng": [
-      40.9769,
-      28.8146
+      12.9902,
+      80.1693
     ],
     "notes": "-"
   },
@@ -3463,11 +3463,11 @@
     "flight_no": "EK652",
     "aircraft_type": "B77W",
     "ut_arrival_time": 1770814500,
-    "airport_name": "Dubai/Male",
-    "country_name": "United Arab Emirates/Maldives",
+    "airport_name": "Male",
+    "country_name": "Maldives",
     "airport_latlng": [
-      25.2532,
-      55.3657
+      4.1917,
+      73.529
     ],
     "notes": "-"
   },
@@ -3561,7 +3561,7 @@
     "flight_no": "CA425",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770824100,
-    "airport_name": "Chengdu/Tianfu",
+    "airport_name": "Chengdu-Tianfu",
     "country_name": "China",
     "airport_latlng": [
       30.3089,
@@ -4233,11 +4233,11 @@
     "flight_no": "GF144",
     "aircraft_type": "A32N",
     "ut_arrival_time": 1770869700,
-    "airport_name": "Bahrain/Male",
-    "country_name": "Bahrain/Maldives",
+    "airport_name": "Male",
+    "country_name": "Maldives",
     "airport_latlng": [
-      26.2708,
-      50.6336
+      4.1917,
+      73.529
     ],
     "notes": "-"
   },
@@ -4275,11 +4275,11 @@
     "flight_no": "GF2144",
     "aircraft_type": "A32N",
     "ut_arrival_time": 1770870300,
-    "airport_name": "Bahrain/Male",
-    "country_name": "Bahrain/Maldives",
+    "airport_name": "Male",
+    "country_name": "Maldives",
     "airport_latlng": [
-      26.2708,
-      50.6336
+      4.1917,
+      73.529
     ],
     "notes": "(ONLY ON 08 JAN)"
   },
@@ -4289,11 +4289,11 @@
     "flight_no": "FZ1025",
     "aircraft_type": "B737",
     "ut_arrival_time": 1770871500,
-    "airport_name": "Dubai/Male",
-    "country_name": "United Arab Emirates/Maldives",
+    "airport_name": "Male",
+    "country_name": "Maldives",
     "airport_latlng": [
-      25.2532,
-      55.3657
+      4.1917,
+      73.529
     ],
     "notes": "-"
   },
@@ -4443,7 +4443,7 @@
     "flight_no": "UL504",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770879600,
-    "airport_name": "London/Heathrow",
+    "airport_name": "London-Heathrow",
     "country_name": "United Kingdom",
     "airport_latlng": [
       51.47,
@@ -4793,11 +4793,11 @@
     "flight_no": "EK652",
     "aircraft_type": "B77W",
     "ut_arrival_time": 1770900900,
-    "airport_name": "Dubai/Male",
-    "country_name": "United Arab Emirates/Maldives",
+    "airport_name": "Male",
+    "country_name": "Maldives",
     "airport_latlng": [
-      25.2532,
-      55.3657
+      4.1917,
+      73.529
     ],
     "notes": "-"
   },
@@ -4877,7 +4877,7 @@
     "flight_no": "CA425",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770910500,
-    "airport_name": "Chengdu/Tianfu",
+    "airport_name": "Chengdu-Tianfu",
     "country_name": "China",
     "airport_latlng": [
       30.3089,
@@ -5311,11 +5311,11 @@
     "flight_no": "E41477",
     "aircraft_type": "B738",
     "ut_arrival_time": 1770935400,
-    "airport_name": "Gdansk Im Lecha Walesy/Ras Al Khaimah Intl",
-    "country_name": "Poland/UAE",
+    "airport_name": "Ras Al Khaimah Intl",
+    "country_name": "United Arab Emirates",
     "airport_latlng": [
-      54.3776,
-      18.4662
+      25.6135,
+      55.9388
     ],
     "notes": "(ONLY ON 02 & 23 JAN)"
   },
@@ -5465,11 +5465,11 @@
     "flight_no": "E41913",
     "aircraft_type": "B738",
     "ut_arrival_time": 1770948900,
-    "airport_name": "Poznan/Ras Al Khaimah Intl",
-    "country_name": "Poland/UAE",
+    "airport_name": "Ras Al Khaimah Intl",
+    "country_name": "United Arab Emirates",
     "airport_latlng": [
-      52.4215,
-      16.8263
+      25.6135,
+      55.9388
     ],
     "notes": "(ONLY ON 02 & 23 JAN)"
   },
@@ -5577,11 +5577,11 @@
     "flight_no": "E47607",
     "aircraft_type": "B738",
     "ut_arrival_time": 1770955200,
-    "airport_name": "Katowice Intl/Ras Al Khaimah Intl",
-    "country_name": "Poland/UAE",
+    "airport_name": "Ras Al Khaimah Intl",
+    "country_name": "United Arab Emirates",
     "airport_latlng": [
-      50.4743,
-      19.08
+      25.6135,
+      55.9388
     ],
     "notes": "(ONLY ON 02 & 23 JAN)"
   },
@@ -5591,11 +5591,11 @@
     "flight_no": "GF144",
     "aircraft_type": "A32N",
     "ut_arrival_time": 1770956100,
-    "airport_name": "Bahrain/Male",
-    "country_name": "Bahrain/Maldives",
+    "airport_name": "Male",
+    "country_name": "Maldives",
     "airport_latlng": [
-      26.2708,
-      50.6336
+      4.1917,
+      73.529
     ],
     "notes": "-"
   },
@@ -5633,11 +5633,11 @@
     "flight_no": "FZ1025",
     "aircraft_type": "B737",
     "ut_arrival_time": 1770957900,
-    "airport_name": "Dubai/Male",
-    "country_name": "United Arab Emirates/Maldives",
+    "airport_name": "Male",
+    "country_name": "Maldives",
     "airport_latlng": [
-      25.2532,
-      55.3657
+      4.1917,
+      73.529
     ],
     "notes": "-"
   },
@@ -5675,11 +5675,11 @@
     "flight_no": "E41561",
     "aircraft_type": "B738",
     "ut_arrival_time": 1770958800,
-    "airport_name": "Warsaw Chopin Intl/Ras Al Khaimah Intl",
-    "country_name": "Poland/UAE",
+    "airport_name": "Ras Al Khaimah Intl",
+    "country_name": "United Arab Emirates",
     "airport_latlng": [
-      52.1657,
-      20.9671
+      25.6135,
+      55.9388
     ],
     "notes": "(ONLY ON 02 & 23 JAN)"
   },
@@ -5815,7 +5815,7 @@
     "flight_no": "UL504",
     "aircraft_type": "A333",
     "ut_arrival_time": 1770966000,
-    "airport_name": "London/Heathrow",
+    "airport_name": "London-Heathrow",
     "country_name": "United Kingdom",
     "airport_latlng": [
       51.47,
@@ -6095,11 +6095,11 @@
     "flight_no": "EK652",
     "aircraft_type": "B77W",
     "ut_arrival_time": 1770987300,
-    "airport_name": "Dubai/Male",
-    "country_name": "United Arab Emirates/Maldives",
+    "airport_name": "Male",
+    "country_name": "Maldives",
     "airport_latlng": [
-      25.2532,
-      55.3657
+      4.1917,
+      73.529
     ],
     "notes": "-"
   },
@@ -6151,7 +6151,7 @@
     "flight_no": "CA425",
     "aircraft_type": "A320",
     "ut_arrival_time": 1770996900,
-    "airport_name": "Chengdu/Tianfu",
+    "airport_name": "Chengdu-Tianfu",
     "country_name": "China",
     "airport_latlng": [
       30.3089,
@@ -6879,11 +6879,11 @@
     "flight_no": "GF144",
     "aircraft_type": "A32N",
     "ut_arrival_time": 1771042500,
-    "airport_name": "Bahrain/Male",
-    "country_name": "Bahrain/Maldives",
+    "airport_name": "Male",
+    "country_name": "Maldives",
     "airport_latlng": [
-      26.2708,
-      50.6336
+      4.1917,
+      73.529
     ],
     "notes": "-"
   },
@@ -6921,11 +6921,11 @@
     "flight_no": "GF2144",
     "aircraft_type": "A32N",
     "ut_arrival_time": 1771043100,
-    "airport_name": "Bahrain/Male",
-    "country_name": "Bahrain/Maldives",
+    "airport_name": "Male",
+    "country_name": "Maldives",
     "airport_latlng": [
-      26.2708,
-      50.6336
+      4.1917,
+      73.529
     ],
     "notes": "(ONLY ON 03 JAN)"
   },
@@ -6949,11 +6949,11 @@
     "flight_no": "FZ1025",
     "aircraft_type": "B737",
     "ut_arrival_time": 1771044300,
-    "airport_name": "Dubai/Male",
-    "country_name": "United Arab Emirates/Maldives",
+    "airport_name": "Male",
+    "country_name": "Maldives",
     "airport_latlng": [
-      25.2532,
-      55.3657
+      4.1917,
+      73.529
     ],
     "notes": "-"
   },
@@ -7103,7 +7103,7 @@
     "flight_no": "UL504",
     "aircraft_type": "A333",
     "ut_arrival_time": 1771052400,
-    "airport_name": "London/Heathrow",
+    "airport_name": "London-Heathrow",
     "country_name": "United Kingdom",
     "airport_latlng": [
       51.47,
@@ -7411,11 +7411,11 @@
     "flight_no": "EK652",
     "aircraft_type": "B77W",
     "ut_arrival_time": 1771073700,
-    "airport_name": "Dubai/Male",
-    "country_name": "United Arab Emirates/Maldives",
+    "airport_name": "Male",
+    "country_name": "Maldives",
     "airport_latlng": [
-      25.2532,
-      55.3657
+      4.1917,
+      73.529
     ],
     "notes": "-"
   },
@@ -7495,7 +7495,7 @@
     "flight_no": "CA425",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771083300,
-    "airport_name": "Chengdu/Tianfu",
+    "airport_name": "Chengdu-Tianfu",
     "country_name": "China",
     "airport_latlng": [
       30.3089,
@@ -7943,7 +7943,7 @@
     "flight_no": "UL506",
     "aircraft_type": "A333",
     "ut_arrival_time": 1771109700,
-    "airport_name": "London/Heathrow",
+    "airport_name": "London-Heathrow",
     "country_name": "United Kingdom",
     "airport_latlng": [
       51.47,
@@ -8181,11 +8181,11 @@
     "flight_no": "GF144",
     "aircraft_type": "A32N",
     "ut_arrival_time": 1771128900,
-    "airport_name": "Bahrain/Male",
-    "country_name": "Bahrain/Maldives",
+    "airport_name": "Male",
+    "country_name": "Maldives",
     "airport_latlng": [
-      26.2708,
-      50.6336
+      4.1917,
+      73.529
     ],
     "notes": "-"
   },
@@ -8223,11 +8223,11 @@
     "flight_no": "FZ1025",
     "aircraft_type": "B737",
     "ut_arrival_time": 1771130700,
-    "airport_name": "Dubai/Male",
-    "country_name": "United Arab Emirates/Maldives",
+    "airport_name": "Male",
+    "country_name": "Maldives",
     "airport_latlng": [
-      25.2532,
-      55.3657
+      4.1917,
+      73.529
     ],
     "notes": "-"
   },
@@ -8391,7 +8391,7 @@
     "flight_no": "UL504",
     "aircraft_type": "A333",
     "ut_arrival_time": 1771138800,
-    "airport_name": "London/Heathrow",
+    "airport_name": "London-Heathrow",
     "country_name": "United Kingdom",
     "airport_latlng": [
       51.47,
@@ -8699,11 +8699,11 @@
     "flight_no": "EK652",
     "aircraft_type": "B77W",
     "ut_arrival_time": 1771160100,
-    "airport_name": "Dubai/Male",
-    "country_name": "United Arab Emirates/Maldives",
+    "airport_name": "Male",
+    "country_name": "Maldives",
     "airport_latlng": [
-      25.2532,
-      55.3657
+      4.1917,
+      73.529
     ],
     "notes": "-"
   },
@@ -8769,7 +8769,7 @@
     "flight_no": "CA425",
     "aircraft_type": "A320",
     "ut_arrival_time": 1771169700,
-    "airport_name": "Chengdu/Tianfu",
+    "airport_name": "Chengdu-Tianfu",
     "country_name": "China",
     "airport_latlng": [
       30.3089,

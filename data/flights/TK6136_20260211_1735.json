@@ -4,11 +4,11 @@
   "flight_no": "TK6136",
   "aircraft_type": "B77X",
   "ut_arrival_time": 1770811500,
-  "airport_name": "Istanbul Ataturk/Chennai",
-  "country_name": "Turkey/India",
+  "airport_name": "Chennai",
+  "country_name": "India",
   "airport_latlng": [
-    40.9769,
-    28.8146
+    12.9902,
+    80.1693
   ],
   "notes": "-"
 }

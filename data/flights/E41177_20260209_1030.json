@@ -4,11 +4,11 @@
   "flight_no": "E41177",
   "aircraft_type": "B38M",
   "ut_arrival_time": 1770613200,
-  "airport_name": "Warsaw Chopin Intl/Ras Al Khaimah Intl",
-  "country_name": "Poland/UAE",
+  "airport_name": "Ras Al Khaimah Intl",
+  "country_name": "United Arab Emirates",
   "airport_latlng": [
-    52.1657,
-    20.9671
+    25.6135,
+    55.9388
   ],
   "notes": "(ONLY ON 12 JAN)"
 }

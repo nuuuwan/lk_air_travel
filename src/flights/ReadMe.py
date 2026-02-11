@@ -152,6 +152,12 @@ class ReadMe:
             "",
             "**Data Source:** <https://www.airport.lk>",
             "",
+            "**Note on Multi-Leg Flights:** For flights that make intermediate "
+            "stops before arriving in Colombo (e.g., a flight from Dubai stopping "
+            "in Male), the origin airport is recorded as the last stop before "
+            "Colombo (Male), not the initial departure point (Dubai). This reflects "
+            "the actual boarding location for the final leg to Colombo.",
+            "",
             "Each flight record includes:",
             "- Flight number and airline",
             "- Aircraft type",

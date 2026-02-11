@@ -1,6 +1,6 @@
 # Air Travel in 🇱🇰 Sri Lanka (lk_air_travel)
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--11_18:50:37-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--11_18:53:28-green)
 
 ![Flight Map](images/flight_map.png)
 
@@ -9,6 +9,8 @@
 This repository provides automated tracking of inbound flight schedules to Colombo's Bandaranaike International Airport (CMB). Flight data is fetched from the official airport website and updated daily via GitHub Actions.
 
 **Data Source:** <https://www.airport.lk>
+
+**Note on Multi-Leg Flights:** For flights that make intermediate stops before arriving in Colombo (e.g., a flight from Dubai stopping in Male), the origin airport is recorded as the last stop before Colombo (Male), not the initial departure point (Dubai). This reflects the actual boarding location for the final leg to Colombo.
 
 Each flight record includes:
 - Flight number and airline

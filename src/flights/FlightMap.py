@@ -145,8 +145,9 @@ class FlightMap:
                 zorder=2,
             )
 
-            # Draw origin airport marker - scale size based on flight volume
-            size = min(30 + (count * 6), 500)
+            # Draw origin airport marker - area proportional to flight volume
+            # In matplotlib scatter, 's' parameter is area in points^2
+            size = count * 8  # Area directly proportional to flight count
             ax.scatter(
                 lon,
                 lat,

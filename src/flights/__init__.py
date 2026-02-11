@@ -2,3 +2,4 @@
 # flake8: noqa: F408
 
 from flights.Flight import Flight
+from flights.ReadMe import ReadMe

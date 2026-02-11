@@ -5,9 +5,7 @@ from datetime import datetime, timedelta, timezone
 
 import httpx
 
-SCHEDULE_URL = (
-    "https://www.airport.lk/flight_info/flightdetails_load"
-)
+SCHEDULE_URL = "https://www.airport.lk/flight_info/flightdetails_load"
 DAYS = ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"]
 SL_TZ = timezone(timedelta(hours=5, minutes=30))
 DAY_INDEX = {d: i for i, d in enumerate(DAYS)}
@@ -20,9 +18,7 @@ def _to_unix_time(day: str, hhmm: str) -> int:
     """
     now = datetime.now(SL_TZ)
     monday = now - timedelta(days=now.weekday())
-    monday = monday.replace(
-        hour=0, minute=0, second=0, microsecond=0
-    )
+    monday = monday.replace(hour=0, minute=0, second=0, microsecond=0)
     target = monday + timedelta(days=DAY_INDEX[day])
     hour = int(hhmm[:2])
     minute = int(hhmm[2:])
@@ -57,9 +53,7 @@ class Flight:
             return cls.from_dict(json.load(f))
 
     @classmethod
-    def fetch_and_store_cmb_arrivals(
-        cls, data_dir: str
-    ) -> list["Flight"]:
+    def fetch_and_store_cmb_arrivals(cls, data_dir: str) -> list["Flight"]:
         """Fetch inbound flights to CMB and save to disk.
 
         Saves each flight as an individual JSON file under
@@ -86,9 +80,7 @@ class Flight:
                     id=raw["id"],
                     airline=raw["airline"].strip(),
                     flight_no=raw["flight_no"].strip(),
-                    aircraft_type=raw[
-                        "aircraft_type"
-                    ].strip(),
+                    aircraft_type=raw["aircraft_type"].strip(),
                     ut_arrival_time=_to_unix_time(
                         day,
                         raw["est_arrival_time"].strip(),
@@ -97,13 +89,8 @@ class Flight:
                     notes=raw["notes"].strip(),
                 )
                 all_flights.append(flight)
-                fname = (
-                    f"{flight.flight_no}"
-                    f"_{day}_{flight.id}.json"
-                )
-                flight.to_json_file(
-                    os.path.join(flights_dir, fname)
-                )
+                fname = f"{flight.flight_no}" f"_{day}_{flight.id}.json"
+                flight.to_json_file(os.path.join(flights_dir, fname))
 
         agg_path = os.path.join(data_dir, "flights.json")
         with open(agg_path, "w") as f:

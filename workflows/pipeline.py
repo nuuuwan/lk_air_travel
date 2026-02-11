@@ -1,8 +1,11 @@
 import os
 
 from flights import Flight
+from flights.ReadMe import ReadMe
 
-DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
+DIR = os.path.join(os.path.dirname(__file__), "..")
+DATA_DIR = os.path.join(DIR, "data")
+README_PATH = os.path.join(DIR, "README.md")
 
 
 def get_cmb_inbound_locations():
@@ -14,6 +17,10 @@ def get_cmb_inbound_locations():
 
     print(f"Stored {len(all_flights)} flights to data/flights/")
     print("Aggregated to data/flights.json")
+
+    ReadMe(DATA_DIR, README_PATH).write()
+    print("Updated README.md")
+
     print(f"\nFound {len(all_origins)} unique inbound locations:\n")
     for origin in sorted(all_origins):
         print(f"- {origin}")

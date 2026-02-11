@@ -14,10 +14,10 @@ class FlightMap:
     """Creates a map visualization of flights to Colombo."""
 
     CMB_COORDS = (6.8218, 79.8850)  # Colombo coordinates
+    MAP_PATH = os.path.join("images", "flight_map.png")
 
-    def __init__(self, data_dir: str, output_path: str):
+    def __init__(self, data_dir: str = "data"):
         self.data_dir = data_dir
-        self.output_path = output_path
         flights_json = os.path.join(data_dir, "flights.json")
         with open(flights_json, "r") as f:
             self.flights = json.load(f)
@@ -207,11 +207,11 @@ class FlightMap:
         )
 
         # Save the figure
-        os.makedirs(os.path.dirname(self.output_path), exist_ok=True)
+        os.makedirs(os.path.dirname(self.MAP_PATH), exist_ok=True)
         plt.tight_layout()
         plt.savefig(
-            self.output_path, dpi=150, facecolor="white", bbox_inches="tight"
+            self.MAP_PATH, dpi=150, facecolor="white", bbox_inches="tight"
         )
         plt.close()
 
-        print(f"Flight map saved to {self.output_path}")
+        print(f"Flight map saved to {self.MAP_PATH}")

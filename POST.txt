@@ -1,0 +1,75 @@
+1/ Air Travel Data for Sri Lanka 🇱🇰 - NEW DATASET
+
+Sri Lanka's aviation landscape reveals patterns about its economy, tourism, diaspora connections, and strategic location on global routes.
+
+#SriLanka #Aviation #Data #CMB
+
+Flight Map: https://github.com/nuuuwan/lk_air_travel/blob/main/images/flight_map.png
+Data Source: https://www.airport.lk
+GitHub: https://github.com/nuuuwan/lk_air_travel
+
+---
+
+2/ Top Airlines by Weekly Flights
+
+1. Srilankan Airlines: 258 flights/week
+2. Indigo Airlines: 54 flights/week
+3. Qatar Airways: 35 flights/week
+4. Fly Dubai: 33 flights/week
+5. Emirates: 28 flights/week
+6. Etihad Airways: 27 flights/week
+7. Fits Air: 26 flights/week
+8. Air India: 21 flights/week
+9. Air Arabia: 20 flights/week
+10. Air Asia Berhad: 14 flights/week
+
+#Airlines #AviationIndustry
+
+---
+
+3/ Top Countries by Connectivity
+
+1. 🇮🇳 India: 167 flights (9 destinations)
+2. 🇦🇪 United Arab Emirates: 125 flights (4 destinations)
+3. 🇲🇻 Maldives: 57 flights (2 destinations)
+4. 🇶🇦 Qatar: 42 flights (1 destinations)
+5. 🇲🇾 Malaysia: 40 flights (1 destinations)
+6. 🇹🇭 Thailand: 33 flights (2 destinations)
+7. 🇨🇳 China: 28 flights (5 destinations)
+8. 🇸🇬 Singapore: 24 flights (1 destinations)
+9. 🇰🇼 Kuwait: 18 flights (1 destinations)
+10. 🇧🇩 Bangladesh: 14 flights (1 destinations)
+
+#GlobalConnectivity #IndianOcean
+
+---
+
+4/ Top Inbound Locations
+
+1. 🇦🇪 Dubai: 65 flights/week
+2. 🇲🇻 Male: 55 flights/week
+3. 🇮🇳 Chennai: 50 flights/week
+4. 🇶🇦 Doha: 42 flights/week
+5. 🇲🇾 Kuala Lumpur: 40 flights/week
+6. 🇦🇪 Abu Dhabi: 32 flights/week
+7. 🇮🇳 Mumbai: 28 flights/week
+8. 🇮🇳 Delhi: 28 flights/week
+9. 🇸🇬 Singapore: 24 flights/week
+10. 🇮🇳 Bangalore: 24 flights/week
+
+#TravelRoutes #AirportData
+
+---
+
+5/ About This Dataset
+
+This is a living dataset - automatically updated daily via GitHub Actions. Data is scraped from the official CMB airport website, providing real-time insights into Sri Lanka's aviation connectivity.
+
+Future plans: historical trend analysis, seasonal patterns, airline market share evolution, route launch/cancellation tracking.
+
+Feedback and contributions welcome! Interested in outbound flights, cargo data, or other aviation analytics? Let me know.
+
+Report issues: https://github.com/nuuuwan/lk_air_travel/issues
+Contribute: https://github.com/nuuuwan/lk_air_travel
+
+#OpenData #GitHub #DataScience

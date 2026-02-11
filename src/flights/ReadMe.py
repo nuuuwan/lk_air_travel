@@ -7,9 +7,10 @@ from datetime import datetime, timedelta, timezone
 class ReadMe:
     """Summarizes flights.json and updates README.md."""
 
-    def __init__(self, data_dir: str, readme_path: str):
+    README_PATH = "README.md"
+
+    def __init__(self, data_dir: str = "data"):
         self.data_dir = data_dir
-        self.readme_path = readme_path
         flights_json = os.path.join(data_dir, "flights.json")
         with open(flights_json, "r") as f:
             self.flights = json.load(f)
@@ -233,5 +234,5 @@ class ReadMe:
 
     def write(self):
         md = self._summary_md()
-        with open(self.readme_path, "w") as f:
+        with open(self.README_PATH, "w") as f:
             f.write(md)

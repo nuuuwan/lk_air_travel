@@ -93,7 +93,7 @@ class Flight:
             return cls.from_dict(json.load(f))
 
     @classmethod
-    def fetch_and_store_cmb_arrivals(cls, data_dir: str) -> list["Flight"]:
+    def fetch_and_store_cmb_arrivals(cls) -> list["Flight"]:
         """Fetch inbound flights to CMB and save to disk.
 
         Saves each flight as an individual JSON file under
@@ -101,7 +101,7 @@ class Flight:
 
         Returns the list of Flight objects.
         """
-        flights_dir = os.path.join(data_dir, "flights")
+        flights_dir = os.path.join("data", "flights")
         os.makedirs(flights_dir, exist_ok=True)
 
         all_flights = []
@@ -140,7 +140,7 @@ class Flight:
                     os.path.join(flights_dir, flight.file_path)
                 )
 
-        agg_path = os.path.join(data_dir, "flights.json")
+        agg_path = os.path.join("data", "flights.json")
         with open(agg_path, "w") as f:
             json.dump(
                 [fl.to_dict() for fl in all_flights],

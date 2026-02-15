@@ -1,0 +1,14 @@
+{
+  "id": "45160",
+  "airline": "Air Seychelles",
+  "flight_no": "HM262",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1771539600,
+  "airport_name": "Seychelles",
+  "country_name": "Seychelles",
+  "airport_latlng": [
+    -4.674,
+    55.5218
+  ],
+  "notes": "-"
+}

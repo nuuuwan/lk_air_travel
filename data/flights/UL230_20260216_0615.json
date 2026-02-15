@@ -1,0 +1,14 @@
+{
+  "id": "44805",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL230",
+  "aircraft_type": "A32B",
+  "ut_arrival_time": 1771202700,
+  "airport_name": "Kuwait",
+  "country_name": "Kuwait",
+  "airport_latlng": [
+    29.2266,
+    47.9689
+  ],
+  "notes": "-"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "44849",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL471",
+  "aircraft_type": "A333",
+  "ut_arrival_time": 1771240500,
+  "airport_name": "Incheon",
+  "country_name": "South Korea",
+  "airport_latlng": [
+    37.4602,
+    126.4407
+  ],
+  "notes": "-"
+}

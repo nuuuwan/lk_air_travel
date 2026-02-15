@@ -1,0 +1,14 @@
+{
+  "id": "45407",
+  "airline": "Air Arabia Abu Dhabi",
+  "flight_no": "3L708",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1771772100,
+  "airport_name": "Abu Dhabi",
+  "country_name": "United Arab Emirates",
+  "airport_latlng": [
+    24.433,
+    54.6511
+  ],
+  "notes": "-"
+}

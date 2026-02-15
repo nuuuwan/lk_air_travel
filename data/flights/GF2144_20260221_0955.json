@@ -1,0 +1,14 @@
+{
+  "id": "45276",
+  "airline": "Gulf Air",
+  "flight_no": "GF2144",
+  "aircraft_type": "A32N",
+  "ut_arrival_time": 1771647900,
+  "airport_name": "Male",
+  "country_name": "Maldives",
+  "airport_latlng": [
+    4.1917,
+    73.529
+  ],
+  "notes": "(ONLY ON 03 JAN)"
+}

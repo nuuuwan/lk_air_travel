@@ -1,0 +1,14 @@
+{
+  "id": "45334",
+  "airline": "China Eastern",
+  "flight_no": "MU713",
+  "aircraft_type": "A332",
+  "ut_arrival_time": 1771697400,
+  "airport_name": "Kunming",
+  "country_name": "China",
+  "airport_latlng": [
+    25.1019,
+    102.9292
+  ],
+  "notes": "(FM 17 JAN)"
+}

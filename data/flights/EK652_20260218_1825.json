@@ -1,0 +1,14 @@
+{
+  "id": "45029",
+  "airline": "Emirates",
+  "flight_no": "EK652",
+  "aircraft_type": "B77W",
+  "ut_arrival_time": 1771419300,
+  "airport_name": "Male",
+  "country_name": "Maldives",
+  "airport_latlng": [
+    4.1917,
+    73.529
+  ],
+  "notes": "-"
+}

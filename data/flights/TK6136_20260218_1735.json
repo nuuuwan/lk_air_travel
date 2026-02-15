@@ -1,0 +1,14 @@
+{
+  "id": "45027",
+  "airline": "Turkish Airlines",
+  "flight_no": "TK6136",
+  "aircraft_type": "B77X",
+  "ut_arrival_time": 1771416300,
+  "airport_name": "Chennai",
+  "country_name": "India",
+  "airport_latlng": [
+    12.9902,
+    80.1693
+  ],
+  "notes": "-"
+}

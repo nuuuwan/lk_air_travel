@@ -1,0 +1,14 @@
+{
+  "id": "45096",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL1174",
+  "aircraft_type": "A32B",
+  "ut_arrival_time": 1771480500,
+  "airport_name": "Bangalore",
+  "country_name": "India",
+  "airport_latlng": [
+    13.1986,
+    77.7066
+  ],
+  "notes": "-"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "44918",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL132",
+  "aircraft_type": "A32A",
+  "ut_arrival_time": 1771307100,
+  "airport_name": "Tiruchirappalli",
+  "country_name": "India",
+  "airport_latlng": [
+    10.7654,
+    78.7097
+  ],
+  "notes": "-"
+}

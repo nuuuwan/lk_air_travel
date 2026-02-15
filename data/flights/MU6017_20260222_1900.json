@@ -1,0 +1,14 @@
+{
+  "id": "45404",
+  "airline": "China Eastern",
+  "flight_no": "MU6017",
+  "aircraft_type": "A332",
+  "ut_arrival_time": 1771767000,
+  "airport_name": "Shanghai",
+  "country_name": "China",
+  "airport_latlng": [
+    31.1443,
+    121.8083
+  ],
+  "notes": "-"
+}

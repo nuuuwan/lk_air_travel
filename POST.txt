@@ -1,6 +1,6 @@
 1/ Air Travel Data for Sri Lanka 🇱🇰
 
-Tracking inbound flights to Colombo (CMB) for 2026-02-16 to 2026-02-22
+Tracking inbound flights to Colombo (CMB) for 2026-02-23 to 2026-03-01
 
 • 644 total flights
 • 27 countries

@@ -1,0 +1,14 @@
+{
+  "id": "45070",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL218",
+  "aircraft_type": "A32B",
+  "ut_arrival_time": 1772065200,
+  "airport_name": "Doha",
+  "country_name": "Qatar",
+  "airport_latlng": [
+    25.2731,
+    51.608
+  ],
+  "notes": "-"
+}

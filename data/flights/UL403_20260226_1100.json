@@ -1,0 +1,14 @@
+{
+  "id": "45091",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL403",
+  "aircraft_type": "A32A",
+  "ut_arrival_time": 1772083800,
+  "airport_name": "Bangkok Suvarnabhumi",
+  "country_name": "Thailand",
+  "airport_latlng": [
+    13.69,
+    100.7501
+  ],
+  "notes": "-"
+}

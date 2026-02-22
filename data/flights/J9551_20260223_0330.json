@@ -1,0 +1,14 @@
+{
+  "id": "44792",
+  "airline": "Jazeera Airways",
+  "flight_no": "J9551",
+  "aircraft_type": "A32N",
+  "ut_arrival_time": 1771797600,
+  "airport_name": "Kuwait",
+  "country_name": "Kuwait",
+  "airport_latlng": [
+    29.2266,
+    47.9689
+  ],
+  "notes": "-"
+}

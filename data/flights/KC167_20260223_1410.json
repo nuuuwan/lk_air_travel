@@ -1,0 +1,14 @@
+{
+  "id": "44836",
+  "airline": "Air Astana",
+  "flight_no": "KC167",
+  "aircraft_type": "A321",
+  "ut_arrival_time": 1771836000,
+  "airport_name": "Almaty International Airport",
+  "country_name": "Kazakhstan",
+  "airport_latlng": [
+    43.3521,
+    77.0405
+  ],
+  "notes": "-"
+}

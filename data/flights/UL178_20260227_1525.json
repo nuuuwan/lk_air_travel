@@ -1,0 +1,14 @@
+{
+  "id": "45203",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL178",
+  "aircraft_type": "A32B",
+  "ut_arrival_time": 1772186100,
+  "airport_name": "Hyderabad Intl",
+  "country_name": "India",
+  "airport_latlng": [
+    17.2403,
+    78.4294
+  ],
+  "notes": "-"
+}

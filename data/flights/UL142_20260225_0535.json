@@ -1,0 +1,14 @@
+{
+  "id": "44986",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL142",
+  "aircraft_type": "A332",
+  "ut_arrival_time": 1771977900,
+  "airport_name": "Mumbai",
+  "country_name": "India",
+  "airport_latlng": [
+    19.0896,
+    72.8656
+  ],
+  "notes": "-"
+}

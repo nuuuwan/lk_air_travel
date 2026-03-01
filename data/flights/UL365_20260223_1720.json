@@ -1,8 +1,8 @@
 {
-  "id": "44853",
+  "id": "46139",
   "airline": "Srilankan Airlines",
   "flight_no": "UL365",
-  "aircraft_type": "A32B",
+  "aircraft_type": "A32A",
   "ut_arrival_time": 1771847400,
   "airport_name": "Jakarta",
   "country_name": "Indonesia",
@@ -10,5 +10,5 @@
     -6.1256,
     106.6559
   ],
-  "notes": "-"
+  "notes": "(CANCELLED ON 09 MAR)"
 }

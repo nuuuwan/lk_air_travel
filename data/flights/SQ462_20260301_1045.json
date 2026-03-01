@@ -1,8 +1,8 @@
 {
-  "id": "45372",
+  "id": "46654",
   "airline": "Singapore Airlines",
   "flight_no": "SQ462",
-  "aircraft_type": "A359M",
+  "aircraft_type": "B787",
   "ut_arrival_time": 1772342100,
   "airport_name": "Singapore",
   "country_name": "Singapore",
@@ -10,5 +10,5 @@
     1.3644,
     103.9915
   ],
-  "notes": "(FM 11 JAN)"
+  "notes": "-"
 }

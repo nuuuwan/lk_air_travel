@@ -1,8 +1,8 @@
 {
-  "id": "45146",
+  "id": "46432",
   "airline": "China Eastern",
   "flight_no": "MU713",
-  "aircraft_type": "A332",
+  "aircraft_type": "B738",
   "ut_arrival_time": 1772129400,
   "airport_name": "Kunming",
   "country_name": "China",
@@ -10,5 +10,5 @@
     25.1019,
     102.9292
   ],
-  "notes": "(CANCELLED ON 08 JAN)"
+  "notes": "-"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "44963",
+  "id": "46250",
   "airline": "Srilankan Airlines",
   "flight_no": "UL104",
-  "aircraft_type": "A320",
+  "aircraft_type": "A333",
   "ut_arrival_time": 1771953600,
   "airport_name": "Male",
   "country_name": "Maldives",
@@ -10,5 +10,5 @@
     4.1917,
     73.529
   ],
-  "notes": "(A332 ON 20 JAN)"
+  "notes": "(A320 ON 03 MAR)"
 }

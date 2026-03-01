@@ -1,8 +1,8 @@
 {
-  "id": "45110",
+  "id": "46398",
   "airline": "Srilankan Airlines",
   "flight_no": "UL190",
-  "aircraft_type": "A333",
+  "aircraft_type": "A332",
   "ut_arrival_time": 1772101500,
   "airport_name": "Dhaka",
   "country_name": "Bangladesh",
@@ -10,5 +10,5 @@
     23.8434,
     90.3978
   ],
-  "notes": "-"
+  "notes": "(A32B ON 12 MAR)"
 }

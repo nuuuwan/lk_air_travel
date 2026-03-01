@@ -1,5 +1,5 @@
 {
-  "id": "45214",
+  "id": "46501",
   "airline": "Srilankan Airlines",
   "flight_no": "UL365",
   "aircraft_type": "A32A",
@@ -10,5 +10,5 @@
     -6.1256,
     106.6559
   ],
-  "notes": "(CANCELLED ON 16 & 30 JAN)"
+  "notes": "-"
 }

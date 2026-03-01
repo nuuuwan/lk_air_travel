@@ -1,5 +1,5 @@
 {
-  "id": "45170",
+  "id": "46456",
   "airline": "Turkish Airlines",
   "flight_no": "TK730",
   "aircraft_type": "A333",
@@ -10,5 +10,5 @@
     40.9769,
     28.8146
   ],
-  "notes": "(ETA 0610 ON 02 JAN)"
+  "notes": "-"
 }

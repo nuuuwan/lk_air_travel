@@ -1,5 +1,5 @@
 {
-  "id": "45281",
+  "id": "46565",
   "airline": "Srilankan Airlines",
   "flight_no": "UL307",
   "aircraft_type": "A320",
@@ -10,5 +10,5 @@
     1.3644,
     103.9915
   ],
-  "notes": "(ETA 1030 ON 31 JAN)"
+  "notes": "-"
 }

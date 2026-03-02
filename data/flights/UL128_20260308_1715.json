@@ -1,0 +1,14 @@
+{
+  "id": "46681",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL128",
+  "aircraft_type": "A333",
+  "ut_arrival_time": 1772970300,
+  "airport_name": "Chennai",
+  "country_name": "India",
+  "airport_latlng": [
+    12.9902,
+    80.1693
+  ],
+  "notes": "(A320 FM 15 MAR)"
+}

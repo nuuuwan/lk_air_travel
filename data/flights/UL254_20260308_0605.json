@@ -1,0 +1,14 @@
+{
+  "id": "46636",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL254",
+  "aircraft_type": "A32B",
+  "ut_arrival_time": 1772930100,
+  "airport_name": "Dammam",
+  "country_name": "Saudi Arabia",
+  "airport_latlng": [
+    26.4715,
+    49.7979
+  ],
+  "notes": "-"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "46676",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL182",
+  "aircraft_type": "A32A",
+  "ut_arrival_time": 1772966400,
+  "airport_name": "Kathmandu",
+  "country_name": "Nepal",
+  "airport_latlng": [
+    27.6966,
+    85.3591
+  ],
+  "notes": "(CANCELLED ON 22 MAR)"
+}

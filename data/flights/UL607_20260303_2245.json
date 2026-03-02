@@ -1,0 +1,14 @@
+{
+  "id": "46249",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL607",
+  "aircraft_type": "A333",
+  "ut_arrival_time": 1772558100,
+  "airport_name": "Sydney",
+  "country_name": "Australia",
+  "airport_latlng": [
+    -33.9461,
+    151.1772
+  ],
+  "notes": "-"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "46120",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL504",
+  "aircraft_type": "A333",
+  "ut_arrival_time": 1772434800,
+  "airport_name": "London-Heathrow",
+  "country_name": "United Kingdom",
+  "airport_latlng": [
+    51.47,
+    -0.4543
+  ],
+  "notes": "-"
+}

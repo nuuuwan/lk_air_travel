@@ -1,0 +1,14 @@
+{
+  "id": "46593",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL455",
+  "aircraft_type": "A333",
+  "ut_arrival_time": 1772884800,
+  "airport_name": "Narita",
+  "country_name": "Japan",
+  "airport_latlng": [
+    35.772,
+    140.3929
+  ],
+  "notes": "-"
+}

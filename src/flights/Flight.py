@@ -1,5 +1,6 @@
 import json
 import os
+import time
 from dataclasses import asdict, dataclass
 from datetime import datetime, timedelta, timezone
 from typing import Optional
@@ -12,6 +13,9 @@ SCHEDULE_URL = "https://www.airport.lk/flight_info/flightdetails_load"
 DAYS = ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"]
 SL_TZ = timezone(timedelta(hours=5, minutes=30))
 DAY_INDEX = {d: i for i, d in enumerate(DAYS)}
+REQUEST_TIMEOUT_SECONDS = 240
+REQUEST_MAX_RETRIES = 3
+REQUEST_RETRY_DELAY_SECONDS = 5
 
 # Single airports with city/airport format (not multi-leg flights)
 SINGLE_AIRPORT_CITIES = {
@@ -56,6 +60,36 @@ def _to_unix_time(day: str, hhmm: str) -> int:
     return int(target.timestamp())
 
 
+def _fetch_schedule_for_day(day: str) -> list[dict]:
+    last_error: Optional[Exception] = None
+    for attempt in range(1, REQUEST_MAX_RETRIES + 1):
+        try:
+            response = httpx.post(
+                SCHEDULE_URL,
+                data={
+                    "arr_day": day,
+                    "flghtType": "0",
+                    "isAjax": "true",
+                },
+                timeout=httpx.Timeout(
+                    REQUEST_TIMEOUT_SECONDS,
+                    connect=REQUEST_TIMEOUT_SECONDS,
+                ),
+            )
+            response.raise_for_status()
+            return response.json()
+        except (httpx.TimeoutException, httpx.NetworkError) as error:
+            last_error = error
+            if attempt == REQUEST_MAX_RETRIES:
+                break
+            time.sleep(REQUEST_RETRY_DELAY_SECONDS * attempt)
+
+    raise RuntimeError(
+        "Failed to fetch schedule for "
+        f"{day} after {REQUEST_MAX_RETRIES} attempts"
+    ) from last_error
+
+
 @dataclass
 class Flight:
     id: str
@@ -84,12 +118,12 @@ class Flight:
         return cls(**data)
 
     def to_json_file(self, path: str):
-        with open(path, "w") as f:
+        with open(path, "w", encoding="utf-8") as f:
             json.dump(self.to_dict(), f, indent=2)
 
     @classmethod
     def from_json_file(cls, path: str) -> "Flight":
-        with open(path, "r") as f:
+        with open(path, "r", encoding="utf-8") as f:
             return cls.from_dict(json.load(f))
 
     @classmethod
@@ -106,17 +140,20 @@ class Flight:
 
         all_flights = []
         for day in DAYS:
-            response = httpx.post(
-                SCHEDULE_URL,
-                data={
-                    "arr_day": day,
-                    "flghtType": "0",
-                    "isAjax": "true",
-                },
-                timeout=240,
-            )
-            response.raise_for_status()
-            for raw in response.json():
+            try:
+                daily_rows = _fetch_schedule_for_day(day)
+            except RuntimeError as error:
+                print(f"Warning: {error}")
+                if not all_flights:
+                    agg_path = os.path.join("data", "flights.json")
+                    if os.path.exists(agg_path):
+                        with open(agg_path, "r", encoding="utf-8") as f:
+                            return [
+                                cls.from_dict(data) for data in json.load(f)
+                            ]
+                continue
+
+            for raw in daily_rows:
                 raw_airport_name = raw["from_via"].strip()
                 airport_name = _parse_airport_name(raw_airport_name)
                 airport = Airport.from_name(airport_name)
@@ -141,8 +178,17 @@ class Flight:
                     os.path.join(flights_dir, flight.file_path)
                 )
 
+        if not all_flights:
+            agg_path = os.path.join("data", "flights.json")
+            if os.path.exists(agg_path):
+                with open(agg_path, "r", encoding="utf-8") as f:
+                    return [cls.from_dict(data) for data in json.load(f)]
+            raise RuntimeError(
+                "Failed to fetch any live flight data and no cache exists"
+            )
+
         agg_path = os.path.join("data", "flights.json")
-        with open(agg_path, "w") as f:
+        with open(agg_path, "w", encoding="utf-8") as f:
             json.dump(
                 [fl.to_dict() for fl in all_flights],
                 f,

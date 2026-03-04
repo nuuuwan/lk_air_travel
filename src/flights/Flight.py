@@ -113,6 +113,7 @@ class Flight:
                     "flghtType": "0",
                     "isAjax": "true",
                 },
+                timeout=240,
             )
             response.raise_for_status()
             for raw in response.json():

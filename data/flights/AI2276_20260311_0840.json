@@ -1,0 +1,14 @@
+{
+  "id": "46283",
+  "airline": "Air India",
+  "flight_no": "AI2276",
+  "aircraft_type": "A321",
+  "ut_arrival_time": 1773198600,
+  "airport_name": "Mumbai",
+  "country_name": "India",
+  "airport_latlng": [
+    19.0896,
+    72.8656
+  ],
+  "notes": "-"
+}

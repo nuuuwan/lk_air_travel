@@ -1,0 +1,14 @@
+{
+  "id": "46117",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL162",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1773035100,
+  "airport_name": "Thiruvananthapuram",
+  "country_name": "India",
+  "airport_latlng": [
+    8.4821,
+    76.92
+  ],
+  "notes": "-"
+}

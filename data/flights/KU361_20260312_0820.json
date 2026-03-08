@@ -1,0 +1,14 @@
+{
+  "id": "46366",
+  "airline": "Kuwait Airways",
+  "flight_no": "KU361",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1773283800,
+  "airport_name": "Kuwait",
+  "country_name": "Kuwait",
+  "airport_latlng": [
+    29.2266,
+    47.9689
+  ],
+  "notes": "-"
+}

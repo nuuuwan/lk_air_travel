@@ -1,0 +1,14 @@
+{
+  "id": "46708",
+  "airline": "China Eastern",
+  "flight_no": "MU713",
+  "aircraft_type": "B738",
+  "ut_arrival_time": 1773598200,
+  "airport_name": "Kunming",
+  "country_name": "China",
+  "airport_latlng": [
+    25.1019,
+    102.9292
+  ],
+  "notes": "-"
+}

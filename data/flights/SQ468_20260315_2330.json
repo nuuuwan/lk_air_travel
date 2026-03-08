@@ -1,0 +1,14 @@
+{
+  "id": "46706",
+  "airline": "Singapore Airlines",
+  "flight_no": "SQ468",
+  "aircraft_type": "B787",
+  "ut_arrival_time": 1773597600,
+  "airport_name": "Singapore",
+  "country_name": "Singapore",
+  "airport_latlng": [
+    1.3644,
+    103.9915
+  ],
+  "notes": "-"
+}

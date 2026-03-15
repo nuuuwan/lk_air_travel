@@ -1,0 +1,14 @@
+{
+  "id": "46121",
+  "airline": "Indigo Airlines",
+  "flight_no": "6E1175",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1773645300,
+  "airport_name": "Chennai",
+  "country_name": "India",
+  "airport_latlng": [
+    12.9902,
+    80.1693
+  ],
+  "notes": "-"
+}

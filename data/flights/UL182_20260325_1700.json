@@ -1,0 +1,14 @@
+{
+  "id": "46303",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL182",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1774438200,
+  "airport_name": "Kathmandu",
+  "country_name": "Nepal",
+  "airport_latlng": [
+    27.6966,
+    85.3591
+  ],
+  "notes": "-"
+}

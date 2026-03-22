@@ -1,0 +1,14 @@
+{
+  "id": "46384",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL166",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1774504500,
+  "airport_name": "Cochin",
+  "country_name": "India",
+  "airport_latlng": [
+    10.152,
+    76.3874
+  ],
+  "notes": "-"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "46422",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL196",
+  "aircraft_type": "A32B",
+  "ut_arrival_time": 1774543200,
+  "airport_name": "Delhi",
+  "country_name": "India",
+  "airport_latlng": [
+    28.5562,
+    77.1
+  ],
+  "notes": "-"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "46591",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL365",
+  "aircraft_type": "A32B",
+  "ut_arrival_time": 1774698600,
+  "airport_name": "Jakarta",
+  "country_name": "Indonesia",
+  "airport_latlng": [
+    -6.1256,
+    106.6559
+  ],
+  "notes": "-"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "46235",
+  "airline": "Fly Dubai",
+  "flight_no": "FZ8571",
+  "aircraft_type": "B737",
+  "ut_arrival_time": 1774968000,
+  "airport_name": "Dubai",
+  "country_name": "United Arab Emirates",
+  "airport_latlng": [
+    25.2532,
+    55.3657
+  ],
+  "notes": "(ONLY ON 03 MAR)"
+}

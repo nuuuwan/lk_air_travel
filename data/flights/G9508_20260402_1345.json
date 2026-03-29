@@ -1,0 +1,14 @@
+{
+  "id": "46391",
+  "airline": "Air Arabia",
+  "flight_no": "G9508",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1775117700,
+  "airport_name": "Sharjah",
+  "country_name": "United Arab Emirates",
+  "airport_latlng": [
+    25.3286,
+    55.5172
+  ],
+  "notes": "-"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "46325",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL309",
+  "aircraft_type": "A332",
+  "ut_arrival_time": 1775058000,
+  "airport_name": "Singapore",
+  "country_name": "Singapore",
+  "airport_latlng": [
+    1.3644,
+    103.9915
+  ],
+  "notes": "-"
+}

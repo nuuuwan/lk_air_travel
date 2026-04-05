@@ -1,0 +1,14 @@
+{
+  "id": "46402",
+  "airline": "Fly Dubai",
+  "flight_no": "FZ549",
+  "aircraft_type": "B737",
+  "ut_arrival_time": 1775731800,
+  "airport_name": "Dubai",
+  "country_name": "United Arab Emirates",
+  "airport_latlng": [
+    25.2532,
+    55.3657
+  ],
+  "notes": "-"
+}

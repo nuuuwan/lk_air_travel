@@ -1,0 +1,14 @@
+{
+  "id": "46245",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL124",
+  "aircraft_type": "A332",
+  "ut_arrival_time": 1775580300,
+  "airport_name": "Chennai",
+  "country_name": "India",
+  "airport_latlng": [
+    12.9902,
+    80.1693
+  ],
+  "notes": "(A320 FM 17 MAR)"
+}

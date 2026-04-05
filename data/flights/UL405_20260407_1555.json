@@ -1,0 +1,14 @@
+{
+  "id": "46221",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL405",
+  "aircraft_type": "A32B",
+  "ut_arrival_time": 1775557500,
+  "airport_name": "Bangkok Suvarnabhumi",
+  "country_name": "Thailand",
+  "airport_latlng": [
+    13.69,
+    100.7501
+  ],
+  "notes": "-"
+}

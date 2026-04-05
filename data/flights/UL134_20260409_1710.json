@@ -1,0 +1,14 @@
+{
+  "id": "46404",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL134",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1775734800,
+  "airport_name": "Tiruchirappalli",
+  "country_name": "India",
+  "airport_latlng": [
+    10.7654,
+    78.7097
+  ],
+  "notes": "-"
+}

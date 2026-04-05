@@ -1,6 +1,6 @@
 # Air Travel in 🇱🇰 Sri Lanka (lk_air_travel)
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--06_01:20:27-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--06_01:39:24-green)
 
 ![Flight Map](images/flight_map.png)
 
@@ -25,7 +25,7 @@ Each flight record includes:
   "flight_no": "MU713",
   "airline": "China Eastern",
   "aircraft_type": "B738",
-  "arrival_time": "2026-04-05 23:40",
+  "arrival_time": "2026-04-12 23:40",
   "airport_name": "Kunming",
   "country_name": "China"
 }
@@ -33,7 +33,7 @@ Each flight record includes:
 
 ## Summary Statistics
 
-**Scheduled flights for the week: 2026-03-30 to 2026-04-05**
+**Scheduled flights for the week: 2026-04-06 to 2026-04-12**
 
 - **639** total flights
 - **46** origins

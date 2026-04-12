@@ -1,0 +1,14 @@
+{
+  "id": "46383",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL102",
+  "aircraft_type": "A333",
+  "ut_arrival_time": 1776318600,
+  "airport_name": "Male",
+  "country_name": "Maldives",
+  "airport_latlng": [
+    4.1917,
+    73.529
+  ],
+  "notes": "-"
+}

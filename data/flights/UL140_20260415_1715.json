@@ -1,0 +1,14 @@
+{
+  "id": "46307",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL140",
+  "aircraft_type": "A32A",
+  "ut_arrival_time": 1776253500,
+  "airport_name": "Madurai",
+  "country_name": "India",
+  "airport_latlng": [
+    9.8345,
+    78.0934
+  ],
+  "notes": "-"
+}

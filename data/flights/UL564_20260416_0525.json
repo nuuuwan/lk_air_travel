@@ -1,0 +1,14 @@
+{
+  "id": "46354",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL564",
+  "aircraft_type": "A333",
+  "ut_arrival_time": 1776297300,
+  "airport_name": "Paris Charles de Gaulle",
+  "country_name": "France",
+  "airport_latlng": [
+    49.0097,
+    2.5479
+  ],
+  "notes": "-"
+}

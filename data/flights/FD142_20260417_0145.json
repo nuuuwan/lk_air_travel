@@ -1,0 +1,14 @@
+{
+  "id": "46436",
+  "airline": "THAI AIR ASIA",
+  "flight_no": "FD142",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1776370500,
+  "airport_name": "Bangkok Don Mueang",
+  "country_name": "Thailand",
+  "airport_latlng": [
+    13.9126,
+    100.6074
+  ],
+  "notes": "-"
+}

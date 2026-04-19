@@ -1,0 +1,14 @@
+{
+  "id": "46096",
+  "airline": "Indigo Airlines",
+  "flight_no": "6E1185",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1776652800,
+  "airport_name": "Mumbai",
+  "country_name": "India",
+  "airport_latlng": [
+    19.0896,
+    72.8656
+  ],
+  "notes": "-"
+}

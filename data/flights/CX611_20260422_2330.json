@@ -1,0 +1,14 @@
+{
+  "id": "46335",
+  "airline": "Cathay Pacific",
+  "flight_no": "CX611",
+  "aircraft_type": "A333",
+  "ut_arrival_time": 1776880800,
+  "airport_name": "Hong Kong",
+  "country_name": "Hong Kong",
+  "airport_latlng": [
+    22.308,
+    113.9185
+  ],
+  "notes": "-"
+}

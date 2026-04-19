@@ -1,0 +1,14 @@
+{
+  "id": "46589",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL120",
+  "aircraft_type": "A32B",
+  "ut_arrival_time": 1777116600,
+  "airport_name": "Gan Intl",
+  "country_name": "Maldives",
+  "airport_latlng": [
+    -0.6942,
+    73.1556
+  ],
+  "notes": "-"
+}

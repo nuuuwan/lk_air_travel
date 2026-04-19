@@ -1,0 +1,14 @@
+{
+  "id": "46470",
+  "airline": "Gulf Air",
+  "flight_no": "GF146",
+  "aircraft_type": "A32N",
+  "ut_arrival_time": 1777005600,
+  "airport_name": "Male",
+  "country_name": "Maldives",
+  "airport_latlng": [
+    4.1917,
+    73.529
+  ],
+  "notes": "(ONLY ON 06 & 13 MAR)"
+}

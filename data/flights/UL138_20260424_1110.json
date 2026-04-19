@@ -1,0 +1,14 @@
+{
+  "id": "46478",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL138",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1777009200,
+  "airport_name": "Madurai",
+  "country_name": "India",
+  "airport_latlng": [
+    9.8345,
+    78.0934
+  ],
+  "notes": "-"
+}

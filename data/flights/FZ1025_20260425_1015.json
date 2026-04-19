@@ -1,0 +1,14 @@
+{
+  "id": "46562",
+  "airline": "Fly Dubai",
+  "flight_no": "FZ1025",
+  "aircraft_type": "B737",
+  "ut_arrival_time": 1777092300,
+  "airport_name": "Male",
+  "country_name": "Maldives",
+  "airport_latlng": [
+    4.1917,
+    73.529
+  ],
+  "notes": "-"
+}

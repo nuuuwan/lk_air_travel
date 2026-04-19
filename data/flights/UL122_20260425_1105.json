@@ -1,0 +1,14 @@
+{
+  "id": "46567",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL122",
+  "aircraft_type": "A333",
+  "ut_arrival_time": 1777095300,
+  "airport_name": "Chennai",
+  "country_name": "India",
+  "airport_latlng": [
+    12.9902,
+    80.1693
+  ],
+  "notes": "-"
+}

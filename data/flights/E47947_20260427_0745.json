@@ -1,0 +1,14 @@
+{
+  "id": "46095",
+  "airline": "Enter Air",
+  "flight_no": "E47947",
+  "aircraft_type": "B738",
+  "ut_arrival_time": 1777256100,
+  "airport_name": "Ras Al Khaimah Intl",
+  "country_name": "United Arab Emirates",
+  "airport_latlng": [
+    25.6135,
+    55.9388
+  ],
+  "notes": "(ONLY ON 16 MAR)"
+}

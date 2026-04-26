@@ -1,0 +1,14 @@
+{
+  "id": "46144",
+  "airline": "Indigo Airlines",
+  "flight_no": "6E1183",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1777299900,
+  "airport_name": "Bangalore",
+  "country_name": "India",
+  "airport_latlng": [
+    13.1986,
+    77.7066
+  ],
+  "notes": "-"
+}

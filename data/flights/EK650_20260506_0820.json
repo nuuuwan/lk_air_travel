@@ -1,0 +1,14 @@
+{
+  "id": "46282",
+  "airline": "Emirates",
+  "flight_no": "EK650",
+  "aircraft_type": "B77W",
+  "ut_arrival_time": 1778035800,
+  "airport_name": "Dubai",
+  "country_name": "United Arab Emirates",
+  "airport_latlng": [
+    25.2532,
+    55.3657
+  ],
+  "notes": "-"
+}

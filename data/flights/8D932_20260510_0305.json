@@ -1,0 +1,14 @@
+{
+  "id": "46627",
+  "airline": "Fits Air",
+  "flight_no": "8D932",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1778362500,
+  "airport_name": "Dhaka",
+  "country_name": "Bangladesh",
+  "airport_latlng": [
+    23.8434,
+    90.3978
+  ],
+  "notes": "-"
+}

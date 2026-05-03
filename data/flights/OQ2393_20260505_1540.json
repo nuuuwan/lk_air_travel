@@ -1,0 +1,14 @@
+{
+  "id": "46217",
+  "airline": "Chongqing Airlines",
+  "flight_no": "OQ2393",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1777975800,
+  "airport_name": "Chongqing",
+  "country_name": "China",
+  "airport_latlng": [
+    29.7193,
+    106.6419
+  ],
+  "notes": "-"
+}

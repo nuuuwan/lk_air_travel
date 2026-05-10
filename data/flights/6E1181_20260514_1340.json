@@ -1,0 +1,14 @@
+{
+  "id": "46390",
+  "airline": "Indigo Airlines",
+  "flight_no": "6E1181",
+  "aircraft_type": "A321",
+  "ut_arrival_time": 1778746200,
+  "airport_name": "Hyderabad Intl",
+  "country_name": "India",
+  "airport_latlng": [
+    17.2403,
+    78.4294
+  ],
+  "notes": "-"
+}

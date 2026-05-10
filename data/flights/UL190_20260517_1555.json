@@ -1,0 +1,14 @@
+{
+  "id": "46673",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL190",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1779013500,
+  "airport_name": "Dhaka",
+  "country_name": "Bangladesh",
+  "airport_latlng": [
+    23.8434,
+    90.3978
+  ],
+  "notes": "(CANCELLED ON 08 MAR)"
+}

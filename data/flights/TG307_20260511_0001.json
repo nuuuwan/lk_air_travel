@@ -1,0 +1,14 @@
+{
+  "id": "46070",
+  "airline": "Thai Airways",
+  "flight_no": "TG307",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1778437860,
+  "airport_name": "Bangkok Suvarnabhumi",
+  "country_name": "Thailand",
+  "airport_latlng": [
+    13.69,
+    100.7501
+  ],
+  "notes": "-"
+}

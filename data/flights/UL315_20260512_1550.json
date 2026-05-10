@@ -1,0 +1,14 @@
+{
+  "id": "46218",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL315",
+  "aircraft_type": "A32A",
+  "ut_arrival_time": 1778581200,
+  "airport_name": "Kuala Lumpur",
+  "country_name": "Malaysia",
+  "airport_latlng": [
+    2.7456,
+    101.7098
+  ],
+  "notes": "-"
+}

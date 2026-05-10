@@ -1,0 +1,14 @@
+{
+  "id": "46493",
+  "airline": "Emirates",
+  "flight_no": "EK654",
+  "aircraft_type": "A359",
+  "ut_arrival_time": 1778840700,
+  "airport_name": "Dubai",
+  "country_name": "United Arab Emirates",
+  "airport_latlng": [
+    25.2532,
+    55.3657
+  ],
+  "notes": "-"
+}

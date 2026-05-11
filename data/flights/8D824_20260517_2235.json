@@ -1,0 +1,14 @@
+{
+  "id": "47924",
+  "airline": "Fits Air",
+  "flight_no": "8D824",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1779037500,
+  "airport_name": "Dubai",
+  "country_name": "United Arab Emirates",
+  "airport_latlng": [
+    25.2532,
+    55.3657
+  ],
+  "notes": "-"
+}

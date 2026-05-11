@@ -1,0 +1,14 @@
+{
+  "id": "47846",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL104",
+  "aircraft_type": "A32A",
+  "ut_arrival_time": 1778952300,
+  "airport_name": "Male",
+  "country_name": "Maldives",
+  "airport_latlng": [
+    4.1917,
+    73.529
+  ],
+  "notes": "-"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "47428",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL172",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1778519700,
+  "airport_name": "Bangalore",
+  "country_name": "India",
+  "airport_latlng": [
+    13.1986,
+    77.7066
+  ],
+  "notes": "-"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "47741",
+  "airline": "Saudi Arabian Airlines",
+  "flight_no": "SV839",
+  "aircraft_type": "B787",
+  "ut_arrival_time": 1778853900,
+  "airport_name": "Male",
+  "country_name": "Maldives",
+  "airport_latlng": [
+    4.1917,
+    73.529
+  ],
+  "notes": "(ONLY ON 01 & 22 MAY)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "47927",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL186",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1779038400,
+  "airport_name": "Lahore",
+  "country_name": "Pakistan",
+  "airport_latlng": [
+    31.5216,
+    74.4036
+  ],
+  "notes": "-"
+}

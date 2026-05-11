@@ -1,0 +1,14 @@
+{
+  "id": "47468",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL307",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1778564100,
+  "airport_name": "Singapore",
+  "country_name": "Singapore",
+  "airport_latlng": [
+    1.3644,
+    103.9915
+  ],
+  "notes": "(ONLY ON 26 MAY)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "47871",
+  "airline": "Turkish Airlines",
+  "flight_no": "TK1130",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1778981100,
+  "airport_name": "Istanbul Ataturk",
+  "country_name": "Turkey",
+  "airport_latlng": [
+    40.9769,
+    28.8146
+  ],
+  "notes": "-"
+}

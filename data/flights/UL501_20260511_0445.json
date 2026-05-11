@@ -1,0 +1,14 @@
+{
+  "id": "47364",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL501",
+  "aircraft_type": "A333",
+  "ut_arrival_time": 1778454900,
+  "airport_name": "Frankfurt Main",
+  "country_name": "Germany",
+  "airport_latlng": [
+    50.0379,
+    8.5622
+  ],
+  "notes": "-"
+}

@@ -1,8 +1,8 @@
 {
-  "id": "46312",
+  "id": "47571",
   "airline": "Srilankan Airlines",
   "flight_no": "UL116",
-  "aircraft_type": "A32B",
+  "aircraft_type": "A320",
   "ut_arrival_time": 1778673600,
   "airport_name": "Male",
   "country_name": "Maldives",
@@ -10,5 +10,5 @@
     4.1917,
     73.529
   ],
-  "notes": "(A332 ON 11 & 25 MAR)"
+  "notes": "-"
 }

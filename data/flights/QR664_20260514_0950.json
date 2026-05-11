@@ -1,0 +1,14 @@
+{
+  "id": "47623",
+  "airline": "Qatar Airways",
+  "flight_no": "QR664",
+  "aircraft_type": "B77W",
+  "ut_arrival_time": 1778732400,
+  "airport_name": "Doha",
+  "country_name": "Qatar",
+  "airport_latlng": [
+    25.2731,
+    51.608
+  ],
+  "notes": "-"
+}

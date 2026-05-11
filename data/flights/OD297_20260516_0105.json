@@ -1,0 +1,14 @@
+{
+  "id": "47765",
+  "airline": "Batik Air",
+  "flight_no": "OD297",
+  "aircraft_type": "B738",
+  "ut_arrival_time": 1778873700,
+  "airport_name": "Kuala Lumpur",
+  "country_name": "Malaysia",
+  "airport_latlng": [
+    2.7456,
+    101.7098
+  ],
+  "notes": "-"
+}

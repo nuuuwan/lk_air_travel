@@ -1,0 +1,14 @@
+{
+  "id": "47763",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL232",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1778870100,
+  "airport_name": "Dubai",
+  "country_name": "United Arab Emirates",
+  "airport_latlng": [
+    25.2532,
+    55.3657
+  ],
+  "notes": "(FM 23 MAY)"
+}

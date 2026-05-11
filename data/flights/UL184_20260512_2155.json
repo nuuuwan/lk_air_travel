@@ -1,0 +1,14 @@
+{
+  "id": "47505",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL184",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1778603100,
+  "airport_name": "Karachi",
+  "country_name": "Pakistan",
+  "airport_latlng": [
+    24.9065,
+    67.1608
+  ],
+  "notes": "-"
+}

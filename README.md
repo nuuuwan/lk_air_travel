@@ -1,6 +1,6 @@
 # Air Travel in 🇱🇰 Sri Lanka (lk_air_travel)
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--23_23:19:36-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--23_23:54:19-green)
 
 ![Flight Map](images/flight_map.png)
 

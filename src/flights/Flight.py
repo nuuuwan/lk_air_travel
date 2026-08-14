@@ -1,5 +1,6 @@
 import json
 import os
+import ssl
 import time
 from dataclasses import asdict, dataclass
 from datetime import datetime, timedelta, timezone
@@ -16,6 +17,10 @@ DAY_INDEX = {d: i for i, d in enumerate(DAYS)}
 REQUEST_TIMEOUT_SECONDS = 240
 REQUEST_MAX_RETRIES = 3
 REQUEST_RETRY_DELAY_SECONDS = 5
+REQUEST_HEADERS = {
+    "User-Agent": "Mozilla/5.0",
+    "Accept": "application/json, text/javascript, */*; q=0.01",
+}
 
 # Single airports with city/airport format (not multi-leg flights)
 SINGLE_AIRPORT_CITIES = {
@@ -62,6 +67,8 @@ def _to_unix_time(day: str, hhmm: str) -> int:
 
 def _fetch_schedule_for_day(day: str) -> list[dict]:
     last_error: Optional[Exception] = None
+    verify: bool = True
+
     for attempt in range(1, REQUEST_MAX_RETRIES + 1):
         try:
             response = httpx.post(
@@ -71,14 +78,38 @@ def _fetch_schedule_for_day(day: str) -> list[dict]:
                     "flghtType": "0",
                     "isAjax": "true",
                 },
+                headers=REQUEST_HEADERS,
                 timeout=httpx.Timeout(
                     REQUEST_TIMEOUT_SECONDS,
                     connect=REQUEST_TIMEOUT_SECONDS,
                 ),
+                verify=verify,
             )
             response.raise_for_status()
             return response.json()
-        except (httpx.TimeoutException, httpx.NetworkError) as error:
+        except httpx.ConnectError as error:
+            error_text = str(error).lower()
+            is_ssl_verify_error = isinstance(
+                error.__cause__, ssl.SSLCertVerificationError
+            ) or (
+                "certificate_verify_failed" in error_text
+                or "unable to get local issuer certificate" in error_text
+            )
+            if is_ssl_verify_error and verify:
+                # airport.lk currently presents a certificate chain that
+                # does not validate in this Python environment.
+                verify = False
+                last_error = error
+                continue
+            last_error = error
+            if attempt == REQUEST_MAX_RETRIES:
+                break
+            time.sleep(REQUEST_RETRY_DELAY_SECONDS * attempt)
+        except (
+            httpx.HTTPStatusError,
+            httpx.RequestError,
+            json.JSONDecodeError,
+        ) as error:
             last_error = error
             if attempt == REQUEST_MAX_RETRIES:
                 break
@@ -140,18 +171,7 @@ class Flight:
 
         all_flights = []
         for day in DAYS:
-            try:
-                daily_rows = _fetch_schedule_for_day(day)
-            except RuntimeError as error:
-                print(f"Warning: {error}")
-                if not all_flights:
-                    agg_path = os.path.join("data", "flights.json")
-                    if os.path.exists(agg_path):
-                        with open(agg_path, "r", encoding="utf-8") as f:
-                            return [
-                                cls.from_dict(data) for data in json.load(f)
-                            ]
-                continue
+            daily_rows = _fetch_schedule_for_day(day)
 
             for raw in daily_rows:
                 raw_airport_name = raw["from_via"].strip()

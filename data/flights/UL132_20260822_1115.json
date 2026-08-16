@@ -1,0 +1,11 @@
+{
+  "id": "50161",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL132",
+  "aircraft_type": "A32B",
+  "ut_arrival_time": 1787377500,
+  "airport_name": "Ho Chi Minh Intl",
+  "country_name": "Unknown",
+  "airport_latlng": null,
+  "notes": "-"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "49856",
+  "airline": "Viet Jet",
+  "flight_no": "VJ1875",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1787674800,
+  "airport_name": "Seychelles",
+  "country_name": "Seychelles",
+  "airport_latlng": [
+    -4.674,
+    55.5218
+  ],
+  "notes": "(FM 18 AUG)"
+}

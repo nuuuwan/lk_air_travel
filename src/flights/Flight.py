@@ -15,8 +15,8 @@ DAYS = ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"]
 SL_TZ = timezone(timedelta(hours=5, minutes=30))
 DAY_INDEX = {d: i for i, d in enumerate(DAYS)}
 REQUEST_TIMEOUT_SECONDS = 240
-REQUEST_MAX_RETRIES = 3
-REQUEST_RETRY_DELAY_SECONDS = 5
+REQUEST_MAX_RETRIES = 10
+REQUEST_RETRY_DELAY_SECONDS = 10
 REQUEST_HEADERS = {
     "User-Agent": "Mozilla/5.0",
     "Accept": "application/json, text/javascript, */*; q=0.01",

@@ -1,14 +1,11 @@
 {
-  "id": "50201",
-  "airline": "THAI AIR ASIA",
+  "id": "51421",
+  "airline": "Batik Air",
   "flight_no": "FD140",
   "aircraft_type": "A321",
   "ut_arrival_time": 1788626700,
-  "airport_name": "Bangkok Don Mueang",
-  "country_name": "Thailand",
-  "airport_latlng": [
-    13.9126,
-    100.6074
-  ],
+  "airport_name": "Bangkok",
+  "country_name": "Unknown",
+  "airport_latlng": null,
   "notes": "-"
 }

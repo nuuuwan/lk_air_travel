@@ -2,10 +2,10 @@
 
 Tracking inbound flights to Colombo (CMB) for 2026-08-31 to 2026-09-06
 
-• 601 total flights
-• 25 countries
+• 621 total flights
+• 22 countries
 • 44 origin airports
-• 27 airlines
+• 28 airlines
 
 Sri Lanka's aviation landscape reveals patterns about its economy, tourism, diaspora connections, and strategic location on global routes.
 
@@ -19,16 +19,16 @@ GitHub: https://github.com/nuuuwan/lk_air_travel
 
 2/ Top Airlines by Weekly Flights
 
-1. Srilankan Airlines: 249 flights/week
-2. Indigo Airlines: 40 flights/week
+1. Srilankan Airlines: 252 flights/week
+2. Indigo Airlines: 47 flights/week
 3. Qatar Airways: 35 flights/week
 4. Fly Dubai: 28 flights/week
 5. Emirates: 28 flights/week
 6. Etihad Airways: 27 flights/week
-7. Fits Air: 24 flights/week
-8. Air Arabia: 20 flights/week
-9. Air India: 18 flights/week
-10. Jazeera Airways: 14 flights/week
+7. Fits Air: 26 flights/week
+8. Air India: 21 flights/week
+9. Air Arabia: 20 flights/week
+10. Singapore Airlines: 14 flights/week
 
 #Airlines #AviationIndustry
 
@@ -36,15 +36,15 @@ GitHub: https://github.com/nuuuwan/lk_air_travel
 
 3/ Top Countries by Connectivity
 
-1. 🇮🇳 India: 140 flights (8 destinations)
-2. 🇦🇪 United Arab Emirates: 107 flights (3 destinations)
-3. 🇲🇻 Maldives: 56 flights (2 destinations)
-4. 🇶🇦 Qatar: 42 flights (1 destinations)
-5. 🇲🇾 Malaysia: 34 flights (1 destinations)
-6. 🇹🇭 Thailand: 28 flights (2 destinations)
+1. 🇮🇳 India: 146 flights (7 destinations)
+2. 🇦🇪 United Arab Emirates: 108 flights (3 destinations)
+3. 🏳️ Unknown: 67 flights (9 destinations)
+4. 🇲🇻 Maldives: 58 flights (2 destinations)
+5. 🇶🇦 Qatar: 42 flights (1 destinations)
+6. 🇲🇾 Malaysia: 35 flights (1 destinations)
 7. 🇸🇬 Singapore: 28 flights (1 destinations)
-8. 🇰🇼 Kuwait: 27 flights (1 destinations)
-9. 🇨🇳 China: 22 flights (5 destinations)
+8. 🇰🇼 Kuwait: 24 flights (1 destinations)
+9. 🇨🇳 China: 18 flights (4 destinations)
 10. 🇸🇦 Saudi Arabia: 14 flights (2 destinations)
 
 #GlobalConnectivity #IndianOcean
@@ -53,16 +53,16 @@ GitHub: https://github.com/nuuuwan/lk_air_travel
 
 4/ Top Inbound Locations
 
-1. 🇦🇪 Dubai: 55 flights/week
-2. 🇲🇻 Male: 54 flights/week
-3. 🇶🇦 Doha: 42 flights/week
-4. 🇮🇳 Chennai: 41 flights/week
-5. 🇲🇾 Kuala Lumpur: 34 flights/week
+1. 🇦🇪 Dubai: 56 flights/week
+2. 🇲🇻 Male: 56 flights/week
+3. 🇮🇳 Chennai: 48 flights/week
+4. 🇶🇦 Doha: 42 flights/week
+5. 🇲🇾 Kuala Lumpur: 35 flights/week
 6. 🇦🇪 Abu Dhabi: 32 flights/week
 7. 🇮🇳 Delhi: 28 flights/week
-8. 🇸🇬 Singapore: 28 flights/week
-9. 🇰🇼 Kuwait: 27 flights/week
-10. 🇮🇳 Mumbai: 26 flights/week
+8. 🇮🇳 Mumbai: 28 flights/week
+9. 🇸🇬 Singapore: 28 flights/week
+10. 🏳️ Bangkok: 26 flights/week
 
 #TravelRoutes #AirportData
 

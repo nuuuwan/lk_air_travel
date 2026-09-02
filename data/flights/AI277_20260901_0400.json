@@ -1,5 +1,5 @@
 {
-  "id": "49791",
+  "id": "50995",
   "airline": "Air India",
   "flight_no": "AI277",
   "aircraft_type": "A321",
@@ -10,5 +10,5 @@
     28.5562,
     77.1
   ],
-  "notes": "(FM 18 AUG)"
+  "notes": "-"
 }

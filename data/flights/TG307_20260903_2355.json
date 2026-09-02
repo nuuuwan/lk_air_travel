@@ -1,14 +1,11 @@
 {
-  "id": "50037",
+  "id": "51250",
   "airline": "Thai Airways",
   "flight_no": "TG307",
   "aircraft_type": "A320",
   "ut_arrival_time": 1788459900,
-  "airport_name": "Bangkok Suvarnabhumi",
-  "country_name": "Thailand",
-  "airport_latlng": [
-    13.69,
-    100.7501
-  ],
+  "airport_name": "Bangkok",
+  "country_name": "Unknown",
+  "airport_latlng": null,
   "notes": "-"
 }

@@ -1,5 +1,5 @@
 {
-  "id": "50280",
+  "id": "51501",
   "airline": "Srilankan Airlines",
   "flight_no": "UL309",
   "aircraft_type": "A332",
@@ -10,5 +10,5 @@
     1.3644,
     103.9915
   ],
-  "notes": "(A320 ON 16 AUG)"
+  "notes": "-"
 }

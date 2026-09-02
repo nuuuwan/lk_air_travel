@@ -1,6 +1,6 @@
 # Air Travel in 🇱🇰 Sri Lanka (lk_air_travel)
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--02_09:45:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--02_10:09:57-green)
 
 ![Flight Map](images/flight_map.png)
 
@@ -26,8 +26,8 @@ Each flight record includes:
   "airline": "Thai Airways",
   "aircraft_type": "A320",
   "arrival_time": "2026-09-06 23:55",
-  "airport_name": "Bangkok Suvarnabhumi",
-  "country_name": "Thailand"
+  "airport_name": "Bangkok",
+  "country_name": "Unknown"
 }
 ```
 
@@ -35,119 +35,117 @@ Each flight record includes:
 
 **Scheduled flights for the week: 2026-08-31 to 2026-09-06**
 
-- **601** total flights
+- **621** total flights
 - **44** origins
-- **25** countries
-- **27** airlines
+- **22** countries
+- **28** airlines
 
 ## Airlines
 
 | # | Airline | Flights/Week |
 |---:|---------|-------------:|
-| 1 | Srilankan Airlines | 249 |
-| 2 | Indigo Airlines | 40 |
+| 1 | Srilankan Airlines | 252 |
+| 2 | Indigo Airlines | 47 |
 | 3 | Qatar Airways | 35 |
 | 4 | Fly Dubai | 28 |
 | 5 | Emirates | 28 |
 | 6 | Etihad Airways | 27 |
-| 7 | Fits Air | 24 |
-| 8 | Air Arabia | 20 |
-| 9 | Air India | 18 |
-| 10 | Jazeera Airways | 14 |
-| 11 | Singapore Airlines | 14 |
+| 7 | Fits Air | 26 |
+| 8 | Air India | 21 |
+| 9 | Air Arabia | 20 |
+| 10 | Singapore Airlines | 14 |
+| 11 | Jazeera Airways | 11 |
 | 12 | Turkish Airlines | 11 |
 | 13 | China Eastern | 11 |
 | 14 | Malaysia Airlines | 10 |
-| 15 | Kuwait Airways | 7 |
-| 16 | Gulf Air | 7 |
-| 17 | Air Asia Berhad | 7 |
-| 18 | THAI AIR ASIA | 7 |
-| 19 | Cathay Pacific | 7 |
-| 20 | Thai Airways | 7 |
-| 21 | Salam Air | 6 |
-| 22 | Chongqing Airlines | 6 |
-| 23 | Air Arabia Abu Dhabi | 5 |
-| 24 | Air China | 4 |
-| 25 | Air Seychelles | 3 |
-| 26 | Batik Air | 3 |
-| 27 | Viet Jet | 3 |
+| 15 | Batik Air | 9 |
+| 16 | Kuwait Airways | 7 |
+| 17 | Salam Air | 7 |
+| 18 | Gulf Air | 7 |
+| 19 | Air China | 7 |
+| 20 | Air Asia Berhad | 7 |
+| 21 | Cathay Pacific | 7 |
+| 22 | Thai Airways | 7 |
+| 23 | Chongqing Airlines | 6 |
+| 24 | Air Arabia Abu Dhabi | 5 |
+| 25 | Jetstar Airways | 3 |
+| 26 | Viet Jet | 3 |
+| 27 | Vietnam Airlines | 3 |
+| 28 | Air Seychelles | 2 |
 
 ## Countries
 
 | # | Country | Destinations | Flights/Week |
 |---:|---------|-------------:|-------------:|
-| 1 | 🇮🇳 India | 8 | 140 |
-| 2 | 🇦🇪 United Arab Emirates | 3 | 107 |
-| 3 | 🇲🇻 Maldives | 2 | 56 |
-| 4 | 🇶🇦 Qatar | 1 | 42 |
-| 5 | 🇲🇾 Malaysia | 1 | 34 |
-| 6 | 🇹🇭 Thailand | 2 | 28 |
+| 1 | 🇮🇳 India | 7 | 146 |
+| 2 | 🇦🇪 United Arab Emirates | 3 | 108 |
+| 3 | 🏳️ Unknown | 9 | 67 |
+| 4 | 🇲🇻 Maldives | 2 | 58 |
+| 5 | 🇶🇦 Qatar | 1 | 42 |
+| 6 | 🇲🇾 Malaysia | 1 | 35 |
 | 7 | 🇸🇬 Singapore | 1 | 28 |
-| 8 | 🇰🇼 Kuwait | 1 | 27 |
-| 9 | 🇨🇳 China | 5 | 22 |
+| 8 | 🇰🇼 Kuwait | 1 | 24 |
+| 9 | 🇨🇳 China | 4 | 18 |
 | 10 | 🇸🇦 Saudi Arabia | 2 | 14 |
-| 11 | 🇧🇩 Bangladesh | 1 | 13 |
+| 11 | 🇧🇩 Bangladesh | 1 | 12 |
 | 12 | 🇹🇷 Turkey | 1 | 11 |
-| 13 | 🏳️ Unknown | 2 | 11 |
-| 14 | 🇦🇺 Australia | 2 | 11 |
-| 15 | 🇵🇰 Pakistan | 2 | 8 |
+| 13 | 🇦🇺 Australia | 1 | 10 |
+| 14 | 🇵🇰 Pakistan | 2 | 8 |
+| 15 | 🇴🇲 Oman | 1 | 7 |
 | 16 | 🇬🇧 United Kingdom | 1 | 7 |
 | 17 | 🇮🇩 Indonesia | 1 | 7 |
 | 18 | 🇭🇰 Hong Kong | 1 | 7 |
-| 19 | 🇴🇲 Oman | 1 | 6 |
-| 20 | 🇸🇨 Seychelles | 1 | 6 |
-| 21 | 🇳🇵 Nepal | 1 | 4 |
-| 22 | 🇯🇵 Japan | 1 | 4 |
-| 23 | 🇫🇷 France | 1 | 3 |
-| 24 | 🇩🇪 Germany | 1 | 3 |
-| 25 | 🇰🇷 South Korea | 1 | 2 |
+| 19 | 🇳🇵 Nepal | 1 | 4 |
+| 20 | 🇯🇵 Japan | 1 | 4 |
+| 21 | 🇸🇨 Seychelles | 1 | 2 |
+| 22 | 🇰🇷 South Korea | 1 | 2 |
 
 ## Inbound Locations
 
 | # | Country | Origin | Flights/Week |
 |---:|---------|--------|-------------:|
-| 1 | 🇦🇪 United Arab Emirates | Dubai | 55 |
-| 2 | 🇲🇻 Maldives | Male | 54 |
-| 3 | 🇶🇦 Qatar | Doha | 42 |
-| 4 | 🇮🇳 India | Chennai | 41 |
-| 5 | 🇲🇾 Malaysia | Kuala Lumpur | 34 |
+| 1 | 🇦🇪 United Arab Emirates | Dubai | 56 |
+| 2 | 🇲🇻 Maldives | Male | 56 |
+| 3 | 🇮🇳 India | Chennai | 48 |
+| 4 | 🇶🇦 Qatar | Doha | 42 |
+| 5 | 🇲🇾 Malaysia | Kuala Lumpur | 35 |
 | 6 | 🇦🇪 United Arab Emirates | Abu Dhabi | 32 |
 | 7 | 🇮🇳 India | Delhi | 28 |
-| 8 | 🇸🇬 Singapore | Singapore | 28 |
-| 9 | 🇰🇼 Kuwait | Kuwait | 27 |
-| 10 | 🇮🇳 India | Mumbai | 26 |
-| 11 | 🇹🇭 Thailand | Bangkok Suvarnabhumi | 21 |
+| 8 | 🇮🇳 India | Mumbai | 28 |
+| 9 | 🇸🇬 Singapore | Singapore | 28 |
+| 10 | 🏳️ Unknown | Bangkok | 26 |
+| 11 | 🇰🇼 Kuwait | Kuwait | 24 |
 | 12 | 🇦🇪 United Arab Emirates | Sharjah | 20 |
 | 13 | 🇮🇳 India | Bangalore | 17 |
-| 14 | 🇧🇩 Bangladesh | Dhaka | 13 |
+| 14 | 🇧🇩 Bangladesh | Dhaka | 12 |
 | 15 | 🇹🇷 Turkey | Istanbul Ataturk | 11 |
-| 16 | 🇮🇳 India | Hyderabad Intl | 10 |
-| 17 | 🏳️ Unknown | Ho Chi Minh Intl | 8 |
-| 18 | 🇸🇦 Saudi Arabia | Dammam | 7 |
-| 19 | 🇸🇦 Saudi Arabia | Riyadh | 7 |
-| 20 | 🇬🇧 United Kingdom | London-Heathrow | 7 |
-| 21 | 🇮🇳 India | Madurai | 7 |
-| 22 | 🇮🇳 India | Cochin | 7 |
-| 23 | 🇮🇩 Indonesia | Jakarta | 7 |
-| 24 | 🇨🇳 China | Shanghai | 7 |
-| 25 | 🇹🇭 Thailand | Bangkok Don Mueang | 7 |
-| 26 | 🇦🇺 Australia | Melbourne | 7 |
-| 27 | 🇭🇰 Hong Kong | Hong Kong | 7 |
-| 28 | 🇴🇲 Oman | Muscat | 6 |
-| 29 | 🇸🇨 Seychelles | Seychelles | 6 |
-| 30 | 🇵🇰 Pakistan | Karachi | 4 |
-| 31 | 🇮🇳 India | Thiruvananthapuram | 4 |
-| 32 | 🇵🇰 Pakistan | Lahore | 4 |
-| 33 | 🇳🇵 Nepal | Kathmandu | 4 |
-| 34 | 🇨🇳 China | Chengdu-Tianfu | 4 |
+| 16 | 🇮🇳 India | Hyderabad Intl | 11 |
+| 17 | 🇦🇺 Australia | Melbourne | 10 |
+| 18 | 🏳️ Unknown | Tiruchchirapalli | 8 |
+| 19 | 🇴🇲 Oman | Muscat | 7 |
+| 20 | 🇸🇦 Saudi Arabia | Dammam | 7 |
+| 21 | 🇸🇦 Saudi Arabia | Riyadh | 7 |
+| 22 | 🇬🇧 United Kingdom | London-Heathrow | 7 |
+| 23 | 🇮🇳 India | Madurai | 7 |
+| 24 | 🇮🇳 India | Cochin | 7 |
+| 25 | 🇮🇩 Indonesia | Jakarta | 7 |
+| 26 | 🇨🇳 China | Shanghai | 7 |
+| 27 | 🏳️ Unknown | Chengdu Tianfu | 7 |
+| 28 | 🇭🇰 Hong Kong | Hong Kong | 7 |
+| 29 | 🏳️ Unknown | Frankfurt Airport | 6 |
+| 30 | 🏳️ Unknown | Ho Chi Minh Intl | 6 |
+| 31 | 🇵🇰 Pakistan | Karachi | 4 |
+| 32 | 🏳️ Unknown | Trivandrum | 4 |
+| 33 | 🇵🇰 Pakistan | Lahore | 4 |
+| 34 | 🇳🇵 Nepal | Kathmandu | 4 |
 | 35 | 🇨🇳 China | Kunming | 4 |
 | 36 | 🇨🇳 China | Guangzhou Baiyun | 4 |
 | 37 | 🇯🇵 Japan | Narita | 4 |
-| 38 | 🇦🇺 Australia | Sydney | 4 |
-| 39 | 🇫🇷 France | Paris Charles de Gaulle | 3 |
-| 40 | 🇩🇪 Germany | Frankfurt Main | 3 |
-| 41 | 🏳️ Unknown | Ahmedabad Intl | 3 |
-| 42 | 🇨🇳 China | Chongqing | 3 |
+| 38 | 🏳️ Unknown | Sydney Airport | 4 |
+| 39 | 🏳️ Unknown | Paris Charles de Gaulle Airport | 3 |
+| 40 | 🏳️ Unknown | Ahmedabad Intl | 3 |
+| 41 | 🇨🇳 China | Chongqing | 3 |
+| 42 | 🇸🇨 Seychelles | Seychelles | 2 |
 | 43 | 🇰🇷 South Korea | Incheon | 2 |
 | 44 | 🇲🇻 Maldives | Gan Intl | 2 |
 

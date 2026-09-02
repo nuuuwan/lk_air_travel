@@ -1,8 +1,8 @@
 {
-  "id": "50007",
+  "id": "51218",
   "airline": "Srilankan Airlines",
   "flight_no": "UL154",
-  "aircraft_type": "A332",
+  "aircraft_type": "A333",
   "ut_arrival_time": 1788432900,
   "airport_name": "Lahore",
   "country_name": "Pakistan",
@@ -10,5 +10,5 @@
     31.5216,
     74.4036
   ],
-  "notes": "-"
+  "notes": "(ETA 1115 ON 17 & 24 SEP)"
 }

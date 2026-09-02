@@ -1,14 +1,11 @@
 {
-  "id": "50207",
+  "id": "51427",
   "airline": "Srilankan Airlines",
   "flight_no": "UL607",
-  "aircraft_type": "A332",
+  "aircraft_type": "A333",
   "ut_arrival_time": 1788629100,
-  "airport_name": "Sydney",
-  "country_name": "Australia",
-  "airport_latlng": [
-    -33.9461,
-    151.1772
-  ],
+  "airport_name": "Sydney Airport",
+  "country_name": "Unknown",
+  "airport_latlng": null,
   "notes": "-"
 }

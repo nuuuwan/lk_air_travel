@@ -1,8 +1,8 @@
 {
-  "id": "50154",
+  "id": "51373",
   "airline": "Srilankan Airlines",
   "flight_no": "UL319",
-  "aircraft_type": "A320",
+  "aircraft_type": "A32A",
   "ut_arrival_time": 1788582000,
   "airport_name": "Kuala Lumpur",
   "country_name": "Malaysia",
@@ -10,5 +10,5 @@
     2.7456,
     101.7098
   ],
-  "notes": "(ETA 1050 ON 29 AUG)"
+  "notes": "-"
 }

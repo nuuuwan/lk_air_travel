@@ -1,14 +1,11 @@
 {
-  "id": "50198",
+  "id": "51418",
   "airline": "Viet Jet",
   "flight_no": "VJ1875",
   "aircraft_type": "A320",
   "ut_arrival_time": 1788625200,
-  "airport_name": "Seychelles",
-  "country_name": "Seychelles",
-  "airport_latlng": [
-    -4.674,
-    55.5218
-  ],
-  "notes": "(FM 22 AUG)"
+  "airport_name": "Ho Chi Minh Intl",
+  "country_name": "Unknown",
+  "airport_latlng": null,
+  "notes": "-"
 }

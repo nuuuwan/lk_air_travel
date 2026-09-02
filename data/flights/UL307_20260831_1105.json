@@ -1,8 +1,8 @@
 {
-  "id": "49733",
+  "id": "50937",
   "airline": "Srilankan Airlines",
   "flight_no": "UL307",
-  "aircraft_type": "A32A",
+  "aircraft_type": "A320",
   "ut_arrival_time": 1788154500,
   "airport_name": "Singapore",
   "country_name": "Singapore",
@@ -10,5 +10,5 @@
     1.3644,
     103.9915
   ],
-  "notes": "-"
+  "notes": "(ONLY ON 21 SEP)"
 }

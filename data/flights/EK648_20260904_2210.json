@@ -1,8 +1,8 @@
 {
-  "id": "50109",
+  "id": "51326",
   "airline": "Emirates",
   "flight_no": "EK648",
-  "aircraft_type": "B77W",
+  "aircraft_type": "A359",
   "ut_arrival_time": 1788540000,
   "airport_name": "Dubai",
   "country_name": "United Arab Emirates",
@@ -10,5 +10,5 @@
     25.2532,
     55.3657
   ],
-  "notes": "'(A350 FM 14 AUG)"
+  "notes": "(CANCELLED ON 25 SEP)"
 }

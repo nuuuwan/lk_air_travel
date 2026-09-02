@@ -1,5 +1,5 @@
 {
-  "id": "49820",
+  "id": "51024",
   "airline": "Srilankan Airlines",
   "flight_no": "UL138",
   "aircraft_type": "A320",
@@ -10,5 +10,5 @@
     9.8345,
     78.0934
   ],
-  "notes": "(CANCELLED ON 11 AUG)"
+  "notes": "-"
 }

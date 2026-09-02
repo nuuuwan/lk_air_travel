@@ -1,14 +1,11 @@
 {
-  "id": "50089",
+  "id": "51304",
   "airline": "Srilankan Airlines",
   "flight_no": "UL405",
-  "aircraft_type": "A32A",
+  "aircraft_type": "A32B",
   "ut_arrival_time": 1788516900,
-  "airport_name": "Bangkok Suvarnabhumi",
-  "country_name": "Thailand",
-  "airport_latlng": [
-    13.69,
-    100.7501
-  ],
+  "airport_name": "Bangkok",
+  "country_name": "Unknown",
+  "airport_latlng": null,
   "notes": "-"
 }

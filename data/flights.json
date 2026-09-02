@@ -1,6 +1,6 @@
 [
   {
-    "id": "49695",
+    "id": "50897",
     "airline": "Fly Dubai",
     "flight_no": "FZ569",
     "aircraft_type": "B737",
@@ -14,11 +14,11 @@
     "notes": "-"
   },
   {
-    "id": "49696",
+    "id": "50898",
     "airline": "Kuwait Airways",
-    "flight_no": "KU361",
+    "flight_no": "KU363",
     "aircraft_type": "A32N",
-    "ut_arrival_time": 1788121800,
+    "ut_arrival_time": 1788121500,
     "airport_name": "Kuwait",
     "country_name": "Kuwait",
     "airport_latlng": [
@@ -28,10 +28,10 @@
     "notes": "-"
   },
   {
-    "id": "49697",
+    "id": "50899",
     "airline": "Qatar Airways",
     "flight_no": "QR662",
-    "aircraft_type": "B789",
+    "aircraft_type": "B788",
     "ut_arrival_time": 1788122100,
     "airport_name": "Doha",
     "country_name": "Qatar",
@@ -42,7 +42,7 @@
     "notes": "-"
   },
   {
-    "id": "49698",
+    "id": "50900",
     "airline": "Air Arabia",
     "flight_no": "G9587",
     "aircraft_type": "A320",
@@ -56,7 +56,21 @@
     "notes": "-"
   },
   {
-    "id": "49699",
+    "id": "50901",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1171",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1788124200,
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
+    "notes": "-"
+  },
+  {
+    "id": "50902",
     "airline": "Etihad Airways",
     "flight_no": "EY394",
     "aircraft_type": "A320",
@@ -70,10 +84,10 @@
     "notes": "-"
   },
   {
-    "id": "49700",
+    "id": "50903",
     "airline": "Qatar Airways",
     "flight_no": "QR658",
-    "aircraft_type": "B789",
+    "aircraft_type": "B788",
     "ut_arrival_time": 1788125700,
     "airport_name": "Doha",
     "country_name": "Qatar",
@@ -84,10 +98,10 @@
     "notes": "-"
   },
   {
-    "id": "49701",
+    "id": "50904",
     "airline": "Jazeera Airways",
     "flight_no": "J9551",
-    "aircraft_type": "A32N",
+    "aircraft_type": "A320",
     "ut_arrival_time": 1788127200,
     "airport_name": "Kuwait",
     "country_name": "Kuwait",
@@ -98,7 +112,7 @@
     "notes": "-"
   },
   {
-    "id": "49702",
+    "id": "50905",
     "airline": "Salam Air",
     "flight_no": "OV437",
     "aircraft_type": "A320",
@@ -112,7 +126,7 @@
     "notes": "-"
   },
   {
-    "id": "49703",
+    "id": "50906",
     "airline": "Air Arabia Abu Dhabi",
     "flight_no": "3L461",
     "aircraft_type": "A320",
@@ -126,7 +140,7 @@
     "notes": "-"
   },
   {
-    "id": "49704",
+    "id": "50907",
     "airline": "Air India",
     "flight_no": "AI277",
     "aircraft_type": "A321",
@@ -140,7 +154,7 @@
     "notes": "-"
   },
   {
-    "id": "49705",
+    "id": "50908",
     "airline": "Air Seychelles",
     "flight_no": "HM262",
     "aircraft_type": "A320",
@@ -151,10 +165,10 @@
       -4.674,
       55.5218
     ],
-    "notes": "(FM 10 AUG)"
+    "notes": "-"
   },
   {
-    "id": "49706",
+    "id": "50909",
     "airline": "Air Arabia",
     "flight_no": "G9502",
     "aircraft_type": "A320",
@@ -168,7 +182,32 @@
     "notes": "-"
   },
   {
-    "id": "49707",
+    "id": "50910",
+    "airline": "Jazeera Airways",
+    "flight_no": "J9553",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1788131400,
+    "airport_name": "Kuwait",
+    "country_name": "Kuwait",
+    "airport_latlng": [
+      29.2266,
+      47.9689
+    ],
+    "notes": "(ONLY ON 07 & 14 SEP, ETA 0655 ON 07 SEP)"
+  },
+  {
+    "id": "50911",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL501",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1788131700,
+    "airport_name": "Frankfurt Airport",
+    "country_name": "Unknown",
+    "airport_latlng": null,
+    "notes": "(CANCELLED ON 07 SEP)"
+  },
+  {
+    "id": "50912",
     "airline": "Srilankan Airlines",
     "flight_no": "UL226",
     "aircraft_type": "A333",
@@ -182,21 +221,18 @@
     "notes": "-"
   },
   {
-    "id": "49708",
+    "id": "50913",
     "airline": "Srilankan Airlines",
     "flight_no": "UL564",
     "aircraft_type": "A333",
     "ut_arrival_time": 1788132900,
-    "airport_name": "Paris Charles de Gaulle",
-    "country_name": "France",
-    "airport_latlng": [
-      49.0097,
-      2.5479
-    ],
-    "notes": "-"
+    "airport_name": "Paris Charles de Gaulle Airport",
+    "country_name": "Unknown",
+    "airport_latlng": null,
+    "notes": "(ONLY ON 07 SEP)"
   },
   {
-    "id": "49709",
+    "id": "50914",
     "airline": "Fits Air",
     "flight_no": "8D822",
     "aircraft_type": "A320",
@@ -207,10 +243,10 @@
       25.2532,
       55.3657
     ],
-    "notes": "-"
+    "notes": "(ONLY ON 07 & 14 SEP)"
   },
   {
-    "id": "49710",
+    "id": "50915",
     "airline": "Srilankan Airlines",
     "flight_no": "UL230",
     "aircraft_type": "A32B",
@@ -221,10 +257,10 @@
       29.2266,
       47.9689
     ],
-    "notes": "(CANCELLED ON 03 AUG)"
+    "notes": "-"
   },
   {
-    "id": "49711",
+    "id": "50916",
     "airline": "Turkish Airlines",
     "flight_no": "TK730",
     "aircraft_type": "A333",
@@ -238,10 +274,10 @@
     "notes": "-"
   },
   {
-    "id": "49712",
+    "id": "50917",
     "airline": "Srilankan Airlines",
     "flight_no": "UL142",
-    "aircraft_type": "A320",
+    "aircraft_type": "A32A",
     "ut_arrival_time": 1788135000,
     "airport_name": "Mumbai",
     "country_name": "India",
@@ -252,21 +288,7 @@
     "notes": "-"
   },
   {
-    "id": "49713",
-    "airline": "Srilankan Airlines",
-    "flight_no": "UL558",
-    "aircraft_type": "A332",
-    "ut_arrival_time": 1788135300,
-    "airport_name": "Frankfurt Main",
-    "country_name": "Germany",
-    "airport_latlng": [
-      50.0379,
-      8.5622
-    ],
-    "notes": "-"
-  },
-  {
-    "id": "49714",
+    "id": "50918",
     "airline": "Srilankan Airlines",
     "flight_no": "UL218",
     "aircraft_type": "A32B",
@@ -277,13 +299,13 @@
       25.2731,
       51.608
     ],
-    "notes": "-"
+    "notes": "(CANCELLED ON 21 SEP)"
   },
   {
-    "id": "49715",
+    "id": "50919",
     "airline": "Srilankan Airlines",
     "flight_no": "UL254",
-    "aircraft_type": "A32B",
+    "aircraft_type": "A32A",
     "ut_arrival_time": 1788135900,
     "airport_name": "Dammam",
     "country_name": "Saudi Arabia",
@@ -294,10 +316,21 @@
     "notes": "-"
   },
   {
-    "id": "49716",
+    "id": "50920",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL558",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1788135900,
+    "airport_name": "Frankfurt Airport",
+    "country_name": "Unknown",
+    "airport_latlng": null,
+    "notes": "(ONLY ON 07 SEP)"
+  },
+  {
+    "id": "50921",
     "airline": "Srilankan Airlines",
     "flight_no": "UL266",
-    "aircraft_type": "A332",
+    "aircraft_type": "A333",
     "ut_arrival_time": 1788137400,
     "airport_name": "Riyadh",
     "country_name": "Saudi Arabia",
@@ -305,10 +338,10 @@
       24.9577,
       46.6989
     ],
-    "notes": "-"
+    "notes": "(A32B ON 21SEP)"
   },
   {
-    "id": "49717",
+    "id": "50922",
     "airline": "Fits Air",
     "flight_no": "8D962",
     "aircraft_type": "A320",
@@ -319,21 +352,7 @@
     "notes": "-"
   },
   {
-    "id": "49718",
-    "airline": "Jazeera Airways",
-    "flight_no": "J9553",
-    "aircraft_type": "A32N",
-    "ut_arrival_time": 1788142500,
-    "airport_name": "Kuwait",
-    "country_name": "Kuwait",
-    "airport_latlng": [
-      29.2266,
-      47.9689
-    ],
-    "notes": "-"
-  },
-  {
-    "id": "49719",
+    "id": "50923",
     "airline": "Fly Dubai",
     "flight_no": "FZ579",
     "aircraft_type": "B737",
@@ -347,7 +366,7 @@
     "notes": "-"
   },
   {
-    "id": "49720",
+    "id": "50924",
     "airline": "Emirates",
     "flight_no": "EK650",
     "aircraft_type": "B77W",
@@ -361,7 +380,7 @@
     "notes": "-"
   },
   {
-    "id": "49721",
+    "id": "50925",
     "airline": "Etihad Airways",
     "flight_no": "EY392",
     "aircraft_type": "A320",
@@ -375,7 +394,7 @@
     "notes": "-"
   },
   {
-    "id": "49722",
+    "id": "50926",
     "airline": "Indigo Airlines",
     "flight_no": "6E1185",
     "aircraft_type": "A320",
@@ -389,7 +408,7 @@
     "notes": "-"
   },
   {
-    "id": "49723",
+    "id": "50927",
     "airline": "Srilankan Airlines",
     "flight_no": "UL192",
     "aircraft_type": "A320",
@@ -403,7 +422,7 @@
     "notes": "-"
   },
   {
-    "id": "49724",
+    "id": "50928",
     "airline": "Qatar Airways",
     "flight_no": "QR664",
     "aircraft_type": "B789",
@@ -417,21 +436,18 @@
     "notes": "-"
   },
   {
-    "id": "49725",
+    "id": "50929",
     "airline": "Srilankan Airlines",
     "flight_no": "UL403",
     "aircraft_type": "A320",
     "ut_arrival_time": 1788149100,
-    "airport_name": "Bangkok Suvarnabhumi",
-    "country_name": "Thailand",
-    "airport_latlng": [
-      13.69,
-      100.7501
-    ],
+    "airport_name": "Bangkok",
+    "country_name": "Unknown",
+    "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "49726",
+    "id": "50930",
     "airline": "Gulf Air",
     "flight_no": "GF144",
     "aircraft_type": "A32N",
@@ -445,7 +461,7 @@
     "notes": "-"
   },
   {
-    "id": "49727",
+    "id": "50931",
     "airline": "Qatar Airways",
     "flight_no": "QR660",
     "aircraft_type": "B788",
@@ -456,10 +472,10 @@
       25.2731,
       51.608
     ],
-    "notes": "-"
+    "notes": "(CANCELLED ON 21 & 28 SEP)"
   },
   {
-    "id": "49728",
+    "id": "50932",
     "airline": "Srilankan Airlines",
     "flight_no": "UL319",
     "aircraft_type": "A320",
@@ -473,7 +489,7 @@
     "notes": "-"
   },
   {
-    "id": "49729",
+    "id": "50933",
     "airline": "Fly Dubai",
     "flight_no": "FZ1025",
     "aircraft_type": "B737",
@@ -487,10 +503,10 @@
     "notes": "-"
   },
   {
-    "id": "49730",
+    "id": "50934",
     "airline": "Indigo Airlines",
     "flight_no": "6E1167",
-    "aircraft_type": "A320",
+    "aircraft_type": "A321",
     "ut_arrival_time": 1788152400,
     "airport_name": "Bangalore",
     "country_name": "India",
@@ -501,7 +517,7 @@
     "notes": "-"
   },
   {
-    "id": "49731",
+    "id": "50935",
     "airline": "Singapore Airlines",
     "flight_no": "SQ462",
     "aircraft_type": "7M8R",
@@ -515,7 +531,7 @@
     "notes": "-"
   },
   {
-    "id": "49732",
+    "id": "50936",
     "airline": "Srilankan Airlines",
     "flight_no": "UL152",
     "aircraft_type": "A320",
@@ -529,10 +545,10 @@
     "notes": "-"
   },
   {
-    "id": "49733",
+    "id": "50937",
     "airline": "Srilankan Airlines",
     "flight_no": "UL307",
-    "aircraft_type": "A32A",
+    "aircraft_type": "A320",
     "ut_arrival_time": 1788154500,
     "airport_name": "Singapore",
     "country_name": "Singapore",
@@ -540,27 +556,24 @@
       1.3644,
       103.9915
     ],
-    "notes": "-"
+    "notes": "(ONLY ON 21 SEP)"
   },
   {
-    "id": "49734",
+    "id": "50938",
     "airline": "Srilankan Airlines",
     "flight_no": "UL162",
     "aircraft_type": "A320",
     "ut_arrival_time": 1788154800,
-    "airport_name": "Thiruvananthapuram",
-    "country_name": "India",
-    "airport_latlng": [
-      8.4821,
-      76.92
-    ],
+    "airport_name": "Trivandrum",
+    "country_name": "Unknown",
+    "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "49735",
+    "id": "50939",
     "airline": "Srilankan Airlines",
     "flight_no": "UL102",
-    "aircraft_type": "A332",
+    "aircraft_type": "A333",
     "ut_arrival_time": 1788155400,
     "airport_name": "Male",
     "country_name": "Maldives",
@@ -571,7 +584,7 @@
     "notes": "-"
   },
   {
-    "id": "49736",
+    "id": "50940",
     "airline": "Srilankan Airlines",
     "flight_no": "UL122",
     "aircraft_type": "A32B",
@@ -585,7 +598,7 @@
     "notes": "-"
   },
   {
-    "id": "49737",
+    "id": "50941",
     "airline": "Indigo Airlines",
     "flight_no": "6E1175",
     "aircraft_type": "A320",
@@ -599,7 +612,7 @@
     "notes": "-"
   },
   {
-    "id": "49738",
+    "id": "50942",
     "airline": "Srilankan Airlines",
     "flight_no": "UL504",
     "aircraft_type": "A333",
@@ -613,7 +626,7 @@
     "notes": "-"
   },
   {
-    "id": "49739",
+    "id": "50943",
     "airline": "Indigo Airlines",
     "flight_no": "6E1181",
     "aircraft_type": "A320",
@@ -627,7 +640,7 @@
     "notes": "-"
   },
   {
-    "id": "49740",
+    "id": "50944",
     "airline": "Air Arabia",
     "flight_no": "G9508",
     "aircraft_type": "A320",
@@ -641,7 +654,7 @@
     "notes": "-"
   },
   {
-    "id": "49741",
+    "id": "50945",
     "airline": "Etihad Airways",
     "flight_no": "EY390",
     "aircraft_type": "A320",
@@ -655,7 +668,7 @@
     "notes": "-"
   },
   {
-    "id": "49742",
+    "id": "50946",
     "airline": "Air India",
     "flight_no": "AI2276",
     "aircraft_type": "A321",
@@ -669,7 +682,7 @@
     "notes": "-"
   },
   {
-    "id": "49743",
+    "id": "50947",
     "airline": "Srilankan Airlines",
     "flight_no": "UL190",
     "aircraft_type": "A332",
@@ -683,24 +696,21 @@
     "notes": "-"
   },
   {
-    "id": "49744",
+    "id": "50948",
     "airline": "Srilankan Airlines",
     "flight_no": "UL405",
-    "aircraft_type": "A320",
+    "aircraft_type": "A32B",
     "ut_arrival_time": 1788171300,
-    "airport_name": "Bangkok Suvarnabhumi",
-    "country_name": "Thailand",
-    "airport_latlng": [
-      13.69,
-      100.7501
-    ],
+    "airport_name": "Bangkok",
+    "country_name": "Unknown",
+    "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "49745",
+    "id": "50949",
     "airline": "Srilankan Airlines",
     "flight_no": "UL315",
-    "aircraft_type": "A32B",
+    "aircraft_type": "A32A",
     "ut_arrival_time": 1788172200,
     "airport_name": "Kuala Lumpur",
     "country_name": "Malaysia",
@@ -711,7 +721,7 @@
     "notes": "-"
   },
   {
-    "id": "49746",
+    "id": "50950",
     "airline": "Air India",
     "flight_no": "AI281",
     "aircraft_type": "A321",
@@ -725,7 +735,7 @@
     "notes": "-"
   },
   {
-    "id": "49747",
+    "id": "50951",
     "airline": "Indigo Airlines",
     "flight_no": "6E1179",
     "aircraft_type": "A320",
@@ -739,7 +749,7 @@
     "notes": "-"
   },
   {
-    "id": "49748",
+    "id": "50952",
     "airline": "Srilankan Airlines",
     "flight_no": "UL140",
     "aircraft_type": "A320",
@@ -753,7 +763,7 @@
     "notes": "-"
   },
   {
-    "id": "49749",
+    "id": "50953",
     "airline": "Srilankan Airlines",
     "flight_no": "UL154",
     "aircraft_type": "A333",
@@ -764,10 +774,10 @@
       31.5216,
       74.4036
     ],
-    "notes": "-"
+    "notes": "(ETA 1115 ON 21 & 28 SEP)"
   },
   {
-    "id": "49750",
+    "id": "50954",
     "airline": "Srilankan Airlines",
     "flight_no": "UL471",
     "aircraft_type": "A332",
@@ -781,7 +791,7 @@
     "notes": "-"
   },
   {
-    "id": "49751",
+    "id": "50955",
     "airline": "Fly Dubai",
     "flight_no": "FZ549",
     "aircraft_type": "B737",
@@ -795,7 +805,7 @@
     "notes": "-"
   },
   {
-    "id": "49752",
+    "id": "50956",
     "airline": "Srilankan Airlines",
     "flight_no": "UL182",
     "aircraft_type": "A32A",
@@ -806,21 +816,21 @@
       27.6966,
       85.3591
     ],
-    "notes": "(CANCELLED ON 10 AUG)"
+    "notes": "-"
   },
   {
-    "id": "49753",
+    "id": "50957",
     "airline": "Srilankan Airlines",
     "flight_no": "UL134",
     "aircraft_type": "A320",
     "ut_arrival_time": 1788174600,
-    "airport_name": "Ho Chi Minh Intl",
+    "airport_name": "Tiruchchirapalli",
     "country_name": "Unknown",
     "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "49754",
+    "id": "50958",
     "airline": "Qatar Airways",
     "flight_no": "QR654",
     "aircraft_type": "B789",
@@ -834,7 +844,7 @@
     "notes": "-"
   },
   {
-    "id": "49755",
+    "id": "50959",
     "airline": "Emirates",
     "flight_no": "EK654",
     "aircraft_type": "A359",
@@ -848,7 +858,7 @@
     "notes": "-"
   },
   {
-    "id": "49756",
+    "id": "50960",
     "airline": "Srilankan Airlines",
     "flight_no": "UL128",
     "aircraft_type": "A320",
@@ -862,10 +872,10 @@
     "notes": "-"
   },
   {
-    "id": "49757",
+    "id": "50961",
     "airline": "Srilankan Airlines",
     "flight_no": "UL168",
-    "aircraft_type": "A320",
+    "aircraft_type": "A32B",
     "ut_arrival_time": 1788177300,
     "airport_name": "Cochin",
     "country_name": "India",
@@ -876,10 +886,10 @@
     "notes": "-"
   },
   {
-    "id": "49758",
+    "id": "50962",
     "airline": "Srilankan Airlines",
     "flight_no": "UL116",
-    "aircraft_type": "A332",
+    "aircraft_type": "A333",
     "ut_arrival_time": 1788177600,
     "airport_name": "Male",
     "country_name": "Maldives",
@@ -890,7 +900,7 @@
     "notes": "-"
   },
   {
-    "id": "49759",
+    "id": "50963",
     "airline": "Srilankan Airlines",
     "flight_no": "UL365",
     "aircraft_type": "A32B",
@@ -901,10 +911,10 @@
       -6.1256,
       106.6559
     ],
-    "notes": "-"
+    "notes": "(ONLY ON 07 & 21 SEP)"
   },
   {
-    "id": "49760",
+    "id": "50964",
     "airline": "Emirates",
     "flight_no": "EK652",
     "aircraft_type": "B77W",
@@ -918,7 +928,7 @@
     "notes": "-"
   },
   {
-    "id": "49761",
+    "id": "50965",
     "airline": "China Eastern",
     "flight_no": "MU6017",
     "aircraft_type": "A330",
@@ -932,7 +942,7 @@
     "notes": "-"
   },
   {
-    "id": "49762",
+    "id": "50966",
     "airline": "Fits Air",
     "flight_no": "8D924",
     "aircraft_type": "A320",
@@ -946,7 +956,7 @@
     "notes": "-"
   },
   {
-    "id": "49763",
+    "id": "50967",
     "airline": "Etihad Airways",
     "flight_no": "EY396",
     "aircraft_type": "A320",
@@ -960,7 +970,7 @@
     "notes": "-"
   },
   {
-    "id": "49764",
+    "id": "50968",
     "airline": "Batik Air",
     "flight_no": "OD297",
     "aircraft_type": "B738",
@@ -974,21 +984,18 @@
     "notes": "-"
   },
   {
-    "id": "49765",
+    "id": "50969",
     "airline": "Air China",
     "flight_no": "CA425",
     "aircraft_type": "A320",
     "ut_arrival_time": 1788189900,
-    "airport_name": "Chengdu-Tianfu",
-    "country_name": "China",
-    "airport_latlng": [
-      30.3089,
-      104.4419
-    ],
-    "notes": "-"
+    "airport_name": "Chengdu Tianfu",
+    "country_name": "Unknown",
+    "airport_latlng": null,
+    "notes": "(CANCELLED ON 07 SEP)"
   },
   {
-    "id": "49766",
+    "id": "50970",
     "airline": "Indigo Airlines",
     "flight_no": "6E1173",
     "aircraft_type": "A320",
@@ -1002,7 +1009,7 @@
     "notes": "-"
   },
   {
-    "id": "49767",
+    "id": "50971",
     "airline": "China Eastern",
     "flight_no": "MU713",
     "aircraft_type": "B737",
@@ -1016,10 +1023,10 @@
     "notes": "-"
   },
   {
-    "id": "49768",
+    "id": "50972",
     "airline": "Srilankan Airlines",
     "flight_no": "UL309",
-    "aircraft_type": "A32B",
+    "aircraft_type": "A320",
     "ut_arrival_time": 1788192000,
     "airport_name": "Singapore",
     "country_name": "Singapore",
@@ -1030,7 +1037,7 @@
     "notes": "-"
   },
   {
-    "id": "49769",
+    "id": "50973",
     "airline": "Air Asia Berhad",
     "flight_no": "AK47",
     "aircraft_type": "A320",
@@ -1044,10 +1051,10 @@
     "notes": "-"
   },
   {
-    "id": "49770",
+    "id": "50974",
     "airline": "Emirates",
     "flight_no": "EK648",
-    "aircraft_type": "B77W",
+    "aircraft_type": "A359",
     "ut_arrival_time": 1788194400,
     "airport_name": "Dubai",
     "country_name": "United Arab Emirates",
@@ -1055,24 +1062,21 @@
       25.2532,
       55.3657
     ],
-    "notes": "(A350 FM 10 AUG)"
+    "notes": "(CANCELLED ON 21 & 28 SEP)"
   },
   {
-    "id": "49771",
-    "airline": "THAI AIR ASIA",
+    "id": "50975",
+    "airline": "Batik Air",
     "flight_no": "FD140",
     "aircraft_type": "A321",
     "ut_arrival_time": 1788194700,
-    "airport_name": "Bangkok Don Mueang",
-    "country_name": "Thailand",
-    "airport_latlng": [
-      13.9126,
-      100.6074
-    ],
+    "airport_name": "Bangkok",
+    "country_name": "Unknown",
+    "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "49772",
+    "id": "50976",
     "airline": "Srilankan Airlines",
     "flight_no": "UL196",
     "aircraft_type": "A320",
@@ -1086,7 +1090,7 @@
     "notes": "-"
   },
   {
-    "id": "49773",
+    "id": "50977",
     "airline": "Srilankan Airlines",
     "flight_no": "UL605",
     "aircraft_type": "A333",
@@ -1100,7 +1104,7 @@
     "notes": "-"
   },
   {
-    "id": "49774",
+    "id": "50978",
     "airline": "Srilankan Airlines",
     "flight_no": "UL124",
     "aircraft_type": "A320",
@@ -1114,10 +1118,10 @@
     "notes": "-"
   },
   {
-    "id": "49775",
+    "id": "50979",
     "airline": "Srilankan Airlines",
     "flight_no": "UL176",
-    "aircraft_type": "A320",
+    "aircraft_type": "A32A",
     "ut_arrival_time": 1788196200,
     "airport_name": "Hyderabad Intl",
     "country_name": "India",
@@ -1128,7 +1132,7 @@
     "notes": "-"
   },
   {
-    "id": "49776",
+    "id": "50980",
     "airline": "Srilankan Airlines",
     "flight_no": "UL172",
     "aircraft_type": "A320",
@@ -1142,7 +1146,7 @@
     "notes": "-"
   },
   {
-    "id": "49777",
+    "id": "50981",
     "airline": "Malaysia Airlines",
     "flight_no": "MH179",
     "aircraft_type": "B738",
@@ -1156,10 +1160,10 @@
     "notes": "-"
   },
   {
-    "id": "49778",
+    "id": "50982",
     "airline": "Srilankan Airlines",
     "flight_no": "UL104",
-    "aircraft_type": "A332",
+    "aircraft_type": "A320",
     "ut_arrival_time": 1788197100,
     "airport_name": "Male",
     "country_name": "Maldives",
@@ -1170,7 +1174,7 @@
     "notes": "-"
   },
   {
-    "id": "49779",
+    "id": "50983",
     "airline": "Srilankan Airlines",
     "flight_no": "UL144",
     "aircraft_type": "A320",
@@ -1184,7 +1188,7 @@
     "notes": "-"
   },
   {
-    "id": "49780",
+    "id": "50984",
     "airline": "Cathay Pacific",
     "flight_no": "CX611",
     "aircraft_type": "A333",
@@ -1198,7 +1202,7 @@
     "notes": "-"
   },
   {
-    "id": "49781",
+    "id": "50985",
     "airline": "Singapore Airlines",
     "flight_no": "SQ468",
     "aircraft_type": "B787",
@@ -1212,21 +1216,18 @@
     "notes": "-"
   },
   {
-    "id": "49782",
+    "id": "50986",
     "airline": "Thai Airways",
     "flight_no": "TG307",
     "aircraft_type": "A320",
     "ut_arrival_time": 1788200700,
-    "airport_name": "Bangkok Suvarnabhumi",
-    "country_name": "Thailand",
-    "airport_latlng": [
-      13.69,
-      100.7501
-    ],
+    "airport_name": "Bangkok",
+    "country_name": "Unknown",
+    "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "49783",
+    "id": "50987",
     "airline": "Fly Dubai",
     "flight_no": "FZ569",
     "aircraft_type": "B737",
@@ -1240,11 +1241,11 @@
     "notes": "-"
   },
   {
-    "id": "49784",
+    "id": "50988",
     "airline": "Kuwait Airways",
-    "flight_no": "KU361",
+    "flight_no": "KU363",
     "aircraft_type": "A32N",
-    "ut_arrival_time": 1788208200,
+    "ut_arrival_time": 1788207900,
     "airport_name": "Kuwait",
     "country_name": "Kuwait",
     "airport_latlng": [
@@ -1254,10 +1255,10 @@
     "notes": "-"
   },
   {
-    "id": "49785",
+    "id": "50989",
     "airline": "Qatar Airways",
     "flight_no": "QR662",
-    "aircraft_type": "B789",
+    "aircraft_type": "B788",
     "ut_arrival_time": 1788208500,
     "airport_name": "Doha",
     "country_name": "Qatar",
@@ -1268,7 +1269,7 @@
     "notes": "-"
   },
   {
-    "id": "49786",
+    "id": "50990",
     "airline": "Air Arabia",
     "flight_no": "G9587",
     "aircraft_type": "A320",
@@ -1282,7 +1283,21 @@
     "notes": "-"
   },
   {
-    "id": "49787",
+    "id": "50991",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1171",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1788210600,
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
+    "notes": "-"
+  },
+  {
+    "id": "50992",
     "airline": "Etihad Airways",
     "flight_no": "EY394",
     "aircraft_type": "A320",
@@ -1296,10 +1311,10 @@
     "notes": "-"
   },
   {
-    "id": "49788",
+    "id": "50993",
     "airline": "Qatar Airways",
     "flight_no": "QR658",
-    "aircraft_type": "B789",
+    "aircraft_type": "B788",
     "ut_arrival_time": 1788212100,
     "airport_name": "Doha",
     "country_name": "Qatar",
@@ -1310,10 +1325,10 @@
     "notes": "-"
   },
   {
-    "id": "49789",
+    "id": "50994",
     "airline": "Jazeera Airways",
     "flight_no": "J9551",
-    "aircraft_type": "A32N",
+    "aircraft_type": "A320",
     "ut_arrival_time": 1788213600,
     "airport_name": "Kuwait",
     "country_name": "Kuwait",
@@ -1324,21 +1339,7 @@
     "notes": "-"
   },
   {
-    "id": "49790",
-    "airline": "Salam Air",
-    "flight_no": "OV437",
-    "aircraft_type": "A320",
-    "ut_arrival_time": 1788214800,
-    "airport_name": "Muscat",
-    "country_name": "Oman",
-    "airport_latlng": [
-      23.5933,
-      58.2844
-    ],
-    "notes": "-"
-  },
-  {
-    "id": "49791",
+    "id": "50995",
     "airline": "Air India",
     "flight_no": "AI277",
     "aircraft_type": "A321",
@@ -1349,10 +1350,10 @@
       28.5562,
       77.1
     ],
-    "notes": "(FM 18 AUG)"
+    "notes": "-"
   },
   {
-    "id": "49792",
+    "id": "50996",
     "airline": "Air Arabia",
     "flight_no": "G9502",
     "aircraft_type": "A320",
@@ -1366,7 +1367,7 @@
     "notes": "-"
   },
   {
-    "id": "49793",
+    "id": "50997",
     "airline": "Srilankan Airlines",
     "flight_no": "UL174",
     "aircraft_type": "A320",
@@ -1380,10 +1381,24 @@
     "notes": "-"
   },
   {
-    "id": "49794",
+    "id": "50998",
+    "airline": "Salam Air",
+    "flight_no": "OV439",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1788218700,
+    "airport_name": "Muscat",
+    "country_name": "Oman",
+    "airport_latlng": [
+      23.5933,
+      58.2844
+    ],
+    "notes": "-"
+  },
+  {
+    "id": "50999",
     "airline": "Srilankan Airlines",
     "flight_no": "UL226",
-    "aircraft_type": "A333",
+    "aircraft_type": "A332",
     "ut_arrival_time": 1788219000,
     "airport_name": "Dubai",
     "country_name": "United Arab Emirates",
@@ -1394,7 +1409,7 @@
     "notes": "-"
   },
   {
-    "id": "49795",
+    "id": "51000",
     "airline": "Fits Air",
     "flight_no": "8D912",
     "aircraft_type": "A320",
@@ -1408,7 +1423,7 @@
     "notes": "-"
   },
   {
-    "id": "49796",
+    "id": "51001",
     "airline": "Fits Air",
     "flight_no": "8D822",
     "aircraft_type": "A320",
@@ -1419,10 +1434,10 @@
       25.2532,
       55.3657
     ],
-    "notes": "-"
+    "notes": "(ONLY ON 01 & 08 SEP)"
   },
   {
-    "id": "49797",
+    "id": "51002",
     "airline": "Srilankan Airlines",
     "flight_no": "UL230",
     "aircraft_type": "A32B",
@@ -1436,7 +1451,7 @@
     "notes": "-"
   },
   {
-    "id": "49798",
+    "id": "51003",
     "airline": "Turkish Airlines",
     "flight_no": "TK730",
     "aircraft_type": "A333",
@@ -1450,7 +1465,7 @@
     "notes": "-"
   },
   {
-    "id": "49799",
+    "id": "51004",
     "airline": "Srilankan Airlines",
     "flight_no": "UL142",
     "aircraft_type": "A320",
@@ -1464,7 +1479,7 @@
     "notes": "-"
   },
   {
-    "id": "49800",
+    "id": "51005",
     "airline": "Srilankan Airlines",
     "flight_no": "UL218",
     "aircraft_type": "A32A",
@@ -1478,7 +1493,7 @@
     "notes": "-"
   },
   {
-    "id": "49801",
+    "id": "51006",
     "airline": "Srilankan Airlines",
     "flight_no": "UL254",
     "aircraft_type": "A32B",
@@ -1492,7 +1507,7 @@
     "notes": "-"
   },
   {
-    "id": "49802",
+    "id": "51007",
     "airline": "Srilankan Airlines",
     "flight_no": "UL885",
     "aircraft_type": "A332",
@@ -1506,7 +1521,7 @@
     "notes": "-"
   },
   {
-    "id": "49803",
+    "id": "51008",
     "airline": "Srilankan Airlines",
     "flight_no": "UL266",
     "aircraft_type": "A332",
@@ -1520,21 +1535,7 @@
     "notes": "-"
   },
   {
-    "id": "49804",
-    "airline": "Jazeera Airways",
-    "flight_no": "J9553",
-    "aircraft_type": "A32N",
-    "ut_arrival_time": 1788228900,
-    "airport_name": "Kuwait",
-    "country_name": "Kuwait",
-    "airport_latlng": [
-      29.2266,
-      47.9689
-    ],
-    "notes": "-"
-  },
-  {
-    "id": "49805",
+    "id": "51009",
     "airline": "Fly Dubai",
     "flight_no": "FZ579",
     "aircraft_type": "B737",
@@ -1548,7 +1549,7 @@
     "notes": "-"
   },
   {
-    "id": "49806",
+    "id": "51010",
     "airline": "Emirates",
     "flight_no": "EK650",
     "aircraft_type": "B77W",
@@ -1562,7 +1563,7 @@
     "notes": "-"
   },
   {
-    "id": "49807",
+    "id": "51011",
     "airline": "Etihad Airways",
     "flight_no": "EY392",
     "aircraft_type": "A320",
@@ -1576,7 +1577,7 @@
     "notes": "-"
   },
   {
-    "id": "49808",
+    "id": "51012",
     "airline": "Indigo Airlines",
     "flight_no": "6E1185",
     "aircraft_type": "A320",
@@ -1590,7 +1591,7 @@
     "notes": "-"
   },
   {
-    "id": "49809",
+    "id": "51013",
     "airline": "Srilankan Airlines",
     "flight_no": "UL192",
     "aircraft_type": "A320",
@@ -1604,7 +1605,7 @@
     "notes": "-"
   },
   {
-    "id": "49810",
+    "id": "51014",
     "airline": "Qatar Airways",
     "flight_no": "QR664",
     "aircraft_type": "B789",
@@ -1618,21 +1619,18 @@
     "notes": "-"
   },
   {
-    "id": "49811",
+    "id": "51015",
     "airline": "Srilankan Airlines",
     "flight_no": "UL403",
     "aircraft_type": "A320",
     "ut_arrival_time": 1788235500,
-    "airport_name": "Bangkok Suvarnabhumi",
-    "country_name": "Thailand",
-    "airport_latlng": [
-      13.69,
-      100.7501
-    ],
+    "airport_name": "Bangkok",
+    "country_name": "Unknown",
+    "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "49812",
+    "id": "51016",
     "airline": "Gulf Air",
     "flight_no": "GF144",
     "aircraft_type": "A32N",
@@ -1646,7 +1644,7 @@
     "notes": "-"
   },
   {
-    "id": "49813",
+    "id": "51017",
     "airline": "Qatar Airways",
     "flight_no": "QR660",
     "aircraft_type": "B788",
@@ -1657,10 +1655,10 @@
       25.2731,
       51.608
     ],
-    "notes": "-"
+    "notes": "(CANCELLED ON 22 & 29 SEP)"
   },
   {
-    "id": "49814",
+    "id": "51018",
     "airline": "Srilankan Airlines",
     "flight_no": "UL319",
     "aircraft_type": "A320",
@@ -1674,7 +1672,7 @@
     "notes": "-"
   },
   {
-    "id": "49815",
+    "id": "51019",
     "airline": "Fly Dubai",
     "flight_no": "FZ1025",
     "aircraft_type": "B737",
@@ -1688,10 +1686,10 @@
     "notes": "-"
   },
   {
-    "id": "49816",
+    "id": "51020",
     "airline": "Indigo Airlines",
     "flight_no": "6E1167",
-    "aircraft_type": "A320",
+    "aircraft_type": "A321",
     "ut_arrival_time": 1788238800,
     "airport_name": "Bangalore",
     "country_name": "India",
@@ -1702,7 +1700,7 @@
     "notes": "-"
   },
   {
-    "id": "49817",
+    "id": "51021",
     "airline": "Singapore Airlines",
     "flight_no": "SQ462",
     "aircraft_type": "7M8R",
@@ -1716,7 +1714,7 @@
     "notes": "-"
   },
   {
-    "id": "49818",
+    "id": "51022",
     "airline": "Fits Air",
     "flight_no": "8D922",
     "aircraft_type": "A320",
@@ -1730,7 +1728,7 @@
     "notes": "-"
   },
   {
-    "id": "49819",
+    "id": "51023",
     "airline": "Srilankan Airlines",
     "flight_no": "UL307",
     "aircraft_type": "A320",
@@ -1741,10 +1739,10 @@
       1.3644,
       103.9915
     ],
-    "notes": "-"
+    "notes": "(CANCELLED ON 29 SEP)"
   },
   {
-    "id": "49820",
+    "id": "51024",
     "airline": "Srilankan Airlines",
     "flight_no": "UL138",
     "aircraft_type": "A320",
@@ -1755,38 +1753,35 @@
       9.8345,
       78.0934
     ],
-    "notes": "(CANCELLED ON 11 AUG)"
+    "notes": "-"
   },
   {
-    "id": "49821",
+    "id": "51025",
     "airline": "Srilankan Airlines",
     "flight_no": "UL162",
     "aircraft_type": "A32A",
     "ut_arrival_time": 1788241200,
-    "airport_name": "Thiruvananthapuram",
-    "country_name": "India",
-    "airport_latlng": [
-      8.4821,
-      76.92
-    ],
-    "notes": "-"
-  },
-  {
-    "id": "49822",
-    "airline": "Srilankan Airlines",
-    "flight_no": "UL132",
-    "aircraft_type": "A320",
-    "ut_arrival_time": 1788241500,
-    "airport_name": "Ho Chi Minh Intl",
+    "airport_name": "Trivandrum",
     "country_name": "Unknown",
     "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "49823",
+    "id": "51026",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL132",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1788241500,
+    "airport_name": "Tiruchchirapalli",
+    "country_name": "Unknown",
+    "airport_latlng": null,
+    "notes": "-"
+  },
+  {
+    "id": "51027",
     "airline": "Srilankan Airlines",
     "flight_no": "UL102",
-    "aircraft_type": "A333",
+    "aircraft_type": "A332",
     "ut_arrival_time": 1788241800,
     "airport_name": "Male",
     "country_name": "Maldives",
@@ -1797,7 +1792,7 @@
     "notes": "-"
   },
   {
-    "id": "49824",
+    "id": "51028",
     "airline": "Srilankan Airlines",
     "flight_no": "UL122",
     "aircraft_type": "A332",
@@ -1811,7 +1806,7 @@
     "notes": "-"
   },
   {
-    "id": "49825",
+    "id": "51029",
     "airline": "Srilankan Airlines",
     "flight_no": "UL166",
     "aircraft_type": "A320",
@@ -1825,7 +1820,7 @@
     "notes": "-"
   },
   {
-    "id": "49826",
+    "id": "51030",
     "airline": "Indigo Airlines",
     "flight_no": "6E1175",
     "aircraft_type": "A320",
@@ -1839,7 +1834,7 @@
     "notes": "-"
   },
   {
-    "id": "49827",
+    "id": "51031",
     "airline": "Turkish Airlines",
     "flight_no": "TK732",
     "aircraft_type": "B77X",
@@ -1850,10 +1845,10 @@
       40.9769,
       28.8146
     ],
-    "notes": "-"
+    "notes": "(ONLY ON 01 & 08 SEP)"
   },
   {
-    "id": "49828",
+    "id": "51032",
     "airline": "Srilankan Airlines",
     "flight_no": "UL504",
     "aircraft_type": "A333",
@@ -1867,7 +1862,7 @@
     "notes": "-"
   },
   {
-    "id": "49829",
+    "id": "51033",
     "airline": "Indigo Airlines",
     "flight_no": "6E1181",
     "aircraft_type": "A320",
@@ -1881,7 +1876,7 @@
     "notes": "-"
   },
   {
-    "id": "49830",
+    "id": "51034",
     "airline": "Air Arabia",
     "flight_no": "G9508",
     "aircraft_type": "A320",
@@ -1895,7 +1890,7 @@
     "notes": "-"
   },
   {
-    "id": "49831",
+    "id": "51035",
     "airline": "Etihad Airways",
     "flight_no": "EY390",
     "aircraft_type": "A320",
@@ -1909,7 +1904,21 @@
     "notes": "-"
   },
   {
-    "id": "49832",
+    "id": "51036",
+    "airline": "Air India",
+    "flight_no": "AI2276",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1788255300,
+    "airport_name": "Mumbai",
+    "country_name": "India",
+    "airport_latlng": [
+      19.0896,
+      72.8656
+    ],
+    "notes": "-"
+  },
+  {
+    "id": "51037",
     "airline": "Chongqing Airlines",
     "flight_no": "OQ2393",
     "aircraft_type": "A320",
@@ -1923,10 +1932,10 @@
     "notes": "-"
   },
   {
-    "id": "49833",
+    "id": "51038",
     "airline": "Srilankan Airlines",
     "flight_no": "UL190",
-    "aircraft_type": "A332",
+    "aircraft_type": "A333",
     "ut_arrival_time": 1788257400,
     "airport_name": "Dhaka",
     "country_name": "Bangladesh",
@@ -1937,21 +1946,18 @@
     "notes": "-"
   },
   {
-    "id": "49834",
+    "id": "51039",
     "airline": "Srilankan Airlines",
     "flight_no": "UL405",
-    "aircraft_type": "A32B",
+    "aircraft_type": "A32A",
     "ut_arrival_time": 1788257700,
-    "airport_name": "Bangkok Suvarnabhumi",
-    "country_name": "Thailand",
-    "airport_latlng": [
-      13.69,
-      100.7501
-    ],
+    "airport_name": "Bangkok",
+    "country_name": "Unknown",
+    "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "49835",
+    "id": "51040",
     "airline": "Srilankan Airlines",
     "flight_no": "UL315",
     "aircraft_type": "A32B",
@@ -1965,7 +1971,7 @@
     "notes": "-"
   },
   {
-    "id": "49836",
+    "id": "51041",
     "airline": "Air India",
     "flight_no": "AI281",
     "aircraft_type": "A321",
@@ -1979,21 +1985,7 @@
     "notes": "-"
   },
   {
-    "id": "49837",
-    "airline": "Srilankan Airlines",
-    "flight_no": "UL1144",
-    "aircraft_type": "A320",
-    "ut_arrival_time": 1788258900,
-    "airport_name": "Mumbai",
-    "country_name": "India",
-    "airport_latlng": [
-      19.0896,
-      72.8656
-    ],
-    "notes": "(ONLY ON 04 AUG)"
-  },
-  {
-    "id": "49838",
+    "id": "51042",
     "airline": "Indigo Airlines",
     "flight_no": "6E1179",
     "aircraft_type": "A320",
@@ -2007,7 +1999,7 @@
     "notes": "-"
   },
   {
-    "id": "49839",
+    "id": "51043",
     "airline": "Fly Dubai",
     "flight_no": "FZ549",
     "aircraft_type": "B737",
@@ -2021,7 +2013,7 @@
     "notes": "-"
   },
   {
-    "id": "49840",
+    "id": "51044",
     "airline": "Qatar Airways",
     "flight_no": "QR654",
     "aircraft_type": "B789",
@@ -2035,7 +2027,7 @@
     "notes": "-"
   },
   {
-    "id": "49841",
+    "id": "51045",
     "airline": "Emirates",
     "flight_no": "EK654",
     "aircraft_type": "A359",
@@ -2049,7 +2041,7 @@
     "notes": "-"
   },
   {
-    "id": "49842",
+    "id": "51046",
     "airline": "Srilankan Airlines",
     "flight_no": "UL120",
     "aircraft_type": "A320",
@@ -2063,7 +2055,7 @@
     "notes": "-"
   },
   {
-    "id": "49843",
+    "id": "51047",
     "airline": "Srilankan Airlines",
     "flight_no": "UL455",
     "aircraft_type": "A333",
@@ -2077,7 +2069,7 @@
     "notes": "-"
   },
   {
-    "id": "49844",
+    "id": "51048",
     "airline": "Srilankan Airlines",
     "flight_no": "UL128",
     "aircraft_type": "A320",
@@ -2091,7 +2083,7 @@
     "notes": "-"
   },
   {
-    "id": "49845",
+    "id": "51049",
     "airline": "Srilankan Airlines",
     "flight_no": "UL116",
     "aircraft_type": "A332",
@@ -2105,7 +2097,7 @@
     "notes": "-"
   },
   {
-    "id": "49846",
+    "id": "51050",
     "airline": "Srilankan Airlines",
     "flight_no": "UL365",
     "aircraft_type": "A32B",
@@ -2116,10 +2108,24 @@
       -6.1256,
       106.6559
     ],
+    "notes": "(CANCELLED ON 22 SEP)"
+  },
+  {
+    "id": "51051",
+    "airline": "Jetstar Airways",
+    "flight_no": "JQ5",
+    "aircraft_type": "B788",
+    "ut_arrival_time": 1788265200,
+    "airport_name": "Melbourne",
+    "country_name": "Australia",
+    "airport_latlng": [
+      -37.669,
+      144.841
+    ],
     "notes": "-"
   },
   {
-    "id": "49847",
+    "id": "51052",
     "airline": "Emirates",
     "flight_no": "EK652",
     "aircraft_type": "B77W",
@@ -2133,7 +2139,7 @@
     "notes": "-"
   },
   {
-    "id": "49848",
+    "id": "51053",
     "airline": "China Eastern",
     "flight_no": "MU6017",
     "aircraft_type": "A330",
@@ -2147,7 +2153,7 @@
     "notes": "-"
   },
   {
-    "id": "49849",
+    "id": "51054",
     "airline": "Fits Air",
     "flight_no": "8D924",
     "aircraft_type": "A320",
@@ -2161,7 +2167,7 @@
     "notes": "-"
   },
   {
-    "id": "49850",
+    "id": "51055",
     "airline": "Air Arabia Abu Dhabi",
     "flight_no": "3L708",
     "aircraft_type": "A320",
@@ -2175,7 +2181,7 @@
     "notes": "-"
   },
   {
-    "id": "49851",
+    "id": "51056",
     "airline": "Etihad Airways",
     "flight_no": "EY396",
     "aircraft_type": "A320",
@@ -2189,7 +2195,18 @@
     "notes": "-"
   },
   {
-    "id": "49852",
+    "id": "51057",
+    "airline": "Air China",
+    "flight_no": "CA425",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1788276300,
+    "airport_name": "Chengdu Tianfu",
+    "country_name": "Unknown",
+    "airport_latlng": null,
+    "notes": "(CANCELLED ON 22 SEP)"
+  },
+  {
+    "id": "51058",
     "airline": "Indigo Airlines",
     "flight_no": "6E1173",
     "aircraft_type": "A320",
@@ -2203,7 +2220,7 @@
     "notes": "-"
   },
   {
-    "id": "49853",
+    "id": "51059",
     "airline": "Chongqing Airlines",
     "flight_no": "OQ2394",
     "aircraft_type": "A320",
@@ -2217,7 +2234,7 @@
     "notes": "-"
   },
   {
-    "id": "49854",
+    "id": "51060",
     "airline": "China Eastern",
     "flight_no": "MU713",
     "aircraft_type": "B737",
@@ -2231,7 +2248,7 @@
     "notes": "-"
   },
   {
-    "id": "49855",
+    "id": "51061",
     "airline": "Srilankan Airlines",
     "flight_no": "UL309",
     "aircraft_type": "A320",
@@ -2245,21 +2262,18 @@
     "notes": "-"
   },
   {
-    "id": "49856",
+    "id": "51062",
     "airline": "Viet Jet",
     "flight_no": "VJ1875",
     "aircraft_type": "A320",
     "ut_arrival_time": 1788279600,
-    "airport_name": "Seychelles",
-    "country_name": "Seychelles",
-    "airport_latlng": [
-      -4.674,
-      55.5218
-    ],
-    "notes": "(FM 18 AUG)"
+    "airport_name": "Ho Chi Minh Intl",
+    "country_name": "Unknown",
+    "airport_latlng": null,
+    "notes": "-"
   },
   {
-    "id": "49857",
+    "id": "51063",
     "airline": "Air Asia Berhad",
     "flight_no": "AK47",
     "aircraft_type": "A320",
@@ -2273,7 +2287,7 @@
     "notes": "-"
   },
   {
-    "id": "49858",
+    "id": "51064",
     "airline": "Srilankan Airlines",
     "flight_no": "UL184",
     "aircraft_type": "A320",
@@ -2287,10 +2301,10 @@
     "notes": "-"
   },
   {
-    "id": "49859",
+    "id": "51065",
     "airline": "Emirates",
     "flight_no": "EK648",
-    "aircraft_type": "B77W",
+    "aircraft_type": "A359",
     "ut_arrival_time": 1788280800,
     "airport_name": "Dubai",
     "country_name": "United Arab Emirates",
@@ -2298,24 +2312,10 @@
       25.2532,
       55.3657
     ],
-    "notes": "'(A350 FM 11 AUG)"
+    "notes": "(CANCELLED ON 22 & 29 SEP)"
   },
   {
-    "id": "49860",
-    "airline": "THAI AIR ASIA",
-    "flight_no": "FD140",
-    "aircraft_type": "A321",
-    "ut_arrival_time": 1788281100,
-    "airport_name": "Bangkok Don Mueang",
-    "country_name": "Thailand",
-    "airport_latlng": [
-      13.9126,
-      100.6074
-    ],
-    "notes": "-"
-  },
-  {
-    "id": "49861",
+    "id": "51066",
     "airline": "Srilankan Airlines",
     "flight_no": "UL196",
     "aircraft_type": "A320",
@@ -2329,7 +2329,7 @@
     "notes": "-"
   },
   {
-    "id": "49862",
+    "id": "51067",
     "airline": "Srilankan Airlines",
     "flight_no": "UL605",
     "aircraft_type": "A333",
@@ -2343,7 +2343,7 @@
     "notes": "-"
   },
   {
-    "id": "49863",
+    "id": "51068",
     "airline": "Srilankan Airlines",
     "flight_no": "UL124",
     "aircraft_type": "A320",
@@ -2357,7 +2357,7 @@
     "notes": "-"
   },
   {
-    "id": "49864",
+    "id": "51069",
     "airline": "Srilankan Airlines",
     "flight_no": "UL186",
     "aircraft_type": "A320",
@@ -2371,7 +2371,7 @@
     "notes": "-"
   },
   {
-    "id": "49865",
+    "id": "51070",
     "airline": "Malaysia Airlines",
     "flight_no": "MH179",
     "aircraft_type": "B738",
@@ -2385,7 +2385,7 @@
     "notes": "-"
   },
   {
-    "id": "49866",
+    "id": "51071",
     "airline": "Srilankan Airlines",
     "flight_no": "UL104",
     "aircraft_type": "A320",
@@ -2399,21 +2399,18 @@
     "notes": "-"
   },
   {
-    "id": "49867",
+    "id": "51072",
     "airline": "Srilankan Airlines",
     "flight_no": "UL607",
-    "aircraft_type": "A332",
+    "aircraft_type": "A333",
     "ut_arrival_time": 1788283500,
-    "airport_name": "Sydney",
-    "country_name": "Australia",
-    "airport_latlng": [
-      -33.9461,
-      151.1772
-    ],
-    "notes": "(CANCELLED ON 25 AUG)"
+    "airport_name": "Sydney Airport",
+    "country_name": "Unknown",
+    "airport_latlng": null,
+    "notes": "(FM 22 SEP)"
   },
   {
-    "id": "49868",
+    "id": "51073",
     "airline": "Srilankan Airlines",
     "flight_no": "UL144",
     "aircraft_type": "A320",
@@ -2427,7 +2424,7 @@
     "notes": "-"
   },
   {
-    "id": "49869",
+    "id": "51074",
     "airline": "Cathay Pacific",
     "flight_no": "CX611",
     "aircraft_type": "A333",
@@ -2441,7 +2438,7 @@
     "notes": "-"
   },
   {
-    "id": "49870",
+    "id": "51075",
     "airline": "Singapore Airlines",
     "flight_no": "SQ468",
     "aircraft_type": "B787",
@@ -2455,21 +2452,18 @@
     "notes": "-"
   },
   {
-    "id": "49871",
+    "id": "51076",
     "airline": "Thai Airways",
     "flight_no": "TG307",
     "aircraft_type": "A320",
     "ut_arrival_time": 1788287100,
-    "airport_name": "Bangkok Suvarnabhumi",
-    "country_name": "Thailand",
-    "airport_latlng": [
-      13.69,
-      100.7501
-    ],
+    "airport_name": "Bangkok",
+    "country_name": "Unknown",
+    "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "49872",
+    "id": "51077",
     "airline": "Fly Dubai",
     "flight_no": "FZ569",
     "aircraft_type": "B737",
@@ -2483,11 +2477,11 @@
     "notes": "-"
   },
   {
-    "id": "49873",
+    "id": "51078",
     "airline": "Kuwait Airways",
     "flight_no": "KU363",
     "aircraft_type": "A32N",
-    "ut_arrival_time": 1788294600,
+    "ut_arrival_time": 1788294300,
     "airport_name": "Kuwait",
     "country_name": "Kuwait",
     "airport_latlng": [
@@ -2497,10 +2491,10 @@
     "notes": "-"
   },
   {
-    "id": "49874",
+    "id": "51079",
     "airline": "Qatar Airways",
     "flight_no": "QR662",
-    "aircraft_type": "B789",
+    "aircraft_type": "B788",
     "ut_arrival_time": 1788294900,
     "airport_name": "Doha",
     "country_name": "Qatar",
@@ -2511,7 +2505,7 @@
     "notes": "-"
   },
   {
-    "id": "49875",
+    "id": "51080",
     "airline": "Air Arabia",
     "flight_no": "G9587",
     "aircraft_type": "A320",
@@ -2525,7 +2519,21 @@
     "notes": "-"
   },
   {
-    "id": "49876",
+    "id": "51081",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1171",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1788297000,
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
+    "notes": "-"
+  },
+  {
+    "id": "51082",
     "airline": "Etihad Airways",
     "flight_no": "EY394",
     "aircraft_type": "A320",
@@ -2539,10 +2547,10 @@
     "notes": "-"
   },
   {
-    "id": "49877",
+    "id": "51083",
     "airline": "Qatar Airways",
     "flight_no": "QR658",
-    "aircraft_type": "B789",
+    "aircraft_type": "B788",
     "ut_arrival_time": 1788298500,
     "airport_name": "Doha",
     "country_name": "Qatar",
@@ -2553,10 +2561,10 @@
     "notes": "-"
   },
   {
-    "id": "49878",
+    "id": "51084",
     "airline": "Jazeera Airways",
     "flight_no": "J9551",
-    "aircraft_type": "A32N",
+    "aircraft_type": "A320",
     "ut_arrival_time": 1788300000,
     "airport_name": "Kuwait",
     "country_name": "Kuwait",
@@ -2567,7 +2575,7 @@
     "notes": "-"
   },
   {
-    "id": "49879",
+    "id": "51085",
     "airline": "Salam Air",
     "flight_no": "OV437",
     "aircraft_type": "A320",
@@ -2581,7 +2589,7 @@
     "notes": "-"
   },
   {
-    "id": "49880",
+    "id": "51086",
     "airline": "Air India",
     "flight_no": "AI277",
     "aircraft_type": "A321",
@@ -2595,7 +2603,7 @@
     "notes": "-"
   },
   {
-    "id": "49881",
+    "id": "51087",
     "airline": "Air Arabia",
     "flight_no": "G9502",
     "aircraft_type": "A320",
@@ -2609,7 +2617,21 @@
     "notes": "-"
   },
   {
-    "id": "49882",
+    "id": "51088",
+    "airline": "Jazeera Airways",
+    "flight_no": "J9553",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1788304200,
+    "airport_name": "Kuwait",
+    "country_name": "Kuwait",
+    "airport_latlng": [
+      29.2266,
+      47.9689
+    ],
+    "notes": "(ONLY ON 23 & 30 SEP)"
+  },
+  {
+    "id": "51089",
     "airline": "Srilankan Airlines",
     "flight_no": "UL174",
     "aircraft_type": "A320",
@@ -2623,7 +2645,7 @@
     "notes": "-"
   },
   {
-    "id": "49883",
+    "id": "51090",
     "airline": "Srilankan Airlines",
     "flight_no": "UL881",
     "aircraft_type": "A32A",
@@ -2634,13 +2656,13 @@
       23.3924,
       113.2988
     ],
-    "notes": "-"
+    "notes": "(A332 ON 30 SEP)"
   },
   {
-    "id": "49884",
+    "id": "51091",
     "airline": "Srilankan Airlines",
     "flight_no": "UL226",
-    "aircraft_type": "A332",
+    "aircraft_type": "A333",
     "ut_arrival_time": 1788305400,
     "airport_name": "Dubai",
     "country_name": "United Arab Emirates",
@@ -2651,21 +2673,21 @@
     "notes": "-"
   },
   {
-    "id": "49885",
+    "id": "51092",
     "airline": "Fits Air",
-    "flight_no": "8D912",
+    "flight_no": "8D822",
     "aircraft_type": "A320",
-    "ut_arrival_time": 1788306000,
-    "airport_name": "Dhaka",
-    "country_name": "Bangladesh",
+    "ut_arrival_time": 1788306300,
+    "airport_name": "Dubai",
+    "country_name": "United Arab Emirates",
     "airport_latlng": [
-      23.8434,
-      90.3978
+      25.2532,
+      55.3657
     ],
-    "notes": "-"
+    "notes": "(ONLY ON 02 & 09 SEP)"
   },
   {
-    "id": "49886",
+    "id": "51093",
     "airline": "Srilankan Airlines",
     "flight_no": "UL230",
     "aircraft_type": "A32B",
@@ -2679,7 +2701,7 @@
     "notes": "-"
   },
   {
-    "id": "49887",
+    "id": "51094",
     "airline": "Turkish Airlines",
     "flight_no": "TK730",
     "aircraft_type": "A333",
@@ -2693,7 +2715,7 @@
     "notes": "-"
   },
   {
-    "id": "49888",
+    "id": "51095",
     "airline": "Srilankan Airlines",
     "flight_no": "UL142",
     "aircraft_type": "A320",
@@ -2707,7 +2729,7 @@
     "notes": "-"
   },
   {
-    "id": "49889",
+    "id": "51096",
     "airline": "Srilankan Airlines",
     "flight_no": "UL218",
     "aircraft_type": "A32B",
@@ -2718,13 +2740,13 @@
       25.2731,
       51.608
     ],
-    "notes": "-"
+    "notes": "(CANCELLED ON 23 SEP)"
   },
   {
-    "id": "49890",
+    "id": "51097",
     "airline": "Srilankan Airlines",
     "flight_no": "UL254",
-    "aircraft_type": "A32B",
+    "aircraft_type": "A32A",
     "ut_arrival_time": 1788308700,
     "airport_name": "Dammam",
     "country_name": "Saudi Arabia",
@@ -2735,7 +2757,7 @@
     "notes": "-"
   },
   {
-    "id": "49891",
+    "id": "51098",
     "airline": "Srilankan Airlines",
     "flight_no": "UL266",
     "aircraft_type": "A333",
@@ -2749,7 +2771,7 @@
     "notes": "-"
   },
   {
-    "id": "49892",
+    "id": "51099",
     "airline": "Fits Air",
     "flight_no": "8D962",
     "aircraft_type": "A320",
@@ -2760,7 +2782,7 @@
     "notes": "-"
   },
   {
-    "id": "49893",
+    "id": "51100",
     "airline": "Turkish Airlines",
     "flight_no": "TK1130",
     "aircraft_type": "A320",
@@ -2774,21 +2796,7 @@
     "notes": "-"
   },
   {
-    "id": "49894",
-    "airline": "Jazeera Airways",
-    "flight_no": "J9553",
-    "aircraft_type": "A32N",
-    "ut_arrival_time": 1788315300,
-    "airport_name": "Kuwait",
-    "country_name": "Kuwait",
-    "airport_latlng": [
-      29.2266,
-      47.9689
-    ],
-    "notes": "-"
-  },
-  {
-    "id": "49895",
+    "id": "51101",
     "airline": "Fly Dubai",
     "flight_no": "FZ579",
     "aircraft_type": "B737",
@@ -2802,7 +2810,7 @@
     "notes": "-"
   },
   {
-    "id": "49896",
+    "id": "51102",
     "airline": "Emirates",
     "flight_no": "EK650",
     "aircraft_type": "B77W",
@@ -2816,7 +2824,7 @@
     "notes": "-"
   },
   {
-    "id": "49897",
+    "id": "51103",
     "airline": "Etihad Airways",
     "flight_no": "EY392",
     "aircraft_type": "A320",
@@ -2830,7 +2838,21 @@
     "notes": "-"
   },
   {
-    "id": "49898",
+    "id": "51104",
+    "airline": "Air India",
+    "flight_no": "AI2276",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1788318600,
+    "airport_name": "Mumbai",
+    "country_name": "India",
+    "airport_latlng": [
+      19.0896,
+      72.8656
+    ],
+    "notes": "-"
+  },
+  {
+    "id": "51105",
     "airline": "Indigo Airlines",
     "flight_no": "6E1185",
     "aircraft_type": "A320",
@@ -2844,7 +2866,7 @@
     "notes": "-"
   },
   {
-    "id": "49899",
+    "id": "51106",
     "airline": "Srilankan Airlines",
     "flight_no": "UL192",
     "aircraft_type": "A320",
@@ -2858,7 +2880,7 @@
     "notes": "-"
   },
   {
-    "id": "49900",
+    "id": "51107",
     "airline": "Qatar Airways",
     "flight_no": "QR664",
     "aircraft_type": "B789",
@@ -2872,21 +2894,18 @@
     "notes": "-"
   },
   {
-    "id": "49901",
+    "id": "51108",
     "airline": "Srilankan Airlines",
     "flight_no": "UL403",
     "aircraft_type": "A320",
     "ut_arrival_time": 1788321900,
-    "airport_name": "Bangkok Suvarnabhumi",
-    "country_name": "Thailand",
-    "airport_latlng": [
-      13.69,
-      100.7501
-    ],
+    "airport_name": "Bangkok",
+    "country_name": "Unknown",
+    "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "49902",
+    "id": "51109",
     "airline": "Gulf Air",
     "flight_no": "GF144",
     "aircraft_type": "A32N",
@@ -2900,7 +2919,7 @@
     "notes": "-"
   },
   {
-    "id": "49903",
+    "id": "51110",
     "airline": "Qatar Airways",
     "flight_no": "QR660",
     "aircraft_type": "B788",
@@ -2911,10 +2930,10 @@
       25.2731,
       51.608
     ],
-    "notes": "-"
+    "notes": "(CANCELLED ON 16, 23 & 30 SEP)"
   },
   {
-    "id": "49904",
+    "id": "51111",
     "airline": "Srilankan Airlines",
     "flight_no": "UL319",
     "aircraft_type": "A320",
@@ -2928,7 +2947,7 @@
     "notes": "-"
   },
   {
-    "id": "49905",
+    "id": "51112",
     "airline": "Malaysia Airlines",
     "flight_no": "MH497",
     "aircraft_type": "B738",
@@ -2942,7 +2961,7 @@
     "notes": "-"
   },
   {
-    "id": "49906",
+    "id": "51113",
     "airline": "Fly Dubai",
     "flight_no": "FZ1025",
     "aircraft_type": "B737",
@@ -2956,10 +2975,10 @@
     "notes": "-"
   },
   {
-    "id": "49907",
+    "id": "51114",
     "airline": "Indigo Airlines",
     "flight_no": "6E1167",
-    "aircraft_type": "A320",
+    "aircraft_type": "A321",
     "ut_arrival_time": 1788325200,
     "airport_name": "Bangalore",
     "country_name": "India",
@@ -2970,7 +2989,7 @@
     "notes": "-"
   },
   {
-    "id": "49908",
+    "id": "51115",
     "airline": "Singapore Airlines",
     "flight_no": "SQ462",
     "aircraft_type": "7M8R",
@@ -2984,7 +3003,7 @@
     "notes": "-"
   },
   {
-    "id": "49909",
+    "id": "51116",
     "airline": "Fits Air",
     "flight_no": "8D922",
     "aircraft_type": "A320",
@@ -2995,10 +3014,10 @@
       4.1917,
       73.529
     ],
-    "notes": "-"
+    "notes": "(ONLY ON 02 & 09 SEP)"
   },
   {
-    "id": "49910",
+    "id": "51117",
     "airline": "Srilankan Airlines",
     "flight_no": "UL307",
     "aircraft_type": "A320",
@@ -3009,21 +3028,21 @@
       1.3644,
       103.9915
     ],
-    "notes": "-"
+    "notes": "(ONLY ON 02 & 30 SEP)"
   },
   {
-    "id": "49911",
+    "id": "51118",
     "airline": "Srilankan Airlines",
     "flight_no": "UL132",
     "aircraft_type": "A320",
     "ut_arrival_time": 1788327900,
-    "airport_name": "Ho Chi Minh Intl",
+    "airport_name": "Tiruchchirapalli",
     "country_name": "Unknown",
     "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "49912",
+    "id": "51119",
     "airline": "Srilankan Airlines",
     "flight_no": "UL102",
     "aircraft_type": "A333",
@@ -3037,10 +3056,10 @@
     "notes": "-"
   },
   {
-    "id": "49913",
+    "id": "51120",
     "airline": "Srilankan Airlines",
     "flight_no": "UL122",
-    "aircraft_type": "A332",
+    "aircraft_type": "A333",
     "ut_arrival_time": 1788328200,
     "airport_name": "Chennai",
     "country_name": "India",
@@ -3051,7 +3070,7 @@
     "notes": "-"
   },
   {
-    "id": "49914",
+    "id": "51121",
     "airline": "Indigo Airlines",
     "flight_no": "6E1175",
     "aircraft_type": "A320",
@@ -3065,10 +3084,10 @@
     "notes": "-"
   },
   {
-    "id": "49915",
+    "id": "51122",
     "airline": "Srilankan Airlines",
     "flight_no": "UL178",
-    "aircraft_type": "A32B",
+    "aircraft_type": "A320",
     "ut_arrival_time": 1788331200,
     "airport_name": "Hyderabad Intl",
     "country_name": "India",
@@ -3079,7 +3098,7 @@
     "notes": "-"
   },
   {
-    "id": "49916",
+    "id": "51123",
     "airline": "Srilankan Airlines",
     "flight_no": "UL504",
     "aircraft_type": "A333",
@@ -3093,7 +3112,7 @@
     "notes": "-"
   },
   {
-    "id": "49917",
+    "id": "51124",
     "airline": "Srilankan Airlines",
     "flight_no": "UL182",
     "aircraft_type": "A32A",
@@ -3107,10 +3126,10 @@
     "notes": "-"
   },
   {
-    "id": "49918",
+    "id": "51125",
     "airline": "Srilankan Airlines",
     "flight_no": "UL315",
-    "aircraft_type": "A320",
+    "aircraft_type": "A32B",
     "ut_arrival_time": 1788348600,
     "airport_name": "Kuala Lumpur",
     "country_name": "Malaysia",
@@ -3121,7 +3140,7 @@
     "notes": "-"
   },
   {
-    "id": "49919",
+    "id": "51126",
     "airline": "Srilankan Airlines",
     "flight_no": "UL471",
     "aircraft_type": "A332",
@@ -3135,7 +3154,7 @@
     "notes": "-"
   },
   {
-    "id": "49920",
+    "id": "51127",
     "airline": "Srilankan Airlines",
     "flight_no": "UL140",
     "aircraft_type": "A320",
@@ -3149,21 +3168,18 @@
     "notes": "-"
   },
   {
-    "id": "49921",
+    "id": "51128",
     "airline": "Srilankan Airlines",
     "flight_no": "UL405",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1788349200,
-    "airport_name": "Bangkok Suvarnabhumi",
-    "country_name": "Thailand",
-    "airport_latlng": [
-      13.69,
-      100.7501
-    ],
+    "airport_name": "Bangkok",
+    "country_name": "Unknown",
+    "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "49922",
+    "id": "51129",
     "airline": "Srilankan Airlines",
     "flight_no": "UL190",
     "aircraft_type": "A332",
@@ -3177,7 +3193,7 @@
     "notes": "-"
   },
   {
-    "id": "49923",
+    "id": "51130",
     "airline": "Srilankan Airlines",
     "flight_no": "UL128",
     "aircraft_type": "A320",
@@ -3191,7 +3207,7 @@
     "notes": "-"
   },
   {
-    "id": "49924",
+    "id": "51131",
     "airline": "Srilankan Airlines",
     "flight_no": "UL168",
     "aircraft_type": "A320",
@@ -3205,10 +3221,10 @@
     "notes": "-"
   },
   {
-    "id": "49925",
+    "id": "51132",
     "airline": "Srilankan Airlines",
     "flight_no": "UL116",
-    "aircraft_type": "A32B",
+    "aircraft_type": "A320",
     "ut_arrival_time": 1788350400,
     "airport_name": "Male",
     "country_name": "Maldives",
@@ -3219,10 +3235,10 @@
     "notes": "-"
   },
   {
-    "id": "49926",
+    "id": "51133",
     "airline": "Srilankan Airlines",
     "flight_no": "UL365",
-    "aircraft_type": "A32B",
+    "aircraft_type": "A32A",
     "ut_arrival_time": 1788350400,
     "airport_name": "Jakarta",
     "country_name": "Indonesia",
@@ -3233,7 +3249,7 @@
     "notes": "-"
   },
   {
-    "id": "49927",
+    "id": "51134",
     "airline": "Qatar Airways",
     "flight_no": "QR654",
     "aircraft_type": "B789",
@@ -3247,7 +3263,21 @@
     "notes": "-"
   },
   {
-    "id": "49928",
+    "id": "51135",
+    "airline": "Fits Air",
+    "flight_no": "8D924",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1788352500,
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
+    "notes": "(CANCELLED ON 02 & 09 SEP)"
+  },
+  {
+    "id": "51136",
     "airline": "Air India",
     "flight_no": "AI281",
     "aircraft_type": "A321",
@@ -3258,10 +3288,10 @@
       28.5562,
       77.1
     ],
-    "notes": "(FM 19 AUG)"
+    "notes": "-"
   },
   {
-    "id": "49929",
+    "id": "51137",
     "airline": "Fly Dubai",
     "flight_no": "FZ549",
     "aircraft_type": "B737",
@@ -3275,7 +3305,7 @@
     "notes": "-"
   },
   {
-    "id": "49930",
+    "id": "51138",
     "airline": "Emirates",
     "flight_no": "EK652",
     "aircraft_type": "B77W",
@@ -3289,7 +3319,7 @@
     "notes": "-"
   },
   {
-    "id": "49931",
+    "id": "51139",
     "airline": "China Eastern",
     "flight_no": "MU6017",
     "aircraft_type": "A330",
@@ -3303,7 +3333,7 @@
     "notes": "-"
   },
   {
-    "id": "49932",
+    "id": "51140",
     "airline": "Emirates",
     "flight_no": "EK654",
     "aircraft_type": "A359",
@@ -3317,7 +3347,7 @@
     "notes": "-"
   },
   {
-    "id": "49933",
+    "id": "51141",
     "airline": "Air Arabia Abu Dhabi",
     "flight_no": "3L708",
     "aircraft_type": "A320",
@@ -3331,7 +3361,7 @@
     "notes": "-"
   },
   {
-    "id": "49934",
+    "id": "51142",
     "airline": "Etihad Airways",
     "flight_no": "EY396",
     "aircraft_type": "A320",
@@ -3345,7 +3375,7 @@
     "notes": "-"
   },
   {
-    "id": "49935",
+    "id": "51143",
     "airline": "Batik Air",
     "flight_no": "OD297",
     "aircraft_type": "B738",
@@ -3359,21 +3389,18 @@
     "notes": "-"
   },
   {
-    "id": "49936",
+    "id": "51144",
     "airline": "Air China",
     "flight_no": "CA425",
     "aircraft_type": "A320",
     "ut_arrival_time": 1788362700,
-    "airport_name": "Chengdu-Tianfu",
-    "country_name": "China",
-    "airport_latlng": [
-      30.3089,
-      104.4419
-    ],
-    "notes": "-"
+    "airport_name": "Chengdu Tianfu",
+    "country_name": "Unknown",
+    "airport_latlng": null,
+    "notes": "(CANCELLED ON 02 SEP)"
   },
   {
-    "id": "49937",
+    "id": "51145",
     "airline": "Indigo Airlines",
     "flight_no": "6E1173",
     "aircraft_type": "A320",
@@ -3387,7 +3414,7 @@
     "notes": "-"
   },
   {
-    "id": "49938",
+    "id": "51146",
     "airline": "Srilankan Airlines",
     "flight_no": "UL309",
     "aircraft_type": "A332",
@@ -3398,10 +3425,10 @@
       1.3644,
       103.9915
     ],
-    "notes": "-"
+    "notes": "(A320 ON 30 SEP)"
   },
   {
-    "id": "49939",
+    "id": "51147",
     "airline": "Air Asia Berhad",
     "flight_no": "AK47",
     "aircraft_type": "A320",
@@ -3415,10 +3442,10 @@
     "notes": "-"
   },
   {
-    "id": "49940",
+    "id": "51148",
     "airline": "Emirates",
     "flight_no": "EK648",
-    "aircraft_type": "B77W",
+    "aircraft_type": "A359",
     "ut_arrival_time": 1788367200,
     "airport_name": "Dubai",
     "country_name": "United Arab Emirates",
@@ -3426,24 +3453,21 @@
       25.2532,
       55.3657
     ],
-    "notes": "'(A350 FM 12 AUG)"
+    "notes": "(CANCELLED ON 23 & 30 SEP)"
   },
   {
-    "id": "49941",
-    "airline": "THAI AIR ASIA",
+    "id": "51149",
+    "airline": "Batik Air",
     "flight_no": "FD140",
     "aircraft_type": "A321",
     "ut_arrival_time": 1788367500,
-    "airport_name": "Bangkok Don Mueang",
-    "country_name": "Thailand",
-    "airport_latlng": [
-      13.9126,
-      100.6074
-    ],
+    "airport_name": "Bangkok",
+    "country_name": "Unknown",
+    "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "49942",
+    "id": "51150",
     "airline": "Srilankan Airlines",
     "flight_no": "UL196",
     "aircraft_type": "A320",
@@ -3457,7 +3481,7 @@
     "notes": "-"
   },
   {
-    "id": "49943",
+    "id": "51151",
     "airline": "Srilankan Airlines",
     "flight_no": "UL605",
     "aircraft_type": "A333",
@@ -3471,7 +3495,7 @@
     "notes": "-"
   },
   {
-    "id": "49944",
+    "id": "51152",
     "airline": "Srilankan Airlines",
     "flight_no": "UL124",
     "aircraft_type": "A320",
@@ -3485,7 +3509,7 @@
     "notes": "-"
   },
   {
-    "id": "49945",
+    "id": "51153",
     "airline": "Malaysia Airlines",
     "flight_no": "MH179",
     "aircraft_type": "B738",
@@ -3499,10 +3523,10 @@
     "notes": "-"
   },
   {
-    "id": "49946",
+    "id": "51154",
     "airline": "Srilankan Airlines",
     "flight_no": "UL104",
-    "aircraft_type": "A32B",
+    "aircraft_type": "A320",
     "ut_arrival_time": 1788369900,
     "airport_name": "Male",
     "country_name": "Maldives",
@@ -3513,7 +3537,7 @@
     "notes": "-"
   },
   {
-    "id": "49947",
+    "id": "51155",
     "airline": "Srilankan Airlines",
     "flight_no": "UL144",
     "aircraft_type": "A320",
@@ -3527,7 +3551,7 @@
     "notes": "-"
   },
   {
-    "id": "49948",
+    "id": "51156",
     "airline": "Cathay Pacific",
     "flight_no": "CX611",
     "aircraft_type": "A333",
@@ -3541,7 +3565,7 @@
     "notes": "-"
   },
   {
-    "id": "49949",
+    "id": "51157",
     "airline": "Singapore Airlines",
     "flight_no": "SQ468",
     "aircraft_type": "B787",
@@ -3555,21 +3579,29 @@
     "notes": "-"
   },
   {
-    "id": "49950",
+    "id": "51158",
+    "airline": "Vietnam Airlines",
+    "flight_no": "VN671",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1788372300,
+    "airport_name": "Ho Chi Minh Intl",
+    "country_name": "Unknown",
+    "airport_latlng": null,
+    "notes": "-"
+  },
+  {
+    "id": "51159",
     "airline": "Thai Airways",
     "flight_no": "TG307",
     "aircraft_type": "A320",
     "ut_arrival_time": 1788373500,
-    "airport_name": "Bangkok Suvarnabhumi",
-    "country_name": "Thailand",
-    "airport_latlng": [
-      13.69,
-      100.7501
-    ],
+    "airport_name": "Bangkok",
+    "country_name": "Unknown",
+    "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "49951",
+    "id": "51160",
     "airline": "Fly Dubai",
     "flight_no": "FZ569",
     "aircraft_type": "B737",
@@ -3583,11 +3615,11 @@
     "notes": "-"
   },
   {
-    "id": "49952",
+    "id": "51161",
     "airline": "Kuwait Airways",
-    "flight_no": "KU361",
+    "flight_no": "KU363",
     "aircraft_type": "A32N",
-    "ut_arrival_time": 1788381000,
+    "ut_arrival_time": 1788380700,
     "airport_name": "Kuwait",
     "country_name": "Kuwait",
     "airport_latlng": [
@@ -3597,10 +3629,10 @@
     "notes": "-"
   },
   {
-    "id": "49953",
+    "id": "51162",
     "airline": "Qatar Airways",
     "flight_no": "QR662",
-    "aircraft_type": "B789",
+    "aircraft_type": "B788",
     "ut_arrival_time": 1788381300,
     "airport_name": "Doha",
     "country_name": "Qatar",
@@ -3611,7 +3643,7 @@
     "notes": "-"
   },
   {
-    "id": "49954",
+    "id": "51163",
     "airline": "Air Arabia",
     "flight_no": "G9587",
     "aircraft_type": "A320",
@@ -3625,7 +3657,21 @@
     "notes": "-"
   },
   {
-    "id": "49955",
+    "id": "51164",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1171",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1788383400,
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
+    "notes": "-"
+  },
+  {
+    "id": "51165",
     "airline": "Etihad Airways",
     "flight_no": "EY394",
     "aircraft_type": "A320",
@@ -3639,10 +3685,10 @@
     "notes": "-"
   },
   {
-    "id": "49956",
+    "id": "51166",
     "airline": "Qatar Airways",
     "flight_no": "QR658",
-    "aircraft_type": "B789",
+    "aircraft_type": "B788",
     "ut_arrival_time": 1788384900,
     "airport_name": "Doha",
     "country_name": "Qatar",
@@ -3653,10 +3699,10 @@
     "notes": "-"
   },
   {
-    "id": "49957",
+    "id": "51167",
     "airline": "Jazeera Airways",
     "flight_no": "J9551",
-    "aircraft_type": "A32N",
+    "aircraft_type": "A320",
     "ut_arrival_time": 1788386400,
     "airport_name": "Kuwait",
     "country_name": "Kuwait",
@@ -3667,7 +3713,7 @@
     "notes": "-"
   },
   {
-    "id": "49958",
+    "id": "51168",
     "airline": "Air India",
     "flight_no": "AI277",
     "aircraft_type": "A321",
@@ -3681,7 +3727,7 @@
     "notes": "-"
   },
   {
-    "id": "49959",
+    "id": "51169",
     "airline": "Air Arabia",
     "flight_no": "G9502",
     "aircraft_type": "A320",
@@ -3695,10 +3741,21 @@
     "notes": "-"
   },
   {
-    "id": "49960",
+    "id": "51170",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL501",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1788390900,
+    "airport_name": "Frankfurt Airport",
+    "country_name": "Unknown",
+    "airport_latlng": null,
+    "notes": "(CANCELLED ON 03 SEP)"
+  },
+  {
+    "id": "51171",
     "airline": "Srilankan Airlines",
     "flight_no": "UL174",
-    "aircraft_type": "A32A",
+    "aircraft_type": "A320",
     "ut_arrival_time": 1788391200,
     "airport_name": "Bangalore",
     "country_name": "India",
@@ -3709,10 +3766,24 @@
     "notes": "-"
   },
   {
-    "id": "49961",
+    "id": "51172",
+    "airline": "Salam Air",
+    "flight_no": "OV439",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1788391500,
+    "airport_name": "Muscat",
+    "country_name": "Oman",
+    "airport_latlng": [
+      23.5933,
+      58.2844
+    ],
+    "notes": "-"
+  },
+  {
+    "id": "51173",
     "airline": "Srilankan Airlines",
     "flight_no": "UL226",
-    "aircraft_type": "A332",
+    "aircraft_type": "A333",
     "ut_arrival_time": 1788391800,
     "airport_name": "Dubai",
     "country_name": "United Arab Emirates",
@@ -3723,21 +3794,18 @@
     "notes": "-"
   },
   {
-    "id": "49962",
+    "id": "51174",
     "airline": "Srilankan Airlines",
     "flight_no": "UL564",
     "aircraft_type": "A333",
     "ut_arrival_time": 1788392100,
-    "airport_name": "Paris Charles de Gaulle",
-    "country_name": "France",
-    "airport_latlng": [
-      49.0097,
-      2.5479
-    ],
-    "notes": "-"
+    "airport_name": "Paris Charles de Gaulle Airport",
+    "country_name": "Unknown",
+    "airport_latlng": null,
+    "notes": "(ONLY ON 03 SEP)"
   },
   {
-    "id": "49963",
+    "id": "51175",
     "airline": "Fits Air",
     "flight_no": "8D912",
     "aircraft_type": "A320",
@@ -3751,7 +3819,7 @@
     "notes": "-"
   },
   {
-    "id": "49964",
+    "id": "51176",
     "airline": "Fits Air",
     "flight_no": "8D822",
     "aircraft_type": "A320",
@@ -3762,10 +3830,10 @@
       25.2532,
       55.3657
     ],
-    "notes": "-"
+    "notes": "(ONLY ON 03 & 10 SEP)"
   },
   {
-    "id": "49965",
+    "id": "51177",
     "airline": "Turkish Airlines",
     "flight_no": "TK730",
     "aircraft_type": "A333",
@@ -3779,7 +3847,7 @@
     "notes": "-"
   },
   {
-    "id": "49966",
+    "id": "51178",
     "airline": "Srilankan Airlines",
     "flight_no": "UL142",
     "aircraft_type": "A320",
@@ -3793,21 +3861,18 @@
     "notes": "-"
   },
   {
-    "id": "49967",
+    "id": "51179",
     "airline": "Srilankan Airlines",
     "flight_no": "UL558",
     "aircraft_type": "A333",
     "ut_arrival_time": 1788394500,
-    "airport_name": "Frankfurt Main",
-    "country_name": "Germany",
-    "airport_latlng": [
-      50.0379,
-      8.5622
-    ],
-    "notes": "-"
+    "airport_name": "Frankfurt Airport",
+    "country_name": "Unknown",
+    "airport_latlng": null,
+    "notes": "(ONLY ON 03 SEP)"
   },
   {
-    "id": "49968",
+    "id": "51180",
     "airline": "Srilankan Airlines",
     "flight_no": "UL218",
     "aircraft_type": "A32B",
@@ -3821,7 +3886,7 @@
     "notes": "-"
   },
   {
-    "id": "49969",
+    "id": "51181",
     "airline": "Srilankan Airlines",
     "flight_no": "UL254",
     "aircraft_type": "A32B",
@@ -3835,10 +3900,10 @@
     "notes": "-"
   },
   {
-    "id": "49970",
+    "id": "51182",
     "airline": "Srilankan Airlines",
     "flight_no": "UL266",
-    "aircraft_type": "A332",
+    "aircraft_type": "A333",
     "ut_arrival_time": 1788396600,
     "airport_name": "Riyadh",
     "country_name": "Saudi Arabia",
@@ -3849,21 +3914,7 @@
     "notes": "-"
   },
   {
-    "id": "49971",
-    "airline": "Jazeera Airways",
-    "flight_no": "J9553",
-    "aircraft_type": "A32N",
-    "ut_arrival_time": 1788401700,
-    "airport_name": "Kuwait",
-    "country_name": "Kuwait",
-    "airport_latlng": [
-      29.2266,
-      47.9689
-    ],
-    "notes": "-"
-  },
-  {
-    "id": "49972",
+    "id": "51183",
     "airline": "Fly Dubai",
     "flight_no": "FZ579",
     "aircraft_type": "B737",
@@ -3877,7 +3928,7 @@
     "notes": "-"
   },
   {
-    "id": "49973",
+    "id": "51184",
     "airline": "Emirates",
     "flight_no": "EK650",
     "aircraft_type": "B77W",
@@ -3891,7 +3942,7 @@
     "notes": "-"
   },
   {
-    "id": "49974",
+    "id": "51185",
     "airline": "Etihad Airways",
     "flight_no": "EY392",
     "aircraft_type": "A320",
@@ -3905,7 +3956,7 @@
     "notes": "-"
   },
   {
-    "id": "49975",
+    "id": "51186",
     "airline": "Indigo Airlines",
     "flight_no": "6E1185",
     "aircraft_type": "A320",
@@ -3919,7 +3970,7 @@
     "notes": "-"
   },
   {
-    "id": "49976",
+    "id": "51187",
     "airline": "Srilankan Airlines",
     "flight_no": "UL192",
     "aircraft_type": "A320",
@@ -3933,7 +3984,7 @@
     "notes": "-"
   },
   {
-    "id": "49977",
+    "id": "51188",
     "airline": "Qatar Airways",
     "flight_no": "QR664",
     "aircraft_type": "B789",
@@ -3947,21 +3998,18 @@
     "notes": "-"
   },
   {
-    "id": "49978",
+    "id": "51189",
     "airline": "Srilankan Airlines",
     "flight_no": "UL403",
-    "aircraft_type": "A320",
+    "aircraft_type": "A32A",
     "ut_arrival_time": 1788408300,
-    "airport_name": "Bangkok Suvarnabhumi",
-    "country_name": "Thailand",
-    "airport_latlng": [
-      13.69,
-      100.7501
-    ],
+    "airport_name": "Bangkok",
+    "country_name": "Unknown",
+    "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "49979",
+    "id": "51190",
     "airline": "Gulf Air",
     "flight_no": "GF144",
     "aircraft_type": "A32N",
@@ -3975,7 +4023,7 @@
     "notes": "-"
   },
   {
-    "id": "49980",
+    "id": "51191",
     "airline": "Qatar Airways",
     "flight_no": "QR660",
     "aircraft_type": "B788",
@@ -3986,10 +4034,10 @@
       25.2731,
       51.608
     ],
-    "notes": "-"
+    "notes": "(CANCELLED ON 17 & 24 SEP)"
   },
   {
-    "id": "49981",
+    "id": "51192",
     "airline": "Srilankan Airlines",
     "flight_no": "UL319",
     "aircraft_type": "A320",
@@ -4003,7 +4051,7 @@
     "notes": "-"
   },
   {
-    "id": "49982",
+    "id": "51193",
     "airline": "Fly Dubai",
     "flight_no": "FZ1025",
     "aircraft_type": "B737",
@@ -4017,10 +4065,10 @@
     "notes": "-"
   },
   {
-    "id": "49983",
+    "id": "51194",
     "airline": "Indigo Airlines",
     "flight_no": "6E1167",
-    "aircraft_type": "A320",
+    "aircraft_type": "A321",
     "ut_arrival_time": 1788411600,
     "airport_name": "Bangalore",
     "country_name": "India",
@@ -4031,7 +4079,7 @@
     "notes": "-"
   },
   {
-    "id": "49984",
+    "id": "51195",
     "airline": "Singapore Airlines",
     "flight_no": "SQ462",
     "aircraft_type": "7M8R",
@@ -4045,7 +4093,7 @@
     "notes": "-"
   },
   {
-    "id": "49985",
+    "id": "51196",
     "airline": "Fits Air",
     "flight_no": "8D922",
     "aircraft_type": "A320",
@@ -4059,7 +4107,7 @@
     "notes": "-"
   },
   {
-    "id": "49986",
+    "id": "51197",
     "airline": "Srilankan Airlines",
     "flight_no": "UL307",
     "aircraft_type": "A320",
@@ -4073,32 +4121,29 @@
     "notes": "-"
   },
   {
-    "id": "49987",
+    "id": "51198",
     "airline": "Srilankan Airlines",
     "flight_no": "UL162",
-    "aircraft_type": "A32B",
-    "ut_arrival_time": 1788414000,
-    "airport_name": "Thiruvananthapuram",
-    "country_name": "India",
-    "airport_latlng": [
-      8.4821,
-      76.92
-    ],
-    "notes": "-"
-  },
-  {
-    "id": "49988",
-    "airline": "Srilankan Airlines",
-    "flight_no": "UL132",
     "aircraft_type": "A320",
-    "ut_arrival_time": 1788414300,
-    "airport_name": "Ho Chi Minh Intl",
+    "ut_arrival_time": 1788414000,
+    "airport_name": "Trivandrum",
     "country_name": "Unknown",
     "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "49989",
+    "id": "51199",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL132",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1788414300,
+    "airport_name": "Tiruchchirapalli",
+    "country_name": "Unknown",
+    "airport_latlng": null,
+    "notes": "-"
+  },
+  {
+    "id": "51200",
     "airline": "Srilankan Airlines",
     "flight_no": "UL102",
     "aircraft_type": "A333",
@@ -4112,10 +4157,10 @@
     "notes": "-"
   },
   {
-    "id": "49990",
+    "id": "51201",
     "airline": "Srilankan Airlines",
     "flight_no": "UL122",
-    "aircraft_type": "A332",
+    "aircraft_type": "A333",
     "ut_arrival_time": 1788414600,
     "airport_name": "Chennai",
     "country_name": "India",
@@ -4126,7 +4171,21 @@
     "notes": "-"
   },
   {
-    "id": "49991",
+    "id": "51202",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL166",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1788414900,
+    "airport_name": "Cochin",
+    "country_name": "India",
+    "airport_latlng": [
+      10.152,
+      76.3874
+    ],
+    "notes": "-"
+  },
+  {
+    "id": "51203",
     "airline": "Srilankan Airlines",
     "flight_no": "UL1174",
     "aircraft_type": "A320",
@@ -4140,21 +4199,7 @@
     "notes": "-"
   },
   {
-    "id": "49992",
-    "airline": "Srilankan Airlines",
-    "flight_no": "UL166",
-    "aircraft_type": "A320",
-    "ut_arrival_time": 1788414900,
-    "airport_name": "Cochin",
-    "country_name": "India",
-    "airport_latlng": [
-      10.152,
-      76.3874
-    ],
-    "notes": "-"
-  },
-  {
-    "id": "49993",
+    "id": "51204",
     "airline": "Indigo Airlines",
     "flight_no": "6E1175",
     "aircraft_type": "A320",
@@ -4168,7 +4213,7 @@
     "notes": "-"
   },
   {
-    "id": "49994",
+    "id": "51205",
     "airline": "Turkish Airlines",
     "flight_no": "TK732",
     "aircraft_type": "B77X",
@@ -4179,10 +4224,10 @@
       40.9769,
       28.8146
     ],
-    "notes": "-"
+    "notes": "(ONLY ON 03 & 10 SEP)"
   },
   {
-    "id": "49995",
+    "id": "51206",
     "airline": "Srilankan Airlines",
     "flight_no": "UL504",
     "aircraft_type": "A333",
@@ -4196,7 +4241,7 @@
     "notes": "-"
   },
   {
-    "id": "49996",
+    "id": "51207",
     "airline": "Indigo Airlines",
     "flight_no": "6E1181",
     "aircraft_type": "A320",
@@ -4210,7 +4255,7 @@
     "notes": "-"
   },
   {
-    "id": "49997",
+    "id": "51208",
     "airline": "Air Arabia",
     "flight_no": "G9508",
     "aircraft_type": "A320",
@@ -4224,7 +4269,7 @@
     "notes": "-"
   },
   {
-    "id": "49998",
+    "id": "51209",
     "airline": "Etihad Airways",
     "flight_no": "EY390",
     "aircraft_type": "A320",
@@ -4238,7 +4283,7 @@
     "notes": "-"
   },
   {
-    "id": "49999",
+    "id": "51210",
     "airline": "Air India",
     "flight_no": "AI2276",
     "aircraft_type": "A321",
@@ -4252,7 +4297,7 @@
     "notes": "-"
   },
   {
-    "id": "50000",
+    "id": "51211",
     "airline": "Chongqing Airlines",
     "flight_no": "OQ2393",
     "aircraft_type": "A320",
@@ -4266,10 +4311,10 @@
     "notes": "-"
   },
   {
-    "id": "50001",
+    "id": "51212",
     "airline": "Srilankan Airlines",
     "flight_no": "UL190",
-    "aircraft_type": "A333",
+    "aircraft_type": "A332",
     "ut_arrival_time": 1788430200,
     "airport_name": "Dhaka",
     "country_name": "Bangladesh",
@@ -4277,24 +4322,21 @@
       23.8434,
       90.3978
     ],
-    "notes": "(CANCELLED ON 27 AUG)"
+    "notes": "-"
   },
   {
-    "id": "50002",
+    "id": "51213",
     "airline": "Srilankan Airlines",
     "flight_no": "UL405",
     "aircraft_type": "A332",
     "ut_arrival_time": 1788430500,
-    "airport_name": "Bangkok Suvarnabhumi",
-    "country_name": "Thailand",
-    "airport_latlng": [
-      13.69,
-      100.7501
-    ],
+    "airport_name": "Bangkok",
+    "country_name": "Unknown",
+    "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "50003",
+    "id": "51214",
     "airline": "Srilankan Airlines",
     "flight_no": "UL315",
     "aircraft_type": "A32B",
@@ -4308,7 +4350,7 @@
     "notes": "-"
   },
   {
-    "id": "50004",
+    "id": "51215",
     "airline": "Air India",
     "flight_no": "AI281",
     "aircraft_type": "A321",
@@ -4322,7 +4364,7 @@
     "notes": "-"
   },
   {
-    "id": "50005",
+    "id": "51216",
     "airline": "Indigo Airlines",
     "flight_no": "6E1179",
     "aircraft_type": "A320",
@@ -4336,10 +4378,10 @@
     "notes": "-"
   },
   {
-    "id": "50006",
+    "id": "51217",
     "airline": "Srilankan Airlines",
     "flight_no": "UL140",
-    "aircraft_type": "A32B",
+    "aircraft_type": "A320",
     "ut_arrival_time": 1788432900,
     "airport_name": "Madurai",
     "country_name": "India",
@@ -4350,10 +4392,10 @@
     "notes": "-"
   },
   {
-    "id": "50007",
+    "id": "51218",
     "airline": "Srilankan Airlines",
     "flight_no": "UL154",
-    "aircraft_type": "A332",
+    "aircraft_type": "A333",
     "ut_arrival_time": 1788432900,
     "airport_name": "Lahore",
     "country_name": "Pakistan",
@@ -4361,10 +4403,10 @@
       31.5216,
       74.4036
     ],
-    "notes": "-"
+    "notes": "(ETA 1115 ON 17 & 24 SEP)"
   },
   {
-    "id": "50008",
+    "id": "51219",
     "airline": "Fly Dubai",
     "flight_no": "FZ549",
     "aircraft_type": "B737",
@@ -4378,7 +4420,7 @@
     "notes": "-"
   },
   {
-    "id": "50009",
+    "id": "51220",
     "airline": "Srilankan Airlines",
     "flight_no": "UL182",
     "aircraft_type": "A32A",
@@ -4389,21 +4431,21 @@
       27.6966,
       85.3591
     ],
-    "notes": "(CANCELLED ON 20 AUG)"
+    "notes": "-"
   },
   {
-    "id": "50010",
+    "id": "51221",
     "airline": "Srilankan Airlines",
     "flight_no": "UL134",
     "aircraft_type": "A320",
     "ut_arrival_time": 1788433800,
-    "airport_name": "Ho Chi Minh Intl",
+    "airport_name": "Tiruchchirapalli",
     "country_name": "Unknown",
     "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "50011",
+    "id": "51222",
     "airline": "Qatar Airways",
     "flight_no": "QR654",
     "aircraft_type": "B789",
@@ -4417,7 +4459,7 @@
     "notes": "-"
   },
   {
-    "id": "50012",
+    "id": "51223",
     "airline": "Emirates",
     "flight_no": "EK654",
     "aircraft_type": "A359",
@@ -4431,7 +4473,7 @@
     "notes": "-"
   },
   {
-    "id": "50013",
+    "id": "51224",
     "airline": "Srilankan Airlines",
     "flight_no": "UL455",
     "aircraft_type": "A333",
@@ -4445,7 +4487,7 @@
     "notes": "-"
   },
   {
-    "id": "50014",
+    "id": "51225",
     "airline": "Srilankan Airlines",
     "flight_no": "UL128",
     "aircraft_type": "A320",
@@ -4459,7 +4501,7 @@
     "notes": "-"
   },
   {
-    "id": "50015",
+    "id": "51226",
     "airline": "Srilankan Airlines",
     "flight_no": "UL116",
     "aircraft_type": "A333",
@@ -4473,10 +4515,10 @@
     "notes": "-"
   },
   {
-    "id": "50016",
+    "id": "51227",
     "airline": "Srilankan Airlines",
     "flight_no": "UL365",
-    "aircraft_type": "A32A",
+    "aircraft_type": "A32B",
     "ut_arrival_time": 1788436800,
     "airport_name": "Jakarta",
     "country_name": "Indonesia",
@@ -4484,10 +4526,24 @@
       -6.1256,
       106.6559
     ],
+    "notes": "(CANCELLED ON 24 SEP)"
+  },
+  {
+    "id": "51228",
+    "airline": "Jetstar Airways",
+    "flight_no": "JQ5",
+    "aircraft_type": "B788",
+    "ut_arrival_time": 1788438000,
+    "airport_name": "Melbourne",
+    "country_name": "Australia",
+    "airport_latlng": [
+      -37.669,
+      144.841
+    ],
     "notes": "-"
   },
   {
-    "id": "50017",
+    "id": "51229",
     "airline": "Emirates",
     "flight_no": "EK652",
     "aircraft_type": "B77W",
@@ -4501,7 +4557,7 @@
     "notes": "-"
   },
   {
-    "id": "50018",
+    "id": "51230",
     "airline": "China Eastern",
     "flight_no": "MU6017",
     "aircraft_type": "A330",
@@ -4515,7 +4571,7 @@
     "notes": "-"
   },
   {
-    "id": "50019",
+    "id": "51231",
     "airline": "Etihad Airways",
     "flight_no": "EY396",
     "aircraft_type": "A320",
@@ -4529,7 +4585,18 @@
     "notes": "-"
   },
   {
-    "id": "50020",
+    "id": "51232",
+    "airline": "Air China",
+    "flight_no": "CA425",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1788449100,
+    "airport_name": "Chengdu Tianfu",
+    "country_name": "Unknown",
+    "airport_latlng": null,
+    "notes": "(CANCELLED ON 03 & 17 SEP)"
+  },
+  {
+    "id": "51233",
     "airline": "Chongqing Airlines",
     "flight_no": "OQ2394",
     "aircraft_type": "A320",
@@ -4543,7 +4610,7 @@
     "notes": "-"
   },
   {
-    "id": "50021",
+    "id": "51234",
     "airline": "Indigo Airlines",
     "flight_no": "6E1173",
     "aircraft_type": "A320",
@@ -4557,7 +4624,7 @@
     "notes": "-"
   },
   {
-    "id": "50022",
+    "id": "51235",
     "airline": "China Eastern",
     "flight_no": "MU713",
     "aircraft_type": "B737",
@@ -4571,10 +4638,10 @@
     "notes": "-"
   },
   {
-    "id": "50023",
+    "id": "51236",
     "airline": "Srilankan Airlines",
     "flight_no": "UL309",
-    "aircraft_type": "A332",
+    "aircraft_type": "A333",
     "ut_arrival_time": 1788451200,
     "airport_name": "Singapore",
     "country_name": "Singapore",
@@ -4585,21 +4652,18 @@
     "notes": "-"
   },
   {
-    "id": "50024",
+    "id": "51237",
     "airline": "Viet Jet",
     "flight_no": "VJ1875",
     "aircraft_type": "A320",
     "ut_arrival_time": 1788452400,
-    "airport_name": "Seychelles",
-    "country_name": "Seychelles",
-    "airport_latlng": [
-      -4.674,
-      55.5218
-    ],
-    "notes": "(FM 20 AUG)"
+    "airport_name": "Ho Chi Minh Intl",
+    "country_name": "Unknown",
+    "airport_latlng": null,
+    "notes": "-"
   },
   {
-    "id": "50025",
+    "id": "51238",
     "airline": "Air Asia Berhad",
     "flight_no": "AK47",
     "aircraft_type": "A320",
@@ -4613,7 +4677,7 @@
     "notes": "-"
   },
   {
-    "id": "50026",
+    "id": "51239",
     "airline": "Srilankan Airlines",
     "flight_no": "UL184",
     "aircraft_type": "A320",
@@ -4627,10 +4691,10 @@
     "notes": "-"
   },
   {
-    "id": "50027",
+    "id": "51240",
     "airline": "Emirates",
     "flight_no": "EK648",
-    "aircraft_type": "B77W",
+    "aircraft_type": "A359",
     "ut_arrival_time": 1788453600,
     "airport_name": "Dubai",
     "country_name": "United Arab Emirates",
@@ -4638,24 +4702,10 @@
       25.2532,
       55.3657
     ],
-    "notes": "'(A350 FM 13 AUG)"
+    "notes": "(CANCELLED ON 24 SEP)"
   },
   {
-    "id": "50028",
-    "airline": "THAI AIR ASIA",
-    "flight_no": "FD140",
-    "aircraft_type": "A321",
-    "ut_arrival_time": 1788453900,
-    "airport_name": "Bangkok Don Mueang",
-    "country_name": "Thailand",
-    "airport_latlng": [
-      13.9126,
-      100.6074
-    ],
-    "notes": "-"
-  },
-  {
-    "id": "50029",
+    "id": "51241",
     "airline": "Srilankan Airlines",
     "flight_no": "UL196",
     "aircraft_type": "A320",
@@ -4669,7 +4719,7 @@
     "notes": "-"
   },
   {
-    "id": "50030",
+    "id": "51242",
     "airline": "Srilankan Airlines",
     "flight_no": "UL605",
     "aircraft_type": "A333",
@@ -4683,7 +4733,7 @@
     "notes": "-"
   },
   {
-    "id": "50031",
+    "id": "51243",
     "airline": "Srilankan Airlines",
     "flight_no": "UL124",
     "aircraft_type": "A320",
@@ -4697,7 +4747,21 @@
     "notes": "-"
   },
   {
-    "id": "50032",
+    "id": "51244",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL176",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1788455400,
+    "airport_name": "Hyderabad Intl",
+    "country_name": "India",
+    "airport_latlng": [
+      17.2403,
+      78.4294
+    ],
+    "notes": "-"
+  },
+  {
+    "id": "51245",
     "airline": "Malaysia Airlines",
     "flight_no": "MH179",
     "aircraft_type": "B738",
@@ -4711,7 +4775,7 @@
     "notes": "-"
   },
   {
-    "id": "50033",
+    "id": "51246",
     "airline": "Srilankan Airlines",
     "flight_no": "UL104",
     "aircraft_type": "A333",
@@ -4722,13 +4786,13 @@
       4.1917,
       73.529
     ],
-    "notes": "-"
+    "notes": "(A320 ON 24 SEP)"
   },
   {
-    "id": "50034",
+    "id": "51247",
     "airline": "Srilankan Airlines",
     "flight_no": "UL144",
-    "aircraft_type": "A320",
+    "aircraft_type": "A32A",
     "ut_arrival_time": 1788457200,
     "airport_name": "Mumbai",
     "country_name": "India",
@@ -4739,7 +4803,7 @@
     "notes": "-"
   },
   {
-    "id": "50035",
+    "id": "51248",
     "airline": "Cathay Pacific",
     "flight_no": "CX611",
     "aircraft_type": "A333",
@@ -4753,7 +4817,7 @@
     "notes": "-"
   },
   {
-    "id": "50036",
+    "id": "51249",
     "airline": "Singapore Airlines",
     "flight_no": "SQ468",
     "aircraft_type": "B787",
@@ -4767,21 +4831,18 @@
     "notes": "-"
   },
   {
-    "id": "50037",
+    "id": "51250",
     "airline": "Thai Airways",
     "flight_no": "TG307",
     "aircraft_type": "A320",
     "ut_arrival_time": 1788459900,
-    "airport_name": "Bangkok Suvarnabhumi",
-    "country_name": "Thailand",
-    "airport_latlng": [
-      13.69,
-      100.7501
-    ],
+    "airport_name": "Bangkok",
+    "country_name": "Unknown",
+    "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "50038",
+    "id": "51251",
     "airline": "Fly Dubai",
     "flight_no": "FZ569",
     "aircraft_type": "B737",
@@ -4795,11 +4856,11 @@
     "notes": "-"
   },
   {
-    "id": "50039",
+    "id": "51252",
     "airline": "Kuwait Airways",
     "flight_no": "KU363",
     "aircraft_type": "A32N",
-    "ut_arrival_time": 1788467400,
+    "ut_arrival_time": 1788467100,
     "airport_name": "Kuwait",
     "country_name": "Kuwait",
     "airport_latlng": [
@@ -4809,10 +4870,10 @@
     "notes": "-"
   },
   {
-    "id": "50040",
+    "id": "51253",
     "airline": "Qatar Airways",
     "flight_no": "QR662",
-    "aircraft_type": "B789",
+    "aircraft_type": "B788",
     "ut_arrival_time": 1788467700,
     "airport_name": "Doha",
     "country_name": "Qatar",
@@ -4823,7 +4884,7 @@
     "notes": "-"
   },
   {
-    "id": "50041",
+    "id": "51254",
     "airline": "Air Arabia",
     "flight_no": "G9587",
     "aircraft_type": "A320",
@@ -4837,7 +4898,21 @@
     "notes": "-"
   },
   {
-    "id": "50042",
+    "id": "51255",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1171",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1788469800,
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
+    "notes": "-"
+  },
+  {
+    "id": "51256",
     "airline": "Etihad Airways",
     "flight_no": "EY394",
     "aircraft_type": "A320",
@@ -4851,10 +4926,10 @@
     "notes": "-"
   },
   {
-    "id": "50043",
+    "id": "51257",
     "airline": "Qatar Airways",
     "flight_no": "QR658",
-    "aircraft_type": "B789",
+    "aircraft_type": "B788",
     "ut_arrival_time": 1788471300,
     "airport_name": "Doha",
     "country_name": "Qatar",
@@ -4865,10 +4940,10 @@
     "notes": "-"
   },
   {
-    "id": "50044",
+    "id": "51258",
     "airline": "Jazeera Airways",
     "flight_no": "J9551",
-    "aircraft_type": "A32N",
+    "aircraft_type": "A320",
     "ut_arrival_time": 1788472800,
     "airport_name": "Kuwait",
     "country_name": "Kuwait",
@@ -4879,7 +4954,7 @@
     "notes": "-"
   },
   {
-    "id": "50045",
+    "id": "51259",
     "airline": "Salam Air",
     "flight_no": "OV437",
     "aircraft_type": "A320",
@@ -4893,7 +4968,7 @@
     "notes": "-"
   },
   {
-    "id": "50046",
+    "id": "51260",
     "airline": "Air India",
     "flight_no": "AI277",
     "aircraft_type": "A321",
@@ -4907,7 +4982,7 @@
     "notes": "-"
   },
   {
-    "id": "50047",
+    "id": "51261",
     "airline": "Air Seychelles",
     "flight_no": "HM262",
     "aircraft_type": "A320",
@@ -4921,7 +4996,7 @@
     "notes": "-"
   },
   {
-    "id": "50048",
+    "id": "51262",
     "airline": "Air Arabia",
     "flight_no": "G9502",
     "aircraft_type": "A320",
@@ -4935,10 +5010,24 @@
     "notes": "-"
   },
   {
-    "id": "50049",
+    "id": "51263",
+    "airline": "Jazeera Airways",
+    "flight_no": "J9553",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1788477000,
+    "airport_name": "Kuwait",
+    "country_name": "Kuwait",
+    "airport_latlng": [
+      29.2266,
+      47.9689
+    ],
+    "notes": "(ETA 0655 ON 04 & 11 SEP)"
+  },
+  {
+    "id": "51264",
     "airline": "Srilankan Airlines",
     "flight_no": "UL226",
-    "aircraft_type": "A333",
+    "aircraft_type": "A332",
     "ut_arrival_time": 1788478200,
     "airport_name": "Dubai",
     "country_name": "United Arab Emirates",
@@ -4949,7 +5038,7 @@
     "notes": "-"
   },
   {
-    "id": "50050",
+    "id": "51265",
     "airline": "Fits Air",
     "flight_no": "8D912",
     "aircraft_type": "A320",
@@ -4963,7 +5052,7 @@
     "notes": "-"
   },
   {
-    "id": "50051",
+    "id": "51266",
     "airline": "Fits Air",
     "flight_no": "8D822",
     "aircraft_type": "A320",
@@ -4974,10 +5063,10 @@
       25.2532,
       55.3657
     ],
-    "notes": "-"
+    "notes": "(ONLY ON 04 & 11 SEP)"
   },
   {
-    "id": "50052",
+    "id": "51267",
     "airline": "Srilankan Airlines",
     "flight_no": "UL230",
     "aircraft_type": "A32B",
@@ -4991,7 +5080,7 @@
     "notes": "-"
   },
   {
-    "id": "50053",
+    "id": "51268",
     "airline": "Turkish Airlines",
     "flight_no": "TK730",
     "aircraft_type": "A333",
@@ -5005,7 +5094,7 @@
     "notes": "-"
   },
   {
-    "id": "50054",
+    "id": "51269",
     "airline": "Srilankan Airlines",
     "flight_no": "UL142",
     "aircraft_type": "A332",
@@ -5019,10 +5108,10 @@
     "notes": "-"
   },
   {
-    "id": "50055",
+    "id": "51270",
     "airline": "Srilankan Airlines",
     "flight_no": "UL218",
-    "aircraft_type": "A32A",
+    "aircraft_type": "A32B",
     "ut_arrival_time": 1788481500,
     "airport_name": "Doha",
     "country_name": "Qatar",
@@ -5033,7 +5122,7 @@
     "notes": "-"
   },
   {
-    "id": "50056",
+    "id": "51271",
     "airline": "Srilankan Airlines",
     "flight_no": "UL254",
     "aircraft_type": "A32B",
@@ -5047,7 +5136,7 @@
     "notes": "-"
   },
   {
-    "id": "50057",
+    "id": "51272",
     "airline": "Srilankan Airlines",
     "flight_no": "UL885",
     "aircraft_type": "A32A",
@@ -5061,10 +5150,10 @@
     "notes": "-"
   },
   {
-    "id": "50058",
+    "id": "51273",
     "airline": "Srilankan Airlines",
     "flight_no": "UL266",
-    "aircraft_type": "A332",
+    "aircraft_type": "A333",
     "ut_arrival_time": 1788483000,
     "airport_name": "Riyadh",
     "country_name": "Saudi Arabia",
@@ -5075,21 +5164,7 @@
     "notes": "-"
   },
   {
-    "id": "50059",
-    "airline": "Jazeera Airways",
-    "flight_no": "J9553",
-    "aircraft_type": "A32N",
-    "ut_arrival_time": 1788488100,
-    "airport_name": "Kuwait",
-    "country_name": "Kuwait",
-    "airport_latlng": [
-      29.2266,
-      47.9689
-    ],
-    "notes": "-"
-  },
-  {
-    "id": "50060",
+    "id": "51274",
     "airline": "Fly Dubai",
     "flight_no": "FZ579",
     "aircraft_type": "B737",
@@ -5103,7 +5178,7 @@
     "notes": "-"
   },
   {
-    "id": "50061",
+    "id": "51275",
     "airline": "Emirates",
     "flight_no": "EK650",
     "aircraft_type": "B77W",
@@ -5117,7 +5192,7 @@
     "notes": "-"
   },
   {
-    "id": "50062",
+    "id": "51276",
     "airline": "Etihad Airways",
     "flight_no": "EY392",
     "aircraft_type": "A320",
@@ -5131,7 +5206,7 @@
     "notes": "-"
   },
   {
-    "id": "50063",
+    "id": "51277",
     "airline": "Indigo Airlines",
     "flight_no": "6E1185",
     "aircraft_type": "A320",
@@ -5145,7 +5220,7 @@
     "notes": "-"
   },
   {
-    "id": "50064",
+    "id": "51278",
     "airline": "Srilankan Airlines",
     "flight_no": "UL192",
     "aircraft_type": "A320",
@@ -5159,7 +5234,7 @@
     "notes": "-"
   },
   {
-    "id": "50065",
+    "id": "51279",
     "airline": "Qatar Airways",
     "flight_no": "QR664",
     "aircraft_type": "B789",
@@ -5173,21 +5248,18 @@
     "notes": "-"
   },
   {
-    "id": "50066",
+    "id": "51280",
     "airline": "Srilankan Airlines",
     "flight_no": "UL403",
     "aircraft_type": "A320",
     "ut_arrival_time": 1788494700,
-    "airport_name": "Bangkok Suvarnabhumi",
-    "country_name": "Thailand",
-    "airport_latlng": [
-      13.69,
-      100.7501
-    ],
+    "airport_name": "Bangkok",
+    "country_name": "Unknown",
+    "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "50067",
+    "id": "51281",
     "airline": "Gulf Air",
     "flight_no": "GF144",
     "aircraft_type": "A32N",
@@ -5201,7 +5273,7 @@
     "notes": "-"
   },
   {
-    "id": "50068",
+    "id": "51282",
     "airline": "Qatar Airways",
     "flight_no": "QR660",
     "aircraft_type": "B788",
@@ -5212,13 +5284,13 @@
       25.2731,
       51.608
     ],
-    "notes": "-"
+    "notes": "(CANCELLED ON 18 & 25 SEP)"
   },
   {
-    "id": "50069",
+    "id": "51283",
     "airline": "Srilankan Airlines",
     "flight_no": "UL319",
-    "aircraft_type": "A320",
+    "aircraft_type": "A32A",
     "ut_arrival_time": 1788495600,
     "airport_name": "Kuala Lumpur",
     "country_name": "Malaysia",
@@ -5229,7 +5301,7 @@
     "notes": "-"
   },
   {
-    "id": "50070",
+    "id": "51284",
     "airline": "Malaysia Airlines",
     "flight_no": "MH497",
     "aircraft_type": "B738",
@@ -5243,7 +5315,7 @@
     "notes": "-"
   },
   {
-    "id": "50071",
+    "id": "51285",
     "airline": "Fly Dubai",
     "flight_no": "FZ1025",
     "aircraft_type": "B737",
@@ -5257,10 +5329,10 @@
     "notes": "-"
   },
   {
-    "id": "50072",
+    "id": "51286",
     "airline": "Indigo Airlines",
     "flight_no": "6E1167",
-    "aircraft_type": "A320",
+    "aircraft_type": "A321",
     "ut_arrival_time": 1788498000,
     "airport_name": "Bangalore",
     "country_name": "India",
@@ -5271,7 +5343,7 @@
     "notes": "-"
   },
   {
-    "id": "50073",
+    "id": "51287",
     "airline": "Singapore Airlines",
     "flight_no": "SQ462",
     "aircraft_type": "7M8R",
@@ -5285,7 +5357,7 @@
     "notes": "-"
   },
   {
-    "id": "50074",
+    "id": "51288",
     "airline": "Fits Air",
     "flight_no": "8D922",
     "aircraft_type": "A320",
@@ -5296,10 +5368,10 @@
       4.1917,
       73.529
     ],
-    "notes": "-"
+    "notes": "(ONLY ON 04 & 11 SEP)"
   },
   {
-    "id": "50075",
+    "id": "51289",
     "airline": "Srilankan Airlines",
     "flight_no": "UL307",
     "aircraft_type": "A320",
@@ -5310,10 +5382,10 @@
       1.3644,
       103.9915
     ],
-    "notes": "-"
+    "notes": "(CANCELLED ON 25 SEP)"
   },
   {
-    "id": "50076",
+    "id": "51290",
     "airline": "Srilankan Airlines",
     "flight_no": "UL138",
     "aircraft_type": "A320",
@@ -5327,24 +5399,21 @@
     "notes": "-"
   },
   {
-    "id": "50077",
+    "id": "51291",
     "airline": "Srilankan Airlines",
     "flight_no": "UL162",
     "aircraft_type": "A320",
     "ut_arrival_time": 1788500400,
-    "airport_name": "Thiruvananthapuram",
-    "country_name": "India",
-    "airport_latlng": [
-      8.4821,
-      76.92
-    ],
+    "airport_name": "Trivandrum",
+    "country_name": "Unknown",
+    "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "50078",
+    "id": "51292",
     "airline": "Srilankan Airlines",
     "flight_no": "UL102",
-    "aircraft_type": "A32B",
+    "aircraft_type": "A333",
     "ut_arrival_time": 1788501000,
     "airport_name": "Male",
     "country_name": "Maldives",
@@ -5355,7 +5424,7 @@
     "notes": "-"
   },
   {
-    "id": "50079",
+    "id": "51293",
     "airline": "Srilankan Airlines",
     "flight_no": "UL122",
     "aircraft_type": "A332",
@@ -5369,7 +5438,7 @@
     "notes": "-"
   },
   {
-    "id": "50080",
+    "id": "51294",
     "airline": "Srilankan Airlines",
     "flight_no": "UL1174",
     "aircraft_type": "A32A",
@@ -5383,7 +5452,7 @@
     "notes": "-"
   },
   {
-    "id": "50081",
+    "id": "51295",
     "airline": "Indigo Airlines",
     "flight_no": "6E1175",
     "aircraft_type": "A320",
@@ -5397,7 +5466,7 @@
     "notes": "-"
   },
   {
-    "id": "50082",
+    "id": "51296",
     "airline": "Srilankan Airlines",
     "flight_no": "UL504",
     "aircraft_type": "A333",
@@ -5411,7 +5480,7 @@
     "notes": "-"
   },
   {
-    "id": "50083",
+    "id": "51297",
     "airline": "Fits Air",
     "flight_no": "8D964",
     "aircraft_type": "A320",
@@ -5422,7 +5491,7 @@
     "notes": "-"
   },
   {
-    "id": "50084",
+    "id": "51298",
     "airline": "Indigo Airlines",
     "flight_no": "6E1181",
     "aircraft_type": "A320",
@@ -5436,7 +5505,7 @@
     "notes": "-"
   },
   {
-    "id": "50085",
+    "id": "51299",
     "airline": "Air Arabia",
     "flight_no": "G9508",
     "aircraft_type": "A320",
@@ -5450,7 +5519,7 @@
     "notes": "-"
   },
   {
-    "id": "50086",
+    "id": "51300",
     "airline": "Etihad Airways",
     "flight_no": "EY390",
     "aircraft_type": "A320",
@@ -5464,10 +5533,24 @@
     "notes": "-"
   },
   {
-    "id": "50087",
+    "id": "51301",
+    "airline": "Air India",
+    "flight_no": "AI2276",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1788514500,
+    "airport_name": "Mumbai",
+    "country_name": "India",
+    "airport_latlng": [
+      19.0896,
+      72.8656
+    ],
+    "notes": "-"
+  },
+  {
+    "id": "51302",
     "airline": "Srilankan Airlines",
     "flight_no": "UL178",
-    "aircraft_type": "A320",
+    "aircraft_type": "A32B",
     "ut_arrival_time": 1788515700,
     "airport_name": "Hyderabad Intl",
     "country_name": "India",
@@ -5478,10 +5561,10 @@
     "notes": "-"
   },
   {
-    "id": "50088",
+    "id": "51303",
     "airline": "Srilankan Airlines",
     "flight_no": "UL190",
-    "aircraft_type": "A32B",
+    "aircraft_type": "A332",
     "ut_arrival_time": 1788516600,
     "airport_name": "Dhaka",
     "country_name": "Bangladesh",
@@ -5489,27 +5572,24 @@
       23.8434,
       90.3978
     ],
-    "notes": "(ONLY ON 28 AUG)"
-  },
-  {
-    "id": "50089",
-    "airline": "Srilankan Airlines",
-    "flight_no": "UL405",
-    "aircraft_type": "A32A",
-    "ut_arrival_time": 1788516900,
-    "airport_name": "Bangkok Suvarnabhumi",
-    "country_name": "Thailand",
-    "airport_latlng": [
-      13.69,
-      100.7501
-    ],
     "notes": "-"
   },
   {
-    "id": "50090",
+    "id": "51304",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL405",
+    "aircraft_type": "A32B",
+    "ut_arrival_time": 1788516900,
+    "airport_name": "Bangkok",
+    "country_name": "Unknown",
+    "airport_latlng": null,
+    "notes": "-"
+  },
+  {
+    "id": "51305",
     "airline": "Srilankan Airlines",
     "flight_no": "UL315",
-    "aircraft_type": "A332",
+    "aircraft_type": "A333",
     "ut_arrival_time": 1788517800,
     "airport_name": "Kuala Lumpur",
     "country_name": "Malaysia",
@@ -5520,7 +5600,7 @@
     "notes": "-"
   },
   {
-    "id": "50091",
+    "id": "51306",
     "airline": "Air India",
     "flight_no": "AI281",
     "aircraft_type": "A321",
@@ -5534,7 +5614,7 @@
     "notes": "-"
   },
   {
-    "id": "50092",
+    "id": "51307",
     "airline": "Indigo Airlines",
     "flight_no": "6E1179",
     "aircraft_type": "A320",
@@ -5548,7 +5628,7 @@
     "notes": "-"
   },
   {
-    "id": "50093",
+    "id": "51308",
     "airline": "Fly Dubai",
     "flight_no": "FZ549",
     "aircraft_type": "B737",
@@ -5562,18 +5642,18 @@
     "notes": "-"
   },
   {
-    "id": "50094",
+    "id": "51309",
     "airline": "Srilankan Airlines",
     "flight_no": "UL134",
     "aircraft_type": "A320",
     "ut_arrival_time": 1788520200,
-    "airport_name": "Ho Chi Minh Intl",
+    "airport_name": "Tiruchchirapalli",
     "country_name": "Unknown",
     "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "50095",
+    "id": "51310",
     "airline": "Qatar Airways",
     "flight_no": "QR654",
     "aircraft_type": "B789",
@@ -5587,7 +5667,7 @@
     "notes": "-"
   },
   {
-    "id": "50096",
+    "id": "51311",
     "airline": "Emirates",
     "flight_no": "EK654",
     "aircraft_type": "A359",
@@ -5601,10 +5681,10 @@
     "notes": "-"
   },
   {
-    "id": "50097",
+    "id": "51312",
     "airline": "Srilankan Airlines",
     "flight_no": "UL128",
-    "aircraft_type": "A32B",
+    "aircraft_type": "A320",
     "ut_arrival_time": 1788522600,
     "airport_name": "Chennai",
     "country_name": "India",
@@ -5615,7 +5695,7 @@
     "notes": "-"
   },
   {
-    "id": "50098",
+    "id": "51313",
     "airline": "Srilankan Airlines",
     "flight_no": "UL168",
     "aircraft_type": "A320",
@@ -5629,7 +5709,7 @@
     "notes": "-"
   },
   {
-    "id": "50099",
+    "id": "51314",
     "airline": "Srilankan Airlines",
     "flight_no": "UL116",
     "aircraft_type": "A32A",
@@ -5643,7 +5723,7 @@
     "notes": "-"
   },
   {
-    "id": "50100",
+    "id": "51315",
     "airline": "Srilankan Airlines",
     "flight_no": "UL365",
     "aircraft_type": "A32B",
@@ -5657,7 +5737,7 @@
     "notes": "-"
   },
   {
-    "id": "50101",
+    "id": "51316",
     "airline": "Emirates",
     "flight_no": "EK652",
     "aircraft_type": "B77W",
@@ -5671,7 +5751,7 @@
     "notes": "-"
   },
   {
-    "id": "50102",
+    "id": "51317",
     "airline": "China Eastern",
     "flight_no": "MU6017",
     "aircraft_type": "A330",
@@ -5685,7 +5765,21 @@
     "notes": "-"
   },
   {
-    "id": "50103",
+    "id": "51318",
+    "airline": "Fits Air",
+    "flight_no": "8D924",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1788533700,
+    "airport_name": "Male",
+    "country_name": "Maldives",
+    "airport_latlng": [
+      4.1917,
+      73.529
+    ],
+    "notes": "(ONLY ON 18 & 25 SEP)"
+  },
+  {
+    "id": "51319",
     "airline": "Air Arabia Abu Dhabi",
     "flight_no": "3L708",
     "aircraft_type": "A320",
@@ -5699,7 +5793,7 @@
     "notes": "-"
   },
   {
-    "id": "50104",
+    "id": "51320",
     "airline": "Etihad Airways",
     "flight_no": "EY396",
     "aircraft_type": "A320",
@@ -5713,21 +5807,32 @@
     "notes": "-"
   },
   {
-    "id": "50105",
-    "airline": "Air China",
-    "flight_no": "CA425",
-    "aircraft_type": "A320",
-    "ut_arrival_time": 1788535500,
-    "airport_name": "Chengdu-Tianfu",
-    "country_name": "China",
+    "id": "51321",
+    "airline": "Batik Air",
+    "flight_no": "OD297",
+    "aircraft_type": "B738",
+    "ut_arrival_time": 1788534900,
+    "airport_name": "Kuala Lumpur",
+    "country_name": "Malaysia",
     "airport_latlng": [
-      30.3089,
-      104.4419
+      2.7456,
+      101.7098
     ],
     "notes": "-"
   },
   {
-    "id": "50106",
+    "id": "51322",
+    "airline": "Air China",
+    "flight_no": "CA425",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1788535500,
+    "airport_name": "Chengdu Tianfu",
+    "country_name": "Unknown",
+    "airport_latlng": null,
+    "notes": "-"
+  },
+  {
+    "id": "51323",
     "airline": "Indigo Airlines",
     "flight_no": "6E1173",
     "aircraft_type": "A320",
@@ -5741,10 +5846,10 @@
     "notes": "-"
   },
   {
-    "id": "50107",
+    "id": "51324",
     "airline": "Srilankan Airlines",
     "flight_no": "UL309",
-    "aircraft_type": "A320",
+    "aircraft_type": "A332",
     "ut_arrival_time": 1788537600,
     "airport_name": "Singapore",
     "country_name": "Singapore",
@@ -5755,7 +5860,7 @@
     "notes": "-"
   },
   {
-    "id": "50108",
+    "id": "51325",
     "airline": "Air Asia Berhad",
     "flight_no": "AK47",
     "aircraft_type": "A320",
@@ -5769,10 +5874,10 @@
     "notes": "-"
   },
   {
-    "id": "50109",
+    "id": "51326",
     "airline": "Emirates",
     "flight_no": "EK648",
-    "aircraft_type": "B77W",
+    "aircraft_type": "A359",
     "ut_arrival_time": 1788540000,
     "airport_name": "Dubai",
     "country_name": "United Arab Emirates",
@@ -5780,24 +5885,21 @@
       25.2532,
       55.3657
     ],
-    "notes": "'(A350 FM 14 AUG)"
+    "notes": "(CANCELLED ON 25 SEP)"
   },
   {
-    "id": "50110",
-    "airline": "THAI AIR ASIA",
+    "id": "51327",
+    "airline": "Batik Air",
     "flight_no": "FD140",
     "aircraft_type": "A321",
     "ut_arrival_time": 1788540300,
-    "airport_name": "Bangkok Don Mueang",
-    "country_name": "Thailand",
-    "airport_latlng": [
-      13.9126,
-      100.6074
-    ],
+    "airport_name": "Bangkok",
+    "country_name": "Unknown",
+    "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "50111",
+    "id": "51328",
     "airline": "Srilankan Airlines",
     "flight_no": "UL196",
     "aircraft_type": "A320",
@@ -5811,7 +5913,7 @@
     "notes": "-"
   },
   {
-    "id": "50112",
+    "id": "51329",
     "airline": "Srilankan Airlines",
     "flight_no": "UL605",
     "aircraft_type": "A333",
@@ -5825,7 +5927,7 @@
     "notes": "-"
   },
   {
-    "id": "50113",
+    "id": "51330",
     "airline": "Srilankan Airlines",
     "flight_no": "UL124",
     "aircraft_type": "A320",
@@ -5839,10 +5941,10 @@
     "notes": "-"
   },
   {
-    "id": "50114",
+    "id": "51331",
     "airline": "Srilankan Airlines",
     "flight_no": "UL172",
-    "aircraft_type": "A32A",
+    "aircraft_type": "A320",
     "ut_arrival_time": 1788542100,
     "airport_name": "Bangalore",
     "country_name": "India",
@@ -5853,7 +5955,7 @@
     "notes": "-"
   },
   {
-    "id": "50115",
+    "id": "51332",
     "airline": "Malaysia Airlines",
     "flight_no": "MH179",
     "aircraft_type": "B738",
@@ -5867,10 +5969,10 @@
     "notes": "-"
   },
   {
-    "id": "50116",
+    "id": "51333",
     "airline": "Srilankan Airlines",
     "flight_no": "UL104",
-    "aircraft_type": "A320",
+    "aircraft_type": "A32A",
     "ut_arrival_time": 1788542700,
     "airport_name": "Male",
     "country_name": "Maldives",
@@ -5881,24 +5983,21 @@
     "notes": "-"
   },
   {
-    "id": "50117",
+    "id": "51334",
     "airline": "Srilankan Airlines",
     "flight_no": "UL607",
-    "aircraft_type": "A332",
+    "aircraft_type": "A333",
     "ut_arrival_time": 1788542700,
-    "airport_name": "Sydney",
-    "country_name": "Australia",
-    "airport_latlng": [
-      -33.9461,
-      151.1772
-    ],
+    "airport_name": "Sydney Airport",
+    "country_name": "Unknown",
+    "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "50118",
+    "id": "51335",
     "airline": "Srilankan Airlines",
     "flight_no": "UL144",
-    "aircraft_type": "A320",
+    "aircraft_type": "A32A",
     "ut_arrival_time": 1788543600,
     "airport_name": "Mumbai",
     "country_name": "India",
@@ -5909,7 +6008,7 @@
     "notes": "-"
   },
   {
-    "id": "50119",
+    "id": "51336",
     "airline": "Cathay Pacific",
     "flight_no": "CX611",
     "aircraft_type": "A333",
@@ -5923,7 +6022,7 @@
     "notes": "-"
   },
   {
-    "id": "50120",
+    "id": "51337",
     "airline": "Singapore Airlines",
     "flight_no": "SQ468",
     "aircraft_type": "B787",
@@ -5937,21 +6036,18 @@
     "notes": "-"
   },
   {
-    "id": "50121",
+    "id": "51338",
     "airline": "Thai Airways",
     "flight_no": "TG307",
     "aircraft_type": "A320",
     "ut_arrival_time": 1788546300,
-    "airport_name": "Bangkok Suvarnabhumi",
-    "country_name": "Thailand",
-    "airport_latlng": [
-      13.69,
-      100.7501
-    ],
+    "airport_name": "Bangkok",
+    "country_name": "Unknown",
+    "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "50122",
+    "id": "51339",
     "airline": "Fly Dubai",
     "flight_no": "FZ569",
     "aircraft_type": "B737",
@@ -5965,11 +6061,22 @@
     "notes": "-"
   },
   {
-    "id": "50123",
+    "id": "51340",
+    "airline": "Vietnam Airlines",
+    "flight_no": "VN671",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1788550800,
+    "airport_name": "Ho Chi Minh Intl",
+    "country_name": "Unknown",
+    "airport_latlng": null,
+    "notes": "-"
+  },
+  {
+    "id": "51341",
     "airline": "Kuwait Airways",
     "flight_no": "KU363",
     "aircraft_type": "A32N",
-    "ut_arrival_time": 1788553800,
+    "ut_arrival_time": 1788553500,
     "airport_name": "Kuwait",
     "country_name": "Kuwait",
     "airport_latlng": [
@@ -5979,10 +6086,10 @@
     "notes": "-"
   },
   {
-    "id": "50124",
+    "id": "51342",
     "airline": "Qatar Airways",
     "flight_no": "QR662",
-    "aircraft_type": "B789",
+    "aircraft_type": "B788",
     "ut_arrival_time": 1788554100,
     "airport_name": "Doha",
     "country_name": "Qatar",
@@ -5993,7 +6100,7 @@
     "notes": "-"
   },
   {
-    "id": "50125",
+    "id": "51343",
     "airline": "Air Arabia",
     "flight_no": "G9587",
     "aircraft_type": "A320",
@@ -6007,7 +6114,21 @@
     "notes": "-"
   },
   {
-    "id": "50126",
+    "id": "51344",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1171",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1788556200,
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
+    "notes": "-"
+  },
+  {
+    "id": "51345",
     "airline": "Etihad Airways",
     "flight_no": "EY394",
     "aircraft_type": "A320",
@@ -6021,10 +6142,10 @@
     "notes": "-"
   },
   {
-    "id": "50127",
+    "id": "51346",
     "airline": "Qatar Airways",
     "flight_no": "QR658",
-    "aircraft_type": "B789",
+    "aircraft_type": "B788",
     "ut_arrival_time": 1788557700,
     "airport_name": "Doha",
     "country_name": "Qatar",
@@ -6035,10 +6156,10 @@
     "notes": "-"
   },
   {
-    "id": "50128",
+    "id": "51347",
     "airline": "Jazeera Airways",
     "flight_no": "J9551",
-    "aircraft_type": "A32N",
+    "aircraft_type": "A320",
     "ut_arrival_time": 1788559200,
     "airport_name": "Kuwait",
     "country_name": "Kuwait",
@@ -6049,7 +6170,7 @@
     "notes": "-"
   },
   {
-    "id": "50129",
+    "id": "51348",
     "airline": "Salam Air",
     "flight_no": "OV437",
     "aircraft_type": "A320",
@@ -6063,7 +6184,7 @@
     "notes": "-"
   },
   {
-    "id": "50130",
+    "id": "51349",
     "airline": "Air India",
     "flight_no": "AI277",
     "aircraft_type": "A321",
@@ -6077,7 +6198,7 @@
     "notes": "-"
   },
   {
-    "id": "50131",
+    "id": "51350",
     "airline": "Air Arabia",
     "flight_no": "G9502",
     "aircraft_type": "A320",
@@ -6091,10 +6212,21 @@
     "notes": "-"
   },
   {
-    "id": "50132",
+    "id": "51351",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL501",
+    "aircraft_type": "A333",
+    "ut_arrival_time": 1788563700,
+    "airport_name": "Frankfurt Airport",
+    "country_name": "Unknown",
+    "airport_latlng": null,
+    "notes": "(ONLY ON 12 & 19 SEP)"
+  },
+  {
+    "id": "51352",
     "airline": "Srilankan Airlines",
     "flight_no": "UL174",
-    "aircraft_type": "A32A",
+    "aircraft_type": "A320",
     "ut_arrival_time": 1788564000,
     "airport_name": "Bangalore",
     "country_name": "India",
@@ -6105,7 +6237,7 @@
     "notes": "-"
   },
   {
-    "id": "50133",
+    "id": "51353",
     "airline": "Srilankan Airlines",
     "flight_no": "UL226",
     "aircraft_type": "A332",
@@ -6119,21 +6251,18 @@
     "notes": "-"
   },
   {
-    "id": "50134",
+    "id": "51354",
     "airline": "Srilankan Airlines",
     "flight_no": "UL564",
     "aircraft_type": "A333",
     "ut_arrival_time": 1788564900,
-    "airport_name": "Paris Charles de Gaulle",
-    "country_name": "France",
-    "airport_latlng": [
-      49.0097,
-      2.5479
-    ],
-    "notes": "-"
+    "airport_name": "Paris Charles de Gaulle Airport",
+    "country_name": "Unknown",
+    "airport_latlng": null,
+    "notes": "(ONLY ON 05 SEP)"
   },
   {
-    "id": "50135",
+    "id": "51355",
     "airline": "Fits Air",
     "flight_no": "8D912",
     "aircraft_type": "A320",
@@ -6147,7 +6276,7 @@
     "notes": "-"
   },
   {
-    "id": "50136",
+    "id": "51356",
     "airline": "Fits Air",
     "flight_no": "8D822",
     "aircraft_type": "A320",
@@ -6158,10 +6287,10 @@
       25.2532,
       55.3657
     ],
-    "notes": "-"
+    "notes": "(ONLY ON 05 & 12 SEP)"
   },
   {
-    "id": "50137",
+    "id": "51357",
     "airline": "Srilankan Airlines",
     "flight_no": "UL230",
     "aircraft_type": "A32B",
@@ -6172,10 +6301,10 @@
       29.2266,
       47.9689
     ],
-    "notes": "(CANCELLED ON 01 AUG)"
+    "notes": "-"
   },
   {
-    "id": "50138",
+    "id": "51358",
     "airline": "Turkish Airlines",
     "flight_no": "TK730",
     "aircraft_type": "A333",
@@ -6189,7 +6318,7 @@
     "notes": "-"
   },
   {
-    "id": "50139",
+    "id": "51359",
     "airline": "Srilankan Airlines",
     "flight_no": "UL142",
     "aircraft_type": "A320",
@@ -6203,21 +6332,18 @@
     "notes": "-"
   },
   {
-    "id": "50140",
+    "id": "51360",
     "airline": "Srilankan Airlines",
     "flight_no": "UL558",
     "aircraft_type": "A333",
     "ut_arrival_time": 1788567300,
-    "airport_name": "Frankfurt Main",
-    "country_name": "Germany",
-    "airport_latlng": [
-      50.0379,
-      8.5622
-    ],
-    "notes": "-"
+    "airport_name": "Frankfurt Airport",
+    "country_name": "Unknown",
+    "airport_latlng": null,
+    "notes": "(ONLY ON 05 SEP)"
   },
   {
-    "id": "50141",
+    "id": "51361",
     "airline": "Srilankan Airlines",
     "flight_no": "UL218",
     "aircraft_type": "A32B",
@@ -6231,7 +6357,7 @@
     "notes": "-"
   },
   {
-    "id": "50142",
+    "id": "51362",
     "airline": "Srilankan Airlines",
     "flight_no": "UL254",
     "aircraft_type": "A32B",
@@ -6245,10 +6371,10 @@
     "notes": "-"
   },
   {
-    "id": "50143",
+    "id": "51363",
     "airline": "Srilankan Airlines",
     "flight_no": "UL266",
-    "aircraft_type": "A332",
+    "aircraft_type": "A333",
     "ut_arrival_time": 1788569400,
     "airport_name": "Riyadh",
     "country_name": "Saudi Arabia",
@@ -6259,21 +6385,7 @@
     "notes": "-"
   },
   {
-    "id": "50144",
-    "airline": "Jazeera Airways",
-    "flight_no": "J9553",
-    "aircraft_type": "A32N",
-    "ut_arrival_time": 1788574500,
-    "airport_name": "Kuwait",
-    "country_name": "Kuwait",
-    "airport_latlng": [
-      29.2266,
-      47.9689
-    ],
-    "notes": "-"
-  },
-  {
-    "id": "50145",
+    "id": "51364",
     "airline": "Fly Dubai",
     "flight_no": "FZ579",
     "aircraft_type": "B737",
@@ -6287,7 +6399,7 @@
     "notes": "-"
   },
   {
-    "id": "50146",
+    "id": "51365",
     "airline": "Emirates",
     "flight_no": "EK650",
     "aircraft_type": "B77W",
@@ -6301,7 +6413,7 @@
     "notes": "-"
   },
   {
-    "id": "50147",
+    "id": "51366",
     "airline": "Etihad Airways",
     "flight_no": "EY392",
     "aircraft_type": "A320",
@@ -6315,7 +6427,7 @@
     "notes": "-"
   },
   {
-    "id": "50148",
+    "id": "51367",
     "airline": "Indigo Airlines",
     "flight_no": "6E1185",
     "aircraft_type": "A320",
@@ -6329,7 +6441,7 @@
     "notes": "-"
   },
   {
-    "id": "50149",
+    "id": "51368",
     "airline": "Srilankan Airlines",
     "flight_no": "UL192",
     "aircraft_type": "A320",
@@ -6343,7 +6455,7 @@
     "notes": "-"
   },
   {
-    "id": "50150",
+    "id": "51369",
     "airline": "Qatar Airways",
     "flight_no": "QR664",
     "aircraft_type": "B789",
@@ -6357,21 +6469,18 @@
     "notes": "-"
   },
   {
-    "id": "50151",
+    "id": "51370",
     "airline": "Srilankan Airlines",
     "flight_no": "UL403",
     "aircraft_type": "A320",
     "ut_arrival_time": 1788581100,
-    "airport_name": "Bangkok Suvarnabhumi",
-    "country_name": "Thailand",
-    "airport_latlng": [
-      13.69,
-      100.7501
-    ],
+    "airport_name": "Bangkok",
+    "country_name": "Unknown",
+    "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "50152",
+    "id": "51371",
     "airline": "Gulf Air",
     "flight_no": "GF144",
     "aircraft_type": "A32N",
@@ -6385,7 +6494,7 @@
     "notes": "-"
   },
   {
-    "id": "50153",
+    "id": "51372",
     "airline": "Qatar Airways",
     "flight_no": "QR660",
     "aircraft_type": "B788",
@@ -6396,13 +6505,13 @@
       25.2731,
       51.608
     ],
-    "notes": "-"
+    "notes": "(CANCELLED ON 19 & 26 SEP)"
   },
   {
-    "id": "50154",
+    "id": "51373",
     "airline": "Srilankan Airlines",
     "flight_no": "UL319",
-    "aircraft_type": "A320",
+    "aircraft_type": "A32A",
     "ut_arrival_time": 1788582000,
     "airport_name": "Kuala Lumpur",
     "country_name": "Malaysia",
@@ -6410,10 +6519,10 @@
       2.7456,
       101.7098
     ],
-    "notes": "(ETA 1050 ON 29 AUG)"
+    "notes": "-"
   },
   {
-    "id": "50155",
+    "id": "51374",
     "airline": "Fly Dubai",
     "flight_no": "FZ1025",
     "aircraft_type": "B737",
@@ -6427,10 +6536,10 @@
     "notes": "-"
   },
   {
-    "id": "50156",
+    "id": "51375",
     "airline": "Indigo Airlines",
     "flight_no": "6E1167",
-    "aircraft_type": "A320",
+    "aircraft_type": "A321",
     "ut_arrival_time": 1788584400,
     "airport_name": "Bangalore",
     "country_name": "India",
@@ -6441,7 +6550,7 @@
     "notes": "-"
   },
   {
-    "id": "50157",
+    "id": "51376",
     "airline": "Singapore Airlines",
     "flight_no": "SQ462",
     "aircraft_type": "7M8R",
@@ -6455,7 +6564,7 @@
     "notes": "-"
   },
   {
-    "id": "50158",
+    "id": "51377",
     "airline": "Srilankan Airlines",
     "flight_no": "UL152",
     "aircraft_type": "A320",
@@ -6469,7 +6578,7 @@
     "notes": "-"
   },
   {
-    "id": "50159",
+    "id": "51378",
     "airline": "Fits Air",
     "flight_no": "8D922",
     "aircraft_type": "A320",
@@ -6483,7 +6592,7 @@
     "notes": "-"
   },
   {
-    "id": "50160",
+    "id": "51379",
     "airline": "Srilankan Airlines",
     "flight_no": "UL307",
     "aircraft_type": "A320",
@@ -6494,24 +6603,24 @@
       1.3644,
       103.9915
     ],
-    "notes": "-"
+    "notes": "(CANCELLED ON 12 SEP)"
   },
   {
-    "id": "50161",
+    "id": "51380",
     "airline": "Srilankan Airlines",
     "flight_no": "UL132",
-    "aircraft_type": "A32B",
+    "aircraft_type": "A320",
     "ut_arrival_time": 1788587100,
-    "airport_name": "Ho Chi Minh Intl",
+    "airport_name": "Tiruchchirapalli",
     "country_name": "Unknown",
     "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "50162",
+    "id": "51381",
     "airline": "Srilankan Airlines",
     "flight_no": "UL102",
-    "aircraft_type": "A333",
+    "aircraft_type": "A332",
     "ut_arrival_time": 1788587400,
     "airport_name": "Male",
     "country_name": "Maldives",
@@ -6522,10 +6631,10 @@
     "notes": "-"
   },
   {
-    "id": "50163",
+    "id": "51382",
     "airline": "Srilankan Airlines",
     "flight_no": "UL122",
-    "aircraft_type": "A332",
+    "aircraft_type": "A333",
     "ut_arrival_time": 1788587400,
     "airport_name": "Chennai",
     "country_name": "India",
@@ -6536,7 +6645,21 @@
     "notes": "-"
   },
   {
-    "id": "50164",
+    "id": "51383",
+    "airline": "Srilankan Airlines",
+    "flight_no": "UL166",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1788587700,
+    "airport_name": "Cochin",
+    "country_name": "India",
+    "airport_latlng": [
+      10.152,
+      76.3874
+    ],
+    "notes": "-"
+  },
+  {
+    "id": "51384",
     "airline": "Srilankan Airlines",
     "flight_no": "UL1174",
     "aircraft_type": "A320",
@@ -6550,21 +6673,7 @@
     "notes": "-"
   },
   {
-    "id": "50165",
-    "airline": "Srilankan Airlines",
-    "flight_no": "UL166",
-    "aircraft_type": "A320",
-    "ut_arrival_time": 1788587700,
-    "airport_name": "Cochin",
-    "country_name": "India",
-    "airport_latlng": [
-      10.152,
-      76.3874
-    ],
-    "notes": "-"
-  },
-  {
-    "id": "50166",
+    "id": "51385",
     "airline": "Indigo Airlines",
     "flight_no": "6E1175",
     "aircraft_type": "A320",
@@ -6578,7 +6687,7 @@
     "notes": "-"
   },
   {
-    "id": "50167",
+    "id": "51386",
     "airline": "Srilankan Airlines",
     "flight_no": "UL504",
     "aircraft_type": "A333",
@@ -6592,7 +6701,7 @@
     "notes": "-"
   },
   {
-    "id": "50168",
+    "id": "51387",
     "airline": "Indigo Airlines",
     "flight_no": "6E1181",
     "aircraft_type": "A320",
@@ -6606,7 +6715,7 @@
     "notes": "-"
   },
   {
-    "id": "50169",
+    "id": "51388",
     "airline": "Air Arabia",
     "flight_no": "G9508",
     "aircraft_type": "A320",
@@ -6620,7 +6729,7 @@
     "notes": "-"
   },
   {
-    "id": "50170",
+    "id": "51389",
     "airline": "Etihad Airways",
     "flight_no": "EY390",
     "aircraft_type": "A320",
@@ -6634,7 +6743,7 @@
     "notes": "-"
   },
   {
-    "id": "50171",
+    "id": "51390",
     "airline": "Air India",
     "flight_no": "AI2276",
     "aircraft_type": "A321",
@@ -6648,7 +6757,7 @@
     "notes": "-"
   },
   {
-    "id": "50172",
+    "id": "51391",
     "airline": "Chongqing Airlines",
     "flight_no": "OQ2393",
     "aircraft_type": "A320",
@@ -6662,7 +6771,7 @@
     "notes": "-"
   },
   {
-    "id": "50173",
+    "id": "51392",
     "airline": "Srilankan Airlines",
     "flight_no": "UL190",
     "aircraft_type": "A332",
@@ -6676,21 +6785,18 @@
     "notes": "-"
   },
   {
-    "id": "50174",
+    "id": "51393",
     "airline": "Srilankan Airlines",
     "flight_no": "UL405",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1788603300,
-    "airport_name": "Bangkok Suvarnabhumi",
-    "country_name": "Thailand",
-    "airport_latlng": [
-      13.69,
-      100.7501
-    ],
+    "airport_name": "Bangkok",
+    "country_name": "Unknown",
+    "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "50175",
+    "id": "51394",
     "airline": "Srilankan Airlines",
     "flight_no": "UL315",
     "aircraft_type": "A32A",
@@ -6704,7 +6810,7 @@
     "notes": "-"
   },
   {
-    "id": "50176",
+    "id": "51395",
     "airline": "Air India",
     "flight_no": "AI281",
     "aircraft_type": "A321",
@@ -6718,7 +6824,7 @@
     "notes": "-"
   },
   {
-    "id": "50177",
+    "id": "51396",
     "airline": "Indigo Airlines",
     "flight_no": "6E1179",
     "aircraft_type": "A320",
@@ -6732,7 +6838,7 @@
     "notes": "-"
   },
   {
-    "id": "50178",
+    "id": "51397",
     "airline": "Srilankan Airlines",
     "flight_no": "UL140",
     "aircraft_type": "A320",
@@ -6746,7 +6852,7 @@
     "notes": "-"
   },
   {
-    "id": "50179",
+    "id": "51398",
     "airline": "Fly Dubai",
     "flight_no": "FZ549",
     "aircraft_type": "B737",
@@ -6760,7 +6866,7 @@
     "notes": "-"
   },
   {
-    "id": "50180",
+    "id": "51399",
     "airline": "Qatar Airways",
     "flight_no": "QR654",
     "aircraft_type": "B789",
@@ -6774,7 +6880,7 @@
     "notes": "-"
   },
   {
-    "id": "50181",
+    "id": "51400",
     "airline": "Emirates",
     "flight_no": "EK654",
     "aircraft_type": "A359",
@@ -6788,7 +6894,7 @@
     "notes": "-"
   },
   {
-    "id": "50182",
+    "id": "51401",
     "airline": "Srilankan Airlines",
     "flight_no": "UL120",
     "aircraft_type": "A320",
@@ -6802,7 +6908,7 @@
     "notes": "-"
   },
   {
-    "id": "50183",
+    "id": "51402",
     "airline": "Srilankan Airlines",
     "flight_no": "UL455",
     "aircraft_type": "A333",
@@ -6816,7 +6922,7 @@
     "notes": "-"
   },
   {
-    "id": "50184",
+    "id": "51403",
     "airline": "Srilankan Airlines",
     "flight_no": "UL128",
     "aircraft_type": "A320",
@@ -6830,10 +6936,10 @@
     "notes": "-"
   },
   {
-    "id": "50185",
+    "id": "51404",
     "airline": "Srilankan Airlines",
     "flight_no": "UL116",
-    "aircraft_type": "A332",
+    "aircraft_type": "A333",
     "ut_arrival_time": 1788609600,
     "airport_name": "Male",
     "country_name": "Maldives",
@@ -6844,7 +6950,7 @@
     "notes": "-"
   },
   {
-    "id": "50186",
+    "id": "51405",
     "airline": "Srilankan Airlines",
     "flight_no": "UL365",
     "aircraft_type": "A32B",
@@ -6858,7 +6964,21 @@
     "notes": "-"
   },
   {
-    "id": "50187",
+    "id": "51406",
+    "airline": "Jetstar Airways",
+    "flight_no": "JQ5",
+    "aircraft_type": "B788",
+    "ut_arrival_time": 1788610800,
+    "airport_name": "Melbourne",
+    "country_name": "Australia",
+    "airport_latlng": [
+      -37.669,
+      144.841
+    ],
+    "notes": "-"
+  },
+  {
+    "id": "51407",
     "airline": "Emirates",
     "flight_no": "EK652",
     "aircraft_type": "B77W",
@@ -6872,7 +6992,7 @@
     "notes": "-"
   },
   {
-    "id": "50188",
+    "id": "51408",
     "airline": "China Eastern",
     "flight_no": "MU6017",
     "aircraft_type": "A330",
@@ -6886,7 +7006,7 @@
     "notes": "-"
   },
   {
-    "id": "50189",
+    "id": "51409",
     "airline": "Fits Air",
     "flight_no": "8D924",
     "aircraft_type": "A320",
@@ -6900,7 +7020,7 @@
     "notes": "-"
   },
   {
-    "id": "50190",
+    "id": "51410",
     "airline": "Air Arabia Abu Dhabi",
     "flight_no": "3L708",
     "aircraft_type": "A320",
@@ -6914,7 +7034,7 @@
     "notes": "-"
   },
   {
-    "id": "50191",
+    "id": "51411",
     "airline": "Etihad Airways",
     "flight_no": "EY396",
     "aircraft_type": "A320",
@@ -6928,7 +7048,7 @@
     "notes": "-"
   },
   {
-    "id": "50192",
+    "id": "51412",
     "airline": "Batik Air",
     "flight_no": "OD297",
     "aircraft_type": "B738",
@@ -6942,21 +7062,18 @@
     "notes": "-"
   },
   {
-    "id": "50193",
+    "id": "51413",
     "airline": "Air China",
     "flight_no": "CA425",
     "aircraft_type": "A320",
     "ut_arrival_time": 1788621900,
-    "airport_name": "Chengdu-Tianfu",
-    "country_name": "China",
-    "airport_latlng": [
-      30.3089,
-      104.4419
-    ],
+    "airport_name": "Chengdu Tianfu",
+    "country_name": "Unknown",
+    "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "50194",
+    "id": "51414",
     "airline": "Chongqing Airlines",
     "flight_no": "OQ2394",
     "aircraft_type": "A320",
@@ -6970,7 +7087,7 @@
     "notes": "-"
   },
   {
-    "id": "50195",
+    "id": "51415",
     "airline": "Indigo Airlines",
     "flight_no": "6E1173",
     "aircraft_type": "A320",
@@ -6984,7 +7101,7 @@
     "notes": "-"
   },
   {
-    "id": "50196",
+    "id": "51416",
     "airline": "China Eastern",
     "flight_no": "MU713",
     "aircraft_type": "B737",
@@ -6998,10 +7115,10 @@
     "notes": "-"
   },
   {
-    "id": "50197",
+    "id": "51417",
     "airline": "Srilankan Airlines",
     "flight_no": "UL309",
-    "aircraft_type": "A333",
+    "aircraft_type": "A332",
     "ut_arrival_time": 1788624000,
     "airport_name": "Singapore",
     "country_name": "Singapore",
@@ -7012,21 +7129,18 @@
     "notes": "-"
   },
   {
-    "id": "50198",
+    "id": "51418",
     "airline": "Viet Jet",
     "flight_no": "VJ1875",
     "aircraft_type": "A320",
     "ut_arrival_time": 1788625200,
-    "airport_name": "Seychelles",
-    "country_name": "Seychelles",
-    "airport_latlng": [
-      -4.674,
-      55.5218
-    ],
-    "notes": "(FM 22 AUG)"
+    "airport_name": "Ho Chi Minh Intl",
+    "country_name": "Unknown",
+    "airport_latlng": null,
+    "notes": "-"
   },
   {
-    "id": "50199",
+    "id": "51419",
     "airline": "Air Asia Berhad",
     "flight_no": "AK47",
     "aircraft_type": "A320",
@@ -7040,10 +7154,10 @@
     "notes": "-"
   },
   {
-    "id": "50200",
+    "id": "51420",
     "airline": "Emirates",
     "flight_no": "EK648",
-    "aircraft_type": "B77W",
+    "aircraft_type": "A359",
     "ut_arrival_time": 1788626400,
     "airport_name": "Dubai",
     "country_name": "United Arab Emirates",
@@ -7051,24 +7165,21 @@
       25.2532,
       55.3657
     ],
-    "notes": "(A350 FM 08 AUG)"
+    "notes": "(CANCELLED ON 26 SEP)"
   },
   {
-    "id": "50201",
-    "airline": "THAI AIR ASIA",
+    "id": "51421",
+    "airline": "Batik Air",
     "flight_no": "FD140",
     "aircraft_type": "A321",
     "ut_arrival_time": 1788626700,
-    "airport_name": "Bangkok Don Mueang",
-    "country_name": "Thailand",
-    "airport_latlng": [
-      13.9126,
-      100.6074
-    ],
+    "airport_name": "Bangkok",
+    "country_name": "Unknown",
+    "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "50202",
+    "id": "51422",
     "airline": "Srilankan Airlines",
     "flight_no": "UL196",
     "aircraft_type": "A320",
@@ -7082,7 +7193,7 @@
     "notes": "-"
   },
   {
-    "id": "50203",
+    "id": "51423",
     "airline": "Srilankan Airlines",
     "flight_no": "UL605",
     "aircraft_type": "A333",
@@ -7096,7 +7207,7 @@
     "notes": "-"
   },
   {
-    "id": "50204",
+    "id": "51424",
     "airline": "Srilankan Airlines",
     "flight_no": "UL124",
     "aircraft_type": "A320",
@@ -7110,7 +7221,7 @@
     "notes": "-"
   },
   {
-    "id": "50205",
+    "id": "51425",
     "airline": "Malaysia Airlines",
     "flight_no": "MH179",
     "aircraft_type": "B738",
@@ -7124,7 +7235,7 @@
     "notes": "-"
   },
   {
-    "id": "50206",
+    "id": "51426",
     "airline": "Srilankan Airlines",
     "flight_no": "UL104",
     "aircraft_type": "A320",
@@ -7138,24 +7249,21 @@
     "notes": "-"
   },
   {
-    "id": "50207",
+    "id": "51427",
     "airline": "Srilankan Airlines",
     "flight_no": "UL607",
-    "aircraft_type": "A332",
+    "aircraft_type": "A333",
     "ut_arrival_time": 1788629100,
-    "airport_name": "Sydney",
-    "country_name": "Australia",
-    "airport_latlng": [
-      -33.9461,
-      151.1772
-    ],
+    "airport_name": "Sydney Airport",
+    "country_name": "Unknown",
+    "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "50208",
+    "id": "51428",
     "airline": "Srilankan Airlines",
     "flight_no": "UL144",
-    "aircraft_type": "A320",
+    "aircraft_type": "A32A",
     "ut_arrival_time": 1788630000,
     "airport_name": "Mumbai",
     "country_name": "India",
@@ -7166,7 +7274,7 @@
     "notes": "-"
   },
   {
-    "id": "50209",
+    "id": "51429",
     "airline": "Cathay Pacific",
     "flight_no": "CX611",
     "aircraft_type": "A333",
@@ -7180,7 +7288,7 @@
     "notes": "-"
   },
   {
-    "id": "50210",
+    "id": "51430",
     "airline": "Singapore Airlines",
     "flight_no": "SQ468",
     "aircraft_type": "B787",
@@ -7194,21 +7302,18 @@
     "notes": "-"
   },
   {
-    "id": "50211",
+    "id": "51431",
     "airline": "Thai Airways",
     "flight_no": "TG307",
     "aircraft_type": "A320",
     "ut_arrival_time": 1788632700,
-    "airport_name": "Bangkok Suvarnabhumi",
-    "country_name": "Thailand",
-    "airport_latlng": [
-      13.69,
-      100.7501
-    ],
+    "airport_name": "Bangkok",
+    "country_name": "Unknown",
+    "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "50212",
+    "id": "51432",
     "airline": "Fly Dubai",
     "flight_no": "FZ569",
     "aircraft_type": "B737",
@@ -7222,11 +7327,11 @@
     "notes": "-"
   },
   {
-    "id": "50213",
+    "id": "51433",
     "airline": "Kuwait Airways",
     "flight_no": "KU363",
     "aircraft_type": "A32N",
-    "ut_arrival_time": 1788640200,
+    "ut_arrival_time": 1788639900,
     "airport_name": "Kuwait",
     "country_name": "Kuwait",
     "airport_latlng": [
@@ -7236,10 +7341,10 @@
     "notes": "-"
   },
   {
-    "id": "50214",
+    "id": "51434",
     "airline": "Qatar Airways",
     "flight_no": "QR662",
-    "aircraft_type": "B789",
+    "aircraft_type": "B788",
     "ut_arrival_time": 1788640500,
     "airport_name": "Doha",
     "country_name": "Qatar",
@@ -7250,7 +7355,7 @@
     "notes": "-"
   },
   {
-    "id": "50215",
+    "id": "51435",
     "airline": "Air Arabia",
     "flight_no": "G9587",
     "aircraft_type": "A320",
@@ -7264,7 +7369,21 @@
     "notes": "-"
   },
   {
-    "id": "50216",
+    "id": "51436",
+    "airline": "Indigo Airlines",
+    "flight_no": "6E1171",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1788642600,
+    "airport_name": "Chennai",
+    "country_name": "India",
+    "airport_latlng": [
+      12.9902,
+      80.1693
+    ],
+    "notes": "-"
+  },
+  {
+    "id": "51437",
     "airline": "Etihad Airways",
     "flight_no": "EY394",
     "aircraft_type": "A320",
@@ -7278,10 +7397,10 @@
     "notes": "-"
   },
   {
-    "id": "50217",
+    "id": "51438",
     "airline": "Qatar Airways",
     "flight_no": "QR658",
-    "aircraft_type": "B789",
+    "aircraft_type": "B788",
     "ut_arrival_time": 1788644100,
     "airport_name": "Doha",
     "country_name": "Qatar",
@@ -7292,10 +7411,10 @@
     "notes": "-"
   },
   {
-    "id": "50218",
+    "id": "51439",
     "airline": "Jazeera Airways",
     "flight_no": "J9551",
-    "aircraft_type": "A32N",
+    "aircraft_type": "A320",
     "ut_arrival_time": 1788645600,
     "airport_name": "Kuwait",
     "country_name": "Kuwait",
@@ -7306,7 +7425,7 @@
     "notes": "-"
   },
   {
-    "id": "50219",
+    "id": "51440",
     "airline": "Salam Air",
     "flight_no": "OV437",
     "aircraft_type": "A320",
@@ -7320,7 +7439,7 @@
     "notes": "-"
   },
   {
-    "id": "50220",
+    "id": "51441",
     "airline": "Air India",
     "flight_no": "AI277",
     "aircraft_type": "A321",
@@ -7334,7 +7453,7 @@
     "notes": "-"
   },
   {
-    "id": "50221",
+    "id": "51442",
     "airline": "Air Arabia",
     "flight_no": "G9502",
     "aircraft_type": "A320",
@@ -7348,7 +7467,21 @@
     "notes": "-"
   },
   {
-    "id": "50222",
+    "id": "51443",
+    "airline": "Jazeera Airways",
+    "flight_no": "J9553",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1788649800,
+    "airport_name": "Kuwait",
+    "country_name": "Kuwait",
+    "airport_latlng": [
+      29.2266,
+      47.9689
+    ],
+    "notes": "(ETA 0655 ON 06 SEP)"
+  },
+  {
+    "id": "51444",
     "airline": "Srilankan Airlines",
     "flight_no": "UL226",
     "aircraft_type": "A332",
@@ -7362,7 +7495,7 @@
     "notes": "-"
   },
   {
-    "id": "50223",
+    "id": "51445",
     "airline": "Fits Air",
     "flight_no": "8D912",
     "aircraft_type": "A320",
@@ -7376,7 +7509,7 @@
     "notes": "-"
   },
   {
-    "id": "50224",
+    "id": "51446",
     "airline": "Fits Air",
     "flight_no": "8D822",
     "aircraft_type": "A320",
@@ -7387,10 +7520,10 @@
       25.2532,
       55.3657
     ],
-    "notes": "-"
+    "notes": "(ONLY ON 06 & 13 SEP)"
   },
   {
-    "id": "50225",
+    "id": "51447",
     "airline": "Srilankan Airlines",
     "flight_no": "UL230",
     "aircraft_type": "A32B",
@@ -7401,10 +7534,10 @@
       29.2266,
       47.9689
     ],
-    "notes": "(CANCELLED ON 02 AUG)"
+    "notes": "-"
   },
   {
-    "id": "50226",
+    "id": "51448",
     "airline": "Turkish Airlines",
     "flight_no": "TK730",
     "aircraft_type": "A333",
@@ -7418,7 +7551,7 @@
     "notes": "-"
   },
   {
-    "id": "50227",
+    "id": "51449",
     "airline": "Srilankan Airlines",
     "flight_no": "UL142",
     "aircraft_type": "A320",
@@ -7432,7 +7565,7 @@
     "notes": "-"
   },
   {
-    "id": "50228",
+    "id": "51450",
     "airline": "Srilankan Airlines",
     "flight_no": "UL218",
     "aircraft_type": "A32B",
@@ -7446,10 +7579,10 @@
     "notes": "-"
   },
   {
-    "id": "50229",
+    "id": "51451",
     "airline": "Srilankan Airlines",
     "flight_no": "UL254",
-    "aircraft_type": "A32B",
+    "aircraft_type": "A320",
     "ut_arrival_time": 1788654300,
     "airport_name": "Dammam",
     "country_name": "Saudi Arabia",
@@ -7460,7 +7593,7 @@
     "notes": "-"
   },
   {
-    "id": "50230",
+    "id": "51452",
     "airline": "Srilankan Airlines",
     "flight_no": "UL885",
     "aircraft_type": "A32A",
@@ -7474,10 +7607,10 @@
     "notes": "-"
   },
   {
-    "id": "50231",
+    "id": "51453",
     "airline": "Srilankan Airlines",
     "flight_no": "UL266",
-    "aircraft_type": "A333",
+    "aircraft_type": "A332",
     "ut_arrival_time": 1788655800,
     "airport_name": "Riyadh",
     "country_name": "Saudi Arabia",
@@ -7488,7 +7621,7 @@
     "notes": "-"
   },
   {
-    "id": "50232",
+    "id": "51454",
     "airline": "Turkish Airlines",
     "flight_no": "TK1130",
     "aircraft_type": "A320",
@@ -7502,21 +7635,7 @@
     "notes": "-"
   },
   {
-    "id": "50233",
-    "airline": "Jazeera Airways",
-    "flight_no": "J9553",
-    "aircraft_type": "A32N",
-    "ut_arrival_time": 1788660900,
-    "airport_name": "Kuwait",
-    "country_name": "Kuwait",
-    "airport_latlng": [
-      29.2266,
-      47.9689
-    ],
-    "notes": "-"
-  },
-  {
-    "id": "50234",
+    "id": "51455",
     "airline": "Fly Dubai",
     "flight_no": "FZ579",
     "aircraft_type": "B737",
@@ -7530,7 +7649,7 @@
     "notes": "-"
   },
   {
-    "id": "50235",
+    "id": "51456",
     "airline": "Emirates",
     "flight_no": "EK650",
     "aircraft_type": "B77W",
@@ -7544,7 +7663,7 @@
     "notes": "-"
   },
   {
-    "id": "50236",
+    "id": "51457",
     "airline": "Etihad Airways",
     "flight_no": "EY392",
     "aircraft_type": "A320",
@@ -7558,7 +7677,7 @@
     "notes": "-"
   },
   {
-    "id": "50237",
+    "id": "51458",
     "airline": "Indigo Airlines",
     "flight_no": "6E1185",
     "aircraft_type": "A320",
@@ -7572,7 +7691,7 @@
     "notes": "-"
   },
   {
-    "id": "50238",
+    "id": "51459",
     "airline": "Srilankan Airlines",
     "flight_no": "UL192",
     "aircraft_type": "A320",
@@ -7586,7 +7705,7 @@
     "notes": "-"
   },
   {
-    "id": "50239",
+    "id": "51460",
     "airline": "Qatar Airways",
     "flight_no": "QR664",
     "aircraft_type": "B789",
@@ -7600,21 +7719,18 @@
     "notes": "-"
   },
   {
-    "id": "50240",
+    "id": "51461",
     "airline": "Srilankan Airlines",
     "flight_no": "UL403",
     "aircraft_type": "A320",
     "ut_arrival_time": 1788667500,
-    "airport_name": "Bangkok Suvarnabhumi",
-    "country_name": "Thailand",
-    "airport_latlng": [
-      13.69,
-      100.7501
-    ],
+    "airport_name": "Bangkok",
+    "country_name": "Unknown",
+    "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "50241",
+    "id": "51462",
     "airline": "Gulf Air",
     "flight_no": "GF144",
     "aircraft_type": "A32N",
@@ -7628,7 +7744,7 @@
     "notes": "-"
   },
   {
-    "id": "50242",
+    "id": "51463",
     "airline": "Qatar Airways",
     "flight_no": "QR660",
     "aircraft_type": "B788",
@@ -7639,10 +7755,10 @@
       25.2731,
       51.608
     ],
-    "notes": "-"
+    "notes": "(CANCELLED ON 20 & 27 SEP)"
   },
   {
-    "id": "50243",
+    "id": "51464",
     "airline": "Srilankan Airlines",
     "flight_no": "UL319",
     "aircraft_type": "A320",
@@ -7656,7 +7772,7 @@
     "notes": "-"
   },
   {
-    "id": "50244",
+    "id": "51465",
     "airline": "Malaysia Airlines",
     "flight_no": "MH497",
     "aircraft_type": "B738",
@@ -7670,7 +7786,7 @@
     "notes": "-"
   },
   {
-    "id": "50245",
+    "id": "51466",
     "airline": "Fly Dubai",
     "flight_no": "FZ1025",
     "aircraft_type": "B737",
@@ -7684,10 +7800,10 @@
     "notes": "-"
   },
   {
-    "id": "50246",
+    "id": "51467",
     "airline": "Indigo Airlines",
     "flight_no": "6E1167",
-    "aircraft_type": "A320",
+    "aircraft_type": "A321",
     "ut_arrival_time": 1788670800,
     "airport_name": "Bangalore",
     "country_name": "India",
@@ -7698,7 +7814,7 @@
     "notes": "-"
   },
   {
-    "id": "50247",
+    "id": "51468",
     "airline": "Singapore Airlines",
     "flight_no": "SQ462",
     "aircraft_type": "7M8R",
@@ -7712,7 +7828,7 @@
     "notes": "-"
   },
   {
-    "id": "50248",
+    "id": "51469",
     "airline": "Fits Air",
     "flight_no": "8D922",
     "aircraft_type": "A320",
@@ -7726,10 +7842,10 @@
     "notes": "-"
   },
   {
-    "id": "50249",
+    "id": "51470",
     "airline": "Srilankan Airlines",
     "flight_no": "UL307",
-    "aircraft_type": "A320",
+    "aircraft_type": "A32A",
     "ut_arrival_time": 1788672900,
     "airport_name": "Singapore",
     "country_name": "Singapore",
@@ -7740,21 +7856,21 @@
     "notes": "-"
   },
   {
-    "id": "50250",
+    "id": "51471",
     "airline": "Srilankan Airlines",
     "flight_no": "UL132",
     "aircraft_type": "A320",
     "ut_arrival_time": 1788673500,
-    "airport_name": "Ho Chi Minh Intl",
+    "airport_name": "Tiruchchirapalli",
     "country_name": "Unknown",
     "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "50251",
+    "id": "51472",
     "airline": "Srilankan Airlines",
     "flight_no": "UL102",
-    "aircraft_type": "A333",
+    "aircraft_type": "A332",
     "ut_arrival_time": 1788673800,
     "airport_name": "Male",
     "country_name": "Maldives",
@@ -7765,7 +7881,7 @@
     "notes": "-"
   },
   {
-    "id": "50252",
+    "id": "51473",
     "airline": "Srilankan Airlines",
     "flight_no": "UL122",
     "aircraft_type": "A332",
@@ -7779,7 +7895,7 @@
     "notes": "-"
   },
   {
-    "id": "50253",
+    "id": "51474",
     "airline": "Srilankan Airlines",
     "flight_no": "UL166",
     "aircraft_type": "A320",
@@ -7793,7 +7909,7 @@
     "notes": "-"
   },
   {
-    "id": "50254",
+    "id": "51475",
     "airline": "Indigo Airlines",
     "flight_no": "6E1175",
     "aircraft_type": "A320",
@@ -7807,7 +7923,7 @@
     "notes": "-"
   },
   {
-    "id": "50255",
+    "id": "51476",
     "airline": "Srilankan Airlines",
     "flight_no": "UL504",
     "aircraft_type": "A333",
@@ -7821,7 +7937,7 @@
     "notes": "-"
   },
   {
-    "id": "50256",
+    "id": "51477",
     "airline": "Indigo Airlines",
     "flight_no": "6E1181",
     "aircraft_type": "A320",
@@ -7835,7 +7951,7 @@
     "notes": "-"
   },
   {
-    "id": "50257",
+    "id": "51478",
     "airline": "Air Arabia",
     "flight_no": "G9508",
     "aircraft_type": "A320",
@@ -7849,21 +7965,7 @@
     "notes": "-"
   },
   {
-    "id": "50258",
-    "airline": "Air Seychelles",
-    "flight_no": "HM262",
-    "aircraft_type": "A320",
-    "ut_arrival_time": 1788684000,
-    "airport_name": "Seychelles",
-    "country_name": "Seychelles",
-    "airport_latlng": [
-      -4.674,
-      55.5218
-    ],
-    "notes": "(ONLY ON 02 AUG)"
-  },
-  {
-    "id": "50259",
+    "id": "51479",
     "airline": "Etihad Airways",
     "flight_no": "EY390",
     "aircraft_type": "A320",
@@ -7877,7 +7979,7 @@
     "notes": "-"
   },
   {
-    "id": "50260",
+    "id": "51480",
     "airline": "Air India",
     "flight_no": "AI2276",
     "aircraft_type": "A321",
@@ -7891,7 +7993,7 @@
     "notes": "-"
   },
   {
-    "id": "50261",
+    "id": "51481",
     "airline": "Srilankan Airlines",
     "flight_no": "UL178",
     "aircraft_type": "A320",
@@ -7905,7 +8007,7 @@
     "notes": "-"
   },
   {
-    "id": "50262",
+    "id": "51482",
     "airline": "Srilankan Airlines",
     "flight_no": "UL190",
     "aircraft_type": "A320",
@@ -7916,27 +8018,24 @@
       23.8434,
       90.3978
     ],
-    "notes": "(CANCELLED ON 02 AUG)"
+    "notes": "-"
   },
   {
-    "id": "50263",
+    "id": "51483",
     "airline": "Srilankan Airlines",
     "flight_no": "UL405",
     "aircraft_type": "A32B",
     "ut_arrival_time": 1788689700,
-    "airport_name": "Bangkok Suvarnabhumi",
-    "country_name": "Thailand",
-    "airport_latlng": [
-      13.69,
-      100.7501
-    ],
+    "airport_name": "Bangkok",
+    "country_name": "Unknown",
+    "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "50264",
+    "id": "51484",
     "airline": "Srilankan Airlines",
     "flight_no": "UL315",
-    "aircraft_type": "A32B",
+    "aircraft_type": "A320",
     "ut_arrival_time": 1788690600,
     "airport_name": "Kuala Lumpur",
     "country_name": "Malaysia",
@@ -7947,7 +8046,7 @@
     "notes": "-"
   },
   {
-    "id": "50265",
+    "id": "51485",
     "airline": "Air India",
     "flight_no": "AI281",
     "aircraft_type": "A321",
@@ -7961,7 +8060,7 @@
     "notes": "-"
   },
   {
-    "id": "50266",
+    "id": "51486",
     "airline": "Indigo Airlines",
     "flight_no": "6E1179",
     "aircraft_type": "A320",
@@ -7975,7 +8074,7 @@
     "notes": "-"
   },
   {
-    "id": "50267",
+    "id": "51487",
     "airline": "Srilankan Airlines",
     "flight_no": "UL140",
     "aircraft_type": "A320",
@@ -7989,7 +8088,7 @@
     "notes": "-"
   },
   {
-    "id": "50268",
+    "id": "51488",
     "airline": "Fly Dubai",
     "flight_no": "FZ549",
     "aircraft_type": "B737",
@@ -8003,7 +8102,7 @@
     "notes": "-"
   },
   {
-    "id": "50269",
+    "id": "51489",
     "airline": "Srilankan Airlines",
     "flight_no": "UL182",
     "aircraft_type": "A32A",
@@ -8014,10 +8113,10 @@
       27.6966,
       85.3591
     ],
-    "notes": "(CANCELLED ON 30 AUG)"
+    "notes": "-"
   },
   {
-    "id": "50270",
+    "id": "51490",
     "airline": "Qatar Airways",
     "flight_no": "QR654",
     "aircraft_type": "B789",
@@ -8031,7 +8130,7 @@
     "notes": "-"
   },
   {
-    "id": "50271",
+    "id": "51491",
     "airline": "Emirates",
     "flight_no": "EK654",
     "aircraft_type": "A359",
@@ -8045,10 +8144,10 @@
     "notes": "-"
   },
   {
-    "id": "50272",
+    "id": "51492",
     "airline": "Srilankan Airlines",
     "flight_no": "UL455",
-    "aircraft_type": "A332",
+    "aircraft_type": "A333",
     "ut_arrival_time": 1788694200,
     "airport_name": "Narita",
     "country_name": "Japan",
@@ -8059,7 +8158,7 @@
     "notes": "-"
   },
   {
-    "id": "50273",
+    "id": "51493",
     "airline": "Srilankan Airlines",
     "flight_no": "UL128",
     "aircraft_type": "A320",
@@ -8073,10 +8172,10 @@
     "notes": "-"
   },
   {
-    "id": "50274",
+    "id": "51494",
     "airline": "Srilankan Airlines",
     "flight_no": "UL116",
-    "aircraft_type": "A333",
+    "aircraft_type": "A332",
     "ut_arrival_time": 1788696000,
     "airport_name": "Male",
     "country_name": "Maldives",
@@ -8087,7 +8186,7 @@
     "notes": "-"
   },
   {
-    "id": "50275",
+    "id": "51495",
     "airline": "Srilankan Airlines",
     "flight_no": "UL365",
     "aircraft_type": "A32B",
@@ -8101,7 +8200,7 @@
     "notes": "-"
   },
   {
-    "id": "50276",
+    "id": "51496",
     "airline": "Emirates",
     "flight_no": "EK652",
     "aircraft_type": "B77W",
@@ -8115,7 +8214,7 @@
     "notes": "-"
   },
   {
-    "id": "50277",
+    "id": "51497",
     "airline": "China Eastern",
     "flight_no": "MU6017",
     "aircraft_type": "A330",
@@ -8129,7 +8228,7 @@
     "notes": "-"
   },
   {
-    "id": "50278",
+    "id": "51498",
     "airline": "Etihad Airways",
     "flight_no": "EY396",
     "aircraft_type": "A320",
@@ -8143,7 +8242,18 @@
     "notes": "-"
   },
   {
-    "id": "50279",
+    "id": "51499",
+    "airline": "Air China",
+    "flight_no": "CA425",
+    "aircraft_type": "A320",
+    "ut_arrival_time": 1788708300,
+    "airport_name": "Chengdu Tianfu",
+    "country_name": "Unknown",
+    "airport_latlng": null,
+    "notes": "(ONLY ON 27 SEP)"
+  },
+  {
+    "id": "51500",
     "airline": "Indigo Airlines",
     "flight_no": "6E1173",
     "aircraft_type": "A320",
@@ -8157,7 +8267,7 @@
     "notes": "-"
   },
   {
-    "id": "50280",
+    "id": "51501",
     "airline": "Srilankan Airlines",
     "flight_no": "UL309",
     "aircraft_type": "A332",
@@ -8168,10 +8278,10 @@
       1.3644,
       103.9915
     ],
-    "notes": "(A320 ON 16 AUG)"
+    "notes": "-"
   },
   {
-    "id": "50281",
+    "id": "51502",
     "airline": "Air Asia Berhad",
     "flight_no": "AK47",
     "aircraft_type": "A320",
@@ -8185,10 +8295,10 @@
     "notes": "-"
   },
   {
-    "id": "50282",
+    "id": "51503",
     "airline": "Emirates",
     "flight_no": "EK648",
-    "aircraft_type": "B77W",
+    "aircraft_type": "A359",
     "ut_arrival_time": 1788712800,
     "airport_name": "Dubai",
     "country_name": "United Arab Emirates",
@@ -8196,27 +8306,24 @@
       25.2532,
       55.3657
     ],
-    "notes": "'(A350 FM 09 AUG)"
+    "notes": "(CANCELLED ON 27 SEP)"
   },
   {
-    "id": "50283",
-    "airline": "THAI AIR ASIA",
+    "id": "51504",
+    "airline": "Batik Air",
     "flight_no": "FD140",
     "aircraft_type": "A321",
     "ut_arrival_time": 1788713100,
-    "airport_name": "Bangkok Don Mueang",
-    "country_name": "Thailand",
-    "airport_latlng": [
-      13.9126,
-      100.6074
-    ],
+    "airport_name": "Bangkok",
+    "country_name": "Unknown",
+    "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "50284",
+    "id": "51505",
     "airline": "Srilankan Airlines",
     "flight_no": "UL196",
-    "aircraft_type": "A320",
+    "aircraft_type": "A32A",
     "ut_arrival_time": 1788713400,
     "airport_name": "Delhi",
     "country_name": "India",
@@ -8227,7 +8334,7 @@
     "notes": "-"
   },
   {
-    "id": "50285",
+    "id": "51506",
     "airline": "Srilankan Airlines",
     "flight_no": "UL605",
     "aircraft_type": "A333",
@@ -8241,7 +8348,7 @@
     "notes": "-"
   },
   {
-    "id": "50286",
+    "id": "51507",
     "airline": "Srilankan Airlines",
     "flight_no": "UL124",
     "aircraft_type": "A320",
@@ -8255,7 +8362,7 @@
     "notes": "-"
   },
   {
-    "id": "50287",
+    "id": "51508",
     "airline": "Srilankan Airlines",
     "flight_no": "UL172",
     "aircraft_type": "A320",
@@ -8269,7 +8376,7 @@
     "notes": "-"
   },
   {
-    "id": "50288",
+    "id": "51509",
     "airline": "Srilankan Airlines",
     "flight_no": "UL186",
     "aircraft_type": "A320",
@@ -8283,7 +8390,7 @@
     "notes": "-"
   },
   {
-    "id": "50289",
+    "id": "51510",
     "airline": "Malaysia Airlines",
     "flight_no": "MH179",
     "aircraft_type": "B738",
@@ -8297,10 +8404,10 @@
     "notes": "-"
   },
   {
-    "id": "50290",
+    "id": "51511",
     "airline": "Srilankan Airlines",
     "flight_no": "UL104",
-    "aircraft_type": "A32A",
+    "aircraft_type": "A320",
     "ut_arrival_time": 1788715500,
     "airport_name": "Male",
     "country_name": "Maldives",
@@ -8311,21 +8418,18 @@
     "notes": "-"
   },
   {
-    "id": "50291",
+    "id": "51512",
     "airline": "Srilankan Airlines",
     "flight_no": "UL607",
-    "aircraft_type": "A332",
+    "aircraft_type": "A333",
     "ut_arrival_time": 1788715500,
-    "airport_name": "Sydney",
-    "country_name": "Australia",
-    "airport_latlng": [
-      -33.9461,
-      151.1772
-    ],
+    "airport_name": "Sydney Airport",
+    "country_name": "Unknown",
+    "airport_latlng": null,
     "notes": "-"
   },
   {
-    "id": "50292",
+    "id": "51513",
     "airline": "Srilankan Airlines",
     "flight_no": "UL144",
     "aircraft_type": "A320",
@@ -8339,7 +8443,7 @@
     "notes": "-"
   },
   {
-    "id": "50293",
+    "id": "51514",
     "airline": "Cathay Pacific",
     "flight_no": "CX611",
     "aircraft_type": "A333",
@@ -8353,7 +8457,7 @@
     "notes": "-"
   },
   {
-    "id": "50294",
+    "id": "51515",
     "airline": "Singapore Airlines",
     "flight_no": "SQ468",
     "aircraft_type": "B787",
@@ -8367,17 +8471,25 @@
     "notes": "-"
   },
   {
-    "id": "50295",
+    "id": "51516",
+    "airline": "Vietnam Airlines",
+    "flight_no": "VN671",
+    "aircraft_type": "A321",
+    "ut_arrival_time": 1788717900,
+    "airport_name": "Ho Chi Minh Intl",
+    "country_name": "Unknown",
+    "airport_latlng": null,
+    "notes": "-"
+  },
+  {
+    "id": "51517",
     "airline": "Thai Airways",
     "flight_no": "TG307",
     "aircraft_type": "A320",
     "ut_arrival_time": 1788719100,
-    "airport_name": "Bangkok Suvarnabhumi",
-    "country_name": "Thailand",
-    "airport_latlng": [
-      13.69,
-      100.7501
-    ],
+    "airport_name": "Bangkok",
+    "country_name": "Unknown",
+    "airport_latlng": null,
     "notes": "-"
   }
 ]

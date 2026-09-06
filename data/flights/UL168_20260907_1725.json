@@ -1,0 +1,14 @@
+{
+  "id": "50961",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL168",
+  "aircraft_type": "A32B",
+  "ut_arrival_time": 1788782100,
+  "airport_name": "Cochin",
+  "country_name": "India",
+  "airport_latlng": [
+    10.152,
+    76.3874
+  ],
+  "notes": "-"
+}

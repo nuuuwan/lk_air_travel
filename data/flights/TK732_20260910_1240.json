@@ -1,0 +1,14 @@
+{
+  "id": "51205",
+  "airline": "Turkish Airlines",
+  "flight_no": "TK732",
+  "aircraft_type": "B77X",
+  "ut_arrival_time": 1789024200,
+  "airport_name": "Istanbul Ataturk",
+  "country_name": "Turkey",
+  "airport_latlng": [
+    40.9769,
+    28.8146
+  ],
+  "notes": "(ONLY ON 03 & 10 SEP)"
+}

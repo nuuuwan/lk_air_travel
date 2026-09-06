@@ -1,0 +1,14 @@
+{
+  "id": "51148",
+  "airline": "Emirates",
+  "flight_no": "EK648",
+  "aircraft_type": "A359",
+  "ut_arrival_time": 1788972000,
+  "airport_name": "Dubai",
+  "country_name": "United Arab Emirates",
+  "airport_latlng": [
+    25.2532,
+    55.3657
+  ],
+  "notes": "(CANCELLED ON 23 & 30 SEP)"
+}

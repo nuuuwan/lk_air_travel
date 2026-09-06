@@ -1,0 +1,14 @@
+{
+  "id": "51092",
+  "airline": "Fits Air",
+  "flight_no": "8D822",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1788911100,
+  "airport_name": "Dubai",
+  "country_name": "United Arab Emirates",
+  "airport_latlng": [
+    25.2532,
+    55.3657
+  ],
+  "notes": "(ONLY ON 02 & 09 SEP)"
+}

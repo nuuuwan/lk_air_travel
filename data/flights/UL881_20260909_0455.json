@@ -1,0 +1,14 @@
+{
+  "id": "51090",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL881",
+  "aircraft_type": "A32A",
+  "ut_arrival_time": 1788909900,
+  "airport_name": "Guangzhou Baiyun",
+  "country_name": "China",
+  "airport_latlng": [
+    23.3924,
+    113.2988
+  ],
+  "notes": "(A332 ON 30 SEP)"
+}

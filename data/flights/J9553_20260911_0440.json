@@ -1,0 +1,14 @@
+{
+  "id": "51263",
+  "airline": "Jazeera Airways",
+  "flight_no": "J9553",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1789081800,
+  "airport_name": "Kuwait",
+  "country_name": "Kuwait",
+  "airport_latlng": [
+    29.2266,
+    47.9689
+  ],
+  "notes": "(ETA 0655 ON 04 & 11 SEP)"
+}

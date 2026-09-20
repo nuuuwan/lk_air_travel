@@ -1,6 +1,6 @@
 # Air Travel in 🇱🇰 Sri Lanka (lk_air_travel)
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--20_23:42:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--21_00:08:03-green)
 
 ![Flight Map](images/flight_map.png)
 
@@ -25,7 +25,7 @@ Each flight record includes:
   "flight_no": "TG307",
   "airline": "Thai Airways",
   "aircraft_type": "A320",
-  "arrival_time": "2026-09-20 23:55",
+  "arrival_time": "2026-09-27 23:55",
   "airport_name": "Bangkok",
   "country_name": "Unknown"
 }
@@ -33,7 +33,7 @@ Each flight record includes:
 
 ## Summary Statistics
 
-**Scheduled flights for the week: 2026-09-14 to 2026-09-20**
+**Scheduled flights for the week: 2026-09-21 to 2026-09-27**
 
 - **621** total flights
 - **44** origins

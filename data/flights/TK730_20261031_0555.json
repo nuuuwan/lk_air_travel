@@ -1,0 +1,11 @@
+{
+  "id": "52615",
+  "airline": "Turkish Airlines",
+  "flight_no": "TK730",
+  "aircraft_type": "A333",
+  "ut_arrival_time": 1793406300,
+  "airport_name": "Istanbul",
+  "country_name": "Unknown",
+  "airport_latlng": null,
+  "notes": "-"
+}

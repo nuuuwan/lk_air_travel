@@ -1,0 +1,14 @@
+{
+  "id": "52543",
+  "airline": "Air India",
+  "flight_no": "AI283",
+  "aircraft_type": "A321",
+  "ut_arrival_time": 1793337900,
+  "airport_name": "Delhi",
+  "country_name": "India",
+  "airport_latlng": [
+    28.5562,
+    77.1
+  ],
+  "notes": "-"
+}

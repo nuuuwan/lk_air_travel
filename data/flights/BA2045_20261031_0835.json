@@ -1,0 +1,11 @@
+{
+  "id": "52624",
+  "airline": "British Airways",
+  "flight_no": "BA2045",
+  "aircraft_type": "B772",
+  "ut_arrival_time": 1793415900,
+  "airport_name": "Gatwick Airport",
+  "country_name": "Unknown",
+  "airport_latlng": null,
+  "notes": "-"
+}

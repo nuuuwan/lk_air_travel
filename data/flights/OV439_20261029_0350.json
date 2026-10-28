@@ -1,0 +1,14 @@
+{
+  "id": "52420",
+  "airline": "Salam Air",
+  "flight_no": "OV439",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1793226000,
+  "airport_name": "Muscat",
+  "country_name": "Oman",
+  "airport_latlng": [
+    23.5933,
+    58.2844
+  ],
+  "notes": "(ETA 0525 ON 26 NOV)"
+}

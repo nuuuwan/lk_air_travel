@@ -1,0 +1,11 @@
+{
+  "id": "52435",
+  "airline": "Edelweiss Air",
+  "flight_no": "WK64",
+  "aircraft_type": "A343",
+  "ut_arrival_time": 1793241000,
+  "airport_name": "Zurich",
+  "country_name": "Unknown",
+  "airport_latlng": null,
+  "notes": "-"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "52307",
+  "airline": "Air China",
+  "flight_no": "CA425",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1793115300,
+  "airport_name": "Chengdu Tianfu",
+  "country_name": "Unknown",
+  "airport_latlng": null,
+  "notes": "-"
+}

@@ -1,8 +1,8 @@
 {
-  "id": "51230",
+  "id": "52485",
   "airline": "China Eastern",
   "flight_no": "MU6017",
-  "aircraft_type": "A330",
+  "aircraft_type": "A333",
   "ut_arrival_time": 1793280600,
   "airport_name": "Shanghai",
   "country_name": "China",
@@ -10,5 +10,5 @@
     31.1443,
     121.8083
   ],
-  "notes": "-"
+  "notes": "(CANCELLED  ON 05 NOV)"
 }

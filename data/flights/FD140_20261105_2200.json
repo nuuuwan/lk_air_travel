@@ -1,0 +1,14 @@
+{
+  "id": "52495",
+  "airline": "THAI AIR ASIA",
+  "flight_no": "FD140",
+  "aircraft_type": "A321",
+  "ut_arrival_time": 1793896200,
+  "airport_name": "Bangkok",
+  "country_name": "Thailand",
+  "airport_latlng": [
+    13.69,
+    100.7501
+  ],
+  "notes": "-"
+}

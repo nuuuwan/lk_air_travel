@@ -1,6 +1,6 @@
 # Air Travel in 🇱🇰 Sri Lanka (lk_air_travel)
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--01_23:37:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--02_00:03:47-green)
 
 ![Flight Map](images/flight_map.png)
 
@@ -25,7 +25,7 @@ Each flight record includes:
   "flight_no": "UL232",
   "airline": "Srilankan Airlines",
   "aircraft_type": "A32A",
-  "arrival_time": "2026-11-01 23:50",
+  "arrival_time": "2026-11-08 23:50",
   "airport_name": "Dubai",
   "country_name": "United Arab Emirates"
 }
@@ -33,7 +33,7 @@ Each flight record includes:
 
 ## Summary Statistics
 
-**Scheduled flights for the week: 2026-10-26 to 2026-11-01**
+**Scheduled flights for the week: 2026-11-02 to 2026-11-08**
 
 - **642** total flights
 - **48** origins

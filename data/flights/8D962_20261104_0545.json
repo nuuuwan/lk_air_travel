@@ -1,0 +1,14 @@
+{
+  "id": "52342",
+  "airline": "Fits Air",
+  "flight_no": "8D962",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1793751300,
+  "airport_name": "Ahmedabad Intl",
+  "country_name": "India",
+  "airport_latlng": [
+    23.0772,
+    72.6347
+  ],
+  "notes": "-"
+}

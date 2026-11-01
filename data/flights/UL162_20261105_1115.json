@@ -1,0 +1,14 @@
+{
+  "id": "52455",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL162",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1793857500,
+  "airport_name": "Trivandrum",
+  "country_name": "India",
+  "airport_latlng": [
+    8.4821,
+    76.92
+  ],
+  "notes": "(FM 05 NOV)"
+}

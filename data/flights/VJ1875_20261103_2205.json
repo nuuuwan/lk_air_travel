@@ -1,0 +1,14 @@
+{
+  "id": "52313",
+  "airline": "Viet Jet",
+  "flight_no": "VJ1875",
+  "aircraft_type": "A320",
+  "ut_arrival_time": 1793723700,
+  "airport_name": "Ho Chi Minh Intl",
+  "country_name": "Vietnam",
+  "airport_latlng": [
+    10.8188,
+    106.652
+  ],
+  "notes": "-"
+}

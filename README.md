@@ -1,6 +1,6 @@
 # Air Travel in 🇱🇰 Sri Lanka (lk_air_travel)
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--01_17:03:30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--01_17:28:11-green)
 
 ![Flight Map](images/flight_map.png)
 
@@ -37,7 +37,7 @@ Each flight record includes:
 
 - **642** total flights
 - **48** origins
-- **22** countries
+- **27** countries
 - **32** airlines
 
 ## Airlines
@@ -81,28 +81,33 @@ Each flight record includes:
 
 | # | Country | Destinations | Flights/Week |
 |---:|---------|-------------:|-------------:|
-| 1 | 🇮🇳 India | 7 | 167 |
+| 1 | 🇮🇳 India | 10 | 182 |
 | 2 | 🇦🇪 United Arab Emirates | 3 | 101 |
-| 3 | 🏳️ Unknown | 13 | 84 |
-| 4 | 🇲🇻 Maldives | 2 | 56 |
-| 5 | 🇲🇾 Malaysia | 1 | 42 |
-| 6 | 🇶🇦 Qatar | 1 | 35 |
-| 7 | 🇰🇼 Kuwait | 1 | 22 |
-| 8 | 🇸🇬 Singapore | 1 | 21 |
-| 9 | 🇨🇳 China | 4 | 20 |
-| 10 | 🇧🇩 Bangladesh | 1 | 14 |
-| 11 | 🇸🇦 Saudi Arabia | 2 | 14 |
-| 12 | 🇦🇺 Australia | 1 | 13 |
-| 13 | 🇬🇧 United Kingdom | 1 | 9 |
-| 14 | 🇵🇰 Pakistan | 2 | 8 |
-| 15 | 🇴🇲 Oman | 1 | 7 |
-| 16 | 🇮🇩 Indonesia | 1 | 7 |
-| 17 | 🇭🇰 Hong Kong | 1 | 7 |
-| 18 | 🇳🇵 Nepal | 1 | 4 |
-| 19 | 🇯🇵 Japan | 1 | 4 |
-| 20 | 🇷🇺 Russia | 1 | 3 |
-| 21 | 🇸🇨 Seychelles | 1 | 2 |
-| 22 | 🇰🇷 South Korea | 1 | 2 |
+| 3 | 🇲🇻 Maldives | 2 | 56 |
+| 4 | 🇲🇾 Malaysia | 1 | 42 |
+| 5 | 🇶🇦 Qatar | 1 | 35 |
+| 6 | 🇹🇭 Thailand | 1 | 28 |
+| 7 | 🇨🇳 China | 5 | 27 |
+| 8 | 🇰🇼 Kuwait | 1 | 22 |
+| 9 | 🇸🇬 Singapore | 1 | 21 |
+| 10 | 🇦🇺 Australia | 2 | 17 |
+| 11 | 🇧🇩 Bangladesh | 1 | 14 |
+| 12 | 🇸🇦 Saudi Arabia | 2 | 14 |
+| 13 | 🇬🇧 United Kingdom | 2 | 12 |
+| 14 | 🇹🇷 Turkey | 1 | 11 |
+| 15 | 🇵🇰 Pakistan | 2 | 8 |
+| 16 | 🇴🇲 Oman | 1 | 7 |
+| 17 | 🇮🇩 Indonesia | 1 | 7 |
+| 18 | 🇭🇰 Hong Kong | 1 | 7 |
+| 19 | 🇻🇳 Vietnam | 1 | 6 |
+| 20 | 🇩🇪 Germany | 2 | 5 |
+| 21 | 🇳🇵 Nepal | 1 | 4 |
+| 22 | 🇯🇵 Japan | 1 | 4 |
+| 23 | 🇨🇭 Switzerland | 1 | 3 |
+| 24 | 🇷🇺 Russia | 1 | 3 |
+| 25 | 🇸🇨 Seychelles | 1 | 2 |
+| 26 | 🇫🇷 France | 1 | 2 |
+| 27 | 🇰🇷 South Korea | 1 | 2 |
 
 ## Inbound Locations
 
@@ -115,7 +120,7 @@ Each flight record includes:
 | 5 | 🇲🇾 Malaysia | Kuala Lumpur | 42 |
 | 6 | 🇶🇦 Qatar | Doha | 35 |
 | 7 | 🇦🇪 United Arab Emirates | Abu Dhabi | 32 |
-| 8 | 🏳️ Unknown | Bangkok | 28 |
+| 8 | 🇹🇭 Thailand | Bangkok | 28 |
 | 9 | 🇮🇳 India | Mumbai | 28 |
 | 10 | 🇮🇳 India | Bangalore | 24 |
 | 11 | 🇰🇼 Kuwait | Kuwait | 22 |
@@ -123,10 +128,10 @@ Each flight record includes:
 | 13 | 🇦🇪 United Arab Emirates | Sharjah | 20 |
 | 14 | 🇧🇩 Bangladesh | Dhaka | 14 |
 | 15 | 🇦🇺 Australia | Melbourne | 13 |
-| 16 | 🏳️ Unknown | Istanbul | 11 |
+| 16 | 🇹🇷 Turkey | Istanbul | 11 |
 | 17 | 🇮🇳 India | Hyderabad Intl | 11 |
 | 18 | 🇬🇧 United Kingdom | London-Heathrow | 9 |
-| 19 | 🏳️ Unknown | Tiruchchirapalli | 8 |
+| 19 | 🇮🇳 India | Tiruchchirapalli | 8 |
 | 20 | 🇴🇲 Oman | Muscat | 7 |
 | 21 | 🇸🇦 Saudi Arabia | Dammam | 7 |
 | 22 | 🇸🇦 Saudi Arabia | Riyadh | 7 |
@@ -134,26 +139,26 @@ Each flight record includes:
 | 24 | 🇮🇳 India | Cochin | 7 |
 | 25 | 🇮🇩 Indonesia | Jakarta | 7 |
 | 26 | 🇨🇳 China | Shanghai | 7 |
-| 27 | 🏳️ Unknown | Chengdu Tianfu | 7 |
+| 27 | 🇨🇳 China | Chengdu Tianfu | 7 |
 | 28 | 🇭🇰 Hong Kong | Hong Kong | 7 |
-| 29 | 🏳️ Unknown | Ho Chi Minh Intl | 6 |
+| 29 | 🇻🇳 Vietnam | Ho Chi Minh Intl | 6 |
 | 30 | 🇨🇳 China | Kunming | 5 |
 | 31 | 🇨🇳 China | Guangzhou Baiyun | 5 |
 | 32 | 🇵🇰 Pakistan | Karachi | 4 |
 | 33 | 🇵🇰 Pakistan | Lahore | 4 |
-| 34 | 🏳️ Unknown | Trivandrum | 4 |
+| 34 | 🇮🇳 India | Trivandrum | 4 |
 | 35 | 🇳🇵 Nepal | Kathmandu | 4 |
 | 36 | 🇯🇵 Japan | Narita | 4 |
-| 37 | 🏳️ Unknown | Sydney Airport | 4 |
-| 38 | 🏳️ Unknown | Ahmedabad Intl | 3 |
-| 39 | 🏳️ Unknown | Frankfurt | 3 |
-| 40 | 🏳️ Unknown | Zurich | 3 |
-| 41 | 🏳️ Unknown | Gatwick Airport | 3 |
+| 37 | 🇦🇺 Australia | Sydney Airport | 4 |
+| 38 | 🇮🇳 India | Ahmedabad Intl | 3 |
+| 39 | 🇩🇪 Germany | Frankfurt | 3 |
+| 40 | 🇨🇭 Switzerland | Zurich | 3 |
+| 41 | 🇬🇧 United Kingdom | Gatwick Airport | 3 |
 | 42 | 🇨🇳 China | Chongqing | 3 |
 | 43 | 🇷🇺 Russia | Sheremetyevo | 3 |
 | 44 | 🇸🇨 Seychelles | Seychelles | 2 |
-| 45 | 🏳️ Unknown | Paris Charles de Gaulle Airport | 2 |
-| 46 | 🏳️ Unknown | Frankfurt Airport | 2 |
+| 45 | 🇫🇷 France | Paris Charles de Gaulle Airport | 2 |
+| 46 | 🇩🇪 Germany | Frankfurt Airport | 2 |
 | 47 | 🇰🇷 South Korea | Incheon | 2 |
 | 48 | 🇲🇻 Maldives | Gan Intl | 2 |
 

@@ -3,7 +3,7 @@
 Tracking inbound flights to Colombo (CMB) for 2026-10-26 to 2026-11-01
 
 • 642 total flights
-• 22 countries
+• 27 countries
 • 48 origin airports
 • 32 airlines
 
@@ -36,16 +36,16 @@ GitHub: https://github.com/nuuuwan/lk_air_travel
 
 3/ Top Countries by Connectivity
 
-1. 🇮🇳 India: 167 flights (7 destinations)
+1. 🇮🇳 India: 182 flights (10 destinations)
 2. 🇦🇪 United Arab Emirates: 101 flights (3 destinations)
-3. 🏳️ Unknown: 84 flights (13 destinations)
-4. 🇲🇻 Maldives: 56 flights (2 destinations)
-5. 🇲🇾 Malaysia: 42 flights (1 destinations)
-6. 🇶🇦 Qatar: 35 flights (1 destinations)
-7. 🇰🇼 Kuwait: 22 flights (1 destinations)
-8. 🇸🇬 Singapore: 21 flights (1 destinations)
-9. 🇨🇳 China: 20 flights (4 destinations)
-10. 🇧🇩 Bangladesh: 14 flights (1 destinations)
+3. 🇲🇻 Maldives: 56 flights (2 destinations)
+4. 🇲🇾 Malaysia: 42 flights (1 destinations)
+5. 🇶🇦 Qatar: 35 flights (1 destinations)
+6. 🇹🇭 Thailand: 28 flights (1 destinations)
+7. 🇨🇳 China: 27 flights (5 destinations)
+8. 🇰🇼 Kuwait: 22 flights (1 destinations)
+9. 🇸🇬 Singapore: 21 flights (1 destinations)
+10. 🇦🇺 Australia: 17 flights (2 destinations)
 
 #GlobalConnectivity #IndianOcean
 
@@ -60,7 +60,7 @@ GitHub: https://github.com/nuuuwan/lk_air_travel
 5. 🇲🇾 Kuala Lumpur: 42 flights/week
 6. 🇶🇦 Doha: 35 flights/week
 7. 🇦🇪 Abu Dhabi: 32 flights/week
-8. 🏳️ Bangkok: 28 flights/week
+8. 🇹🇭 Bangkok: 28 flights/week
 9. 🇮🇳 Mumbai: 28 flights/week
 10. 🇮🇳 Bangalore: 24 flights/week
 

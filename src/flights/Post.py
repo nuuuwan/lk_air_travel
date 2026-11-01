@@ -47,6 +47,7 @@ class Post:
             "Kazakhstan": "🇰🇿",
             "South Korea": "🇰🇷",
             "Switzerland": "🇨🇭",
+            "Vietnam": "🇻🇳",
             "Bahrain/Maldives": "🇧🇭",
             "United Arab Emirates/Maldives": "🇦🇪",
             "Turkey/India": "🇹🇷",

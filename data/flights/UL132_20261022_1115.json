@@ -5,7 +5,10 @@
   "aircraft_type": "A320",
   "ut_arrival_time": 1792647900,
   "airport_name": "Tiruchchirapalli",
-  "country_name": "Unknown",
-  "airport_latlng": null,
+  "country_name": "India",
+  "airport_latlng": [
+    10.7654,
+    78.7097
+  ],
   "notes": "-"
 }

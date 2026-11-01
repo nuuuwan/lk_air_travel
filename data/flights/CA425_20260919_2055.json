@@ -5,7 +5,10 @@
   "aircraft_type": "A320",
   "ut_arrival_time": 1789831500,
   "airport_name": "Chengdu Tianfu",
-  "country_name": "Unknown",
-  "airport_latlng": null,
+  "country_name": "China",
+  "airport_latlng": [
+    30.3089,
+    104.4419
+  ],
   "notes": "-"
 }

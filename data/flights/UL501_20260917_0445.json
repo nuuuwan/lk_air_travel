@@ -5,7 +5,10 @@
   "aircraft_type": "A333",
   "ut_arrival_time": 1789600500,
   "airport_name": "Frankfurt Airport",
-  "country_name": "Unknown",
-  "airport_latlng": null,
+  "country_name": "Germany",
+  "airport_latlng": [
+    50.0379,
+    8.5622
+  ],
   "notes": "(CANCELLED ON 03 SEP)"
 }

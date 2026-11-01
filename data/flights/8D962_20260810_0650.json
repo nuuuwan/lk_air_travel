@@ -5,7 +5,10 @@
   "aircraft_type": "A320",
   "ut_arrival_time": 1786324800,
   "airport_name": "Ahmedabad Intl",
-  "country_name": "Unknown",
-  "airport_latlng": null,
+  "country_name": "India",
+  "airport_latlng": [
+    23.0772,
+    72.6347
+  ],
   "notes": "-"
 }

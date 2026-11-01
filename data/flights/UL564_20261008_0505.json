@@ -5,7 +5,10 @@
   "aircraft_type": "A333",
   "ut_arrival_time": 1791416100,
   "airport_name": "Paris Charles de Gaulle Airport",
-  "country_name": "Unknown",
-  "airport_latlng": null,
+  "country_name": "France",
+  "airport_latlng": [
+    49.0097,
+    2.5479
+  ],
   "notes": "(ONLY ON 03 SEP)"
 }

@@ -5,7 +5,10 @@
   "aircraft_type": "A320",
   "ut_arrival_time": 1793153700,
   "airport_name": "Istanbul",
-  "country_name": "Unknown",
-  "airport_latlng": null,
+  "country_name": "Turkey",
+  "airport_latlng": [
+    41.2753,
+    28.7519
+  ],
   "notes": "-"
 }

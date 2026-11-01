@@ -5,7 +5,10 @@
   "aircraft_type": "A321",
   "ut_arrival_time": 1788713100,
   "airport_name": "Bangkok",
-  "country_name": "Unknown",
-  "airport_latlng": null,
+  "country_name": "Thailand",
+  "airport_latlng": [
+    13.69,
+    100.7501
+  ],
   "notes": "-"
 }

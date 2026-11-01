@@ -5,7 +5,10 @@
   "aircraft_type": "A343",
   "ut_arrival_time": 1793068200,
   "airport_name": "Zurich",
-  "country_name": "Unknown",
-  "airport_latlng": null,
+  "country_name": "Switzerland",
+  "airport_latlng": [
+    47.4647,
+    8.5492
+  ],
   "notes": "-"
 }

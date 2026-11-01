@@ -6,8 +6,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1792953060,
     "airport_name": "Bangkok",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -31,8 +34,11 @@
     "aircraft_type": "A321",
     "ut_arrival_time": 1792955400,
     "airport_name": "Ho Chi Minh Intl",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Vietnam",
+    "airport_latlng": [
+      10.8188,
+      106.652
+    ],
     "notes": "-"
   },
   {
@@ -252,8 +258,11 @@
     "aircraft_type": "A333",
     "ut_arrival_time": 1792972500,
     "airport_name": "Paris Charles de Gaulle Airport",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "France",
+    "airport_latlng": [
+      49.0097,
+      2.5479
+    ],
     "notes": "(ONLY ON 02 NOV)"
   },
   {
@@ -277,8 +286,11 @@
     "aircraft_type": "A332",
     "ut_arrival_time": 1792973400,
     "airport_name": "Frankfurt Airport",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Germany",
+    "airport_latlng": [
+      50.0379,
+      8.5622
+    ],
     "notes": "(ONLY ON 02 NOV)"
   },
   {
@@ -288,8 +300,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1792973700,
     "airport_name": "Ahmedabad Intl",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "India",
+    "airport_latlng": [
+      23.0772,
+      72.6347
+    ],
     "notes": "-"
   },
   {
@@ -299,8 +314,11 @@
     "aircraft_type": "A333",
     "ut_arrival_time": 1792973700,
     "airport_name": "Frankfurt",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Germany",
+    "airport_latlng": [
+      50.0379,
+      8.5622
+    ],
     "notes": "(CANCELLED ON 02 NOV)"
   },
   {
@@ -324,8 +342,11 @@
     "aircraft_type": "A333",
     "ut_arrival_time": 1792974300,
     "airport_name": "Istanbul",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Turkey",
+    "airport_latlng": [
+      41.2753,
+      28.7519
+    ],
     "notes": "-"
   },
   {
@@ -503,8 +524,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1792989600,
     "airport_name": "Bangkok",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -612,8 +636,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1792993500,
     "airport_name": "Trivandrum",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "India",
+    "airport_latlng": [
+      8.4821,
+      76.92
+    ],
     "notes": "-"
   },
   {
@@ -791,8 +818,11 @@
     "aircraft_type": "A32B",
     "ut_arrival_time": 1793010300,
     "airport_name": "Bangkok",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -900,8 +930,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793014800,
     "airport_name": "Tiruchchirapalli",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "India",
+    "airport_latlng": [
+      10.7654,
+      78.7097
+    ],
     "notes": "-"
   },
   {
@@ -1051,8 +1084,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793028900,
     "airport_name": "Chengdu Tianfu",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "China",
+    "airport_latlng": [
+      30.3089,
+      104.4419
+    ],
     "notes": "-"
   },
   {
@@ -1104,8 +1140,11 @@
     "aircraft_type": "A321",
     "ut_arrival_time": 1793032200,
     "airport_name": "Bangkok",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -1269,8 +1308,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793039460,
     "airport_name": "Bangkok",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -1518,8 +1560,11 @@
     "aircraft_type": "A333",
     "ut_arrival_time": 1793060700,
     "airport_name": "Istanbul",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Turkey",
+    "airport_latlng": [
+      41.2753,
+      28.7519
+    ],
     "notes": "-"
   },
   {
@@ -1571,8 +1616,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793067300,
     "airport_name": "Istanbul",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Turkey",
+    "airport_latlng": [
+      41.2753,
+      28.7519
+    ],
     "notes": "-"
   },
   {
@@ -1582,8 +1630,11 @@
     "aircraft_type": "A343",
     "ut_arrival_time": 1793068200,
     "airport_name": "Zurich",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Switzerland",
+    "airport_latlng": [
+      47.4647,
+      8.5492
+    ],
     "notes": "-"
   },
   {
@@ -1649,8 +1700,11 @@
     "aircraft_type": "B772",
     "ut_arrival_time": 1793070300,
     "airport_name": "Gatwick Airport",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "United Kingdom",
+    "airport_latlng": [
+      51.1537,
+      -0.1821
+    ],
     "notes": "-"
   },
   {
@@ -1730,8 +1784,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793076000,
     "airport_name": "Bangkok",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -1825,8 +1882,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793079900,
     "airport_name": "Tiruchchirapalli",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "India",
+    "airport_latlng": [
+      10.7654,
+      78.7097
+    ],
     "notes": "-"
   },
   {
@@ -1836,8 +1896,11 @@
     "aircraft_type": "A32A",
     "ut_arrival_time": 1793079900,
     "airport_name": "Trivandrum",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "India",
+    "airport_latlng": [
+      8.4821,
+      76.92
+    ],
     "notes": "-"
   },
   {
@@ -2029,8 +2092,11 @@
     "aircraft_type": "A32B",
     "ut_arrival_time": 1793096700,
     "airport_name": "Bangkok",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -2292,8 +2358,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793115300,
     "airport_name": "Chengdu Tianfu",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "China",
+    "airport_latlng": [
+      30.3089,
+      104.4419
+    ],
     "notes": "-"
   },
   {
@@ -2359,8 +2428,11 @@
     "aircraft_type": "A321",
     "ut_arrival_time": 1793118600,
     "airport_name": "Bangkok",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -2370,8 +2442,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793118900,
     "airport_name": "Ho Chi Minh Intl",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Vietnam",
+    "airport_latlng": [
+      10.8188,
+      106.652
+    ],
     "notes": "-"
   },
   {
@@ -2465,8 +2540,11 @@
     "aircraft_type": "A333",
     "ut_arrival_time": 1793121600,
     "airport_name": "Sydney Airport",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Australia",
+    "airport_latlng": [
+      -33.9461,
+      151.1772
+    ],
     "notes": "-"
   },
   {
@@ -2532,8 +2610,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793125860,
     "airport_name": "Bangkok",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -2767,8 +2848,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793146500,
     "airport_name": "Ahmedabad Intl",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "India",
+    "airport_latlng": [
+      23.0772,
+      72.6347
+    ],
     "notes": "-"
   },
   {
@@ -2792,8 +2876,11 @@
     "aircraft_type": "A333",
     "ut_arrival_time": 1793147100,
     "airport_name": "Istanbul",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Turkey",
+    "airport_latlng": [
+      41.2753,
+      28.7519
+    ],
     "notes": "-"
   },
   {
@@ -2831,8 +2918,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793153700,
     "airport_name": "Istanbul",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Turkey",
+    "airport_latlng": [
+      41.2753,
+      28.7519
+    ],
     "notes": "-"
   },
   {
@@ -2996,8 +3086,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793162400,
     "airport_name": "Bangkok",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -3091,8 +3184,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793166300,
     "airport_name": "Tiruchchirapalli",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "India",
+    "airport_latlng": [
+      10.7654,
+      78.7097
+    ],
     "notes": "-"
   },
   {
@@ -3256,8 +3352,11 @@
     "aircraft_type": "A32B",
     "ut_arrival_time": 1793188200,
     "airport_name": "Bangkok",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -3463,8 +3562,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793201700,
     "airport_name": "Chengdu Tianfu",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "China",
+    "airport_latlng": [
+      30.3089,
+      104.4419
+    ],
     "notes": "-"
   },
   {
@@ -3502,8 +3604,11 @@
     "aircraft_type": "A321",
     "ut_arrival_time": 1793205000,
     "airport_name": "Bangkok",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -3667,8 +3772,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793212260,
     "airport_name": "Bangkok",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -3692,8 +3800,11 @@
     "aircraft_type": "A321",
     "ut_arrival_time": 1793214600,
     "airport_name": "Ho Chi Minh Intl",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Vietnam",
+    "airport_latlng": [
+      10.8188,
+      106.652
+    ],
     "notes": "-"
   },
   {
@@ -3899,8 +4010,11 @@
     "aircraft_type": "A333",
     "ut_arrival_time": 1793231700,
     "airport_name": "Paris Charles de Gaulle Airport",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "France",
+    "airport_latlng": [
+      49.0097,
+      2.5479
+    ],
     "notes": "(ONLY ON 12 NOV)"
   },
   {
@@ -3924,8 +4038,11 @@
     "aircraft_type": "A333",
     "ut_arrival_time": 1793232600,
     "airport_name": "Frankfurt Airport",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Germany",
+    "airport_latlng": [
+      50.0379,
+      8.5622
+    ],
     "notes": "(ONLY ON 12 NOV)"
   },
   {
@@ -3935,8 +4052,11 @@
     "aircraft_type": "A333",
     "ut_arrival_time": 1793232900,
     "airport_name": "Frankfurt",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Germany",
+    "airport_latlng": [
+      50.0379,
+      8.5622
+    ],
     "notes": "(CANCELLED ON 29 OCT & 12 NOV)"
   },
   {
@@ -3960,8 +4080,11 @@
     "aircraft_type": "A333",
     "ut_arrival_time": 1793233500,
     "airport_name": "Istanbul",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Turkey",
+    "airport_latlng": [
+      41.2753,
+      28.7519
+    ],
     "notes": "-"
   },
   {
@@ -4013,8 +4136,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793240100,
     "airport_name": "Istanbul",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Turkey",
+    "airport_latlng": [
+      41.2753,
+      28.7519
+    ],
     "notes": "-"
   },
   {
@@ -4024,8 +4150,11 @@
     "aircraft_type": "A343",
     "ut_arrival_time": 1793241000,
     "airport_name": "Zurich",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Switzerland",
+    "airport_latlng": [
+      47.4647,
+      8.5492
+    ],
     "notes": "-"
   },
   {
@@ -4105,8 +4234,11 @@
     "aircraft_type": "B772",
     "ut_arrival_time": 1793243100,
     "airport_name": "Gatwick Airport",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "United Kingdom",
+    "airport_latlng": [
+      51.1537,
+      -0.1821
+    ],
     "notes": "-"
   },
   {
@@ -4186,8 +4318,11 @@
     "aircraft_type": "A32A",
     "ut_arrival_time": 1793248800,
     "airport_name": "Bangkok",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -4281,8 +4416,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793252700,
     "airport_name": "Tiruchchirapalli",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "India",
+    "airport_latlng": [
+      10.7654,
+      78.7097
+    ],
     "notes": "-"
   },
   {
@@ -4292,8 +4430,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793252700,
     "airport_name": "Trivandrum",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "India",
+    "airport_latlng": [
+      8.4821,
+      76.92
+    ],
     "notes": "(FM 05 NOV)"
   },
   {
@@ -4485,8 +4626,11 @@
     "aircraft_type": "A332",
     "ut_arrival_time": 1793269500,
     "airport_name": "Bangkok",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "(A320 ON 29 OCT)"
   },
   {
@@ -4580,8 +4724,11 @@
     "aircraft_type": "A32B",
     "ut_arrival_time": 1793274000,
     "airport_name": "Tiruchchirapalli",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "India",
+    "airport_latlng": [
+      10.7654,
+      78.7097
+    ],
     "notes": "(FM 05 NOV)"
   },
   {
@@ -4773,8 +4920,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793288100,
     "airport_name": "Chengdu Tianfu",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "China",
+    "airport_latlng": [
+      30.3089,
+      104.4419
+    ],
     "notes": "-"
   },
   {
@@ -4840,8 +4990,11 @@
     "aircraft_type": "A321",
     "ut_arrival_time": 1793291400,
     "airport_name": "Bangkok",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -4851,8 +5004,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793291700,
     "airport_name": "Ho Chi Minh Intl",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Vietnam",
+    "airport_latlng": [
+      10.8188,
+      106.652
+    ],
     "notes": "-"
   },
   {
@@ -5002,8 +5158,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793298660,
     "airport_name": "Bangkok",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -5251,8 +5410,11 @@
     "aircraft_type": "A333",
     "ut_arrival_time": 1793319900,
     "airport_name": "Istanbul",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Turkey",
+    "airport_latlng": [
+      41.2753,
+      28.7519
+    ],
     "notes": "-"
   },
   {
@@ -5458,8 +5620,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793335200,
     "airport_name": "Bangkok",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -5567,8 +5732,11 @@
     "aircraft_type": "A32A",
     "ut_arrival_time": 1793339100,
     "airport_name": "Trivandrum",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "India",
+    "airport_latlng": [
+      8.4821,
+      76.92
+    ],
     "notes": "-"
   },
   {
@@ -5634,8 +5802,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793343000,
     "airport_name": "Ahmedabad Intl",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "India",
+    "airport_latlng": [
+      23.0772,
+      72.6347
+    ],
     "notes": "-"
   },
   {
@@ -5743,8 +5914,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793355600,
     "airport_name": "Bangkok",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -5852,8 +6026,11 @@
     "aircraft_type": "A32B",
     "ut_arrival_time": 1793360400,
     "airport_name": "Tiruchchirapalli",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "India",
+    "airport_latlng": [
+      10.7654,
+      78.7097
+    ],
     "notes": "-"
   },
   {
@@ -6003,8 +6180,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793374500,
     "airport_name": "Chengdu Tianfu",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "China",
+    "airport_latlng": [
+      30.3089,
+      104.4419
+    ],
     "notes": "-"
   },
   {
@@ -6042,8 +6222,11 @@
     "aircraft_type": "A321",
     "ut_arrival_time": 1793377800,
     "airport_name": "Bangkok",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -6137,8 +6320,11 @@
     "aircraft_type": "A333",
     "ut_arrival_time": 1793380800,
     "airport_name": "Sydney Airport",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Australia",
+    "airport_latlng": [
+      -33.9461,
+      151.1772
+    ],
     "notes": "-"
   },
   {
@@ -6218,8 +6404,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793385060,
     "airport_name": "Bangkok",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -6257,8 +6446,11 @@
     "aircraft_type": "A321",
     "ut_arrival_time": 1793387400,
     "airport_name": "Ho Chi Minh Intl",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Vietnam",
+    "airport_latlng": [
+      10.8188,
+      106.652
+    ],
     "notes": "-"
   },
   {
@@ -6450,8 +6642,11 @@
     "aircraft_type": "A333",
     "ut_arrival_time": 1793405700,
     "airport_name": "Frankfurt",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Germany",
+    "airport_latlng": [
+      50.0379,
+      8.5622
+    ],
     "notes": "-"
   },
   {
@@ -6475,8 +6670,11 @@
     "aircraft_type": "A333",
     "ut_arrival_time": 1793406300,
     "airport_name": "Istanbul",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Turkey",
+    "airport_latlng": [
+      41.2753,
+      28.7519
+    ],
     "notes": "-"
   },
   {
@@ -6584,8 +6782,11 @@
     "aircraft_type": "A343",
     "ut_arrival_time": 1793415000,
     "airport_name": "Zurich",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Switzerland",
+    "airport_latlng": [
+      47.4647,
+      8.5492
+    ],
     "notes": "-"
   },
   {
@@ -6595,8 +6796,11 @@
     "aircraft_type": "B772",
     "ut_arrival_time": 1793415900,
     "airport_name": "Gatwick Airport",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "United Kingdom",
+    "airport_latlng": [
+      51.1537,
+      -0.1821
+    ],
     "notes": "-"
   },
   {
@@ -6676,8 +6880,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793421600,
     "airport_name": "Bangkok",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -6771,8 +6978,11 @@
     "aircraft_type": "A32B",
     "ut_arrival_time": 1793425500,
     "airport_name": "Tiruchchirapalli",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "India",
+    "airport_latlng": [
+      10.7654,
+      78.7097
+    ],
     "notes": "-"
   },
   {
@@ -6978,8 +7188,11 @@
     "aircraft_type": "A32A",
     "ut_arrival_time": 1793442300,
     "airport_name": "Bangkok",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -7269,8 +7482,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793460900,
     "airport_name": "Chengdu Tianfu",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "China",
+    "airport_latlng": [
+      30.3089,
+      104.4419
+    ],
     "notes": "-"
   },
   {
@@ -7322,8 +7538,11 @@
     "aircraft_type": "A321",
     "ut_arrival_time": 1793464200,
     "airport_name": "Bangkok",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -7333,8 +7552,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793464500,
     "airport_name": "Ho Chi Minh Intl",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Vietnam",
+    "airport_latlng": [
+      10.8188,
+      106.652
+    ],
     "notes": "-"
   },
   {
@@ -7414,8 +7636,11 @@
     "aircraft_type": "A333",
     "ut_arrival_time": 1793467200,
     "airport_name": "Sydney Airport",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Australia",
+    "airport_latlng": [
+      -33.9461,
+      151.1772
+    ],
     "notes": "-"
   },
   {
@@ -7481,8 +7706,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793471460,
     "airport_name": "Bangkok",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -7744,8 +7972,11 @@
     "aircraft_type": "A333",
     "ut_arrival_time": 1793492700,
     "airport_name": "Istanbul",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Turkey",
+    "airport_latlng": [
+      41.2753,
+      28.7519
+    ],
     "notes": "-"
   },
   {
@@ -7811,8 +8042,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793499300,
     "airport_name": "Istanbul",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Turkey",
+    "airport_latlng": [
+      41.2753,
+      28.7519
+    ],
     "notes": "-"
   },
   {
@@ -7976,8 +8210,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793508000,
     "airport_name": "Bangkok",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "(CANCELLED ON 01 NOV)"
   },
   {
@@ -8071,8 +8308,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793511900,
     "airport_name": "Tiruchchirapalli",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "India",
+    "airport_latlng": [
+      10.7654,
+      78.7097
+    ],
     "notes": "-"
   },
   {
@@ -8264,8 +8504,11 @@
     "aircraft_type": "A32B",
     "ut_arrival_time": 1793528700,
     "airport_name": "Bangkok",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -8499,8 +8742,11 @@
     "aircraft_type": "A320",
     "ut_arrival_time": 1793547300,
     "airport_name": "Chengdu Tianfu",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "China",
+    "airport_latlng": [
+      30.3089,
+      104.4419
+    ],
     "notes": "-"
   },
   {
@@ -8552,8 +8798,11 @@
     "aircraft_type": "A321",
     "ut_arrival_time": 1793550600,
     "airport_name": "Bangkok",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Thailand",
+    "airport_latlng": [
+      13.69,
+      100.7501
+    ],
     "notes": "-"
   },
   {
@@ -8661,8 +8910,11 @@
     "aircraft_type": "A333",
     "ut_arrival_time": 1793553600,
     "airport_name": "Sydney Airport",
-    "country_name": "Unknown",
-    "airport_latlng": null,
+    "country_name": "Australia",
+    "airport_latlng": [
+      -33.9461,
+      151.1772
+    ],
     "notes": "-"
   },
   {

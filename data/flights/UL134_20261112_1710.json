@@ -1,0 +1,14 @@
+{
+  "id": "52476",
+  "airline": "Srilankan Airlines",
+  "flight_no": "UL134",
+  "aircraft_type": "A32B",
+  "ut_arrival_time": 1794483600,
+  "airport_name": "Tiruchchirapalli",
+  "country_name": "India",
+  "airport_latlng": [
+    10.7654,
+    78.7097
+  ],
+  "notes": "(FM 05 NOV)"
+}

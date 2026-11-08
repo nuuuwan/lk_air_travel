@@ -1,0 +1,14 @@
+{
+  "id": "52141",
+  "airline": "Vietnam Airlines",
+  "flight_no": "VN671",
+  "aircraft_type": "A321",
+  "ut_arrival_time": 1794165000,
+  "airport_name": "Ho Chi Minh Intl",
+  "country_name": "Vietnam",
+  "airport_latlng": [
+    10.8188,
+    106.652
+  ],
+  "notes": "-"
+}
